@@ -42,7 +42,8 @@
       "searchScope": ["FastTrack"],
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-FastTrack",
-      "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack/issues"
+      "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack/issues",
+      "bilingual_type": "hover over"
     },
     "fileMetadata": {},
     "template": [],
