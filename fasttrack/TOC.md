@@ -1,6 +1,6 @@
-# [Office 365 の fasttrack というメリット](fasttrack-benefit-for-office-365.md)
+# [Office 365 用 FastTrack 特典](fasttrack-benefit-for-office-365.md)
 ## [対象となるサービスとプラン](eligible-services-and-plans.md)
-## [FastTrack センターの特典の概要](fasttrack-benefit-overview.md)
+## [FastTrack センター の特典の概要](fasttrack-benefit-overview.md)
 ### [FastTrack プロセス](fasttrack-process.md)
 ### [ソース環境要件](environment-expectations.md)
 ### [オンボーディングと移行のフェーズ](onboarding-and-migration.md)
@@ -8,6 +8,6 @@
 ### [FastTrack の責任範囲](fasttrack-responsibilities.md)
 ### [お客様の責任](your-responsibilities.md)
 ### [付録 A: IBM Domino から Exchange Online への移行](from-ibm-domino-to-exchange-online.md)
-### [付録 B:FastTrack センターの付加的な利点](fasttrack-additional-benefits.md)
-### [付録 c: FastTrack センター HIPAA のビジネス関連契約](hipaa-business-associate-agreement.md)
+### [付録 B: FastTrack センター の付加的な利点](fasttrack-additional-benefits.md)
+### [付録 C: FastTrack センター HIPAA ビジネス アソシエイト契約](hipaa-business-associate-agreement.md)
 
