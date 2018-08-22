@@ -3,7 +3,7 @@ title: FastTrack Center の特典の概要
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Office 365 用 FastTrack Center 特典では、FastTrack スペシャリストとリモートで作業して、組織内で Office 365 環境を使い始められるように準備を行い、ロールアウトと使用法を計画することができます。資格について詳しくは、「Office 365 用 FastTrack Center 特典」を参照してください。
-ms.openlocfilehash: 9fb67df2a28eb6c3b31e22811a46a87784e57119
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 4b54fd05314f9eac96b6f3781e14e988e1282c6c
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498844"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449111"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack Center の特典の概要
 
@@ -28,7 +28,7 @@ Office 365 用 FastTrack Center 特典では、FastTrack スペシャリスト�
   
 - [FastTrack プロセス](fasttrack-process.md)
     
-- [ソース環境要件](environment-expectations.md)
+- [ソース環境要件](source-environment-expectations.md)
     
 - [オンボーディングと移行のフェーズ](onboarding-and-migration.md)
     
@@ -50,7 +50,7 @@ Office 365 用 FastTrack Center 特典では、FastTrack スペシャリスト�
     
   - 1 つの Active Directory フォレスト環境を使っている。
     
-  - サポートされる複数フォレストの Active Directory トポロジを使っている。サポートされるトポロジについては、「[ソース環境要件](environment-expectations.md)」をご覧ください。
+  - サポートされる複数フォレストの Active Directory トポロジを使っている。サポートされるトポロジについては、「[ソース環境要件](source-environment-expectations.md)」をご覧ください。
     
 - 次の Office 365 アカウントを持つフェデレーション ID:
     

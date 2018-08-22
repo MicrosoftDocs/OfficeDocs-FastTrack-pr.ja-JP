@@ -3,7 +3,7 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: (次の「対象となるサービス 」セクションで説明されているとおり) Office 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Office 365 にオンボーディングして、それを活用する方法に関するガイダンスを提供します。
-ms.openlocfilehash: 7547cf5528086e287bd3f156e39a5f5532a8fefd
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 2ba931c6aad66cd21bbab140c3550cb4aae0e57d
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499074"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449113"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -182,7 +182,7 @@ FastTrack サービスの対象ではないプランには以下が含まれま�
     
 - 21Vianet が運用している Office 365\*\*
     
-\*米国政府機関向けの FastTrack の特典の詳細については、「[Office 365 US Government](https://go.microsoft.com/fwlink/?linkid=2005430)」を参照してください。
+\*米国政府機関向けの FastTrack の特典の詳細については、「[Office 365 US Government](https://aka.ms/aboutgovcloud)」を参照してください。
   
 \*\*21Vianet が運用している Office 365 用 FastTrack の特典についての詳細は、[21Vianet サポート](https://go.microsoft.com/fwlink/?linkid=852156)にお問い合わせください。
   
