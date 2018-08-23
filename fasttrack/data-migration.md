@@ -3,7 +3,7 @@ title: データ移行
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack スペシャリストは、Office 365 へのデータ移行の手順に関するガイダンスを提供します。ツール、ドキュメントを組み合わせて使い、該当する場合や可能な場合には構成タスクを実行することによりガイダンスを提供します。Office 365 サービス (Exchange Online、OneDrive for Business、SharePoint Online 用) のすべての対象ユーザーが利用できます。
-ms.openlocfilehash: 8a3157281947fbc9996a104014a29bb564fe7e13
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 1080da2cd5252a077a1c5f895aa0c7f22d68b5b3
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498884"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449119"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -43,7 +43,7 @@ FastTrack スペシャリストは、Office 365 へのデータ移行の手順�
 
 |**アクティビティ**|**ソース環境要件**|
 |:-----|:-----|
-|Exchange Online への移行  <br/> | Microsoft は、次に示す 2 つのソース環境の組み合わせを一度に 1 つずつ移行します。FastTrack センターを使う場合や FastTrack センターのチェックを通過した場合、オンボーディング メッセージング システムを移行できます。これには以下が含まれます。<br/>  1 つまたは複数の Exchange 組織を持つ 1 つまたは複数のActive Directory フォレスト (Exchange 2010 ベースのハイブリッド以降が各組織に実装されていて、Exchange メール システムが 2003 以降の場合)。  <br/> 1 つの IBM Domino 7.0.3 以降の環境 ([付録 A - IBM Domino から Exchange Online への移行](from-ibm-domino-to-exchange-online.md))。  <br/>  1 つの IMAP 対応のメール環境。  <br/>  単一の G Suite 環境 (Gmail、連絡先、カレンダーのみ)。  <br/>  1 つの Novell GroupWise 7.0.4 以降の環境。  <br/> <br/> **メモ** *Exchange Online オンボーディングは、移行の前に行う必要があります。* <br/> <br/> **メモ** *FastTrack は、アクティブな Office 365 メールボックスへの移行のみ行います。* <br/> <br/> **メモ** *オンプレミスの Exchange の依存関係については、「[ハイブリッド展開の前提条件](https://go.microsoft.com/fwlink/?LinkId=787528)」を参照してください。* <br/><br/> **メモ** *複数のソース メッセージング環境 (複数の Exchange 組織と複数の Domino ドメインなど) を移行する場合、こうした移行が順次行われます。*| 
+|Exchange Online への移行  <br/> | Microsoft は、次に示すソース環境の全ての組み合わせを一度に 1 つずつ移行します。FastTrack センターを使う場合や FastTrack センターのチェックを通過した場合、オンボーディング済みの メッセージング システムを移行できます。これには以下が含まれます。  <br/>  1 つまたは複数の Exchange 組織を持つ 1 つまたは複数のActive Directory フォレスト (Exchange 2010 ベースのハイブリッド以降が各組織に実装されていて、Exchange メール システムが 2003 以降の場合)。  <br/> 1 つの IBM Domino 7.0.3 以降の環境 ([付録 A - IBM Domino から Exchange Online への移行](from-ibm-domino-to-exchange-online.md))。  <br/>  1 つの IMAP 対応のメール環境。  <br/>  G Suite 環境 (Gmail、連絡先、カレンダーのみ)。  <br/>  1 つの Novell GroupWise 7.0.4 以降の環境。  <br/> <br/> **メモ** *Exchange Online オンボーディングは、移行の前に行う必要があります。* <br/> <br/> **メモ** *FastTrack は、アクティブな Office 365 メールボックスへの移行のみ行います。* <br/> <br/> **メモ** *オンプレミスの Exchange の依存関係については、「[ハイブリッド展開の前提条件](https://go.microsoft.com/fwlink/?LinkId=787528)」を参照してください。* <br/><br/> **メモ** *複数のソース メッセージング環境 (複数の Exchange 組織と複数の Domino ドメインなど) を移行する場合、こうした移行が順次行われます。*| 
 |SharePoint Online の移行  <br/> | ファイル共有 (SMB 2.0 以降をサポートするデバイスでのサーバー メッセージ ブロック (SMB) ファイルの共有)。  <br/>  Box (Starter、Business、Enterprise)。  <br/> |
 |OneDrive for Business の移行  <br/> | ファイル共有 (SMB 2.0 以降をサポートするデバイスでの SMB ファイルの共有)。  <br/>  単一の G Suite 環境 (Google ドライブのみ)。  <br/>  Box (Starter、Business、Enterprise)。 <br/> <br/> **メモ** *FastTrack は、アクティブな Office 365 ドライブへの移行のみ行います。*|
    

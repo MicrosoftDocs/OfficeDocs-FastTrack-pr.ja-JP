@@ -3,7 +3,7 @@ title: オンボーディングと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 77c13b6aee3fc37e5b3fcb876e310dbd67e4c958
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: ec7366da4df6306d0c33ee99e37a3190777d839a
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498854"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449117"
 ---
 # <a name="onboarding-and-migration-phases"></a>オンボーディングと移行のフェーズ
 
@@ -24,6 +24,9 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
   
 ![オンボーディング特典のフェーズ](media/O365-Onboarding-Phases.png)
   
+> [!NOTE]
+>Office 365 US Government でのオンボーディングおよび移行については、「[Office 365 US Government でのオンボーディングおよび移行](US-Gov-appendix-onboarding-and-migration.md)」を参照してください。 
+
 各フェーズのタスクの詳細については、「[FastTrack の責任範囲](fasttrack-responsibilities.md)」と「[お客様の責任](your-responsibilities.md)」をご覧ください。
   
 ## <a name="initiate-phase"></a>開始フェーズ
@@ -49,7 +52,7 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
 
 FastTrack マネージャーは、採用チーム関係者との対話型の成功プランニング電話会議を実施します。これによって、購入した使用可能なサービスの機能、成功に必要な主要な基盤、サービスの利用状況を促進するための手法、サービスが価値を生み出すために使用できるシナリオがお客様に紹介されます。成功プランニングを援助し、必要に応じて主要な分野に関するフィードバックを提供します。
   
-FastTrack スペシャリストはお客様と一緒にソース環境と要件を評価します。スペシャリストは、ツールを実行してデータを収集した後、帯域幅の要件を推定し、インターネット ブラウザー、クライアント オペレーティング システム、ドメイン ネーム システム (DNS)、ネットワーク、インフラストラクチャ、ID システムを評価して、オンボーディングを行うために変更の必要があるかどうかを判断する方法をお客様に説明します。 
+FastTrack スペシャリストはお客様と一緒にソース環境と要件を評価します。FastTrack スペシャリストは、データを収集するためのツールを提供するとともに、帯域幅の要件の推定およびインターネット ブラウザー、クライアント オペレーティング システム、ドメイン ネーム システム (DNS)、ネットワーク、インフラストラクチャ、ID システムの評価をお客様が行い、オンボーディングを行うために変更の必要があるかどうかを判断する方法を説明します。 
   
 現在のセットアップ環境に基づいて、お使いのソース環境を Office 365 へと正常にオンボーディングするために (必要な場合にはメールボックス移行やデータ移行を正常に行うためにも) 必要な最低要件を満たすような修復プランを提供します。エンドユーザーの価値や採用を増やすための一連の推奨アクティビティを示します。また、修復フェーズのための適切なチェックポイント電話会議を設定します。
   

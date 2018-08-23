@@ -3,7 +3,7 @@ title: お客様の責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 9d51fdf901d70c780dc3aa2a997e51cb1a0ad232
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6b572bb44edc1b4ae8312cfe1a59cbd005899a8f
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499104"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449110"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 
-お客様には、オンボーディング中に以下の責任があります。
+お客様には、オンボーディング中に以下の責任があります。\*
   
 ## <a name="general"></a>全般
 
@@ -91,7 +91,7 @@ ms.locfileid: "21499104"
     
 - 契約キックオフ ミーティングに参加し、組織からの参加者をとりまとめて指導し、修復のタイムラインを確定します。
     
-- Office 365 サービスの目的 (SharePoint Online、Exchange Online、Yammer エンタープライズ など) と組織の目標を提供します。
+- Office 365 サービス (SharePoint Online、Exchange Online、Microsoft Teams、Office 365 ProPlus など) の目的と組織の目標を提供します。
     
 ## <a name="assess-phase"></a>評価フェーズ
 
@@ -163,6 +163,6 @@ ms.locfileid: "21499104"
     
 - Apple プッシュ通知サービス (APNS) 証明書を更新します。
     
-
+\*Office 365 US Government でのお客様の責任については、「[Office 365 US Governmentでの責任](US-Gov-appendix-your-responsibilities.md)」を参照してください。
   
 
