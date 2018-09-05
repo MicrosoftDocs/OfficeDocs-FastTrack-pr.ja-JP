@@ -3,7 +3,7 @@ title: 契約時および移行フェーズの Office 365 の米国政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 の米国政府の office 365 の契約時に 4 つのフェーズ、査定、Remediate を開始して有効にします。次の図に示すようには、省略可能なデータ移行の段階でこれらのフェーズを追跡できます。
-ms.openlocfilehash: a95ed9fc068577808e4a7b8e4fe98acb9f201ce0
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: da634ef166b2ec2829bf886bf7e32e739f055ebb
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329996"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23828005"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>契約時および移行フェーズの Office 365 の米国政府
 
