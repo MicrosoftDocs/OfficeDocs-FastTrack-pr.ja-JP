@@ -3,7 +3,7 @@ title: データ移行
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack スペシャリストは、Office 365 へのデータ移行の手順に関するガイダンスを提供します。ツール、ドキュメントを組み合わせて使い、該当する場合や可能な場合には構成タスクを実行することによりガイダンスを提供します。Office 365 サービス (Exchange Online、OneDrive for Business、SharePoint Online 用) のすべての対象ユーザーが利用できます。
-ms.openlocfilehash: 1080da2cd5252a077a1c5f895aa0c7f22d68b5b3
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 4c2bbaeb68d93da54fa6a974806adfaa5b7f60ad
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22449119"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23828095"
 ---
 # <a name="data-migration"></a>データ移行
 
