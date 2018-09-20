@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 の米国政府の office 365 の契約時に 4 つのフェーズ、査定、Remediate を開始して有効にします。次の図に示すようには、省略可能なデータ移行の段階でこれらのフェーズを追跡できます。
-ms.openlocfilehash: da634ef166b2ec2829bf886bf7e32e739f055ebb
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: e3e71d0b6fbb3b9db20f2d43aaf1f88d327dfe14
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828005"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021719"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>契約時および移行フェーズの Office 365 の米国政府
 
@@ -31,12 +31,9 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
 適切な数とタイプのライセンスを購入した後、購入確認メールのガイダンスに従って、ライセンスを既存や新規のテナントに関連付けます。 
   
 - Office 365 管理センターまたは [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得することができます。Office 365 管理センターからヘルプを取得するには、管理者は管理センターにサインインして、 **[サポートを依頼する]** をクリックします。 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得するには、 **[サービス]** をクリックして、 **[Office 365 のサポートを要求する]** フォームを完成させます。 
-    
     > [!NOTE]
     >  パートナーが Office 365 テナント一覧に表示されている場合、このオプションは表示されません。パートナーにサポートを依頼してください。 
-  
-- パートナーもお客様の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得することができます。そのために、パートナーはサイトにサインインして、顧客レコードを選択します。 **[サービス]** をクリックし、 **[Office 365 のサポートを要求する]** フォームを完成させます。 
-    
+- パートナーもお客様の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得することができます。そのために、パートナーはサイトにサインインして、顧客レコードを選択します。 **[サービス]** をクリックし、 **[Office 365 のサポートを要求する]** フォームを完成させます。    
 - また、テナントで利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)から FastTrack Center のサポートを依頼できます。 
     
 このフェーズで、オンボーディング プロセスについて説明し、データを検証し、キックオフ ミーティングのスケジュールを設定します。
@@ -86,21 +83,14 @@ FastTrack のスペシャ リストと協力して、ソース環境と要件を
 
 Exchange Online の場合、組織がメールをすぐに使用できるようにするプロセスを案内します。正確な手順は、お客様のソース環境とメールの移行プランによって異なりますが、次の作業のガイダンス提供が含まれます。
   
-- Office 365 で検証される、メールが有効なすべてのドメインの Exchange Online Protection (EOP) 機能の設定。
-    
+- Office 365 で検証される、メールが有効なすべてのドメインの Exchange Online Protection (EOP) 機能の設定。   
     > [!NOTE]
-    > メール交換 (MX) レコードは、Office 365 をポイントする必要があります。 
-  
-- MX レコードが Office 365 をポイントしたら、サブスクリプション サービスの一部である Exchange Online Advanced Threat Protection (ATP) 機能を設定する。この機能は、Exchange Online Protection のマルウェア対策の設定の一部として構成されます。
-    
-- ファイアウォール ポートの構成。
-    
-- DNS のセットアップ。必須の自動検出、Sender Policy Framework (SPF)、および MX レコード (必要な場合) が含まれます。 
-    
-- ソース メッセージング環境と Exchange Online との間のメール フローをセットアップします (必要な場合)。
-    
-- ソースのメッセージング環境から Office 365 にメール移行を実行。
-    
+    > メール交換 (MX) レコードは、Office 365 をポイントする必要があります。   
+- MX レコードが Office 365 をポイントしたら、サブスクリプション サービスの一部である Exchange Online Advanced Threat Protection (ATP) 機能を設定する。この機能は、Exchange Online Protection のマルウェア対策の設定の一部として構成されます。   
+- ファイアウォール ポートの構成。   
+- DNS のセットアップ。必須の自動検出、Sender Policy Framework (SPF)、および MX レコード (必要な場合) が含まれます。     
+- ソース メッセージング環境と Exchange Online との間のメール フローをセットアップします (必要な場合)。   
+- ソースのメッセージング環境から Office 365 にメール移行を実行。   
     > [!NOTE]
     > メールとデータの移行についての詳細は、「[データ移行](data-migration.md)」をご覧ください。 
   
@@ -108,14 +98,10 @@ Exchange Online の場合、組織がメールをすぐに使用できるよう�
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>Sharepoint Online と OneDrive for Business
 
-SharePoint Online と OneDrive for Business では、次の作業のガイダンスを提供します。
-  
-- DNS の設定。
-    
-- ファイアウォール ポートの構成。
-    
-- ユーザーとライセンスのプロビジョニング。
-    
+SharePoint Online と OneDrive for Business では、次の作業のガイダンスを提供します。 
+- DNS の設定。   
+- ファイアウォール ポートの構成。   
+- ユーザーとライセンスのプロビジョニング。   
 - ハイブリッド検索、ハイブリッド サイト、ハイブリッド分類、コンテンツ タイプ、ハイブリッド セルフサービス サイト作成 (SharePoint Server 2013 のみ)、拡張アプリ起動ツール、ハイブリッド OneDrive for Business、エクストラネット サイトなどの SharePoint ハイブリッド 機能の構成。
     
 FastTrack スペシャリストは、ツールとドキュメントを組み合わせて使用することにより、また適切な場合や実行可能な場合には構成タスクを実行することにより、Office 365 へのデータ移行の手順に関するガイダンスを提供します。
@@ -130,18 +116,12 @@ OneDrive for Business の場合は、現在 SharePoint を使っているかど�
   
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
-Skype for Business Online では、次の作業のガイダンスを提供します。
-  
-- ファイアウォール ポートの構成。
-    
-- DNS の設定。
-    
-- ルーム システム デバイスのアカウントの作成。
-    
-- サポートされる Skype for Business Online クライアントの展開。
-    
+Skype for Business Online では、次の作業のガイダンスを提供します。 
+- ファイアウォール ポートの構成。    
+- DNS の設定。    
+- ルーム システム デバイスのアカウントの作成。    
+- サポートされる Skype for Business Online クライアントの展開。   
 - 設置、Lync 2010 の間で分割ドメインのサーバーの構成を確立するには、Lync 2013 では、またはビジネス 2015年サーバー環境の Skype と Skype オンライン ビジネスのテナント (存在する場合)。
-
 - プランの呼び出し、Skype 会議のブロードキャスト、電話システムとで利用可能な市場 – GCC 高または DoD のプランでは利用できません) を呼び出すことの計画を有効にします。 
     
 ![有効化フェーズ中の Lync オンボーディング ステップ_1](media/O365-Onboarding-Enable-Lync.png)
@@ -153,38 +133,26 @@ Skype for Business Online では、次の作業のガイダンスを提供しま
 > [!NOTE]
 > GCC 高または DoD のプランでは使用できません、次の。
 
-Microsoft Teams では、次の作業のガイダンスを提供します。
-  
-- 最小要件の確認。
-    
-- ファイアウォール ポートの構成。
-    
-- DNS の設定。
-    
-- Microsoft Teams が Office 365 テナントで有効であることの確認。
-    
+Microsoft Teams では、次の作業のガイダンスを提供します。 
+- 最小要件の確認。   
+- ファイアウォール ポートの構成。   
+- DNS の設定。  
+- Microsoft Teams が Office 365 テナントで有効であることの確認。    
 - ユーザーのライセンスの有効化と無効化。
     
 ![FastTrack Microsoft Teams の図 (有効化フェーズ)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-Power BI では、次の作業のガイダンスを提供します。 
-  
-- Power BI ライセンスの割り当て。
-    
-- Power BI Desktop アプリの展開。
-    
+Power BI では、次の作業のガイダンスを提供します。  
+- Power BI ライセンスの割り当て。    
+- Power BI Desktop アプリの展開。   
 ## <a name="project-online"></a>Project Online
 
-Project Online では、次の作業のガイダンスを提供します。
-  
-- Project Online が依存している基本的な SharePoint の機能の確認。
-    
-- テナントへの Project Online サービスの追加 (ユーザーへのサブスクリプションの追加を含みます)。
-    
-- エンタープライズ リソース共有元 (ERP) のセットアップ。
-    
+Project Online では、次の作業のガイダンスを提供します。 
+- Project Online が依存している基本的な SharePoint の機能の確認。    
+- テナントへの Project Online サービスの追加 (ユーザーへのサブスクリプションの追加を含みます)。    
+- エンタープライズ リソース共有元 (ERP) のセットアップ。   
 - 最初のプロジェクトの作成。 
     
 ![プロジェクト オンラインを有効にする段階で発生する手順です。](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
@@ -198,20 +166,13 @@ Yammer では、Yammer Enterprise サービスを有効にするためのガイ�
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
-Office 365 ProPlus では、次の作業のガイダンスを提供します。
-  
-- 展開の問題への対応。
-    
-- Office 365 管理センター および Windows PowerShell を使用したエンド ユーザー ライセンスの割り当て。
-    
-- クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。
-    
-- iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。 
-    
-- Office 展開ツールを使用した更新設定の構成。
-    
-- Office 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。
-    
+Office 365 ProPlus では、次の作業のガイダンスを提供します。 
+- 展開の問題への対応。    
+- Office 365 管理センター および Windows PowerShell を使用したエンド ユーザー ライセンスの割り当て。    
+- クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。    
+- iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
+- Office 展開ツールを使用した更新設定の構成。    
+- Office 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。    
 - System Center Configuration Manager パッケージの作成サポートを含む、Microsoft System Center Configuration Manager を使用した展開。
     
 ![Office ProPlus オンボーディング ステップ](media/O365-Onboarding-Enable-OProPlus.png)
