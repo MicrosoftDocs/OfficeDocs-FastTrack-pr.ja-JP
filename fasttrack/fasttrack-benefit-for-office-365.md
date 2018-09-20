@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: 対象となるサービスや Office 365 テナントのプランについて少なくとも 50 ライセンスを購入する場合は、Office 365 用 FastTrack Center 特典を使います。その後、FastTrack のスペシャリストと共に該当するサービスを評価、修復、有効化し、利用状況を促進する作業を行うことができます。これらのスペシャリストは、移行のガイダンスも提供します。
-ms.openlocfilehash: fbaea58fa42c1a7c112f3fc51075df8d1ecf7573
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 443e15fe77b46b4933d88607aa67bec489602e13
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828055"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021669"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Office 365 用 FastTrack Center 特典
 
@@ -35,8 +35,7 @@ FastTrack Center のプロセスの説明、およびだれが何を担当する
   
 [Enterprise Mobility + Security 用の FastTrack Center 特典](https://go.microsoft.com/fwlink/?linkid=2005312)に関する情報をお探しですか。内容は以下のとおりです。
   
-- Microsoft Intune
-    
+- Microsoft Intune    
 - Azure Active Directory Premium 
     
 > [!NOTE]

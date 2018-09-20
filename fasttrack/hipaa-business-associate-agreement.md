@@ -10,19 +10,18 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.assetid: 5c619c4e-2ac5-4c2f-8d8c-acccff3b9b20
 description: FastTrack サービス向けの Microsoft との HIPAA 関係機関の契約 (BAA) がある場合、FastTrack Center Benefit for Office 365 に表示されているすべてのサービスが、その BAA に含まれます。ただし、以下は除きます。
-ms.openlocfilehash: dc5fb782480877c248ada67f7d27c126fe14aa67
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: f8ea54a1fee16e9bda100614426aba5c978f63aa
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828045"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021659"
 ---
 # <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a>付録 C: FastTrack Center HIPAA ビジネス アソシエイト契約
 
 FastTrack サービス向けの Microsoft との HIPAA 関係機関の契約 (BAA) がある場合、[FastTrack Center Benefit for Office 365](fasttrack-benefit-for-office-365.md) に表示されているすべてのサービスが、その BAA に含まれます。ただし、以下は除きます。 
   
-- Gmail 移行。
-    
+- Gmail 移行。   
 - GroupWise 移行。
     
 
