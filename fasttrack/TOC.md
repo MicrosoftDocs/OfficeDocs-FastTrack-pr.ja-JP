@@ -8,6 +8,6 @@
 ### [FastTrack の責任範囲](fasttrack-responsibilities.md)
 ### [お客様の責任](your-responsibilities.md)
 ### [付録 A: IBM Domino から Exchange Online への移行](from-ibm-domino-to-exchange-online.md)
-### [付録 B: FastTrack センター の付加的な利点](fasttrack-additional-benefits.md)
+### [付録 B: FastTrack センターの付加的な利点](fasttrack-additional-benefits.md)
 ### [付録 C: FastTrack Center HIPAA ビジネス アソシエイト契約](hipaa-business-associate-agreement.md)
 ### [付録 D: Office 365 US Government 向け FastTrack Center の特典の概要](US-Gov-appendix-overview.md)
