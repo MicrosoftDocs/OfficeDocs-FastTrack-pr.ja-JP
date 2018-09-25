@@ -11,342 +11,214 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 2e819b6b5f2fc42534859234814dc2216d344987
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: e1339a485b54f8b5182ed4454923d857197b502c
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828035"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021709"
 ---
-# <a name="fasttrack-responsibilities"></a><span data-ttu-id="d24bf-103">FastTrack の責任範囲</span><span class="sxs-lookup"><span data-stu-id="d24bf-103">FastTrack Responsibilities</span></span>
+# <a name="fasttrack-responsibilities"></a><span data-ttu-id="7e40f-103">FastTrack の責任範囲</span><span class="sxs-lookup"><span data-stu-id="7e40f-103">FastTrack Responsibilities</span></span>
 
-<span data-ttu-id="d24bf-104">FastTrack スペシャリストには、オンボーディング中に以下の責任があります。\*</span><span class="sxs-lookup"><span data-stu-id="d24bf-104">FastTrack Specialists have the following responsibilities during onboarding.\*</span></span>
+<span data-ttu-id="7e40f-104">FastTrack スペシャリストには、オンボーディング中に以下の責任があります。\*</span><span class="sxs-lookup"><span data-stu-id="7e40f-104">FastTrack Specialists have the following responsibilities during onboarding.\*</span></span>
   
-## <a name="general"></a><span data-ttu-id="d24bf-105">全般</span><span class="sxs-lookup"><span data-stu-id="d24bf-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="7e40f-105">全般</span><span class="sxs-lookup"><span data-stu-id="7e40f-105">General</span></span>
 
-- <span data-ttu-id="d24bf-106">達成計画の開発と実装、必要な構成アクティビティのための遠隔サポート アシスタンスを提供します。その内容については、各フェーズの説明で詳述しています。</span><span class="sxs-lookup"><span data-stu-id="d24bf-106">Provide remote support assistance to you in success planning development and implementation, and for the required configuration activities as detailed in the phase descriptions.</span></span>
+- <span data-ttu-id="7e40f-106">達成計画の開発と実装、必要な構成アクティビティのための遠隔サポート アシスタンスを提供します。その内容については、各フェーズの説明で詳述しています。</span><span class="sxs-lookup"><span data-stu-id="7e40f-106">Provide remote support assistance to you in success planning development and implementation, and for the required configuration activities as detailed in the phase descriptions.</span></span>
+- <span data-ttu-id="7e40f-107">お客様が構成タスクを削減または省略して、リソースの計画を成功できるようガイダンスを提供するため、入手可能な説明書、ソフトウェア ツール、管理コンソール、スクリプトを提供します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-107">Provide available documentation and software tools, admin consoles, and scripts to provide guidance for you to reduce or eliminate configuration tasks, and success planning resources.</span></span> 
     
-- <span data-ttu-id="d24bf-107">お客様が構成タスクを削減または省略して、リソースの計画を成功できるようガイダンスを提供するため、入手可能な説明書、ソフトウェア ツール、管理コンソール、スクリプトを提供します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-107">Provide available documentation and software tools, admin consoles, and scripts to provide guidance for you to reduce or eliminate configuration tasks, and success planning resources.</span></span> 
-    
-## <a name="initiate-phase"></a><span data-ttu-id="d24bf-108">開始フェーズ</span><span class="sxs-lookup"><span data-stu-id="d24bf-108">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="7e40f-108">開始フェーズ</span><span class="sxs-lookup"><span data-stu-id="7e40f-108">Initiate phase</span></span>
 
-- <span data-ttu-id="d24bf-109">お客様と連携して、お客様の意向、組織の目標、サービスの使用計画を理解します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-109">Work with you to understand your intent, organizational goals, and usage plans for the service.</span></span>
+- <span data-ttu-id="7e40f-109">お客様と連携して、お客様の意向、組織の目標、サービスの使用計画を理解します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-109">Work with you to understand your intent, organizational goals, and usage plans for the service.</span></span>
+- <span data-ttu-id="7e40f-110">Office 365 コラボレーション サービス (Microsoft Teams など) を使用してお客様と連携し、オンボーディングを開始します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-110">Work with you using Office 365 collaboration services (like Microsoft Teams) to begin onboarding.</span></span>   
+- <span data-ttu-id="7e40f-111">オンボーディングする対象のサービスを選定します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-111">Define which eligible services you want to onboard.</span></span> 
     
-- <span data-ttu-id="d24bf-110">Office 365 コラボレーション サービス (Microsoft Teams など) を使用してお客様と連携し、オンボーディングを開始します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-110">Work with you using Office 365 collaboration services (like Microsoft Teams) to begin onboarding.</span></span> 
-    
-- <span data-ttu-id="d24bf-111">オンボーディングする対象のサービスを選定します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-111">Define which eligible services you want to onboard.</span></span> 
-    
-## <a name="assess-phase"></a><span data-ttu-id="d24bf-112">評価フェーズ</span><span class="sxs-lookup"><span data-stu-id="d24bf-112">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="7e40f-112">評価フェーズ</span><span class="sxs-lookup"><span data-stu-id="7e40f-112">Assess phase</span></span>
 
-- <span data-ttu-id="d24bf-113">達成計画に関する電話会議を行い、ユーザーによる効果的な採用のためのガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-113">Hold a success planning call to provide guidance with you for successful user adoption.</span></span>
+- <span data-ttu-id="7e40f-113">達成計画に関する電話会議を行い、ユーザーによる効果的な採用のためのガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-113">Hold a success planning call to provide guidance with you for successful user adoption.</span></span>  
+- <span data-ttu-id="7e40f-114">管理上の概要を示します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-114">Provide an administrative overview.</span></span>
+- <span data-ttu-id="7e40f-115">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-115">Provide guidance about:</span></span> 
+  - <span data-ttu-id="7e40f-116">ドメイン ネーム システム (DNS)、ネットワークおよびインフラストラクチャのニーズ。</span><span class="sxs-lookup"><span data-stu-id="7e40f-116">Domain Name System (DNS), network, and infrastructure needs.</span></span>
+  - <span data-ttu-id="7e40f-117">クライアントのニーズ (インターネット ブラウザー、クライアント オペレーティング システム、モバイル デバイス、サービスのニーズ)。</span><span class="sxs-lookup"><span data-stu-id="7e40f-117">Client needs (internet browser, client operating system, mobile device, and services' needs).</span></span>
+  - <span data-ttu-id="7e40f-118">ユーザー ID およびプロビジョニング</span><span class="sxs-lookup"><span data-stu-id="7e40f-118">User identity and provisioning.</span></span>
+  - <span data-ttu-id="7e40f-119">購入済みでオンボーディングの一部として定義されている対象サービスの有効化。</span><span class="sxs-lookup"><span data-stu-id="7e40f-119">Enabling eligible services that are purchased and defined as a part of onboarding.</span></span> 
+  - <span data-ttu-id="7e40f-120">正常なサービス採用の促進と価値の増進。</span><span class="sxs-lookup"><span data-stu-id="7e40f-120">Driving successful service adoption and value.</span></span>  
+- <span data-ttu-id="7e40f-121">修復アクティビティのタイムラインの設定。</span><span class="sxs-lookup"><span data-stu-id="7e40f-121">Establish the timeline for remediation activities.</span></span>
+- <span data-ttu-id="7e40f-122">修復チェックリストの提供。</span><span class="sxs-lookup"><span data-stu-id="7e40f-122">Provide a remediation checklist.</span></span> 
+- <span data-ttu-id="7e40f-123">既存の SharePoint Server 2013 または SharePoint Server 2016 インフラストラクチャの評価。以下が含まれます。</span><span class="sxs-lookup"><span data-stu-id="7e40f-123">Assess the existing SharePoint Server 2013 or SharePoint Server 2016 infrastructure including:</span></span>
+  - <span data-ttu-id="7e40f-124">SharePoint Online ハイブリッド の前提条件。</span><span class="sxs-lookup"><span data-stu-id="7e40f-124">Prerequisites for SharePoint Online Hybrid.</span></span> 
+  - <span data-ttu-id="7e40f-125">オンプレミスのインフラストラクチャの SharePoint Online ハイブリッド 機能の準備状況。</span><span class="sxs-lookup"><span data-stu-id="7e40f-125">On-premises infrastructure readiness for SharePoint Online Hybrid features.</span></span>
+  - <span data-ttu-id="7e40f-126">必要な SharePoint Online エンドポイントへのアクセス。</span><span class="sxs-lookup"><span data-stu-id="7e40f-126">Access to required SharePoint Online endpoints.</span></span>
+  - <span data-ttu-id="7e40f-127">OneDrive for Business ハイブリッド の対象ユーザー。</span><span class="sxs-lookup"><span data-stu-id="7e40f-127">Audiences for OneDrive for Business Hybrid.</span></span> 
+- <span data-ttu-id="7e40f-128">既存の Lync または Skype for Business Online インフラストラクチャの評価。以下が含まれます。</span><span class="sxs-lookup"><span data-stu-id="7e40f-128">Assess the existing Lync or Skype for Business Online infrastructure including:</span></span>
+  - <span data-ttu-id="7e40f-129">サポートされる Skype for Business クライアント展開の戦略。</span><span class="sxs-lookup"><span data-stu-id="7e40f-129">Supported Skype for Business client deployment strategy.</span></span>
+  - <span data-ttu-id="7e40f-130">エンドポイントへのアクセス。</span><span class="sxs-lookup"><span data-stu-id="7e40f-130">Access to endpoints.</span></span>
+  - <span data-ttu-id="7e40f-131">接続品質。</span><span class="sxs-lookup"><span data-stu-id="7e40f-131">Connection quality.</span></span>
+  - <span data-ttu-id="7e40f-132">帯域幅の推定値。</span><span class="sxs-lookup"><span data-stu-id="7e40f-132">Bandwidth estimates.</span></span>
+  - <span data-ttu-id="7e40f-133">分割ドメイン サーバー構成をサポートする前提条件。</span><span class="sxs-lookup"><span data-stu-id="7e40f-133">Prerequisites to support split domain server configuration.</span></span>
+  - <span data-ttu-id="7e40f-134">Skype for Business Online に移行するための特定のユーザーの前提条件。</span><span class="sxs-lookup"><span data-stu-id="7e40f-134">Readiness of identified users to move onto Skype for Business Online.</span></span>
+- <span data-ttu-id="7e40f-135">メッセージング インフラストラクチャの評価。次の内容を含みます。</span><span class="sxs-lookup"><span data-stu-id="7e40f-135">Assess the messaging infrastructure, including:</span></span> 
+  - <span data-ttu-id="7e40f-136">メール フローとルーティングの全体的な原則。</span><span class="sxs-lookup"><span data-stu-id="7e40f-136">Overall mail flow and routing principles.</span></span>
+  - <span data-ttu-id="7e40f-137">クライアント アクセス (既存の公開済みクライアント アクセス エンドポイントを含む)。</span><span class="sxs-lookup"><span data-stu-id="7e40f-137">Client access (including existing published client-access endpoints).</span></span>
+  - <span data-ttu-id="7e40f-138">統合のニーズに照らしたソース メッセージング環境。</span><span class="sxs-lookup"><span data-stu-id="7e40f-138">Source messaging environment for integration needs.</span></span>
+- <span data-ttu-id="7e40f-139">FastTrack センターのデータ移行サービスを使用し、かつ資格を満たす場合は、データ移行を提供します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-139">Provide data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
     
-- <span data-ttu-id="d24bf-114">管理上の概要を示します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-114">Provide an administrative overview.</span></span>
-    
-- <span data-ttu-id="d24bf-115">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-115">Provide guidance about:</span></span> 
-    
-  - <span data-ttu-id="d24bf-116">ドメイン ネーム システム (DNS)、ネットワークおよびインフラストラクチャのニーズ。</span><span class="sxs-lookup"><span data-stu-id="d24bf-116">Domain Name System (DNS), network, and infrastructure needs.</span></span>
-    
-  - <span data-ttu-id="d24bf-117">クライアントのニーズ (インターネット ブラウザー、クライアント オペレーティング システム、モバイル デバイス、サービスのニーズ)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-117">Client needs (internet browser, client operating system, mobile device, and services' needs).</span></span>
-    
-  - <span data-ttu-id="d24bf-118">ユーザー ID およびプロビジョニング</span><span class="sxs-lookup"><span data-stu-id="d24bf-118">User identity and provisioning.</span></span>
-    
-  - <span data-ttu-id="d24bf-119">購入済みでオンボーディングの一部として定義されている対象サービスの有効化。</span><span class="sxs-lookup"><span data-stu-id="d24bf-119">Enabling eligible services that are purchased and defined as a part of onboarding.</span></span>
-    
-  - <span data-ttu-id="d24bf-120">正常なサービス採用の促進と価値の増進。</span><span class="sxs-lookup"><span data-stu-id="d24bf-120">Driving successful service adoption and value.</span></span>
-    
-- <span data-ttu-id="d24bf-121">修復アクティビティのタイムラインの設定。</span><span class="sxs-lookup"><span data-stu-id="d24bf-121">Establish the timeline for remediation activities.</span></span>
-    
-- <span data-ttu-id="d24bf-122">修復チェックリストの提供。</span><span class="sxs-lookup"><span data-stu-id="d24bf-122">Provide a remediation checklist.</span></span> 
-    
-- <span data-ttu-id="d24bf-123">既存の SharePoint Server 2013 または SharePoint Server 2016 インフラストラクチャの評価。以下が含まれます。</span><span class="sxs-lookup"><span data-stu-id="d24bf-123">Assess the existing SharePoint Server 2013 or SharePoint Server 2016 infrastructure including:</span></span>
-    
-  - <span data-ttu-id="d24bf-124">SharePoint Online ハイブリッド の前提条件。</span><span class="sxs-lookup"><span data-stu-id="d24bf-124">Prerequisites for SharePoint Online Hybrid.</span></span> 
-    
-  - <span data-ttu-id="d24bf-125">オンプレミスのインフラストラクチャの SharePoint Online ハイブリッド 機能の準備状況。</span><span class="sxs-lookup"><span data-stu-id="d24bf-125">On-premises infrastructure readiness for SharePoint Online Hybrid features.</span></span>
-    
-  - <span data-ttu-id="d24bf-126">必要な SharePoint Online エンドポイントへのアクセス。</span><span class="sxs-lookup"><span data-stu-id="d24bf-126">Access to required SharePoint Online endpoints.</span></span>
-    
-  - <span data-ttu-id="d24bf-127">OneDrive for Business ハイブリッド の対象ユーザー。</span><span class="sxs-lookup"><span data-stu-id="d24bf-127">Audiences for OneDrive for Business Hybrid.</span></span> 
-    
-- <span data-ttu-id="d24bf-128">既存の Lync または Skype for Business Online インフラストラクチャの評価。以下が含まれます。</span><span class="sxs-lookup"><span data-stu-id="d24bf-128">Assess the existing Lync or Skype for Business Online infrastructure including:</span></span>
-    
-  - <span data-ttu-id="d24bf-129">サポートされる Skype for Business クライアント展開の戦略。</span><span class="sxs-lookup"><span data-stu-id="d24bf-129">Supported Skype for Business client deployment strategy.</span></span>
-    
-  - <span data-ttu-id="d24bf-130">エンドポイントへのアクセス。</span><span class="sxs-lookup"><span data-stu-id="d24bf-130">Access to endpoints.</span></span>
-    
-  - <span data-ttu-id="d24bf-131">接続品質。</span><span class="sxs-lookup"><span data-stu-id="d24bf-131">Connection quality.</span></span>
-    
-  - <span data-ttu-id="d24bf-132">帯域幅の推定値。</span><span class="sxs-lookup"><span data-stu-id="d24bf-132">Bandwidth estimates.</span></span>
-    
-  - <span data-ttu-id="d24bf-133">分割ドメイン サーバー構成をサポートする前提条件。</span><span class="sxs-lookup"><span data-stu-id="d24bf-133">Prerequisites to support split domain server configuration.</span></span>
-    
-  - <span data-ttu-id="d24bf-134">Skype for Business Online に移行するための特定のユーザーの前提条件。</span><span class="sxs-lookup"><span data-stu-id="d24bf-134">Readiness of identified users to move onto Skype for Business Online.</span></span>
-    
-- <span data-ttu-id="d24bf-135">メッセージング インフラストラクチャの評価。次の内容を含みます。</span><span class="sxs-lookup"><span data-stu-id="d24bf-135">Assess the messaging infrastructure, including:</span></span> 
-    
-  - <span data-ttu-id="d24bf-136">メール フローとルーティングの全体的な原則。</span><span class="sxs-lookup"><span data-stu-id="d24bf-136">Overall mail flow and routing principles.</span></span>
-    
-  - <span data-ttu-id="d24bf-137">クライアント アクセス (既存の公開済みクライアント アクセス エンドポイントを含む)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-137">Client access (including existing published client-access endpoints).</span></span>
-    
-  - <span data-ttu-id="d24bf-138">統合のニーズに照らしたソース メッセージング環境。</span><span class="sxs-lookup"><span data-stu-id="d24bf-138">Source messaging environment for integration needs.</span></span>
-    
-- <span data-ttu-id="d24bf-139">FastTrack センターのデータ移行サービスを使用し、かつ資格を満たす場合は、データ移行を提供します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-139">Provide data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
-    
-## <a name="remediate-phase"></a><span data-ttu-id="d24bf-140">修復フェーズ</span><span class="sxs-lookup"><span data-stu-id="d24bf-140">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="7e40f-140">修復フェーズ</span><span class="sxs-lookup"><span data-stu-id="7e40f-140">Remediate phase</span></span>
 
-- <span data-ttu-id="d24bf-141">修復アクティビティと達成計画の進捗状況を確認するために、あらかじめ合意したスケジュールに従って電話会議を行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-141">Hold conference calls with you according to the agreed schedule to review the progress of the remediation activities and success planning.</span></span> 
+- <span data-ttu-id="7e40f-141">修復アクティビティと達成計画の進捗状況を確認するために、あらかじめ合意したスケジュールに従って電話会議を行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-141">Hold conference calls with you according to the agreed schedule to review the progress of the remediation activities and success planning.</span></span> 
+- <span data-ttu-id="7e40f-142">評価ツールを実行することにより、問題を識別して修復し、結果を解釈する方法を示します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-142">Guide you through running assessment tools to identify and remediate issues and interpret the results.</span></span>
     
-- <span data-ttu-id="d24bf-142">評価ツールを実行することにより、問題を識別して修復し、結果を解釈する方法を示します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-142">Guide you through running assessment tools to identify and remediate issues and interpret the results.</span></span>
-    
-## <a name="enable-phase"></a><span data-ttu-id="d24bf-143">有効化フェーズ</span><span class="sxs-lookup"><span data-stu-id="d24bf-143">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="7e40f-143">有効化フェーズ</span><span class="sxs-lookup"><span data-stu-id="7e40f-143">Enable phase</span></span>
 
-<span data-ttu-id="d24bf-144">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-144">Provide guidance about:</span></span> 
-  
-- <span data-ttu-id="d24bf-145">達成計画の進捗状況を評価し、必要なサポートを判断します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-145">Evaluating progress on success planning and determining what further assistance you need.</span></span>
-    
-- <span data-ttu-id="d24bf-146">Office 365 テナントのアクティブ化。</span><span class="sxs-lookup"><span data-stu-id="d24bf-146">Activating your Office 365 tenant.</span></span>
-    
-- <span data-ttu-id="d24bf-147">TCP/IP プロトコルとファイアウォール ポートの構成。</span><span class="sxs-lookup"><span data-stu-id="d24bf-147">Configuring TCP/IP protocols and firewall ports.</span></span>
-    
-- <span data-ttu-id="d24bf-148">対象サービスの DNS の構成。</span><span class="sxs-lookup"><span data-stu-id="d24bf-148">Configuring DNS for eligible services.</span></span>
-    
-- <span data-ttu-id="d24bf-149">Office 365 への接続の検証。</span><span class="sxs-lookup"><span data-stu-id="d24bf-149">Validating connectivity to Office 365.</span></span>
-    
-- <span data-ttu-id="d24bf-150">Azure Active Directory と、社内の Active Directory の接続。</span><span class="sxs-lookup"><span data-stu-id="d24bf-150">Connecting your on-premises Active Directory with Azure Active Directory:</span></span>
-    
-  - <span data-ttu-id="d24bf-151">Active Directory ドメイン サービス (AD DS) と Office 365 との間のディレクトリ同期サーバーの設置 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-151">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and Office 365, if required.</span></span> 
-    
-  - <span data-ttu-id="d24bf-152">Azure Active Directory Connect ツールを使用した Office 365 (Azure Active Directory) へのパスワードの同期 (パスワード ハッシュ) の構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-152">Configuring password synchronization (password hash) to Office 365 (Azure Active Directory) with the Azure Active Directory Connect tool, if required.</span></span>
-    
-  - <span data-ttu-id="d24bf-153">単一フォレスト環境および複数フォレスト環境:</span><span class="sxs-lookup"><span data-stu-id="d24bf-153">For single- and multiple-forest environments:</span></span>
-    
-      - <span data-ttu-id="d24bf-154">Azure Active Directory パススルー認証の構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-154">Configuring Azure Active Directory Pass-through Authentication, if required.</span></span>
-    
-      - <span data-ttu-id="d24bf-155">Azure Active Directory シームレス シングル サインオン (SSO) の構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-155">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required.</span></span>
-    
+<span data-ttu-id="7e40f-144">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-144">Provide guidance about:</span></span> 
+- <span data-ttu-id="7e40f-145">達成計画の進捗状況を評価し、必要なサポートを判断します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-145">Evaluating progress on success planning and determining what further assistance you need.</span></span>
+- <span data-ttu-id="7e40f-146">Office 365 テナントのアクティブ化。</span><span class="sxs-lookup"><span data-stu-id="7e40f-146">Activating your Office 365 tenant.</span></span>  
+- <span data-ttu-id="7e40f-147">TCP/IP プロトコルとファイアウォール ポートの構成。</span><span class="sxs-lookup"><span data-stu-id="7e40f-147">Configuring TCP/IP protocols and firewall ports.</span></span>
+- <span data-ttu-id="7e40f-148">対象サービスの DNS の構成。</span><span class="sxs-lookup"><span data-stu-id="7e40f-148">Configuring DNS for eligible services.</span></span> 
+- <span data-ttu-id="7e40f-149">Office 365 への接続の検証。</span><span class="sxs-lookup"><span data-stu-id="7e40f-149">Validating connectivity to Office 365.</span></span>
+- <span data-ttu-id="7e40f-150">Azure Active Directory と、社内の Active Directory の接続。</span><span class="sxs-lookup"><span data-stu-id="7e40f-150">Connecting your on-premises Active Directory with Azure Active Directory:</span></span>
+  - <span data-ttu-id="7e40f-151">Active Directory ドメイン サービス (AD DS) と Office 365 との間のディレクトリ同期サーバーの設置 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="7e40f-151">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and Office 365, if required.</span></span> 
+  - <span data-ttu-id="7e40f-152">Azure Active Directory Connect ツールを使用した Office 365 (Azure Active Directory) へのパスワードの同期 (パスワード ハッシュ) の構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="7e40f-152">Configuring password synchronization (password hash) to Office 365 (Azure Active Directory) with the Azure Active Directory Connect tool, if required.</span></span>
+  - <span data-ttu-id="7e40f-153">単一フォレスト環境および複数フォレスト環境:</span><span class="sxs-lookup"><span data-stu-id="7e40f-153">For single- and multiple-forest environments:</span></span>
+      - <span data-ttu-id="7e40f-154">Azure Active Directory パススルー認証の構成 (必要な場合)。\*\*</span><span class="sxs-lookup"><span data-stu-id="7e40f-154">Configuring Azure Active Directory Pass-through Authentication, if required.</span></span>
+      - <span data-ttu-id="7e40f-155">Azure Active Directory シームレス シングル サインオン (SSO) の構成 (必要な場合)。\*\*\*</span><span class="sxs-lookup"><span data-stu-id="7e40f-155">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required.</span></span>
     > [!NOTE]
-    > <span data-ttu-id="d24bf-p101">複数フォレスト環境の Azure Active Directory パススルー認証は、Active Directory フォレスト間にフォレストの信頼があり、名前サフィックスのルーティングが正しく構成されている場合にサポートされます。追加のエージェントは、サインイン要求の高可用性を提供するために、複数のオンプレミスのサーバーにインストールできます。詳細については、「[Azure Active Directory パススルー認証:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860094)」および「[Azure Active Directory シームレス シングル サインオン:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860095)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d24bf-p101">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095).</span></span> 
-  
+    > <span data-ttu-id="7e40f-p101">複数フォレスト環境の Azure Active Directory パススルー認証は、Active Directory フォレスト間にフォレストの信頼があり、名前サフィックスのルーティングが正しく構成されている場合にサポートされます。追加のエージェントは、サインイン要求の高可用性を提供するために、複数のオンプレミスのサーバーにインストールできます。詳細については、「[Azure Active Directory パススルー認証:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860094)」および「[Azure Active Directory シームレス シングル サインオン:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860095)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="7e40f-p101">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095).</span></span> 
+- <span data-ttu-id="7e40f-159">フォレストが 1 つで、フェデレーション ID を対象とする場合:</span><span class="sxs-lookup"><span data-stu-id="7e40f-159">For a single forest when federated identities is the target:</span></span> 
+  - <span data-ttu-id="7e40f-160">1 つのサイトのフォールト トレラント構成における Office 365 を使うローカル ドメイン認証用の AD FS のインストールと構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="7e40f-160">Installing and configuring AD FS for local domain authentication with Office 365 in a single-site, fault-tolerant configuration, if required.</span></span>
+  - <span data-ttu-id="7e40f-161">AD FS インフラストラクチャをインターネットに公開するための、WAP のインストールおよび構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="7e40f-161">Installing and configuring WAP for publishing your AD FS infrastructure to the internet, when necessary.</span></span>
     > [!NOTE]
-    > <span data-ttu-id="d24bf-159">パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証: 現在の制限事項](https://go.microsoft.com/fwlink/?linkid=860356)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d24bf-159">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356).</span></span> 
-  
-    > [!NOTE]
-    > <span data-ttu-id="d24bf-160">SSO の問題の詳細については、「[Azure Active Directory シームレス シングル サインオンのトラブルシューティングを行う](https://go.microsoft.com/fwlink/?linkid=841926)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d24bf-160">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://go.microsoft.com/fwlink/?linkid=841926).</span></span> 
-  
-- <span data-ttu-id="d24bf-161">フォレストが 1 つで、フェデレーション ID を対象とする場合:</span><span class="sxs-lookup"><span data-stu-id="d24bf-161">For a single forest when federated identities is the target:</span></span> 
+    > <span data-ttu-id="7e40f-162">フォレストが複数あるすべての構成において、ADFS の展開は対象外です。</span><span class="sxs-lookup"><span data-stu-id="7e40f-162">For all multiple forests configurations, AD FS deployments are out-of-scope.</span></span> 
+- <span data-ttu-id="7e40f-163">SSO 機能のテスト (展開されている場合)。</span><span class="sxs-lookup"><span data-stu-id="7e40f-163">Testing SSO functionality if deployed.</span></span>
+- <span data-ttu-id="7e40f-164">サービス導入と価値実現の促進。</span><span class="sxs-lookup"><span data-stu-id="7e40f-164">Driving successful service adoption and value.</span></span>
     
-  - <span data-ttu-id="d24bf-162">1 つのサイトのフォールト トレラント構成における Office 365 を使うローカル ドメイン認証用の AD FS のインストールと構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-162">Installing and configuring AD FS for local domain authentication with Office 365 in a single-site, fault-tolerant configuration, if required.</span></span>
-    
-  - <span data-ttu-id="d24bf-163">AD FS インフラストラクチャをインターネットに公開するための、WAP のインストールおよび構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-163">Installing and configuring WAP for publishing your AD FS infrastructure to the internet, when necessary.</span></span>
-    
-    > [!NOTE]
-    > <span data-ttu-id="d24bf-164">フォレストが複数あるすべての構成において、ADFS の展開は対象外です。</span><span class="sxs-lookup"><span data-stu-id="d24bf-164">For all multiple forests configurations, AD FS deployments are out-of-scope.</span></span> 
-  
-- <span data-ttu-id="d24bf-165">SSO 機能のテスト (展開されている場合)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-165">Testing SSO functionality if deployed.</span></span>
-    
-- <span data-ttu-id="d24bf-166">正常なサービス採用の促進と価値の増進。</span><span class="sxs-lookup"><span data-stu-id="d24bf-166">Driving successful service adoption and value.</span></span>
-    
-## <a name="exchange-online"></a><span data-ttu-id="d24bf-167">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="d24bf-167">Exchange Online</span></span>
+<span data-ttu-id="7e40f-165">\*\*パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証: 現在の制限事項](https://go.microsoft.com/fwlink/?linkid=860356)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="7e40f-165">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356).</span></span> 
 
-<span data-ttu-id="d24bf-168">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-168">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="d24bf-169">DNS レコードの作成または更新。</span><span class="sxs-lookup"><span data-stu-id="d24bf-169">Creating or updating DNS records.</span></span> 
-    
-- <span data-ttu-id="d24bf-170">ソース メッセージング システムと Office 365 環境との間での電子メール ルーティングの有効化。</span><span class="sxs-lookup"><span data-stu-id="d24bf-170">Enabling email routing between the source messaging system and Office 365 environments.</span></span> 
-    
-- <span data-ttu-id="d24bf-171">Exchange Online Protection 機能 (サブスクリプションで利用できる場合は Exchange Online Advanced Threat Protection も含む) を構成して、メールが有効な検証済みのすべてのドメインで MX レコードがOffice 365 をポイントしていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-171">Configuring Exchange Online Protection features (including Exchange Online Advanced Threat Protection features if available in your subscription) and verifying your MX records point to Office 365 for all validated mail-enabled domains.</span></span>
-    
-- <span data-ttu-id="d24bf-172">1 つのオンプレミスの Exchange 組織と Office 365 の間、*または*複数のオンプレミスの Exchange 組織と Office 365 の間におけるハイブリッド セットアップの構成。</span><span class="sxs-lookup"><span data-stu-id="d24bf-172">Configuring hybrid setup either between a single on-premises Exchange organization and Office 365  *or*  between multiple on-premises Exchange organizations and Office 365.</span></span> 
-    
-<span data-ttu-id="d24bf-173">データ移行の責任について詳しくは、「[データ移行](data-migration.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="d24bf-173">For more information about data migration responsibilities, see [Data Migration](data-migration.md).</span></span>
-  
-## <a name="sharepoint-online"></a><span data-ttu-id="d24bf-174">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="d24bf-174">SharePoint Online</span></span>
+<span data-ttu-id="7e40f-166">\*\*\*シームレス SSO の問題の詳細については、「[Azure Active Directory シームレス シングル サインオンのトラブルシューティングを行う](https://go.microsoft.com/fwlink/?linkid=841926)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="7e40f-166">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://go.microsoft.com/fwlink/?linkid=841926).</span></span>
 
-<span data-ttu-id="d24bf-175">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-175">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="d24bf-176">ライセンシングを含むユーザー プロビジョニングのセットアップ。</span><span class="sxs-lookup"><span data-stu-id="d24bf-176">Setting up user provisioning including licensing.</span></span>
-    
-- <span data-ttu-id="d24bf-177">SharePoint Online 管理者のサイト作成の有効化。</span><span class="sxs-lookup"><span data-stu-id="d24bf-177">Enabling site creation for your SharePoint Online admin.</span></span>
-    
-- <span data-ttu-id="d24bf-178">サイト コレクションのプランニング。</span><span class="sxs-lookup"><span data-stu-id="d24bf-178">Planning site collections.</span></span> 
-    
-- <span data-ttu-id="d24bf-179">コンテンツのセキュリティ保護および権限の管理。</span><span class="sxs-lookup"><span data-stu-id="d24bf-179">Securing content and managing permissions.</span></span>
-    
-- <span data-ttu-id="d24bf-180">個人用サイトおよびソーシャル機能の有効化。</span><span class="sxs-lookup"><span data-stu-id="d24bf-180">Enabling personal sites and social features.</span></span>
-    
-- <span data-ttu-id="d24bf-181">SharePoint Online 機能の構成。</span><span class="sxs-lookup"><span data-stu-id="d24bf-181">Configuring SharePoint Online features.</span></span> 
-    
-- <span data-ttu-id="d24bf-182">FastTrack センターのデータ移行サービスを使用し、かつ資格を満たす場合は、データ移行を提供します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-182">Providing data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
-    
-- <span data-ttu-id="d24bf-183">SharePoint Online ハイブリッド に必要なオンプレミスの SharePoint ファームのインフラストラクチャ構成を評価します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-183">Evaluating the on-premises SharePoint farm infrastructure configuration needed for SharePoint Online Hybrid.</span></span> 
-    
-- <span data-ttu-id="d24bf-184">次に関してツールと自動化を使用します。</span><span class="sxs-lookup"><span data-stu-id="d24bf-184">Using tools and automation to:</span></span>
-    
-  - <span data-ttu-id="d24bf-185">オンプレミスのクラウド検索サービス アプリケーションの構成。</span><span class="sxs-lookup"><span data-stu-id="d24bf-185">Configure on-premises cloud search service applications.</span></span> 
-    
-  - <span data-ttu-id="d24bf-186">SharePoint オンプレミス環境とクラウド環境間の信頼の構成。</span><span class="sxs-lookup"><span data-stu-id="d24bf-186">Configure trust between SharePoint on-premises and cloud environments.</span></span>
-    
-- <span data-ttu-id="d24bf-187">SharePoint Online ハイブリッド 機能の使用に向けたオンプレミスの SharePoint サイトの構成。</span><span class="sxs-lookup"><span data-stu-id="d24bf-187">Configuring on-premises SharePoint sites to use SharePoint Online Hybrid features.</span></span>
-    
-## <a name="onedrive-for-business"></a><span data-ttu-id="d24bf-188">OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="d24bf-188">OneDrive for Business</span></span>
+## <a name="exchange-online"></a><span data-ttu-id="7e40f-167">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="7e40f-167">Exchange Online</span></span>
 
-<span data-ttu-id="d24bf-189">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-189">Provide guidance about:</span></span>
+<span data-ttu-id="7e40f-168">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-168">Provide guidance about:</span></span>
+- <span data-ttu-id="7e40f-169">DNS レコードの作成または更新。</span><span class="sxs-lookup"><span data-stu-id="7e40f-169">Creating or updating DNS records.</span></span> 
+- <span data-ttu-id="7e40f-170">ソース メッセージング システムと Office 365 環境との間での電子メール ルーティングの有効化。</span><span class="sxs-lookup"><span data-stu-id="7e40f-170">Enabling email routing between the source messaging system and Office 365 environments.</span></span> 
+- <span data-ttu-id="7e40f-171">Exchange Online Protection 機能 (サブスクリプションで利用できる場合は Exchange Online Advanced Threat Protection も含む) を構成して、メールが有効な検証済みのすべてのドメインで MX レコードがOffice 365 をポイントしていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-171">Configuring Exchange Online Protection features (including Exchange Online Advanced Threat Protection features if available in your subscription) and verifying your MX records point to Office 365 for all validated mail-enabled domains.</span></span>
+- <span data-ttu-id="7e40f-172">1 つのオンプレミスの Exchange 組織と Office 365 の間、*または*複数のオンプレミスの Exchange 組織と Office 365 の間におけるハイブリッド セットアップの構成。</span><span class="sxs-lookup"><span data-stu-id="7e40f-172">Configuring hybrid setup either between a single on-premises Exchange organization and Office 365  *or*  between multiple on-premises Exchange organizations and Office 365.</span></span> 
+    
+<span data-ttu-id="7e40f-173">データ移行の責任について詳しくは、「[データ移行](data-migration.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="7e40f-173">For more information about data migration responsibilities, see [Data Migration](data-migration.md).</span></span>
   
-- <span data-ttu-id="d24bf-190">オンプレミスの SharePoint バージョンと統合オプションの識別。</span><span class="sxs-lookup"><span data-stu-id="d24bf-190">Identifying the on-premises SharePoint version and integration options.</span></span> 
-    
-- <span data-ttu-id="d24bf-191">同期と ID オプションの識別。</span><span class="sxs-lookup"><span data-stu-id="d24bf-191">Identifying synchronization and identity options.</span></span>
-    
-- <span data-ttu-id="d24bf-192">ロールアウト オプションの選択 </span><span class="sxs-lookup"><span data-stu-id="d24bf-192">Selecting a rollout option:</span></span> 
-    
-  - <span data-ttu-id="d24bf-193">ジャストインタイム ロールアウト。</span><span class="sxs-lookup"><span data-stu-id="d24bf-193">Just-in-time rollout.</span></span>
-    
-  - <span data-ttu-id="d24bf-194">段階的ロールアウト (順序付けとフェーズ)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-194">Staged rollout (sequenced and phased).</span></span>
-    
-- <span data-ttu-id="d24bf-195">OneDrive for Business 展開用のオンプレミスの環境の準備:</span><span class="sxs-lookup"><span data-stu-id="d24bf-195">Preparing the on-premises environment for OneDrive for Business deployment:</span></span>
-    
-  - <span data-ttu-id="d24bf-196">正しい OneDrive for Business 同期クライアントの識別。</span><span class="sxs-lookup"><span data-stu-id="d24bf-196">Identifying the correct OneDrive for Business sync client.</span></span>
-    
-  - <span data-ttu-id="d24bf-197">DNS、ネットワーク ポート、およびファイアウォールの構成。</span><span class="sxs-lookup"><span data-stu-id="d24bf-197">Configuration of DNS, network ports, and firewall.</span></span>
-    
-- <span data-ttu-id="d24bf-198">エンドユーザー ライセンスの割り当て。</span><span class="sxs-lookup"><span data-stu-id="d24bf-198">Assigning end-user licenses.</span></span> 
-    
-- <span data-ttu-id="d24bf-199">SharePoint Online 対象ユーザーのセットアップ、および OneDrive for Business を取得するユーザーの制御と管理。</span><span class="sxs-lookup"><span data-stu-id="d24bf-199">Setting up SharePoint Online audiences to control and govern who gets OneDrive for Business.</span></span> 
-    
-- <span data-ttu-id="d24bf-200">OneDrive for Business 同期クライアントのデスクトップへの展開。</span><span class="sxs-lookup"><span data-stu-id="d24bf-200">Deploying the OneDrive for Business sync client to desktops.</span></span> 
-    
-- <span data-ttu-id="d24bf-201">SharePoint Online ハイブリッド OneDrive for Business リダイレクトの構成方法 (SharePoint 2013 および SharePoint 2016 のみ)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-201">How to configure SharePoint Online Hybrid OneDrive for Business redirection (SharePoint 2013 and SharePoint 2016 only).</span></span>
-    
-- <span data-ttu-id="d24bf-202">FastTrack Center のデータ移行サービスを使っており、かつ資格を満たす場合は、データ移行。</span><span class="sxs-lookup"><span data-stu-id="d24bf-202">Data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
-    
-## <a name="skype-for-business-online"></a><span data-ttu-id="d24bf-203">Skype for Business Online</span><span class="sxs-lookup"><span data-stu-id="d24bf-203">Skype for Business Online</span></span>
+## <a name="sharepoint-online"></a><span data-ttu-id="7e40f-174">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="7e40f-174">SharePoint Online</span></span>
 
-<span data-ttu-id="d24bf-204">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-204">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="d24bf-205">Office 365 向け Skype for Business 識別情報のプロビジョニング。</span><span class="sxs-lookup"><span data-stu-id="d24bf-205">Provisioning Skype for Business identities for Office 365.</span></span> 
+<span data-ttu-id="7e40f-175">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-175">Provide guidance about:</span></span>
+- <span data-ttu-id="7e40f-176">ライセンシングを含むユーザー プロビジョニングのセットアップ。</span><span class="sxs-lookup"><span data-stu-id="7e40f-176">Setting up user provisioning including licensing.</span></span>
+- <span data-ttu-id="7e40f-177">SharePoint Online 管理者のサイト作成の有効化。</span><span class="sxs-lookup"><span data-stu-id="7e40f-177">Enabling site creation for your SharePoint Online admin.</span></span>    
+- <span data-ttu-id="7e40f-178">サイト コレクションのプランニング。</span><span class="sxs-lookup"><span data-stu-id="7e40f-178">Planning site collections.</span></span> 
+- <span data-ttu-id="7e40f-179">コンテンツのセキュリティ保護および権限の管理。</span><span class="sxs-lookup"><span data-stu-id="7e40f-179">Securing content and managing permissions.</span></span>
+- <span data-ttu-id="7e40f-180">個人用サイトおよびソーシャル機能の有効化。</span><span class="sxs-lookup"><span data-stu-id="7e40f-180">Enabling personal sites and social features.</span></span>
+- <span data-ttu-id="7e40f-181">SharePoint Online 機能の構成。</span><span class="sxs-lookup"><span data-stu-id="7e40f-181">Configuring SharePoint Online features.</span></span> 
+- <span data-ttu-id="7e40f-182">FastTrack センターのデータ移行サービスを使用し、かつ資格を満たす場合は、データ移行を提供します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-182">Providing data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
+- <span data-ttu-id="7e40f-183">SharePoint Online ハイブリッド に必要なオンプレミスの SharePoint ファームのインフラストラクチャ構成を評価します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-183">Evaluating the on-premises SharePoint farm infrastructure configuration needed for SharePoint Online Hybrid.</span></span> 
+- <span data-ttu-id="7e40f-184">次に関してツールと自動化を使用します。</span><span class="sxs-lookup"><span data-stu-id="7e40f-184">Using tools and automation to:</span></span>
+  - <span data-ttu-id="7e40f-185">オンプレミスのクラウド検索サービス アプリケーションの構成。</span><span class="sxs-lookup"><span data-stu-id="7e40f-185">Configure on-premises cloud search service applications.</span></span> 
+  - <span data-ttu-id="7e40f-186">SharePoint オンプレミス環境とクラウド環境間の信頼の構成。</span><span class="sxs-lookup"><span data-stu-id="7e40f-186">Configure trust between SharePoint on-premises and cloud environments.</span></span>
+- <span data-ttu-id="7e40f-187">SharePoint Online ハイブリッド 機能の使用に向けたオンプレミスの SharePoint サイトの構成。</span><span class="sxs-lookup"><span data-stu-id="7e40f-187">Configuring on-premises SharePoint sites to use SharePoint Online Hybrid features.</span></span>
     
-- <span data-ttu-id="d24bf-206">Office 365 のオンライン会議、インスタント メッセージング (IM)、プレゼンス機能の有効化。</span><span class="sxs-lookup"><span data-stu-id="d24bf-206">Enabling online conferencing, instant messaging (IM), and presence features for Office 365.</span></span> 
-    
-- <span data-ttu-id="d24bf-207">サポートされる会議システム デバイスに関連付けるアカウントの作成 (最大 10 個のアカウント)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-207">Creating accounts to associate to supported room system devices (up to 10 accounts).</span></span>
-    
-- <span data-ttu-id="d24bf-208">Lync ハイブリッドまたは Skype for Business Online ハイブリッドのシナリオ (該当する場合) をサポートするための分割ドメイン サーバー環境の構成。</span><span class="sxs-lookup"><span data-stu-id="d24bf-208">Configuring a split domain server environment to support Lync hybrid or Skype for Business Online hybrid scenarios (if applicable).</span></span>
-    
-- <span data-ttu-id="d24bf-209">電話会議を有効にする:</span><span class="sxs-lookup"><span data-stu-id="d24bf-209">Enabling Audio Conferencing:</span></span>
-    
-  - <span data-ttu-id="d24bf-210">会議ブリッジの既定の設定のための組織のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="d24bf-210">Organization setup for conference bridge default settings.</span></span>
-    
-  - <span data-ttu-id="d24bf-211">ライセンスを持つユーザーへの会議ブリッジの割り当て。</span><span class="sxs-lookup"><span data-stu-id="d24bf-211">Assignment of a conference bridge to licensed users.</span></span>
-    
-- <span data-ttu-id="d24bf-212">電話システムを有効にする:</span><span class="sxs-lookup"><span data-stu-id="d24bf-212">Enabling Phone System:</span></span>
-    
-  - <span data-ttu-id="d24bf-213">電話システムおよび通話プランのオンボーディングの有効化 (利用可能なマーケットのみ)。</span><span class="sxs-lookup"><span data-stu-id="d24bf-213">Enabling Phone System and Calling Plans onboarding (in available markets).</span></span>
-    
-  - <span data-ttu-id="d24bf-214">ライセンスを持つユーザーへの番号の割り当て。</span><span class="sxs-lookup"><span data-stu-id="d24bf-214">Assignment of numbers to licensed users.</span></span>
-    
-  - <span data-ttu-id="d24bf-215">UI を通じた 999 件までの電話番号の移植ガイダンス。</span><span class="sxs-lookup"><span data-stu-id="d24bf-215">Local number porting guidance through UI up to 999.</span></span>
-    
-  - <span data-ttu-id="d24bf-216">999 件を超える電話番号の移植 SR サポート。</span><span class="sxs-lookup"><span data-stu-id="d24bf-216">Local number porting SR support over 999.</span></span>
-    
-- <span data-ttu-id="d24bf-217">Skype for Business 会議メディアトを有効にする:</span><span class="sxs-lookup"><span data-stu-id="d24bf-217">Enabling Skype for Business Meeting Broadcast:</span></span>
-    
-  - <span data-ttu-id="d24bf-218">Skype for Business 会議メディアのオンボーディング ガイダンスを有効にする。</span><span class="sxs-lookup"><span data-stu-id="d24bf-218">Enabling Skype for Business Meeting Broadcast onboarding guidance.</span></span>
-    
-  - <span data-ttu-id="d24bf-219">会議メディア サービスとのフェデレーションのための組織のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="d24bf-219">Organization setup for federation with Meeting Broadcast service.</span></span>
-    
-## <a name="microsoft-teams"></a><span data-ttu-id="d24bf-220">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="d24bf-220">Microsoft Teams</span></span>
+## <a name="onedrive-for-business"></a><span data-ttu-id="7e40f-188">OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="7e40f-188">OneDrive for Business</span></span>
 
-<span data-ttu-id="d24bf-221">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-221">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="d24bf-222">最小要件の確認。</span><span class="sxs-lookup"><span data-stu-id="d24bf-222">Confirming minimum requirements.</span></span>
+<span data-ttu-id="7e40f-189">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-189">Provide guidance about:</span></span>
+- <span data-ttu-id="7e40f-190">オンプレミスの SharePoint バージョンと統合オプションの識別。</span><span class="sxs-lookup"><span data-stu-id="7e40f-190">Identifying the on-premises SharePoint version and integration options.</span></span> 
+- <span data-ttu-id="7e40f-191">同期と ID オプションの識別。</span><span class="sxs-lookup"><span data-stu-id="7e40f-191">Identifying synchronization and identity options.</span></span>
+- <span data-ttu-id="7e40f-192">ロールアウト オプションの選択 </span><span class="sxs-lookup"><span data-stu-id="7e40f-192">Selecting a rollout option:</span></span>   
+  - <span data-ttu-id="7e40f-193">ジャストインタイム ロールアウト。</span><span class="sxs-lookup"><span data-stu-id="7e40f-193">Just-in-time rollout.</span></span>
+  - <span data-ttu-id="7e40f-194">段階的ロールアウト (順序付けとフェーズ)。</span><span class="sxs-lookup"><span data-stu-id="7e40f-194">Staged rollout (sequenced and phased).</span></span>
+- <span data-ttu-id="7e40f-195">OneDrive for Business 展開用のオンプレミスの環境の準備:</span><span class="sxs-lookup"><span data-stu-id="7e40f-195">Preparing the on-premises environment for OneDrive for Business deployment:</span></span>
+  - <span data-ttu-id="7e40f-196">正しい OneDrive for Business 同期クライアントの識別。</span><span class="sxs-lookup"><span data-stu-id="7e40f-196">Identifying the correct OneDrive for Business sync client.</span></span>
+  - <span data-ttu-id="7e40f-197">DNS、ネットワーク ポート、およびファイアウォールの構成。</span><span class="sxs-lookup"><span data-stu-id="7e40f-197">Configuration of DNS, network ports, and firewall.</span></span> 
+- <span data-ttu-id="7e40f-198">エンドユーザー ライセンスの割り当て。</span><span class="sxs-lookup"><span data-stu-id="7e40f-198">Assigning end-user licenses.</span></span> 
+- <span data-ttu-id="7e40f-199">SharePoint Online 対象ユーザーのセットアップ、および OneDrive for Business を取得するユーザーの制御と管理。</span><span class="sxs-lookup"><span data-stu-id="7e40f-199">Setting up SharePoint Online audiences to control and govern who gets OneDrive for Business.</span></span> 
+- <span data-ttu-id="7e40f-200">OneDrive for Business 同期クライアントのデスクトップへの展開。</span><span class="sxs-lookup"><span data-stu-id="7e40f-200">Deploying the OneDrive for Business sync client to desktops.</span></span>   
+- <span data-ttu-id="7e40f-201">SharePoint Online ハイブリッド OneDrive for Business リダイレクトの構成方法 (SharePoint 2013 および SharePoint 2016 のみ)。</span><span class="sxs-lookup"><span data-stu-id="7e40f-201">How to configure SharePoint Online Hybrid OneDrive for Business redirection (SharePoint 2013 and SharePoint 2016 only).</span></span>
+- <span data-ttu-id="7e40f-202">FastTrack Center のデータ移行サービスを使っており、かつ資格を満たす場合は、データ移行。</span><span class="sxs-lookup"><span data-stu-id="7e40f-202">Data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
     
-- <span data-ttu-id="d24bf-223">ファイアウォール ポートの構成。</span><span class="sxs-lookup"><span data-stu-id="d24bf-223">Configuring firewall ports.</span></span>
-    
-- <span data-ttu-id="d24bf-224">DNS の設定。</span><span class="sxs-lookup"><span data-stu-id="d24bf-224">Setting up DNS.</span></span>
-    
-- <span data-ttu-id="d24bf-225">Microsoft Teams が Office 365 テナントで有効であることの確認。</span><span class="sxs-lookup"><span data-stu-id="d24bf-225">Confirming Microsoft Teams is enabled on your Office 365 tenant.</span></span>
-    
-- <span data-ttu-id="d24bf-226">ユーザーのライセンスの有効化と無効化。</span><span class="sxs-lookup"><span data-stu-id="d24bf-226">Enabling or disabling user licenses.</span></span>
-    
-- <span data-ttu-id="d24bf-227">Microsoft Teams クライアントの配布。</span><span class="sxs-lookup"><span data-stu-id="d24bf-227">Microsoft Teams client distribution.</span></span>
-    
-- <span data-ttu-id="d24bf-228">IT Pro および管理機能。</span><span class="sxs-lookup"><span data-stu-id="d24bf-228">IT Pro and admin features.</span></span>
-    
-- <span data-ttu-id="d24bf-229">コア製品の機能。</span><span class="sxs-lookup"><span data-stu-id="d24bf-229">Core product features.</span></span>
-    
-- <span data-ttu-id="d24bf-230">カスタマー サクセスのテンプレート。</span><span class="sxs-lookup"><span data-stu-id="d24bf-230">Customer success templates.</span></span>
-    
-## <a name="power-bi"></a><span data-ttu-id="d24bf-231">Power BI</span><span class="sxs-lookup"><span data-stu-id="d24bf-231">Power BI</span></span>
+## <a name="skype-for-business-online"></a><span data-ttu-id="7e40f-203">Skype for Business Online</span><span class="sxs-lookup"><span data-stu-id="7e40f-203">Skype for Business Online</span></span>
 
-<span data-ttu-id="d24bf-232">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-232">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="d24bf-233">Power BI サブスクリプション プランの確認。</span><span class="sxs-lookup"><span data-stu-id="d24bf-233">Reviewing the Power BI subscription plans.</span></span> 
+<span data-ttu-id="7e40f-204">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-204">Provide guidance about:</span></span>
+- <span data-ttu-id="7e40f-205">Office 365 向け Skype for Business 識別情報のプロビジョニング。</span><span class="sxs-lookup"><span data-stu-id="7e40f-205">Provisioning Skype for Business identities for Office 365.</span></span> 
+- <span data-ttu-id="7e40f-206">Office 365 のオンライン会議、インスタント メッセージング (IM)、プレゼンス機能の有効化。</span><span class="sxs-lookup"><span data-stu-id="7e40f-206">Enabling online conferencing, instant messaging (IM), and presence features for Office 365.</span></span> 
+- <span data-ttu-id="7e40f-207">サポートされる会議システム デバイスに関連付けるアカウントの作成 (最大 10 個のアカウント)。</span><span class="sxs-lookup"><span data-stu-id="7e40f-207">Creating accounts to associate to supported room system devices (up to 10 accounts).</span></span> 
+- <span data-ttu-id="7e40f-208">Lync ハイブリッドまたは Skype for Business Online ハイブリッドのシナリオ (該当する場合) をサポートするための分割ドメイン サーバー環境の構成。</span><span class="sxs-lookup"><span data-stu-id="7e40f-208">Configuring a split domain server environment to support Lync hybrid or Skype for Business Online hybrid scenarios (if applicable).</span></span>
+- <span data-ttu-id="7e40f-209">電話会議を有効にする:</span><span class="sxs-lookup"><span data-stu-id="7e40f-209">Enabling Audio Conferencing:</span></span>
+  - <span data-ttu-id="7e40f-210">会議ブリッジの既定の設定のための組織のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="7e40f-210">Organization setup for conference bridge default settings.</span></span>
+  - <span data-ttu-id="7e40f-211">ライセンスを持つユーザーへの会議ブリッジの割り当て。</span><span class="sxs-lookup"><span data-stu-id="7e40f-211">Assignment of a conference bridge to licensed users.</span></span>
+- <span data-ttu-id="7e40f-212">電話システムを有効にする:</span><span class="sxs-lookup"><span data-stu-id="7e40f-212">Enabling Phone System:</span></span>
+  - <span data-ttu-id="7e40f-213">電話システムおよび通話プランのオンボーディングの有効化 (利用可能なマーケットのみ)。</span><span class="sxs-lookup"><span data-stu-id="7e40f-213">Enabling Phone System and Calling Plans onboarding (in available markets).</span></span>
+  - <span data-ttu-id="7e40f-214">ライセンスを持つユーザーへの番号の割り当て。</span><span class="sxs-lookup"><span data-stu-id="7e40f-214">Assignment of numbers to licensed users.</span></span>
+  - <span data-ttu-id="7e40f-215">UI を通じた 999 件までの電話番号の移植ガイダンス。</span><span class="sxs-lookup"><span data-stu-id="7e40f-215">Local number porting guidance through UI up to 999.</span></span>
+  - <span data-ttu-id="7e40f-216">999 件を超える電話番号の移植 SR サポート。</span><span class="sxs-lookup"><span data-stu-id="7e40f-216">Local number porting SR support over 999.</span></span>
+- <span data-ttu-id="7e40f-217">Skype for Business 会議メディアトを有効にする:</span><span class="sxs-lookup"><span data-stu-id="7e40f-217">Enabling Skype for Business Meeting Broadcast:</span></span>
+  - <span data-ttu-id="7e40f-218">Skype for Business 会議メディアのオンボーディング ガイダンスを有効にする。</span><span class="sxs-lookup"><span data-stu-id="7e40f-218">Enabling Skype for Business Meeting Broadcast onboarding guidance.</span></span>
+  - <span data-ttu-id="7e40f-219">会議メディア サービスとのフェデレーションのための組織のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="7e40f-219">Organization setup for federation with Meeting Broadcast service.</span></span>
     
-- <span data-ttu-id="d24bf-234">Power BI サービスの追加。</span><span class="sxs-lookup"><span data-stu-id="d24bf-234">Adding the Power BI service.</span></span> 
-    
-- <span data-ttu-id="d24bf-235">Power BI Desktop アプリのダウンロード。</span><span class="sxs-lookup"><span data-stu-id="d24bf-235">Downloading the Power BI Desktop app.</span></span>
-    
-## <a name="project-online"></a><span data-ttu-id="d24bf-236">Project Online</span><span class="sxs-lookup"><span data-stu-id="d24bf-236">Project Online</span></span>
+## <a name="microsoft-teams"></a><span data-ttu-id="7e40f-220">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="7e40f-220">Microsoft Teams</span></span>
 
-<span data-ttu-id="d24bf-237">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-237">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="d24bf-238">サブスクリプション プランの確認。</span><span class="sxs-lookup"><span data-stu-id="d24bf-238">Reviewing subscription plans.</span></span>
+<span data-ttu-id="7e40f-221">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-221">Provide guidance about:</span></span>
+- <span data-ttu-id="7e40f-222">最小要件の確認。</span><span class="sxs-lookup"><span data-stu-id="7e40f-222">Confirming minimum requirements.</span></span>
+- <span data-ttu-id="7e40f-223">ファイアウォール ポートの構成。</span><span class="sxs-lookup"><span data-stu-id="7e40f-223">Configuring firewall ports.</span></span>
+- <span data-ttu-id="7e40f-224">DNS の設定。</span><span class="sxs-lookup"><span data-stu-id="7e40f-224">Setting up DNS.</span></span>  
+- <span data-ttu-id="7e40f-225">Microsoft Teams が Office 365 テナントで有効であることの確認。</span><span class="sxs-lookup"><span data-stu-id="7e40f-225">Confirming Microsoft Teams is enabled on your Office 365 tenant.</span></span>
+- <span data-ttu-id="7e40f-226">ユーザーのライセンスの有効化と無効化。</span><span class="sxs-lookup"><span data-stu-id="7e40f-226">Enabling or disabling user licenses.</span></span>
+- <span data-ttu-id="7e40f-227">Microsoft Teams クライアントの配布。</span><span class="sxs-lookup"><span data-stu-id="7e40f-227">Microsoft Teams client distribution.</span></span>
+- <span data-ttu-id="7e40f-228">IT Pro および管理機能。</span><span class="sxs-lookup"><span data-stu-id="7e40f-228">IT Pro and admin features.</span></span>
+- <span data-ttu-id="7e40f-229">コア製品の機能。</span><span class="sxs-lookup"><span data-stu-id="7e40f-229">Core product features.</span></span>
+- <span data-ttu-id="7e40f-230">カスタマー サクセスのテンプレート。</span><span class="sxs-lookup"><span data-stu-id="7e40f-230">Customer success templates.</span></span>
     
-- <span data-ttu-id="d24bf-239">基本的な SharePoint 機能の検証。</span><span class="sxs-lookup"><span data-stu-id="d24bf-239">Verifying basic SharePoint functionality.</span></span>
-    
-- <span data-ttu-id="d24bf-240">Project Online サービスの追加。</span><span class="sxs-lookup"><span data-stu-id="d24bf-240">Adding the Project Online service.</span></span>
-    
-- <span data-ttu-id="d24bf-241">ERP 同期を含む、Project Online へのユーザーの追加。</span><span class="sxs-lookup"><span data-stu-id="d24bf-241">Adding users to Project Online including ERP Sync.</span></span>
-    
-- <span data-ttu-id="d24bf-242">プロジェクト作成による、基本的な Project Online 機能の検証。</span><span class="sxs-lookup"><span data-stu-id="d24bf-242">Verifying basic Project Online functionality by creating a project.</span></span>
-    
-## <a name="project-online-professional-and-project-online-premium"></a><span data-ttu-id="d24bf-243">Project Online Professional および Project Online Premium</span><span class="sxs-lookup"><span data-stu-id="d24bf-243">Project Online Professional and Project Online Premium</span></span>
+## <a name="power-bi"></a><span data-ttu-id="7e40f-231">Power BI</span><span class="sxs-lookup"><span data-stu-id="7e40f-231">Power BI</span></span>
 
-<span data-ttu-id="d24bf-244">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-244">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="d24bf-245">展開の問題への対応。</span><span class="sxs-lookup"><span data-stu-id="d24bf-245">Addressing deployment issues.</span></span>
+<span data-ttu-id="7e40f-232">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-232">Provide guidance about:</span></span>
+- <span data-ttu-id="7e40f-233">Power BI サブスクリプション プランの確認。</span><span class="sxs-lookup"><span data-stu-id="7e40f-233">Reviewing the Power BI subscription plans.</span></span> 
+- <span data-ttu-id="7e40f-234">Power BI サービスの追加。</span><span class="sxs-lookup"><span data-stu-id="7e40f-234">Adding the Power BI service.</span></span> 
+- <span data-ttu-id="7e40f-235">Power BI Desktop アプリのダウンロード。</span><span class="sxs-lookup"><span data-stu-id="7e40f-235">Downloading the Power BI Desktop app.</span></span>
     
-- <span data-ttu-id="d24bf-246">Office 365 管理センター および Windows PowerShell を使用したエンド ユーザー ライセンスの割り当て。</span><span class="sxs-lookup"><span data-stu-id="d24bf-246">Assigning end-user licenses using the Office 365 admin center and Windows PowerShell.</span></span>
-    
-- <span data-ttu-id="d24bf-247">ポータルからの Project Online デスクトップ クライアント のダウンロードとインストール。</span><span class="sxs-lookup"><span data-stu-id="d24bf-247">Downloading and installing Project Online Desktop Client from the portal.</span></span>
-    
-- <span data-ttu-id="d24bf-248">Office 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。</span><span class="sxs-lookup"><span data-stu-id="d24bf-248">Configuring update settings using the Office Deployment Tool or Group Policy templates.</span></span>
-    
-- <span data-ttu-id="d24bf-249">Office 2016 展開ツールの configuration.xml ファイルを作成するためのガイダンスを含む Project Online デスクトップ クライアント 用の 1 つのオンサイト配布サーバーのセットアップ。</span><span class="sxs-lookup"><span data-stu-id="d24bf-249">Setting up a single on-site distribution server for Project Online Desktop Client, including guidance for creating a configuration.xml file for the Office 2016 Deployment Tool.</span></span>
-    
-- <span data-ttu-id="d24bf-250">Project Online デスクトップ クライアント の Project Online への接続。</span><span class="sxs-lookup"><span data-stu-id="d24bf-250">Connecting Project Online Desktop Client to Project Online.</span></span>
-    
-## <a name="yammer-enterprise"></a><span data-ttu-id="d24bf-251">Yammer エンタープライズ</span><span class="sxs-lookup"><span data-stu-id="d24bf-251">Yammer Enterprise</span></span>
+## <a name="project-online"></a><span data-ttu-id="7e40f-236">Project Online</span><span class="sxs-lookup"><span data-stu-id="7e40f-236">Project Online</span></span>
 
-<span data-ttu-id="d24bf-252">単一の Yammer ベーシック ネットワークから単一の Yammer エンタープライズ ネットワークへの変換に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-252">Provide guidance about converting your single Yammer Basic network into a single Yammer Enterprise network.</span></span>
-  
-## <a name="office-365-proplus"></a><span data-ttu-id="d24bf-253">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="d24bf-253">Office 365 ProPlus</span></span>
+<span data-ttu-id="7e40f-237">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-237">Provide guidance about:</span></span>
+- <span data-ttu-id="7e40f-238">サブスクリプション プランの確認。</span><span class="sxs-lookup"><span data-stu-id="7e40f-238">Reviewing subscription plans.</span></span>
+- <span data-ttu-id="7e40f-239">基本的な SharePoint 機能の検証。</span><span class="sxs-lookup"><span data-stu-id="7e40f-239">Verifying basic SharePoint functionality.</span></span>
+- <span data-ttu-id="7e40f-240">Project Online サービスの追加。</span><span class="sxs-lookup"><span data-stu-id="7e40f-240">Adding the Project Online service.</span></span>
+- <span data-ttu-id="7e40f-241">ERP 同期を含む、Project Online へのユーザーの追加。</span><span class="sxs-lookup"><span data-stu-id="7e40f-241">Adding users to Project Online including ERP Sync.</span></span>
+- <span data-ttu-id="7e40f-242">プロジェクト作成による、基本的な Project Online 機能の検証。</span><span class="sxs-lookup"><span data-stu-id="7e40f-242">Verifying basic Project Online functionality by creating a project.</span></span>
+    
+## <a name="project-online-professional-and-project-online-premium"></a><span data-ttu-id="7e40f-243">Project Online Professional および Project Online Premium</span><span class="sxs-lookup"><span data-stu-id="7e40f-243">Project Online Professional and Project Online Premium</span></span>
 
-<span data-ttu-id="d24bf-254">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-254">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="d24bf-255">展開の問題への対応。</span><span class="sxs-lookup"><span data-stu-id="d24bf-255">Addressing deployment issues.</span></span>
+<span data-ttu-id="7e40f-244">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-244">Provide guidance about:</span></span>
+- <span data-ttu-id="7e40f-245">展開の問題への対応。</span><span class="sxs-lookup"><span data-stu-id="7e40f-245">Addressing deployment issues.</span></span>
+- <span data-ttu-id="7e40f-246">Office 365 管理センター および Windows PowerShell を使用したエンド ユーザー ライセンスの割り当て。</span><span class="sxs-lookup"><span data-stu-id="7e40f-246">Assigning end-user licenses using the Office 365 admin center and Windows PowerShell.</span></span>
+- <span data-ttu-id="7e40f-247">ポータルからの Project Online デスクトップ クライアント のダウンロードとインストール。</span><span class="sxs-lookup"><span data-stu-id="7e40f-247">Downloading and installing Project Online Desktop Client from the portal.</span></span>   
+- <span data-ttu-id="7e40f-248">Office 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。</span><span class="sxs-lookup"><span data-stu-id="7e40f-248">Configuring update settings using the Office Deployment Tool or Group Policy templates.</span></span>
+- <span data-ttu-id="7e40f-249">Office 2016 展開ツールの configuration.xml ファイルを作成するためのガイダンスを含む Project Online デスクトップ クライアント 用の 1 つのオンサイト配布サーバーのセットアップ。</span><span class="sxs-lookup"><span data-stu-id="7e40f-249">Setting up a single on-site distribution server for Project Online Desktop Client, including guidance for creating a configuration.xml file for the Office 2016 Deployment Tool.</span></span> 
+- <span data-ttu-id="7e40f-250">Project Online デスクトップ クライアント の Project Online への接続。</span><span class="sxs-lookup"><span data-stu-id="7e40f-250">Connecting Project Online Desktop Client to Project Online.</span></span>
     
-- <span data-ttu-id="d24bf-256">Office 365 管理センター および Windows PowerShell を使用したエンド ユーザー ライセンスの割り当て。</span><span class="sxs-lookup"><span data-stu-id="d24bf-256">Assigning end-user licenses using the Office 365 admin center and Windows PowerShell.</span></span>
-    
-- <span data-ttu-id="d24bf-257">クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。</span><span class="sxs-lookup"><span data-stu-id="d24bf-257">Installing Office 365 ProPlus from the Office 365 portal using Click-to-Run.</span></span>
-    
-- <span data-ttu-id="d24bf-258">iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。</span><span class="sxs-lookup"><span data-stu-id="d24bf-258">Installing Office Mobile apps (like Outlook Mobile, Word Mobile, Excel Mobile, and PowerPoint Mobile) on your iOS, Android, or Windows Mobile devices.</span></span> 
-    
-- <span data-ttu-id="d24bf-259">Office 2016 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。</span><span class="sxs-lookup"><span data-stu-id="d24bf-259">Configuring update settings using the Office 2016 Deployment Tool or Group Policy templates.</span></span>
-    
-- <span data-ttu-id="d24bf-260">Office 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。</span><span class="sxs-lookup"><span data-stu-id="d24bf-260">Setting up a single on-site distribution server for Office 365 ProPlus, including assistance with the creation of a configuration.xml file for use with the Office Deployment Tool.</span></span>
-    
-- <span data-ttu-id="d24bf-261">System Center Configuration Manager パッケージの作成サポートを含む、System Center Configuration Manager を使用した展開。</span><span class="sxs-lookup"><span data-stu-id="d24bf-261">Deployment using System Center Configuration Manager, including assistance with the creation of System Center Configuration Manager packaging.</span></span>
-    
-## <a name="microsoft-staffhub"></a><span data-ttu-id="d24bf-262">Microsoft StaffHub</span><span class="sxs-lookup"><span data-stu-id="d24bf-262">Microsoft StaffHub</span></span>
+## <a name="yammer-enterprise"></a><span data-ttu-id="7e40f-251">Yammer エンタープライズ</span><span class="sxs-lookup"><span data-stu-id="7e40f-251">Yammer Enterprise</span></span>
 
-<span data-ttu-id="d24bf-263">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="d24bf-263">Provide guidance about:</span></span>
+<span data-ttu-id="7e40f-252">単一の Yammer ベーシック ネットワークから単一の Yammer エンタープライズ ネットワークへの変換に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-252">Provide guidance about converting your single Yammer Basic network into a single Yammer Enterprise network.</span></span>
   
-- <span data-ttu-id="d24bf-264">Microsoft StaffHub が Office 365 テナントで有効であることの確認。</span><span class="sxs-lookup"><span data-stu-id="d24bf-264">Confirming Microsoft StaffHub is enabled on your Office 365 tenant.</span></span>
+## <a name="office-365-proplus"></a><span data-ttu-id="7e40f-253">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="7e40f-253">Office 365 ProPlus</span></span>
+
+<span data-ttu-id="7e40f-254">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-254">Provide guidance about:</span></span>
+- <span data-ttu-id="7e40f-255">展開の問題への対応。</span><span class="sxs-lookup"><span data-stu-id="7e40f-255">Addressing deployment issues.</span></span>
+- <span data-ttu-id="7e40f-256">Office 365 管理センター および Windows PowerShell を使用したエンド ユーザー ライセンスの割り当て。</span><span class="sxs-lookup"><span data-stu-id="7e40f-256">Assigning end-user licenses using the Office 365 admin center and Windows PowerShell.</span></span>
+- <span data-ttu-id="7e40f-257">クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。</span><span class="sxs-lookup"><span data-stu-id="7e40f-257">Installing Office 365 ProPlus from the Office 365 portal using Click-to-Run.</span></span>
+- <span data-ttu-id="7e40f-258">iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。</span><span class="sxs-lookup"><span data-stu-id="7e40f-258">Installing Office Mobile apps (like Outlook Mobile, Word Mobile, Excel Mobile, and PowerPoint Mobile) on your iOS, Android, or Windows Mobile devices.</span></span> 
+- <span data-ttu-id="7e40f-259">Office 2016 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。</span><span class="sxs-lookup"><span data-stu-id="7e40f-259">Configuring update settings using the Office 2016 Deployment Tool or Group Policy templates.</span></span>
+- <span data-ttu-id="7e40f-260">Office 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。</span><span class="sxs-lookup"><span data-stu-id="7e40f-260">Setting up a single on-site distribution server for Office 365 ProPlus, including assistance with the creation of a configuration.xml file for use with the Office Deployment Tool.</span></span>
+- <span data-ttu-id="7e40f-261">System Center Configuration Manager パッケージの作成サポートを含む、System Center Configuration Manager を使用した展開。</span><span class="sxs-lookup"><span data-stu-id="7e40f-261">Deployment using System Center Configuration Manager, including assistance with the creation of System Center Configuration Manager packaging.</span></span>
     
-- <span data-ttu-id="d24bf-265">ユーザーのライセンスの有効化と無効化。</span><span class="sxs-lookup"><span data-stu-id="d24bf-265">Enabling or disabling user licenses.</span></span>
+## <a name="microsoft-staffhub"></a><span data-ttu-id="7e40f-262">Microsoft StaffHub</span><span class="sxs-lookup"><span data-stu-id="7e40f-262">Microsoft StaffHub</span></span>
+
+<span data-ttu-id="7e40f-263">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="7e40f-263">Provide guidance about:</span></span>
+- <span data-ttu-id="7e40f-264">Microsoft StaffHub が Office 365 テナントで有効であることの確認。</span><span class="sxs-lookup"><span data-stu-id="7e40f-264">Confirming Microsoft StaffHub is enabled on your Office 365 tenant.</span></span>
+- <span data-ttu-id="7e40f-265">ユーザーのライセンスの有効化と無効化。</span><span class="sxs-lookup"><span data-stu-id="7e40f-265">Enabling or disabling user licenses.</span></span>
+- <span data-ttu-id="7e40f-266">コア製品の機能。</span><span class="sxs-lookup"><span data-stu-id="7e40f-266">Core product features.</span></span>
+- <span data-ttu-id="7e40f-267">Microsoft StaffHub のダウンロード場所。</span><span class="sxs-lookup"><span data-stu-id="7e40f-267">Download locations for Microsoft StaffHub.</span></span>
     
-- <span data-ttu-id="d24bf-266">コア製品の機能。</span><span class="sxs-lookup"><span data-stu-id="d24bf-266">Core product features.</span></span>
-    
-- <span data-ttu-id="d24bf-267">Microsoft StaffHub のダウンロード場所。</span><span class="sxs-lookup"><span data-stu-id="d24bf-267">Download locations for Microsoft StaffHub.</span></span>
-    
-<span data-ttu-id="d24bf-268">\*Office 365 US Government のための FastTrack でのお客様の責任については、「[Office 365 US Government のための FastTrack での責任](US-Gov-appendix-fasttrack-responsibilities.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d24bf-268">\*For information on FastTrack responsibilities for Office 365 US Government, see [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).</span></span>
+<span data-ttu-id="7e40f-268">\*Office 365 US Government のための FastTrack でのお客様の責任については、「[Office 365 US Government のための FastTrack での責任](US-Gov-appendix-fasttrack-responsibilities.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="7e40f-268">\*For information on FastTrack responsibilities for Office 365 US Government, see [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).</span></span>
 
