@@ -1,0 +1,64 @@
+{
+  "redirections": [ 
+    {
+      "source_path": "fasttrack/data-migration.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-data-migration",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/eligible-services-and-plans.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-eligible-services-and-plans",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/fasttrack-additional-benefits.md",
+      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-fasttrack-additional-benefits",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/fasttrack-benefit-for-office-365.md",
+      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/fasttrack-benefit-overview.md",
+      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-overview",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/fasttrack-process.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-fasttrack-process",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/fasttrack-responsibilities.md",
+      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-fasttrack-responsibilities",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/from-ibm-domino-to-exchange-online.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-from-ibm-domino-to-exchange-online",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/hipaa-business-associate-agreement.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-hipaa-business-associate-agreement",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/onboarding-and-migration.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-onboarding-and-migration",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/source-environment-expectations.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-source-environment-expectations",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/your-responsibilities.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-your-responsibilities",
+      "redirect_document_id": true
+    }
+  ]
+}
