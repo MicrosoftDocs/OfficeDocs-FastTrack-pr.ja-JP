@@ -1,39 +1,39 @@
 ---
-title: 付録 D - Office 365 の FastTrack センター給付金の概要米国政府
+title: '付録 D: Office 365 US Government 向け FastTrack Center の特典の概要'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2018
+ms.date: 10/01/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 ms.assetid: 5c619c4e-2ac5-4c2f-8d8c-acccff3b9b20
 description: Office 365 の FastTrack センターのメリットとを使用するリモートで Office 365 環境内の使用と計画の展開と、組織内で使用できる状態を取得するのには fasttrack というスペシャ リストです。
-ms.openlocfilehash: 8e866c57ebf4b9a8fededad0f307435f2445e3cc
-ms.sourcegitcommit: 04c086418a97082a88b7ab85b284e4741c1c9139
+ms.openlocfilehash: 262c5a2a4819a02339577f21aad1ba0996937ac5
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24057751"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565585"
 ---
-# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a><span data-ttu-id="1b371-103">付録 D - Office 365 の FastTrack センター給付金の概要米国政府</span><span class="sxs-lookup"><span data-stu-id="1b371-103">Appendix D - FastTrack Center Benefit Overview for Office 365 US Government</span></span>
+# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a><span data-ttu-id="d45b9-103">付録 D: Office 365 US Government 向け FastTrack Center の特典の概要</span><span class="sxs-lookup"><span data-stu-id="d45b9-103">Appendix D - FastTrack Center Benefit Overview for Office 365 US Government</span></span>
 
-<span data-ttu-id="1b371-104">Office 365 の FastTrack センターのメリットとを使用するリモートで Office 365 環境内の使用と計画の展開と、組織内で使用できる状態を取得するのには fasttrack というスペシャ リストです。</span><span class="sxs-lookup"><span data-stu-id="1b371-104">With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization.</span></span> 
+<span data-ttu-id="d45b9-104">Office 365 の FastTrack センターのメリットとを使用するリモートで Office 365 環境内の使用と計画の展開と、組織内で使用できる状態を取得するのには fasttrack というスペシャ リストです。</span><span class="sxs-lookup"><span data-stu-id="d45b9-104">With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization.</span></span> 
   
-<span data-ttu-id="1b371-p101">製品と機能のほとんど同じでは、Office 365 製品ファミリと Office 365 の米国政府との間のすべての機能はすべてのプランでは、現在利用可能です。機能の最新のリストについては、 [Office 365 の米国政府](https://aka.ms/aboutgovcloud)サービスの説明を確認します。</span><span class="sxs-lookup"><span data-stu-id="1b371-p101">Although most products and features are the same between Office 365 Suite and Office 365 U.S. Government, not all features are currently available in all plans. Review the [Office 365 US Government](https://aka.ms/aboutgovcloud) service description for the most up-to-date list of features.</span></span>
+<span data-ttu-id="d45b9-p101">製品と機能のほとんど同じでは、Office 365 製品ファミリと Office 365 の米国政府との間のすべての機能はすべてのプランでは、現在利用可能です。機能の最新のリストについては、 [Office 365 の米国政府](https://aka.ms/aboutgovcloud)サービスの説明を確認します。</span><span class="sxs-lookup"><span data-stu-id="d45b9-p101">Although most products and features are the same between Office 365 Suite and Office 365 U.S. Government, not all features are currently available in all plans. Review the [Office 365 US Government](https://aka.ms/aboutgovcloud) service description for the most up-to-date list of features.</span></span>
 
 > [!NOTE]
-><span data-ttu-id="1b371-107">一覧から[対象となるサービスとプラン](eligible-services-and-plans.md)fasttrack というサービスを受信するには、少なくとも 50 のライセンスを購入する必要があります。</span><span class="sxs-lookup"><span data-stu-id="1b371-107">You must purchase at least 50 licenses from the list of [Eligible Services and Plans](eligible-services-and-plans.md) to receive FastTrack services.</span></span>  
+> <span data-ttu-id="d45b9-107">Fasttrack というサービスを提供するには、 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)と要求のサポートに。</span><span class="sxs-lookup"><span data-stu-id="d45b9-107">To receive FastTrack services, go to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) and request assistance.</span></span>  
 
-<span data-ttu-id="1b371-108">以下のトピックについて説明します。</span><span class="sxs-lookup"><span data-stu-id="1b371-108">We cover the following topics:</span></span>
-- [<span data-ttu-id="1b371-109">FastTrack プロセス</span><span class="sxs-lookup"><span data-stu-id="1b371-109">The FastTrack Process</span></span>](fasttrack-process.md) 
-- [<span data-ttu-id="1b371-110">Office 365 の環境の期待をソース米国政府</span><span class="sxs-lookup"><span data-stu-id="1b371-110">Source Environment Expectations for Office 365 US Government</span></span>](US-Gov-appendix-source-environment-expectations.md)   
-- [<span data-ttu-id="1b371-111">契約時および移行フェーズの Office 365 の米国政府</span><span class="sxs-lookup"><span data-stu-id="1b371-111">Onboarding and Migration Phases for Office 365 US Government</span></span>](US-Gov-appendix-onboarding-and-migration.md)
-- [<span data-ttu-id="1b371-112">データ移行</span><span class="sxs-lookup"><span data-stu-id="1b371-112">Data Migration</span></span>](data-migration.md)    
-- [<span data-ttu-id="1b371-113">Fasttrack という責任を Office 365 の米国政府</span><span class="sxs-lookup"><span data-stu-id="1b371-113">FastTrack Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [<span data-ttu-id="1b371-114">Office 365 のための責任は、米国政府</span><span class="sxs-lookup"><span data-stu-id="1b371-114">Your Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-your-responsibilities.md) 
-- [<span data-ttu-id="1b371-115">付録 A: IBM Domino から Exchange Online への移行</span><span class="sxs-lookup"><span data-stu-id="1b371-115">Appendix A - Migration from IBM Domino to Exchange Online</span></span>](from-ibm-domino-to-exchange-online.md)   
-- [<span data-ttu-id="1b371-116">付録 B:FastTrack センターの付加的な利点</span><span class="sxs-lookup"><span data-stu-id="1b371-116">Appendix B - FastTrack Center Additional Benefit</span></span>](fasttrack-additional-benefits.md)
+<span data-ttu-id="d45b9-108">以下のトピックについて説明します。</span><span class="sxs-lookup"><span data-stu-id="d45b9-108">We cover the following topics:</span></span>
+- [<span data-ttu-id="d45b9-109">FastTrack プロセス</span><span class="sxs-lookup"><span data-stu-id="d45b9-109">The FastTrack Process</span></span>](O365-fasttrack-process.md) 
+- [<span data-ttu-id="d45b9-110">Office 365 の環境の期待をソース米国政府</span><span class="sxs-lookup"><span data-stu-id="d45b9-110">Source Environment Expectations for Office 365 US Government</span></span>](US-Gov-appendix-source-environment-expectations.md)   
+- [<span data-ttu-id="d45b9-111">契約時および移行フェーズの Office 365 の米国政府</span><span class="sxs-lookup"><span data-stu-id="d45b9-111">Onboarding and Migration Phases for Office 365 US Government</span></span>](US-Gov-appendix-onboarding-and-migration.md)
+- [<span data-ttu-id="d45b9-112">データ移行</span><span class="sxs-lookup"><span data-stu-id="d45b9-112">Data Migration</span></span>](O365-data-migration.md)    
+- [<span data-ttu-id="d45b9-113">Fasttrack という責任を Office 365 の米国政府</span><span class="sxs-lookup"><span data-stu-id="d45b9-113">FastTrack Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-fasttrack-responsibilities.md)   
+- [<span data-ttu-id="d45b9-114">Office 365 のための責任は、米国政府</span><span class="sxs-lookup"><span data-stu-id="d45b9-114">Your Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-your-responsibilities.md) 
+- [<span data-ttu-id="d45b9-115">付録 A: IBM Domino から Exchange Online への移行</span><span class="sxs-lookup"><span data-stu-id="d45b9-115">Appendix A - Migration from IBM Domino to Exchange Online</span></span>](O365-from-ibm-domino-to-exchange-online.md)   
+- [<span data-ttu-id="d45b9-116">付録 B: FastTrack センターの付加的な利点</span><span class="sxs-lookup"><span data-stu-id="d45b9-116">Appendix B - FastTrack Center Additional Benefit</span></span>](O365-fasttrack-additional-benefits.md)
 
 
