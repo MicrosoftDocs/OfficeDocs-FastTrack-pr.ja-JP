@@ -1,39 +1,39 @@
 ---
-title: 付録 D - Office 365 の FastTrack センター給付金の概要米国政府
+title: '付録 D: Office 365 US Government 向け FastTrack Center の特典の概要'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2018
+ms.date: 10/01/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 ms.assetid: 5c619c4e-2ac5-4c2f-8d8c-acccff3b9b20
 description: Office 365 の FastTrack センターのメリットとを使用するリモートで Office 365 環境内の使用と計画の展開と、組織内で使用できる状態を取得するのには fasttrack というスペシャ リストです。
-ms.openlocfilehash: 8e866c57ebf4b9a8fededad0f307435f2445e3cc
-ms.sourcegitcommit: 04c086418a97082a88b7ab85b284e4741c1c9139
+ms.openlocfilehash: 262c5a2a4819a02339577f21aad1ba0996937ac5
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24057751"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565585"
 ---
-# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>付録 D - Office 365 の FastTrack センター給付金の概要米国政府
+# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>付録 D: Office 365 US Government 向け FastTrack Center の特典の概要
 
 Office 365 の FastTrack センターのメリットとを使用するリモートで Office 365 環境内の使用と計画の展開と、組織内で使用できる状態を取得するのには fasttrack というスペシャ リストです。 
   
 製品と機能のほとんど同じでは、Office 365 製品ファミリと Office 365 の米国政府との間のすべての機能はすべてのプランでは、現在利用可能です。機能の最新のリストについては、 [Office 365 の米国政府](https://aka.ms/aboutgovcloud)サービスの説明を確認します。
 
 > [!NOTE]
->一覧から[対象となるサービスとプラン](eligible-services-and-plans.md)fasttrack というサービスを受信するには、少なくとも 50 のライセンスを購入する必要があります。  
+> Fasttrack というサービスを提供するには、 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)と要求のサポートに。  
 
 以下のトピックについて説明します。
-- [FastTrack プロセス](fasttrack-process.md) 
+- [FastTrack プロセス](O365-fasttrack-process.md) 
 - [Office 365 の環境の期待をソース米国政府](US-Gov-appendix-source-environment-expectations.md)   
 - [契約時および移行フェーズの Office 365 の米国政府](US-Gov-appendix-onboarding-and-migration.md)
-- [データ移行](data-migration.md)    
+- [データ移行](O365-data-migration.md)    
 - [Fasttrack という責任を Office 365 の米国政府](US-Gov-appendix-fasttrack-responsibilities.md)   
 - [Office 365 のための責任は、米国政府](US-Gov-appendix-your-responsibilities.md) 
-- [付録 A: IBM Domino から Exchange Online への移行](from-ibm-domino-to-exchange-online.md)   
-- [付録 B:FastTrack センターの付加的な利点](fasttrack-additional-benefits.md)
+- [付録 A: IBM Domino から Exchange Online への移行](O365-from-ibm-domino-to-exchange-online.md)   
+- [付録 B: FastTrack センターの付加的な利点](O365-fasttrack-additional-benefits.md)
 
 
