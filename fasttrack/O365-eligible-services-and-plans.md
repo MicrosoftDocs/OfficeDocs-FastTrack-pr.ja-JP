@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: (次の「対象となるサービス 」セクションで説明されているとおり) Office 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Office 365 にオンボーディングして、それを活用する方法に関するガイダンスを提供します。
-ms.openlocfilehash: fc77165f725ab48dd16237c62f11589792df39cf
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353644"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565561"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -45,9 +45,9 @@ FastTrack Center は、次の [Office 365 サービス](https://go.microsoft.com
 - Office 365 ProPlus
 - Microsoft StaffHub
     
-## <a name="eligible-commercial-plans"></a>対象となる商用プラン
+## <a name="eligible-plans"></a>対象となるプラン
 
-FastTrack サービスを受けるには、以下の対象となるプラン (同等の Office 365 Germany プランを含む) のリストから少なくとも 50 のライセンスを購入しなければなりません。
+FastTrack サービスを受けるには、以下の対象となるプランのリストから少なくとも 150 のライセンスを購入しなければなりません。
   
  **Office 365**
   
@@ -66,12 +66,22 @@ FastTrack サービスを受けるには、以下の対象となるプラン (�
 - Office 365 US Government F1\*
 - Office 365 ProPlus
     
+ **Office 365 Education**
+  
+- Office 365 A3
+- Office 365 A5
+
  **Microsoft 365 Enterprise**
   
 - Microsoft 365 E3\*\*\*
 - Microsoft 365 E5\*\*\*
 - Microsoft 365 Business\*\*\*
     
+ **Microsoft 365 Education**
+  
+- Microsoft 365 A3\*\*\*
+- Microsoft 365 A5\*\*\*
+
  **Exchange Online**
   
 - Exchange Online プラン 1
@@ -106,27 +116,9 @@ FastTrack サービスを受けるには、以下の対象となるプラン (�
     
  **Yammer**
   
-- Yammer Enterprise
-    
-## <a name="eligible-education-plans"></a>対象となる教育機関向けプラン
-
-FastTrack サービスは、Office 365 for Education および Microsoft 365 for Education で、次に示す対象となるプランから 1000 ライセンス以上を購入した場合にのみ、利用可能です。
-  
- **Office 365 Education**
-  
-- Office 365 A3
-- Office 365 A5
-    
- **Microsoft 365 Education**
-  
-- Microsoft 365 A3\*\*\*
-- Microsoft 365 A5\*\*\*
-    
+- Yammer Enterprise 
 > [!NOTE]
-> 2017 年 12 月 1 日までに Office 365 A5 プランを購入または更新した場合、FastTrack の特典の資格を得るためのシート数の最小要件は、現在のサブスクリプション期間中に 50 シートとなります。Office 365 A5 プランを 2017 年 12 月 1 日以降に購入または更新した場合、FastTrack の特典の資格を得るためのシート数の最小要件は、1000 シートです。 
-  
-> [!NOTE]
-> 無料で利用できるプラン (Office 365 A1 や学生向けの特典プランなど) は、FastTrack サポートの対象外になります。 
+> FastTrack Center 特典の対象かどうかは、前述の対象となるプランの有料ライセンスを購入したかどうかに基づきます。無料で利用できるプラン (Office 365 A1、Office 365 Nonprofit Business Essentials、学生が利用する特典プランなど) は、FastTrack サポートの対象外となります。 
   
 ## <a name="ineligible-plans"></a>対象外のプラン
 
