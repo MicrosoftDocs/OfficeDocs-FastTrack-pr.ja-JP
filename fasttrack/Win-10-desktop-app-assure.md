@@ -3,7 +3,7 @@ title: FastTrack Center の特典の概要
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Windows 10 用 FastTrack Center 特典では、Windows 10 と Office 365 ProPlus アプリの互換性の問題に対応するために設計された新しいサービス、Desktop App Assure へのアクセスを提供します。
-ms.openlocfilehash: cf0a6d320044e2ae521b8558d8e50723cbc55035
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 09d76a0744fc07f412d1ec7e217c6f5cad69b21b
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353804"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895596"
 ---
 # <a name="desktop-app-assure"></a>Desktop App Assure
 
