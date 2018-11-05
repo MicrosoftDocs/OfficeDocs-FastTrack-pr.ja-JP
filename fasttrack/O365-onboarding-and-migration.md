@@ -3,20 +3,20 @@ title: オンボーディングと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
-description: Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 082e8c7f6e1be83cfb4a980b1b1632d0c3f12724
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+description: Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
+ms.openlocfilehash: b98b8fe8e2f6542edc04923d72ff7b0dc38ef3fb
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353784"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895752"
 ---
 # <a name="onboarding-and-migration-phases"></a>オンボーディングと移行のフェーズ
 
@@ -33,14 +33,27 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
 
 適切な数とタイプのライセンスを購入した後、購入確認メールのガイダンスに従って、ライセンスを既存や新規のテナントに関連付けます。 
   
-Office 365 管理センターまたは [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得することができます。Office 365 管理センターからヘルプを取得するには、管理者は管理センターにサインインして、 **[サポートを依頼する]** をクリックします。 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得するには、 **[サービス]** をクリックして、 **[Office 365 のサポートを要求する]** フォームを完成させます。 
-    
+[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)または [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 
+
+[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)からヘルプを取得するには、管理者は管理センターにサインインして、**[サポートを依頼する]** をクリックします。 
+
+[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
+1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.  **[FastTrack]** を選択します。
+3.  **[サービス]** を選択します。
+4.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。 
 > [!NOTE]
 >  パートナーが Office 365 テナント一覧に表示されている場合、このオプションは表示されません。パートナーにサポートを依頼してください。 
   
-パートナーもお客様の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得することができます。そのために、パートナーはサイトにサインインして、顧客レコードを選択します。 **[サービス]** をクリックし、 **[Office 365 のサポートを要求する]** フォームを完成させます。 
+パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
+1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.  **[FastTrack]** を選択します。
+3.  **[顧客]** を選択します。
+4.  顧客を検索するか、顧客リストから選択します。
+5.  **[サービス]** を選択します。
+6.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。
 
-また、テナントで利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)から FastTrack Center のサポートを依頼できます。 
+テナントが利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) から FastTrack センター サポートを依頼することもできます。 
     
 このフェーズで、オンボーディング プロセスについて説明し、データを検証し、キックオフ ミーティングのスケジュールを設定します。これには、共に作業して、サービスの使用法や、サービスの利用状況を促進するための組織の目標や計画について理解することも含まれます。
   
@@ -94,8 +107,9 @@ Exchange Online の場合、組織がメールをすぐに使用できるよう�
 - DNS のセットアップ。必須の自動検出、Sender Policy Framework (SPF)、および MX レコード (必要な場合) が含まれます。 
 - ソース メッセージング環境と Exchange Online との間のメール フローをセットアップします (必要な場合)。
 - ソースのメッセージング環境から Office 365 にメール移行を実行。
+- メールボックス クライアント (Outlook for Windows、Outlook on the web、iOS および Android 用の Outlook) の構成。
     > [!NOTE]
-    > メールとデータの移行についての詳細は、「[データ移行](O365-data-migration.md)」をご覧ください。 
+    > メールとデータの移行についての詳細は、「[データ移行](O365-data-migration.md)」を参照してください。 
   
 ![有効化フェーズ中の Exchange オンボーディング ステップ](media/O365-Onboarding-Enable-Exchange.png)
   
@@ -162,8 +176,8 @@ Project Online では、次の作業のガイダンスを提供します。
 
 Project Online Professional と Project Online Premium では、次の作業のガイダンスを提供します。
 - 展開の問題への対応。
-- Office 365 管理センター および Windows PowerShell を使用したエンド ユーザー ライセンスの割り当て。  
-- クイック実行を使用した Office 365 ポータルからの Project Online デスクトップ クライアント のインストール。
+- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。  
+- クイック実行を使用した Office 365 ポータルからの Project Online デスクトップ クライアントのインストール。
 - Office 展開ツールを使用した更新設定の構成。  
 - Office 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Project Online デスクトップ クライアント 用の 1 つのオンサイト配布サーバーのセットアップ。  
 - Project Online デスクトップ クライアント の Project Online Professional または Project Online Premium への接続。
@@ -178,7 +192,7 @@ Yammer では、Yammer Enterprise サービスを有効にするためのガイ�
 
 Office 365 ProPlus では、次の作業のガイダンスを提供します。
 - 展開の問題への対応。   
-- Office 365 管理センター および Windows PowerShell を使用したエンド ユーザー ライセンスの割り当て。 
+- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。 
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。   
 - iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 展開ツールを使用した更新設定の構成。   
@@ -197,6 +211,9 @@ Microsoft StaffHub では、次の作業のガイダンスを提供します。
     
 ![Microsoft StaffHub オンボーディング手順](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
+## <a name="outlook-for-ios-and-android"></a>iOS および Android 用の Outlook
 
-  
+iOS および Android 用の Outlook では、次のガイダンスが用意されています。
+- Apple App Store や Google Play からの iOS および Android 用の Outlook のダウンロード。
+- アカウントの構成、および Exchange Online メールボックスへのアクセス。
 
