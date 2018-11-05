@@ -3,7 +3,7 @@ title: FastTrack プロセス
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: FastTrack プロセスでは、オンボーディングと、ユーザー採用サービスが提供されます。
-ms.openlocfilehash: 3a41e1a41bae421472af6c5d8645808410a0664f
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: d5f2ec3442dabda1cff09577a65992942e09611e
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353594"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895668"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack プロセス
 
@@ -38,8 +38,15 @@ FastTrack プロセスでは、オンボーディングと、ユーザー採用�
   
 ![オンボーディング特典を利用する場合のタイムライン](media/O365-Onboarding-Timeline.png)
   
-Office 365 管理センターまたは [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得することができます。Office 365 管理センターからヘルプを取得するには、管理者は管理センターにサインインして、 **[サポートを依頼する]** をクリックします。 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得するには、 **[サービス]** をクリックして、 **[Office 365 のサポートを要求する]** フォームを完成させます。 
-    
+[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)または [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 
+
+[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)からヘルプを取得するには、管理者は管理センターにサインインして、**[サポートを依頼する]** をクリックします。 
+
+[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
+1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.  **[FastTrack]** を選択します。
+3.  **[サービス]** を選択します。
+4.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。 
 > [!NOTE]
 >  パートナーが Office 365 テナント一覧に表示されている場合、このオプションは表示されません。パートナーにサポートを依頼してください。 
   
@@ -47,7 +54,13 @@ Office 365 管理センターまたは [FastTrack サイト](https://go.microsof
     
  オンボーディング支援を開始すると、オンライン会議のスケジュールが決まります。
     
-パートナーもお客様の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得することができます。そのために、パートナーはサイトにサインインして、顧客レコードを選択します。 **[サービス]** をクリックし、 **[Office 365 のサポートを要求する]** フォームを完成させます。 
+パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
+1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.  **[FastTrack]** を選択します。
+3.  **[顧客]** を選択します。
+4.  顧客を検索するか、顧客リストから選択します。
+5.  **[サービス]** を選択します。
+6.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。 
 
 次の表は、プロセスでの役割と責任を一覧にしたものです。
     

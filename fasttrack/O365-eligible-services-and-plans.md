@@ -3,30 +3,46 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
-description: (次の「対象となるサービス 」セクションで説明されているとおり) Office 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Office 365 にオンボーディングして、それを活用する方法に関するガイダンスを提供します。
-ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
-ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
+description: Office 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Office 365 にオンボーディングしてそれを活用する方法に関するガイダンスを提供します。
+ms.openlocfilehash: b363cd679a86896f24597ad713749bf762877691
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "25565561"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895584"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
 (次の「**対象となるサービス **」セクションで説明されているとおり) Office 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Office 365 にオンボーディングして、それを活用する方法に関するガイダンスを提供します。 
   
-- Office 365 管理センターまたは [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得することができます。Office 365 管理センターからヘルプを取得するには、管理者は管理センターにサインインして、 **[サポートを依頼する]** をクリックします。 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得するには、 **[サービス]** をクリックして、 **[Office 365 のサポートを要求する]** フォームを完成させます。   
+[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)または [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 
+
+[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)からヘルプを取得するには、管理者は管理センターにサインインして、**[サポートを依頼する]** をクリックします。 
+
+[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
+1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.  **[FastTrack]** を選択します。
+3.  **[サービス]** を選択します。
+4.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。
     > [!NOTE]
     >  パートナーが Office 365 テナント一覧に表示されている場合、このオプションは表示されません。パートナーにサポートを依頼してください。 
-- パートナーもお客様の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得することができます。そのために、パートナーはサイトにサインインして、顧客レコードを選択します。 **[サービス]** をクリックし、 **[Office 365 のサポートを要求する]** フォームを完成させます。 
-- テナントが利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) から FastTrack センター サポートを依頼することもできます。 
+
+パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
+1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.  **[FastTrack]** を選択します。
+3.  **[顧客]** を選択します。
+4.  顧客を検索するか、顧客リストから選択します。
+5.  **[サービス]** を選択します。
+6.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。
+
+テナントが利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) から FastTrack センター サポートを依頼することもできます。 
 > [!NOTE]
 > FastTrack のスペシャリストがガイダンスを提供する前に、お客様のオンプレミスの環境は FastTrack センター のチェックに合格する必要があります。 
   
@@ -47,7 +63,7 @@ FastTrack Center は、次の [Office 365 サービス](https://go.microsoft.com
     
 ## <a name="eligible-plans"></a>対象となるプラン
 
-FastTrack サービスを受けるには、以下の対象となるプランのリストから少なくとも 150 のライセンスを購入しなければなりません。
+FastTrack サービスを受けるには、以下の対象となるプランのリストから*少なくとも* 150 のライセンスを購入しなければなりません。
   
  **Office 365**
   

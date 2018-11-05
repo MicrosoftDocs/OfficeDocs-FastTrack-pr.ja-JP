@@ -3,7 +3,7 @@ title: FastTrack の責任範囲
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 813fc4c1f4fdb48bdae8184b9afc0528dcb4feb7
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2c02450376b3a64e1e7e63b966d284f3223567f9
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353734"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895644"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -103,8 +103,9 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - ソース メッセージング システムと Office 365 環境との間での電子メール ルーティングの有効化。 
 - Exchange Online Protection 機能 (サブスクリプションで利用できる場合は Exchange Online Advanced Threat Protection も含む) を構成して、メールが有効な検証済みのすべてのドメインで MX レコードがOffice 365 をポイントしていることを確認します。
 - 1 つのオンプレミスの Exchange 組織と Office 365 の間、*または*複数のオンプレミスの Exchange 組織と Office 365 の間におけるハイブリッド セットアップの構成。 
+- メールボックス クライアント (Outlook for Windows、Outlook on the web、iOS および Android 用の Outlook) の構成。
     
-データ移行の責任について詳しくは、「[データ移行](O365-data-migration.md)」をご覧ください。
+データ移行の責任について詳しくは、「[データ移行](O365-data-migration.md)」を参照してください。
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -191,8 +192,8 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 
 次の点に関するガイダンスを行います。
 - 展開の問題への対応。
-- Office 365 管理センター および Windows PowerShell を使用したエンド ユーザー ライセンスの割り当て。
-- ポータルからの Project Online デスクトップ クライアント のダウンロードとインストール。   
+- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。
+- ポータルからの Project Online デスクトップ クライアントのダウンロードとインストール。   
 - Office 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。
 - Office 2016 展開ツールの configuration.xml ファイルを作成するためのガイダンスを含む Project Online デスクトップ クライアント 用の 1 つのオンサイト配布サーバーのセットアップ。 
 - Project Online デスクトップ クライアント の Project Online への接続。
@@ -205,9 +206,9 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 
 次の点に関するガイダンスを行います。
 - 展開の問題への対応。
-- Office 365 管理センター および Windows PowerShell を使用したエンド ユーザー ライセンスの割り当て。
+- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。
-- iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。 
+- iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (iOS および Android 用の Outlook、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。 
 - Office 2016 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。
 - Office 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。
 - System Center Configuration Manager パッケージの作成サポートを含む、System Center Configuration Manager を使用した展開。
@@ -220,5 +221,11 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - コア製品の機能。
 - Microsoft StaffHub のダウンロード場所。
     
+## <a name="outlook-for-ios-and-android"></a>iOS および Android 用の Outlook
+
+次の点に関するガイダンスを行います。
+- iOS および Android デバイスへの Outlook のダウンロード。
+- Outlook 内でのメール アカウントの構成。
+
 \*Office 365 US Government のための FastTrack でのお客様の責任については、「[Office 365 US Government のための FastTrack での責任](US-Gov-appendix-fasttrack-responsibilities.md)」を参照してください。
 

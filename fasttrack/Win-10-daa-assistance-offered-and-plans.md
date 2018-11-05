@@ -3,7 +3,7 @@ title: FastTrack Center の特典の概要
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Windows 10 または Microsoft 365 のサービスを購入すると、Windows 10 や Office 365 ProPlus を展開し、無償で最新の状態を保つ (対象のサブスクリプションにより) 際のサポートとして、FastTrack スペシャリストによるアドバイスと修復ガイダンスが提供されます。
-ms.openlocfilehash: 493e38ad0e091c77eec78bd2e388f8429fe223c0
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353674"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895620"
 ---
 # <a name="assistance-offered-and-eligible-plans"></a>提供されるサポートと対象プラン   
 
-Windows 10 または Microsoft 365 のサービス (詳しくは、次の**対象となるプラン** セクションをご覧ください) を購入すると、Windows 10 や Office 365 ProPlus を展開し、無償で最新の状態を保つ (対象のサブスクリプションにより) 際のサポートとして、FastTrack スペシャリストによるアドバイスと修復ガイダンスが提供されます。
+Windows 10 または Microsoft 365 のサービス (詳しくは、次の「**対象となるプラン**」セクションをご覧ください) を購入すると、Windows 10 および Office 365 ProPlus に展開する際に、アプリの互換性に関する問題が発生した場合、FastTrack スペシャリストによるアドバイスと修復ガイダンスが提供され、(対象のサブスクリプションにより) 追加費用なく最新の状態を保つことができます。
 
 ヘルプを表示するには、[Desktop App Assure のサービス要求](https://go.microsoft.com/fwlink/?linkid=2022721)を実行します。
 
