@@ -11,22 +11,14 @@
 ### [付録 B: FastTrack センターの付加的な利点](O365-fasttrack-additional-benefits.md)
 ### [付録 C: FastTrack Center HIPAA ビジネス アソシエイト契約](O365-hipaa-business-associate-agreement.md)
 ### [付録 D: Office 365 US Government 向け FastTrack Center の特典の概要](US-Gov-appendix-overview.md)
-# 
-  [Enterprise Mobility + Security (EMS) 向け FastTrack Center の特典](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
-## 
-  [FastTrack Center の特典の対象となるサービスとプラン](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-## 
-  [Enterprise Mobility + Security (EMS) 向け FastTrack Center の特典プロセス](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [FastTrack Center の特典の概要](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [ソース環境要件](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [オンボーディング フェーズ](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [FastTrack の責任範囲](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [お客様の責任](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
+# [Enterprise Mobility + Security (EMS) 向け FastTrack Center の特典](https://docs.microsoft.com/ja-JP/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
+## [FastTrack Center の特典の対象となるサービスとプラン](https://docs.microsoft.com/ja-JP/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
+## [Enterprise Mobility + Security (EMS) 向け FastTrack Center の特典プロセス](https://docs.microsoft.com/ja-JP/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
+### [FastTrack Center の特典の概要](https://docs.microsoft.com/ja-JP/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
+### [ソース環境要件](https://docs.microsoft.com/ja-JP/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
+### [オンボーディング フェーズ](https://docs.microsoft.com/ja-JP/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
+### [FastTrack の責任範囲](https://docs.microsoft.com/ja-JP/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
+### [お客様の責任](https://docs.microsoft.com/ja-JP/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
 # [Windows 10 用 FastTrack Center 特典](Win-10-fasttrack-benefit-for-Windows-10.md)
 ## [Desktop App Assure](Win-10-desktop-app-assure.md)
 ### [提供されるサポートと対象プラン](Win-10-daa-assistance-offered-and-plans.md)
