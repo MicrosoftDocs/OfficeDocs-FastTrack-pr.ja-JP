@@ -3,7 +3,7 @@ title: FastTrack プロセス
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: FastTrack プロセスでは、オンボーディングと、ユーザー採用サービスが提供されます。
-ms.openlocfilehash: d5f2ec3442dabda1cff09577a65992942e09611e
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: d4e090f6a9e692ae3de2238b9626a78bc806ccfe
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895668"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133015"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack プロセス
 

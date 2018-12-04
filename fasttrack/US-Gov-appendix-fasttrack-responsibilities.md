@@ -3,7 +3,7 @@ title: Fasttrack という責任を Office 365 の米国政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895548"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133123"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Fasttrack という責任を Office 365 の米国政府
 
@@ -103,7 +103,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - 1 つのオンプレミスの Exchange 組織と Office 365 の間、*または*複数のオンプレミスの Exchange 組織と Office 365 の間におけるハイブリッド セットアップの構成。 
 - ユニファイド メッセージング (UM) と Exchange Online に設定 (UM は GCC の DoD の計画では使用できません)。 
     
-データ移行の責任について詳しくは、「[データ移行](O365-data-migration.md)」をご覧ください。
+データ移行の責任について詳しくは、「[データ移行](O365-data-migration.md)」を参照してください。
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -200,7 +200,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 
 次の点に関するガイダンスを行います。
 - 展開の問題への対応。   
-- [Microsoft 365 管理者センター](https://go.microsoft.com/fwlink/?linkid=2032704)および Windows PowerShell を使用してエンド ユーザー ライセンスを割り当てます。  
+- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。  
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。   
 - iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 2016 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。   

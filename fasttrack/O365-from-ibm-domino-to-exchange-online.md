@@ -3,7 +3,7 @@ title: 付録 A IBM Domino から Exchange Online への移行
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 7519ee6f-67e6-4064-b1b2-a26f35cdba0b
 description: IBM Domino から Exchange Online への移行には、次の段階中での処理内容を含む、いくつかの重要な側面があります。
-ms.openlocfilehash: ed901d469d699f081f2ee2726b9e9b94e94cb3df
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 70151f726a2368d61262d540d77041cff21fa7c3
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895680"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133111"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>付録 A - IBM Domino から Exchange Online への移行
 

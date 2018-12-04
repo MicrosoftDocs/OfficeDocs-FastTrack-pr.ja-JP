@@ -3,7 +3,7 @@ title: ソース環境要件
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 533063e2-2630-46f3-9a88-ad07bb7dac9a
 description: FastTrack Center 特典は、ソース環境との統合のレベルを設定するためのガイダンスを提供します (たとえば、Office 365 に移動するソース環境内に既にサービスが含まれている場合)。
-ms.openlocfilehash: b0fd0250d0c90e760ebab1663feb03a42ee4c775
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 58c16617cabb1d65ba51dc290b00ab26214de54d
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895632"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133135"
 ---
 # <a name="source-environment-expectations"></a>ソース環境要件
 

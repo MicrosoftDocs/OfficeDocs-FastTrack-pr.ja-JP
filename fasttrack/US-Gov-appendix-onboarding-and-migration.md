@@ -3,7 +3,7 @@ title: 契約時および移行フェーズの Office 365 の米国政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 の米国政府の office 365 の契約時に 4 つのフェーズ、査定、Remediate を開始して有効にします。次の図に示すようには、省略可能なデータ移行の段階でこれらのフェーズを追跡できます。
-ms.openlocfilehash: cd98e88d8b602c67eb3a449145a3e29399595801
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895608"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133075"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>契約時および移行フェーズの Office 365 の米国政府
 
@@ -30,25 +30,25 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
 
 適切な数とタイプのライセンスを購入した後、購入確認メールのガイダンスに従って、ライセンスを既存や新規のテナントに関連付けます。 
   
-[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)または[fasttrack というサイト](https://go.microsoft.com/fwlink/?linkid=780698)でヘルプを取得できます。 
+[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)または [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 
  
-[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)を使用してヘルプを表示するのには、管理者が管理センターに署名し、しをクリックすると、**のヘルプが必要ですか?** ウィジェット。 
+[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)からヘルプを取得するには、管理者は管理センターにサインインして、**[サポートを依頼する]** をクリックします。 
 
-[Fasttrack というサイト](https://go.microsoft.com/fwlink/?linkid=780698)でヘルプを表示します。 
-1.  [Fasttrack というサイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **FastTrack**を選択します。
-3.  **サービス**を選択します。
-4.  **Microsoft 365 に関する支援の要求**フォームに記入します。 
+[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
+1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.  **[FastTrack]** を選択します。
+3.  **[サービス]** を選択します。
+4.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。 
     > [!NOTE]
     >  パートナーが Office 365 テナント一覧に表示されている場合、このオプションは表示されません。パートナーにサポートを依頼してください。 
 
-パートナーはヘルプをお客様に代わって[fasttrack というサイト](https://go.microsoft.com/fwlink/?linkid=780698)を表示もできます。実行します。
-1.  [Fasttrack というサイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **FastTrack**を選択します。
-3.  **顧客**を選択します。
-4.  お客様の検索や、顧客リストから選択します。
-5.  **サービス**を選択します。
-6.  **Microsoft 365 に関する支援の要求**フォームに記入します。   
+パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
+1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.  **[FastTrack]** を選択します。
+3.  **[顧客]** を選択します。
+4.  顧客を検索するか、顧客リストから選択します。
+5.  **[サービス]** を選択します。
+6.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。   
 
 テナントが利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) から FastTrack センター サポートを依頼することもできます。 
     
@@ -184,7 +184,7 @@ Yammer では、Yammer Enterprise サービスを有効にするためのガイ�
 
 Office 365 ProPlus では、次の作業のガイダンスを提供します。 
 - 展開の問題への対応。    
-- [Microsoft 365 管理者センター](https://go.microsoft.com/fwlink/?linkid=2032704)および Windows PowerShell を使用してエンド ユーザー ライセンスを割り当てます。    
+- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。    
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。    
 - iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 展開ツールを使用した更新設定の構成。    
