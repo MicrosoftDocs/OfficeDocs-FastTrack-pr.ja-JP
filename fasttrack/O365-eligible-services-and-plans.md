@@ -3,7 +3,7 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: Office 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Office 365 にオンボーディングしてそれを活用する方法に関するガイダンスを提供します。
-ms.openlocfilehash: b363cd679a86896f24597ad713749bf762877691
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 1fbdd21a53abbb6b3bcef22081b2abb321d8fa4c
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895584"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133003"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
