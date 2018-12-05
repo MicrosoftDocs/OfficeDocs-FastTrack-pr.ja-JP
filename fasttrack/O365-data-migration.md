@@ -3,7 +3,7 @@ title: データ移行
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack スペシャリストは、Office 365 へのデータ移行の手順に関するガイダンスを提供します。Office 365 サービス (Exchange Online、OneDrive for Business、SharePoint Online 用) のすべての対象ユーザーが利用できます。
-ms.openlocfilehash: cf4093bbaa775c0d4be1bac2fa895aa6b48f83fc
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895776"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133159"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -219,6 +219,9 @@ FastTrack スペシャリストは、移行中に以下のことを行います�
 - 移行後の移行修復フェーズを実施します (必要な場合)。
 - 変更の管理とエンド ユーザーとの通信を計画し、実装します (該当する場合)。   
 - 評価と移行の作業を正常に完了するために必要な、ソース システムとデバイスに対する変更を管理および設定します。
+
+> [!NOTE]
+> Microsoft は、ファイルの移行速度を保証することはできません。
     
 ## <a name="migration-to-onedrive-for-business"></a>OneDrive for Business への移行
 
@@ -294,5 +297,6 @@ FastTrack スペシャリストは、移行中に以下のことを行います�
 - 変更の管理とエンド ユーザーとの通信を計画し、実装します (該当する場合)。  
 - 評価と移行の作業を正常に完了するために必要な、ソース システムとデバイスに対する変更を管理および設定します。
     
-  
+> [!NOTE]
+> Microsoft は、ファイルの移行速度を保証することはできません。  
 
