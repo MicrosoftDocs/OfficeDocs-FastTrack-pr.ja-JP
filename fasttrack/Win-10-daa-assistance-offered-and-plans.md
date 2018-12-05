@@ -1,9 +1,9 @@
 ---
-title: FastTrack Center の特典の概要
+title: 提供されるサポートと対象プラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,60 +13,60 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Windows 10 または Microsoft 365 のサービスを購入すると、Windows 10 や Office 365 ProPlus を展開し、無償で最新の状態を保つ (対象のサブスクリプションにより) 際のサポートとして、FastTrack スペシャリストによるアドバイスと修復ガイダンスが提供されます。
-ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 2834c0e68b37aeb316efa2f157f3388fb5ee83e7
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895620"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27132979"
 ---
-# <a name="assistance-offered-and-eligible-plans"></a><span data-ttu-id="befb1-103">提供されるサポートと対象プラン</span><span class="sxs-lookup"><span data-stu-id="befb1-103">Assistance Offered and Eligible Plans</span></span>   
+# <a name="assistance-offered-and-eligible-plans"></a><span data-ttu-id="fca9e-103">提供されるサポートと対象プラン</span><span class="sxs-lookup"><span data-stu-id="fca9e-103">Assistance Offered and Eligible Plans</span></span>   
 
-<span data-ttu-id="befb1-104">Windows 10 または Microsoft 365 のサービス (詳しくは、次の「**対象となるプラン**」セクションをご覧ください) を購入すると、Windows 10 および Office 365 ProPlus に展開する際に、アプリの互換性に関する問題が発生した場合、FastTrack スペシャリストによるアドバイスと修復ガイダンスが提供され、(対象のサブスクリプションにより) 追加費用なく最新の状態を保つことができます。</span><span class="sxs-lookup"><span data-stu-id="befb1-104">When you purchase any of the Windows 10 or Microsoft 365 services (as detailed in the following **Eligible plans** section), FastTrack Specialists provide advisory and remediation guidance to deploy to Windows 10 and Office 365 ProPlus and stay up-to-date at no additional cost (with an eligible subscription).</span></span>
+<span data-ttu-id="fca9e-104">Windows 10 または Microsoft 365 のサービス (詳しくは、次の「**対象となるプラン**」セクションをご覧ください) を購入すると、Windows 10 および Office 365 ProPlus に展開する際に、アプリの互換性に関する問題が発生した場合、FastTrack スペシャリストによるアドバイスと修復ガイダンスが提供され、(対象のサブスクリプションにより) 追加費用なく最新の状態を保つことができます。</span><span class="sxs-lookup"><span data-stu-id="fca9e-104">When you purchase any of the Windows 10 or Microsoft 365 services (as detailed in the following **Eligible plans** section), FastTrack Specialists provide advisory and remediation guidance if you encounter app compatibility issues as you deploy to Windows 10 and Office 365 ProPlus and stay up-to-date at no additional cost (with an eligible subscription).</span></span>
 
-<span data-ttu-id="befb1-105">ヘルプを表示するには、[Desktop App Assure のサービス要求](https://go.microsoft.com/fwlink/?linkid=2022721)を実行します。</span><span class="sxs-lookup"><span data-stu-id="befb1-105">To get help, complete the [Desktop App Assure service request](https://go.microsoft.com/fwlink/?linkid=2022721).</span></span>
+<span data-ttu-id="fca9e-105">ヘルプを表示するには、[Desktop App Assure のサービス要求](https://go.microsoft.com/fwlink/?linkid=2022721)を実行します。</span><span class="sxs-lookup"><span data-stu-id="fca9e-105">To get help, complete the [Desktop App Assure service request](https://go.microsoft.com/fwlink/?linkid=2022721).</span></span>
 
-<span data-ttu-id="befb1-p101">パートナーもお客様の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得することができます。そのために、パートナーはサイトにサインインして、顧客レコードを選択します。**[サービス]** をクリックし、**[Desktop App Assure のサポートを要求する]** フォームを完成させます。</span><span class="sxs-lookup"><span data-stu-id="befb1-p101">Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so, the partner signs into the site, selects the customer record, clicks **Services**, and completes the **Request for Assistance for Desktop App Assure** form.</span></span>
+<span data-ttu-id="fca9e-p101">パートナーもお客様の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) からヘルプを取得することができます。そのために、パートナーはサイトにサインインして、顧客レコードを選択します。**[サービス]** をクリックし、**[Desktop App Assure のサポートを要求する]** フォームを完成させます。</span><span class="sxs-lookup"><span data-stu-id="fca9e-p101">Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so, the partner signs into the site, selects the customer record, clicks **Services**, and completes the **Request for Assistance for Desktop App Assure** form.</span></span>
 
-## <a name="assistance-offered"></a><span data-ttu-id="befb1-108">提供されているサポート</span><span class="sxs-lookup"><span data-stu-id="befb1-108">Assistance offered</span></span>
+## <a name="assistance-offered"></a><span data-ttu-id="fca9e-108">提供されているサポート</span><span class="sxs-lookup"><span data-stu-id="fca9e-108">Assistance offered</span></span>
 
-<span data-ttu-id="befb1-109">FastTrack は、次のサポートを提供します。</span><span class="sxs-lookup"><span data-stu-id="befb1-109">FastTrack provides assistance for the following:</span></span>
-- <span data-ttu-id="befb1-110">Windows 7 で動作するアプリを Windows 10 での動作も有効にします。</span><span class="sxs-lookup"><span data-stu-id="befb1-110">Enable apps that work on Windows 7 to also work on Windows 10.</span></span>
-- <span data-ttu-id="befb1-111">サポート対象:</span><span class="sxs-lookup"><span data-stu-id="befb1-111">Support for:</span></span>
-    - <span data-ttu-id="befb1-112">お客様が開発した Windows 10 のサポートされるバージョンを対象にしたアプリ。</span><span class="sxs-lookup"><span data-stu-id="befb1-112">Customer-developed apps targeting a supported version of Windows 10.</span></span>
-    - <span data-ttu-id="befb1-113">Windows 10 のサポートされるバージョンを対象にしたサードパーティ製の独立系ソフトウェア ベンダー (ISV) のアプリ。</span><span class="sxs-lookup"><span data-stu-id="befb1-113">Third-party independent software vendor (ISV) apps targeting a supported version of Windows 10.</span></span>
-    - <span data-ttu-id="befb1-114">Windows 10 のサポートされるバージョンを対象にしたマクロやアドインを含む Office 365 ProPlus。</span><span class="sxs-lookup"><span data-stu-id="befb1-114">Office 365 ProPlus targeting a supported version of Windows 10, including macros and add-ins.</span></span>
-    - <span data-ttu-id="befb1-115">Windows 10 のサポートされるバージョンを対象にした Microsoft 製品やサービス。</span><span class="sxs-lookup"><span data-stu-id="befb1-115">Microsoft products and services targeting a supported version of Windows 10.</span></span>
-    - <span data-ttu-id="befb1-116">Windows 10 デスクトップと Web アプリ。</span><span class="sxs-lookup"><span data-stu-id="befb1-116">Windows 10 desktop and web apps.</span></span>
+<span data-ttu-id="fca9e-109">FastTrack は、次のサポートを提供します。</span><span class="sxs-lookup"><span data-stu-id="fca9e-109">FastTrack provides assistance for the following:</span></span>
+- <span data-ttu-id="fca9e-110">Windows 7 で動作するアプリを Windows 10 での動作も有効にします。</span><span class="sxs-lookup"><span data-stu-id="fca9e-110">Enable apps that work on Windows 7 to also work on Windows 10.</span></span>
+- <span data-ttu-id="fca9e-111">サポート対象:</span><span class="sxs-lookup"><span data-stu-id="fca9e-111">Support for:</span></span>
+    - <span data-ttu-id="fca9e-112">お客様が開発した Windows 10 のサポートされるバージョンを対象にしたアプリ。</span><span class="sxs-lookup"><span data-stu-id="fca9e-112">Customer-developed apps targeting a supported version of Windows 10.</span></span>
+    - <span data-ttu-id="fca9e-113">Windows 10 のサポートされるバージョンを対象にしたサードパーティ製の独立系ソフトウェア ベンダー (ISV) のアプリ。</span><span class="sxs-lookup"><span data-stu-id="fca9e-113">Third-party independent software vendor (ISV) apps targeting a supported version of Windows 10.</span></span>
+    - <span data-ttu-id="fca9e-114">Windows 10 のサポートされるバージョンを対象にしたマクロやアドインを含む Office 365 ProPlus。</span><span class="sxs-lookup"><span data-stu-id="fca9e-114">Office 365 ProPlus targeting a supported version of Windows 10, including macros and add-ins.</span></span>
+    - <span data-ttu-id="fca9e-115">Windows 10 のサポートされるバージョンを対象にした Microsoft 製品やサービス。</span><span class="sxs-lookup"><span data-stu-id="fca9e-115">Microsoft products and services targeting a supported version of Windows 10.</span></span>
+    - <span data-ttu-id="fca9e-116">Windows 10 デスクトップと Web アプリ。</span><span class="sxs-lookup"><span data-stu-id="fca9e-116">Windows 10 desktop and web apps.</span></span>
 > [!NOTE]
-> <span data-ttu-id="befb1-117">FastTrack は、互換性の問題を解決するために合理的な範囲であらゆる努力を払います。</span><span class="sxs-lookup"><span data-stu-id="befb1-117">FastTrack makes every reasonable effort to resolve compatibility issues.</span></span> 
+> <span data-ttu-id="fca9e-117">FastTrack は、互換性の問題を解決するために合理的な範囲であらゆる努力を払います。</span><span class="sxs-lookup"><span data-stu-id="fca9e-117">FastTrack makes every reasonable effort to resolve compatibility issues.</span></span> 
 
-## <a name="out-of-scope"></a><span data-ttu-id="befb1-118">対象外</span><span class="sxs-lookup"><span data-stu-id="befb1-118">Out of scope</span></span>
+## <a name="out-of-scope"></a><span data-ttu-id="fca9e-118">対象外</span><span class="sxs-lookup"><span data-stu-id="fca9e-118">Out of scope</span></span>
 
-<span data-ttu-id="befb1-119">FastTrack のサポート対象外:</span><span class="sxs-lookup"><span data-stu-id="befb1-119">FastTrack doesn’t provide assistance for:</span></span>
-- <span data-ttu-id="befb1-120">アプリのインベントリと、Windows 10 で何が動作し、何が動作しないかを判断するためのテスト。</span><span class="sxs-lookup"><span data-stu-id="befb1-120">App inventory and testing to determine what does and doesn’t work on Windows 10.</span></span>
-- <span data-ttu-id="befb1-121">サード パーティ製の ISV アプリの Windows 10 との互換性に関する調査とサポートに関する声明。</span><span class="sxs-lookup"><span data-stu-id="befb1-121">Researching third-party ISV apps for Windows 10 compatibility and support statements.</span></span>
-- <span data-ttu-id="befb1-p102">アプリのパッケージ専用サービス。ただし、Desktop App Assure チームでは、お客様の環境でアプリが展開できるように Windows 10 向けに修復したアプリはパッケージ化します。</span><span class="sxs-lookup"><span data-stu-id="befb1-p102">App packaging-only services. However, the Desktop App Assure team packages apps that we have remediated for Windows 10 to ensure they can be deployed in the customer’s environment.</span></span>
+<span data-ttu-id="fca9e-119">FastTrack のサポート対象外:</span><span class="sxs-lookup"><span data-stu-id="fca9e-119">FastTrack doesn’t provide assistance for:</span></span>
+- <span data-ttu-id="fca9e-120">アプリのインベントリと、Windows 10 で何が動作し、何が動作しないかを判断するためのテスト。</span><span class="sxs-lookup"><span data-stu-id="fca9e-120">App inventory and testing to determine what does and doesn’t work on Windows 10.</span></span>
+- <span data-ttu-id="fca9e-121">サード パーティ製の ISV アプリの Windows 10 との互換性に関する調査とサポートに関する声明。</span><span class="sxs-lookup"><span data-stu-id="fca9e-121">Researching third-party ISV apps for Windows 10 compatibility and support statements.</span></span>
+- <span data-ttu-id="fca9e-p102">アプリのパッケージ専用サービス。ただし、Desktop App Assure チームでは、お客様の環境でアプリが展開できるように Windows 10 向けに修復したアプリはパッケージ化します。</span><span class="sxs-lookup"><span data-stu-id="fca9e-p102">App packaging-only services. However, the Desktop App Assure team packages apps that we have remediated for Windows 10 to ensure they can be deployed in the customer’s environment.</span></span>
     > [!NOTE]
-    > <span data-ttu-id="befb1-p103">Microsoft はお客様のソース コードを変更することはできません。ただし、Desktop App Assure チームでは、ソース コードがアプリで使用可能な場合はアプリ開発者に対してガイダンスを提供することができます。</span><span class="sxs-lookup"><span data-stu-id="befb1-p103">Microsoft can’t make changes to your source code. However, the Desktop App Assure team can provide guidance to app developers if the source code is available for your apps.</span></span>
+    > <span data-ttu-id="fca9e-p103">Microsoft はお客様のソース コードを変更することはできません。ただし、Desktop App Assure チームでは、ソース コードがアプリで使用可能な場合はアプリ開発者に対してガイダンスを提供することができます。</span><span class="sxs-lookup"><span data-stu-id="fca9e-p103">Microsoft can’t make changes to your source code. However, the Desktop App Assure team can provide guidance to app developers if the source code is available for your apps.</span></span>
 
  
-## <a name="eligible-plans"></a><span data-ttu-id="befb1-126">対象となるプラン</span><span class="sxs-lookup"><span data-stu-id="befb1-126">Eligible plans</span></span>
+## <a name="eligible-plans"></a><span data-ttu-id="fca9e-126">対象となるプラン</span><span class="sxs-lookup"><span data-stu-id="fca9e-126">Eligible plans</span></span>
 
-<span data-ttu-id="befb1-127">Desktop App Assure の FastTrack サービスを受けるには、以下の対象となるプランのリストから少なくとも 150 のライセンスを購入しなければなりません。</span><span class="sxs-lookup"><span data-stu-id="befb1-127">You must purchase at least 150 licenses from the list of the following eligible plans to receive FastTrack services for Desktop App Assure:</span></span>
+<span data-ttu-id="fca9e-127">Desktop App Assure の FastTrack サービスを受けるには、以下の対象となるプランのリストから少なくとも 150 のライセンスを購入しなければなりません。</span><span class="sxs-lookup"><span data-stu-id="fca9e-127">You must purchase at least 150 licenses from the list of the following eligible plans to receive FastTrack services for Desktop App Assure:</span></span>
 
-### <a name="windows-10"></a><span data-ttu-id="befb1-128">Windows 10</span><span class="sxs-lookup"><span data-stu-id="befb1-128">Windows 10</span></span>
-- <span data-ttu-id="befb1-129">Windows 10 E3</span><span class="sxs-lookup"><span data-stu-id="befb1-129">Windows 10 E3</span></span>
-- <span data-ttu-id="befb1-130">Windows 10 E5</span><span class="sxs-lookup"><span data-stu-id="befb1-130">Windows 10 E5</span></span>
-- <span data-ttu-id="befb1-131">Windows 10 Education A3</span><span class="sxs-lookup"><span data-stu-id="befb1-131">Windows 10 Education A3</span></span>
-- <span data-ttu-id="befb1-132">Windows 10 Education A5</span><span class="sxs-lookup"><span data-stu-id="befb1-132">Windows 10 Education A5</span></span> 
-- <span data-ttu-id="befb1-133">ソフトウェア アシュアランス付きの Windows 10 Enterprise</span><span class="sxs-lookup"><span data-stu-id="befb1-133">Windows 10 Enterprise with Software Assurance</span></span>
+### <a name="windows-10"></a><span data-ttu-id="fca9e-128">Windows 10</span><span class="sxs-lookup"><span data-stu-id="fca9e-128">Windows 10</span></span>
+- <span data-ttu-id="fca9e-129">Windows 10 E3</span><span class="sxs-lookup"><span data-stu-id="fca9e-129">Windows 10 E3</span></span>
+- <span data-ttu-id="fca9e-130">Windows 10 E5</span><span class="sxs-lookup"><span data-stu-id="fca9e-130">Windows 10 E5</span></span>
+- <span data-ttu-id="fca9e-131">Windows 10 Education A3</span><span class="sxs-lookup"><span data-stu-id="fca9e-131">Windows 10 Education A3</span></span>
+- <span data-ttu-id="fca9e-132">Windows 10 Education A5</span><span class="sxs-lookup"><span data-stu-id="fca9e-132">Windows 10 Education A5</span></span> 
+- <span data-ttu-id="fca9e-133">ソフトウェア アシュアランス付きの Windows 10 Enterprise</span><span class="sxs-lookup"><span data-stu-id="fca9e-133">Windows 10 Enterprise with Software Assurance</span></span>
 
-### <a name="microsoft-365"></a><span data-ttu-id="befb1-134">Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="befb1-134">Microsoft 365</span></span>
-- <span data-ttu-id="befb1-135">Microsoft 365 E3</span><span class="sxs-lookup"><span data-stu-id="befb1-135">Microsoft 365 E3</span></span>
-- <span data-ttu-id="befb1-136">Microsoft 365 E5</span><span class="sxs-lookup"><span data-stu-id="befb1-136">Microsoft 365 E5</span></span>
-- <span data-ttu-id="befb1-137">Microsoft 365 Education A3</span><span class="sxs-lookup"><span data-stu-id="befb1-137">Microsoft 365 Education A3</span></span>
-- <span data-ttu-id="befb1-138">Microsoft 365 Education A5</span><span class="sxs-lookup"><span data-stu-id="befb1-138">Microsoft 365 Education A5</span></span>
+### <a name="microsoft-365"></a><span data-ttu-id="fca9e-134">Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="fca9e-134">Microsoft 365</span></span>
+- <span data-ttu-id="fca9e-135">Microsoft 365 E3</span><span class="sxs-lookup"><span data-stu-id="fca9e-135">Microsoft 365 E3</span></span>
+- <span data-ttu-id="fca9e-136">Microsoft 365 E5</span><span class="sxs-lookup"><span data-stu-id="fca9e-136">Microsoft 365 E5</span></span>
+- <span data-ttu-id="fca9e-137">Microsoft 365 Education A3</span><span class="sxs-lookup"><span data-stu-id="fca9e-137">Microsoft 365 Education A3</span></span>
+- <span data-ttu-id="fca9e-138">Microsoft 365 Education A5</span><span class="sxs-lookup"><span data-stu-id="fca9e-138">Microsoft 365 Education A5</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="befb1-p104">Windows 10 アプリをビルドする商用 ISV に対するライセンスの最小要件はありません。すべてのアプリ要件は、現在 Windows のメインストリーム サービスに含まれている Windows 10 または Office 365 ProPlus バージョンを対象にしている必要があります。</span><span class="sxs-lookup"><span data-stu-id="befb1-p104">There’s no minimum licensing requirement for commercial ISVs building Windows 10 apps. All app requests must be targeting a Windows 10 or Office 365 ProPlus version that’s currently within the mainstream servicing window.</span></span> 
+> <span data-ttu-id="fca9e-p104">Windows 10 アプリをビルドする商用 ISV に対するライセンスの最小要件はありません。すべてのアプリ要件は、現在 Windows のメインストリーム サービスに含まれている Windows 10 または Office 365 ProPlus バージョンを対象にしている必要があります。</span><span class="sxs-lookup"><span data-stu-id="fca9e-p104">There’s no minimum licensing requirement for commercial ISVs building Windows 10 apps. All app requests must be targeting a Windows 10 or Office 365 ProPlus version that’s currently within the mainstream servicing window.</span></span> 
