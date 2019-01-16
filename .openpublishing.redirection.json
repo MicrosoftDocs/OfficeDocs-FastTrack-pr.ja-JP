@@ -6,8 +6,8 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "fasttrack/eligible-services-and-plans.md", 
-      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-eligible-services-and-plans",
+      "source_path": "fasttrack/O365-eligible-services-and-plans.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/M365-eligible-services-and-plans",
       "redirect_document_id": true
     },
     {
@@ -58,6 +58,11 @@
     {
       "source_path": "fasttrack/your-responsibilities.md", 
       "redirect_url": "https://docs.microsoft.com/fasttrack/O365-your-responsibilities",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/Win-10-daa-assistance-offered-and-plans.md", 
+      "redirect_url": "https://docs.microsoft.com/en-us/fasttrack/win-10-daa-assistance-offered",
       "redirect_document_id": true
     }
   ]
