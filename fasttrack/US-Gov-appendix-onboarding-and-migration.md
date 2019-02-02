@@ -3,20 +3,19 @@ title: 契約時および移行フェーズの Office 365 の米国政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 の米国政府の office 365 の契約時に 4 つのフェーズ、査定、Remediate を開始して有効にします。次の図に示すようには、省略可能なデータ移行の段階でこれらのフェーズを追跡できます。
-ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133075"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696772"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>契約時および移行フェーズの Office 365 の米国政府
 
@@ -118,7 +117,7 @@ SharePoint Online と OneDrive for Business では、次の作業のガイダン
 - DNS の設定。   
 - ファイアウォール ポートの構成。   
 - ユーザーとライセンスのプロビジョニング。   
-- ハイブリッド検索、ハイブリッド サイト、ハイブリッド分類、コンテンツ タイプ、ハイブリッド セルフサービス サイト作成 (SharePoint Server 2013 のみ)、拡張アプリ起動ツール、ハイブリッド OneDrive for Business、エクストラネット サイトなどの SharePoint ハイブリッド 機能の構成。
+- ハイブリッド検索、ハイブリッド サイト、ハイブリッドの分類、コンテンツの種類と同様に、SharePoint のハイブリッド機能を構成するハイブリッド セルフ サービス サイト作成 (SharePoint Server 2013 のみ)、拡張、アプリケーションの起動プログラムは、ビジネス、およびエクストラネット サイト用の OneDrive のハイブリッドです。
     
 FastTrack スペシャリストは、ツールとドキュメントを組み合わせて使用することにより、また適切な場合や実行可能な場合には構成タスクを実行することにより、Office 365 へのデータ移行の手順に関するガイダンスを提供します。
   
@@ -187,8 +186,8 @@ Office 365 ProPlus では、次の作業のガイダンスを提供します。
 - [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。    
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。    
 - iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
-- Office 展開ツールを使用した更新設定の構成。    
-- Office 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。    
+- Office 365 の展開ツールを使用して更新プログラムの設定を構成しています。    
+- Office 365 用リソース、Office 365 の展開ツールを使用するための configuration.xml ファイルの作成に関するサポートを含むため、オンサイトの 1 つのディストリビューション サーバーを設定します。    
 - System Center Configuration Manager パッケージの作成サポートを含む、Microsoft System Center Configuration Manager を使用した展開。
     
 ![Office ProPlus オンボーディング ステップ](media/O365-Onboarding-Enable-OProPlus.png)
