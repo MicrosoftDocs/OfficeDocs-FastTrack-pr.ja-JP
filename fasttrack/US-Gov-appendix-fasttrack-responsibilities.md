@@ -3,20 +3,19 @@ title: Fasttrack という責任を Office 365 の米国政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133123"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696784"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Fasttrack という責任を Office 365 の米国政府
 
@@ -42,14 +41,14 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
   - クライアントのニーズ (インターネット ブラウザー、クライアント オペレーティング システム、モバイル デバイス、サービスのニーズ)。
   - ユーザー ID およびプロビジョニング 
   - 購入済みでオンボーディングの一部として定義されている対象サービスの有効化。
-  - 正常なサービス採用の促進と価値の増進。   
+  - サービス導入と価値実現の促進。   
 - 修復アクティビティのタイムラインの設定。
 - 修復チェックリストの提供。   
 - 既存の SharePoint Server 2013 または SharePoint Server 2016 インフラストラクチャの評価。以下が含まれます。  
-  - SharePoint Online ハイブリッド の前提条件。  
-  - オンプレミスのインフラストラクチャの SharePoint Online ハイブリッド 機能の準備状況。  
+  - SharePoint Online のハイブリッドの前提条件です。  
+  - ハイブリッド機能を SharePoint Online のオンプレミス インフラストラクチャ準備します。  
   - 必要な SharePoint Online エンドポイントへのアクセス。 
-  - OneDrive for Business ハイブリッド の対象ユーザー。    
+  - ビジネスのハイブリッドの OneDrive の対象です。    
 - 既存の Lync または Skype for Business Online インフラストラクチャの評価。以下が含まれます。  
   - サポートされる Skype for Business クライアント展開の戦略。  
   - エンドポイントへのアクセス。  
@@ -115,11 +114,11 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - 個人用サイトおよびソーシャル機能の有効化。   
 - SharePoint Online 機能の構成。    
 - FastTrack センターのデータ移行サービスを使用し、かつ資格を満たす場合は、データ移行を提供します。  
-- SharePoint Online ハイブリッド に必要なオンプレミスの SharePoint ファームのインフラストラクチャ構成を評価します。    
+- SharePoint Online のハイブリッドのために必要な設置型の SharePoint ファーム インフラストラクチャ構成を評価しています。    
 - 次に関してツールと自動化を使用します。 
   - オンプレミスのクラウド検索サービス アプリケーションの構成。    
   - SharePoint オンプレミス環境とクラウド環境間の信頼の構成。   
-- SharePoint Online ハイブリッド 機能の使用に向けたオンプレミスの SharePoint サイトの構成。
+- SharePoint Online のハイブリッド機能を使用する設置型の SharePoint サイトを構成しています。
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -135,7 +134,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - エンドユーザー ライセンスの割り当て。   
 - SharePoint Online 対象ユーザーのセットアップ、および OneDrive for Business を取得するユーザーの制御と管理。    
 - OneDrive for Business 同期クライアントのデスクトップへの展開。   
-- SharePoint Online ハイブリッド OneDrive for Business リダイレクトの構成方法 (SharePoint 2013 および SharePoint 2016 のみ)。  
+- SharePoint Online のハイブリッド OneDrive のビジネスのリダイレクト (SharePoint 2013 と SharePoint 2016 のみ) を構成する方法。  
 - FastTrack Center のデータ移行サービスを使っており、かつ資格を満たす場合は、データ移行。
     
 ## <a name="skype-for-business-online"></a>Skype for Business Online
@@ -204,7 +203,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。   
 - iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 2016 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。   
-- Office 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。   
+- Office 365 用リソース、Office 365 の展開ツールを使用するための configuration.xml ファイルの作成に関するサポートを含むため、オンサイトの 1 つのディストリビューション サーバーを設定します。   
 - System Center Configuration Manager パッケージの作成サポートを含む、System Center Configuration Manager を使用した展開。
 
     
