@@ -3,7 +3,7 @@ title: 提供されているサポート
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 のサービスを購入すると、Windows 10 や Office 365 ProPlus を展開し、無償で最新の状態を保つ (対象のサブスクリプションにより) 際のサポートとして、FastTrack スペシャリストによるアドバイスと修復ガイダンスが提供されます。
-ms.openlocfilehash: 895807ab93688552e200eb6aba6d1c77b982db87
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: d7d79c78102d229d15e0b55dfc18d1063371ef17
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472793"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696628"
 ---
 # <a name="assistance-offered"></a>提供されているサポート  
 
@@ -39,6 +39,12 @@ FastTrack は、次のサポートを提供します。
     - Windows 10 デスクトップと Web アプリ。
 > [!NOTE]
 > FastTrack は、互換性の問題を解決するために合理的な範囲であらゆる努力を払います。 
+
+> [!NOTE]
+> FastTrack は、Windows 10 でサポートされている新しいバージョンがある場合、以前のバージョンの ISV アプリを修復できません。
+
+> [!NOTE]
+> ソフトウェアのプロバイダーが Office 365 ProPlus でサポートされている新しいバージョンを持っている場合、FastTrack は、以前のバージョンのサードパーティ製アドイン ソフトウェアを修復できません。
 
 ## <a name="out-of-scope"></a>対象外
 

@@ -3,20 +3,19 @@ title: FastTrack プロセス
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: FastTrack プロセスでは、オンボーディングと、ユーザー採用サービスが提供されます。
-ms.openlocfilehash: d4e090f6a9e692ae3de2238b9626a78bc806ccfe
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 401faec69b6d33cd4f07814c6e598cc5e5ccf359
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133015"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696736"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack プロセス
 
@@ -44,9 +43,8 @@ FastTrack プロセスでは、オンボーディングと、ユーザー採用�
 
 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
 1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **[FastTrack]** を選択します。
-3.  **[サービス]** を選択します。
-4.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。 
+2.  **[サービス]** を選択します。
+3.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。 
 > [!NOTE]
 >  パートナーが Office 365 テナント一覧に表示されている場合、このオプションは表示されません。パートナーにサポートを依頼してください。 
   
@@ -56,11 +54,10 @@ FastTrack プロセスでは、オンボーディングと、ユーザー採用�
     
 パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
 1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **[FastTrack]** を選択します。
-3.  **[顧客]** を選択します。
-4.  顧客を検索するか、顧客リストから選択します。
-5.  **[サービス]** を選択します。
-6.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。 
+2.  **[顧客]** を選択します。
+3.  顧客を検索するか、顧客リストから選択します。
+4.  **[サービス]** を選択します。
+5.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。 
 
 次の表は、プロセスでの役割と責任を一覧にしたものです。
     

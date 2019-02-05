@@ -3,23 +3,22 @@ title: 付録 BFastTrack センターの付加的な利点
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-ms.assetid: 880b4cf1-e778-4725-af25-7fb6fe10c504
 description: FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「対象となるサービスとプラン」を参照してください。
-ms.openlocfilehash: 73307846da4c45bcee64c5e9a9c21d1a3e806fe6
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: abdb722bdb69945a1a90d8cae3fe71a5259e9dc9
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133087"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696724"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>付録 B - FastTrack Center の付加的な利点
 
-FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「[対象となるサービスとプラン](O365-eligible-services-and-plans.md)」を参照してください。 
+FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「[対象となるサービスとプラン](M365-eligible-services-and-plans.md)」を参照してください。 
   
 ## <a name="onboarding-and-migration-phases"></a>オンボーディングと移行のフェーズ
 
@@ -43,7 +42,7 @@ Skype for Business Online では、オンプレミスの Lync および Skype fo
 
 Office 365 ProPlus では、次に示すガイダンスを提供します。 
 - Microsoft のベストプラクティスに従って初期展開をして更新を管理するための環境の準備に焦点を当てた評価と計画。 
-- Office 展開ツールによる展開構成と更新設定の策定。 
+- Office 365 展開ツールによる展開構成と更新設定の策定。 
 - System Center Configuration Manager を使用した展開パッケージング。  
 - ビジネスに不可欠な Office 文書の使用とアプリケーション互換性のソリューションを評価するためのガイダンスを提供するための、Office テレメトリの展開と構成。
     
