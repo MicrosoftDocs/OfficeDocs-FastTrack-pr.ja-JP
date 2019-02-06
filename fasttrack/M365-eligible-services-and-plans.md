@@ -3,19 +3,19 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: 167568338d4d4a9e1132761c821fcaa63868bc0a
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472805"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696808"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -30,19 +30,17 @@ Microsoft 365 サービスのいずれかを購入すると、FastTrack スペ�
 
 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
 1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **[FastTrack]** を選択します。
-3.  **[サービス]** を選択します。
-4.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。
+2.  **[サービス]** を選択します。
+3.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。
     > [!NOTE]
     >  パートナーが Office 365 テナント一覧に表示されている場合、このオプションは表示されません。パートナーにサポートを依頼してください。 
 
 パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
 1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **[FastTrack]** を選択します。
-3.  **[顧客]** を選択します。
-4.  顧客を検索するか、顧客リストから選択します。
-5.  **[サービス]** を選択します。
-6.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。
+2.  **[顧客]** を選択します。
+3.  顧客を検索するか、顧客リストから選択します。
+4.  **[サービス]** を選択します。
+5.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。
 
 テナントが利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) から FastTrack センター サポートを依頼することもできます。 
 
@@ -56,8 +54,8 @@ FastTrack Center は、次のサービスのサポートを提供します。
 - Exchange Online
 - SharePoint Online
 - OneDrive for Business
-- Skype for Business Online
 - Microsoft Teams
+- Skype for Business Online
 - Power BI
 - Project Online
 - Yammer エンタープライズ 
@@ -71,9 +69,9 @@ FastTrack Center は、次のサービスのサポートを提供します。
   
  **Microsoft 365 Enterprise**
 
-- Microsoft 365 E3
-- Microsoft 365 E5
-- Microsoft 365 Business
+- Microsoft 365 E3\*
+- Microsoft 365 E5\*
+- Microsoft 365 Business\*
     
  **Microsoft 365 Education**
 
@@ -134,9 +132,9 @@ FastTrack Center は、次のサービスのサポートを提供します。
     
  **Skype for Business Online**
   
--  電話システム 
--  通話プラン 
--  電話会議 
+-  電話システム\*\*\* 
+-  通話プラン\*\*\* 
+-  電話会議\*\*\*
 -  Skype for Business Online プラン 1  
 -  Skype for Business Online プラン 2
     
@@ -147,6 +145,8 @@ FastTrack Center は、次のサービスのサポートを提供します。
 \*この特典の説明で述べられている、FastTrack の対象となるクラウド サービスと機能でのみ利用可能です。
 
 \*\*米国政府機関向けの FastTrack の特典の詳細については、「[Office 365 US Government](https://aka.ms/aboutgovcloud)」を参照してください。
+
+\*\*\*Skype for Business Online と Microsoft Teams の両方のライセンスを付与済みのユーザーに使用できます。
 
 > [!NOTE]
 > FastTrack Center 特典の対象かどうかは、前述の対象となるプランの有料ライセンスを購入したかどうかに基づきます。 

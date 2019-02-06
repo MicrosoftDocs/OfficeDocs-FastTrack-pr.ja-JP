@@ -3,20 +3,19 @@ title: オンボーディングと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 4f5f089a05def67e3b7bee9d4ace5cbce636c4c3
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: b77b4f02256c4b443c41f4740036e4a88519202d
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133183"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696844"
 ---
 # <a name="onboarding-and-migration-phases"></a>オンボーディングと移行のフェーズ
 
@@ -39,19 +38,17 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
 
 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
 1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **[FastTrack]** を選択します。
-3.  **[サービス]** を選択します。
-4.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。 
+2.  **[サービス]** を選択します。
+3.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。 
 > [!NOTE]
 >  パートナーが Office 365 テナント一覧に表示されている場合、このオプションは表示されません。パートナーにサポートを依頼してください。 
   
 パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
 1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **[FastTrack]** を選択します。
-3.  **[顧客]** を選択します。
-4.  顧客を検索するか、顧客リストから選択します。
-5.  **[サービス]** を選択します。
-6.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。
+2.  **[顧客]** を選択します。
+3.  顧客を検索するか、顧客リストから選択します。
+4.  **[サービス]** を選択します。
+5.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。
 
 テナントが利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) から FastTrack センター サポートを依頼することもできます。 
     
@@ -102,7 +99,9 @@ Exchange Online の場合、組織がメールをすぐに使用できるよう�
 - Office 365 で検証される、メールが有効なすべてのドメインの Exchange Online Protection (EOP) 機能の設定。
     > [!NOTE]
     > メール交換 (MX) レコードは、Office 365 をポイントする必要があります。 
-- MX レコードが Office 365 をポイントしたら、サブスクリプション サービスの一部である Exchange Online Advanced Threat Protection (ATP) 機能を設定する。この機能は、Exchange Online Protection のマルウェア対策の設定の一部として構成されます。
+- Exchange Online Advanced Threat Protection (ATP) 機能がサブスクリプション サービスの一部の場合、これを設定します。設定は、MX レコードが Office 365 をポイントすると実行されます。この機能は、Exchange Online Protection のマルウェア対策の設定の一部として構成されます。
+- サブスクリプション サービスの一部として、Office 365 で検証済みのすべてのメールが有効なドメインに、データ損失防止 (DLP) 機能を設定します。この設定は、MX レコードが Office 365 をポイントすると実行されます。
+- サブスクリプション サービスの一部として、Office 365 で検証済みのすべてのメールが有効なドメインに、Office 365 Message Encryption (OME) を設定します。この設定は、MX レコードが Office 365 をポイントすると実行されます。
 - ファイアウォール ポートの構成。
 - DNS のセットアップ。必須の自動検出、Sender Policy Framework (SPF)、および MX レコード (必要な場合) が含まれます。 
 - ソース メッセージング環境と Exchange Online との間のメール フローをセットアップします (必要な場合)。
@@ -119,7 +118,7 @@ SharePoint Online と OneDrive for Business では、次の作業のガイダン
 - DNS の設定。
 - ファイアウォール ポートの構成。
 - ユーザーとライセンスのプロビジョニング。   
-- ハイブリッド検索、ハイブリッド サイト、ハイブリッド分類、コンテンツ タイプ、ハイブリッド セルフサービス サイト作成 (SharePoint Server 2013 のみ)、拡張アプリ起動ツール、ハイブリッド OneDrive for Business、エクストラネット サイトなどの SharePoint ハイブリッド 機能の構成。
+- ハイブリッド検索、ハイブリッド サイト、ハイブリッド分類、コンテンツ タイプ、ハイブリッド セルフサービス サイト作成 (SharePoint Server 2013 のみ)、拡張アプリ起動ツール、ハイブリッド OneDrive for Business、エクストラネット サイトなどの SharePoint ハイブリッド機能の構成。
     
 FastTrack スペシャリストは、ツールとドキュメントを組み合わせて使用することにより、また適切な場合や実行可能な場合には構成タスクを実行することにより、Office 365 へのデータ移行の手順に関するガイダンスを提供します。
   
@@ -131,6 +130,19 @@ OneDrive for Business の場合は、現在 SharePoint を使っているかど�
   
 ![有効化フェーズ中の OneDrive オンボーディング ステップ](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+Microsoft Teams では、次の作業のガイダンスを提供します。
+- 最小要件の確認。  
+- ファイアウォール ポートの構成。   
+- DNS の設定。 
+- Microsoft Teams が Office 365 テナントで有効であることの確認。  
+- ユーザーのライセンスの有効化と無効化。
+    
+![FastTrack Microsoft Teams の図 (有効化フェーズ)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+
+![Microsoft Teams は Skype の機能を共有](media/Teams-Skype-features.png)
+
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
 Skype for Business Online では、次の作業のガイダンスを提供します。
@@ -143,17 +155,6 @@ Skype for Business Online では、次の作業のガイダンスを提供しま
 ![有効化フェーズ中の Lync オンボーディング ステップ_1](media/O365-Onboarding-Enable-Lync.png)
   
 ![有効化フェーズ中の Skype for Business オンボーディング ステップ_2](media/SfBOifappborderupdate.png)
-  
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-Microsoft Teams では、次の作業のガイダンスを提供します。
-- 最小要件の確認。  
-- ファイアウォール ポートの構成。   
-- DNS の設定。 
-- Microsoft Teams が Office 365 テナントで有効であることの確認。  
-- ユーザーのライセンスの有効化と無効化。
-    
-![FastTrack Microsoft Teams の図 (有効化フェーズ)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
@@ -178,9 +179,9 @@ Project Online Professional と Project Online Premium では、次の作業の�
 - 展開の問題への対応。
 - [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。  
 - クイック実行を使用した Office 365 ポータルからの Project Online デスクトップ クライアントのインストール。
-- Office 展開ツールを使用した更新設定の構成。  
-- Office 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Project Online デスクトップ クライアント 用の 1 つのオンサイト配布サーバーのセットアップ。  
-- Project Online デスクトップ クライアント の Project Online Professional または Project Online Premium への接続。
+- Office 365 展開ツールを使用した更新設定の構成。  
+- Office 365 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Project Online デスクトップ クライアント用の 1 つのオンサイト配布サーバーのセットアップ。  
+- Project Online デスクトップ クライアントの Project Online Professional または Project Online Premium への接続。
     
 ![Project for Office 365 を有効にする段階で発生する手順です。](media/f0133291-7c12-4db0-af61-75ec5e71451c.png)
   
@@ -194,9 +195,9 @@ Office 365 ProPlus では、次の作業のガイダンスを提供します。
 - 展開の問題への対応。   
 - [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。 
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。   
-- iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
-- Office 展開ツールを使用した更新設定の構成。   
-- Office 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。  
+- iOS、Android、Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
+- Office 365 展開ツールを使用した更新設定の構成。   
+- Office 365 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。  
 - System Center Configuration Manager パッケージの作成サポートを含む、Microsoft System Center Configuration Manager を使用した展開。
     
 ![Office ProPlus オンボーディング ステップ](media/O365-Onboarding-Enable-OProPlus.png)
