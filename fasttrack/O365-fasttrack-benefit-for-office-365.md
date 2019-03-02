@@ -3,7 +3,7 @@ title: Office 365 用 FastTrack Center 特典
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 対象となるサービスや Office 365 テナントのプランについて少なくとも 150 ライセンスを購入する場合は、Office 365 用 FastTrack Center 特典を使います。その後、FastTrack のスペシャリストと共に該当するサービスを評価、修復、有効化し、利用状況を促進する作業を行うことができます。これらのスペシャリストは、移行のガイダンスも提供します。
-ms.openlocfilehash: 73363c63590545b7ede05b068a7bbd38fbc9cb0d
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 4b3cd472783781342265797ebf3b71cc9debc8cf
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696640"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355141"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Office 365 用 FastTrack Center 特典
 
@@ -32,7 +32,7 @@ FastTrack センター の移行サービスの資格を得るには、Office 36
   
 FastTrack Center のプロセスの説明、およびだれが何を担当するかについては、「[FastTrack Center の特典の概要](O365-fasttrack-benefit-overview.md)」を参照してください。
   
-[Enterprise Mobility + Security 用の FastTrack Center 特典](https://go.microsoft.com/fwlink/?linkid=2005312)に関する情報をお探しですか。内容は以下のとおりです。
+[Enterprise Mobility + Security 用の FastTrack Center 特典](EMS-fasttrack-benefit-for-EMS.md)に関する情報をお探しですか。内容は以下のとおりです。
   
 - Microsoft Intune    
 - Azure Active Directory Premium 
