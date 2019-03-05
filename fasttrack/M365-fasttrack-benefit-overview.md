@@ -3,7 +3,7 @@ title: Microsoft 365 用 FastTrack Center 特典
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 用 FastTrack Center では、Microsoft のエンジニアリング専門知識、ベスト プラクティス、ツール、リソースにアクセスできるなど、計画、展開、導入の手引きが提供されます。Microsoft 365 用 FastTrack Center を利用することで、組織とそのパートナーは短期間で展開したり、Office 365、Windows 10、Enterprise Mobility + Security をエンドユーザーに導入してもらったりすることができます。
-ms.openlocfilehash: 272b2aab2900f8d9febd24b22a9a2642d7b24ff8
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: e0ac93c1debcffe644117054c6fda2d8ac2d5b60
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696616"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355117"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Microsoft 365 用 FastTrack Center 特典
 
@@ -29,11 +29,9 @@ Microsoft 365 用 FastTrack Center 特典からは、Microsoft のエンジニ�
   
 詳細については、次を参照してください。
 
-- [Office 365 用 FastTrack Center 特典](https://go.microsoft.com/fwlink/?linkid=2044752) 
-- [Enterprise Mobility + Security 向け FastTrack Center の特典](https://go.microsoft.com/fwlink/?linkid=2005312)
-- [Windows 10 用 FastTrack Center 特典](https://go.microsoft.com/fwlink/?linkid=2044661) 
-
-また、今すぐ FastTrack サービスを試したり、[サポートを要請](https://go.microsoft.com/fwlink/p/?LinkId=2003903)したりできます。
+- [Office 365 用 FastTrack Center 特典](O365-fasttrack-benefit-for-office-365.md) 
+- [Enterprise Mobility + Security 向け FastTrack Center の特典](EMS-fasttrack-benefit-for-EMS.md)
+- [Windows 10 用 FastTrack Center 特典](Win-10-fasttrack-benefit-for-Windows-10.md) また、今すぐ FastTrack サービスを試したり、[サポートを要請](https://go.microsoft.com/fwlink/p/?LinkId=2003903)したりできます。
 
 FastTrack は、Microsoft 365 の導入を成功させるパートナーです。
   
