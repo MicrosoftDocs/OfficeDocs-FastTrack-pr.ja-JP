@@ -1,29 +1,29 @@
 ---
-title: 契約時および移行フェーズの Office 365 の米国政府
+title: Office 365 US Government のオンボードと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: Office 365 の米国政府の office 365 の契約時に 4 つのフェーズ、査定、Remediate を開始して有効にします。次の図に示すようには、省略可能なデータ移行の段階でこれらのフェーズを追跡できます。
-ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+description: office 365 オンボード office 365 US Government には、開始、評価、修復、および有効化という4つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
+ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696772"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355261"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>契約時および移行フェーズの Office 365 の米国政府
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US Government のオンボードと移行のフェーズ
 
 Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
   
 ![オンボーディング特典のフェーズ](media/O365-Onboarding-Phases.png)
   
-各フェーズの詳細なタスクは、 [Office 365 の米国政府の fasttrack という責任](US-Gov-appendix-fasttrack-responsibilities.md)と[Office 365 の米国政府を担当する](US-Gov-appendix-your-responsibilities.md)を参照してください。
+各フェーズのタスクの詳細については、「 [fasttrack 職責 for office 365 us government](US-Gov-appendix-fasttrack-responsibilities.md) 」および「 [office 365 us government の責任](US-Gov-appendix-your-responsibilities.md)」を参照してください。
   
 ## <a name="initiate-phase"></a>開始フェーズ
 
@@ -61,7 +61,7 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
 
 FastTrack マネージャーは、採用チーム関係者との対話型の成功プランニング電話会議を実施します。これによって、購入した使用可能なサービスの機能、成功に必要な主要な基盤、サービスの利用状況を促進するための手法、サービスが価値を生み出すために使用できるシナリオがお客様に紹介されます。成功プランニングを援助し、必要に応じて主要な分野に関するフィードバックを提供します。
   
-FastTrack のスペシャ リストと協力して、ソース環境と要件を評価します。お客様の環境に関するデータを収集し、帯域幅の要件を見積もると、インターネットのブラウザー、クライアント オペレーティング システム、ドメイン ネーム システム (DNS)、ネットワーク、インフラストラクチャ、およびシステムの識別情報の評価について説明するためのツールが提供されています変更は契約時に必要なかどうかを決定します。 
+FastTrack スペシャリストはお客様と一緒にソース環境と要件を評価します。 お客様の環境に関するデータを収集し、帯域幅要件を推定し、インターネットブラウザー、クライアントオペレーティングシステム、ドメインネームシステム (DNS)、ネットワーク、インフラストラクチャ、および id システムを評価するためのツールを提供しています。オンボードの変更が必要かどうかを確認します。 
   
 現在のセットアップ環境に基づいて、お使いのソース環境を Office 365 へと正常にオンボーディングするために (必要な場合にはメールボックス移行やデータ移行を正常に行うためにも) 必要な最低要件を満たすような修復プランを提供します。エンドユーザーの価値や採用を増やすための一連の推奨アクティビティを示します。また、修復フェーズのための適切なチェックポイント電話会議を設定します。
   
@@ -117,7 +117,7 @@ SharePoint Online と OneDrive for Business では、次の作業のガイダン
 - DNS の設定。   
 - ファイアウォール ポートの構成。   
 - ユーザーとライセンスのプロビジョニング。   
-- ハイブリッド検索、ハイブリッド サイト、ハイブリッドの分類、コンテンツの種類と同様に、SharePoint のハイブリッド機能を構成するハイブリッド セルフ サービス サイト作成 (SharePoint Server 2013 のみ)、拡張、アプリケーションの起動プログラムは、ビジネス、およびエクストラネット サイト用の OneDrive のハイブリッドです。
+- ハイブリッド検索、ハイブリッド サイト、ハイブリッド分類、コンテンツ タイプ、ハイブリッド セルフサービス サイト作成 (SharePoint Server 2013 のみ)、拡張アプリ起動ツール、ハイブリッド OneDrive for Business、エクストラネット サイトなどの SharePoint ハイブリッド機能の構成。
     
 FastTrack スペシャリストは、ツールとドキュメントを組み合わせて使用することにより、また適切な場合や実行可能な場合には構成タスクを実行することにより、Office 365 へのデータ移行の手順に関するガイダンスを提供します。
   
@@ -136,8 +136,8 @@ Skype for Business Online では、次の作業のガイダンスを提供しま
 - DNS の設定。    
 - ルーム システム デバイスのアカウントの作成。    
 - サポートされる Skype for Business Online クライアントの展開。   
-- 設置、Lync 2010 の間で分割ドメインのサーバーの構成を確立するには、Lync 2013 では、またはビジネス 2015年サーバー環境の Skype と Skype オンライン ビジネスのテナント (存在する場合)。
-- プランの呼び出し、Skype 会議のブロードキャスト、電話システムとで利用可能な市場 – GCC 高または DoD のプランでは利用できません) を呼び出すことの計画を有効にします。 
+- オンプレミスの lync 2010、Lync 2013、または skype for business の 2015 server 環境と skype for business Online テナントの間で、分割ドメインサーバーの構成を確立します (該当する場合)。
+- 通話プラン、Skype 会議ブロードキャスト、電話システムと通話プランの有効化 (利用可能なマーケットでは、GCC High または DoD プランでは利用できません)。 
     
 ![有効化フェーズ中の Lync オンボーディング ステップ_1](media/O365-Onboarding-Enable-Lync.png)
   
@@ -146,7 +146,7 @@ Skype for Business Online では、次の作業のガイダンスを提供しま
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> GCC 高または DoD のプランでは使用できません、次の。
+> 以下は、GCC High または DoD プランでは使用できません。
 
 Microsoft Teams では、次の作業のガイダンスを提供します。 
 - 最小要件の確認。   
@@ -177,7 +177,7 @@ Project Online では、次の作業のガイダンスを提供します。
 Yammer では、Yammer Enterprise サービスを有効にするためのガイダンスを提供します。
 
 > [!NOTE]
-> Yammer のエンタープライズでは、Office 365 の米国政府の構成要素はありませんが、Office 365 の GCC のライセンス付与、スタンドアロンの案内各ユーザーにも無料で入手できます。このサービスは、エンタープライズ アグリーメント、およびエンタープライズ サブスクリプション契約の下で Office 365 の GCC を購入する顧客に限定されています。Yammer は、GCC 高または DoD のプランでは使用できません。 
+> Yammer Enterprise は office 365 US Government のコンポーネントではありませんが、GCC で office 365 のライセンスを供与された各ユーザーに対してスタンドアロンのサービスとして無償で取得することができます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer は、GCC High または DoD プランでは使用できません。 
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
@@ -185,9 +185,9 @@ Office 365 ProPlus では、次の作業のガイダンスを提供します。
 - 展開の問題への対応。    
 - [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。    
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。    
-- iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
-- Office 365 の展開ツールを使用して更新プログラムの設定を構成しています。    
-- Office 365 用リソース、Office 365 の展開ツールを使用するための configuration.xml ファイルの作成に関するサポートを含むため、オンサイトの 1 つのディストリビューション サーバーを設定します。    
+- iOS、Android、Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
+- Office 365 展開ツールを使用した更新設定の構成。    
+- Office 365 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。    
 - System Center Configuration Manager パッケージの作成サポートを含む、Microsoft System Center Configuration Manager を使用した展開。
     
 ![Office ProPlus オンボーディング ステップ](media/O365-Onboarding-Enable-OProPlus.png)

@@ -1,23 +1,23 @@
 ---
-title: Office 365 のための責任は、米国政府
+title: Office 365 US Government の責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 9a4c5d05fd068d797a168ba4b9fb8a63d5185cf8
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 39737115cb4ff157782d559d1125a8edbc76cf40
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696688"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355213"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 のための責任は、米国政府
+# <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 US Government の責任
 
 お客様には、オンボーディング中に以下の責任があります。
   
@@ -41,8 +41,8 @@ ms.locfileid: "29696688"
 - セキュリティ ポリシーの管理、構成、および適用。    
 - モバイル デバイスのアクティブ化。    
 - ネットワーク構成、分析、帯域幅検証、テスト、およびモニターの用意。 
-- 特定をサポートするファイアウォール規則を変更する Url と IP アドレスの範囲を (必要な場合) は、Office 365 サービスで使用されます。
-- 設置型を逆にプロキシ エンドポイントをマイクロソフト (必要な場合) を提供します。     
+- Office 365 services で使用される特定の url と IP アドレスの範囲をサポートするようにファイアウォールの規則を変更します (必要な場合)。
+- オンプレミスのリバースプロキシエンドポイントを Microsoft に提供します (必要な場合)。     
 - Skype for Business Online サービスに必要な帯域幅を提供するためのネットワークの変更。   
 - 技術的な変更管理承認プロセスの管理およびサポート用資料の作成。    
 - ユーザー、ワークステーション、およびサーバー管理のためのグループ ポリシーの規定と定義。    
@@ -58,7 +58,7 @@ ms.locfileid: "29696688"
     
 ## <a name="initiate-phase"></a>開始フェーズ
 
-- 契約時のパートナーシップの共同のマイクロソフト チーム領域を設定し、(GCC 高または DoD のプランでは使用できません) FastTrack センター チームのメンバーを招待します。   
+- オンボードパートナーシップのための共同作業用の Microsoft Teams スペースを設定し、fasttrack Center チームメンバーを招待します (GCC High または DoD プランでは利用できません)。   
 - FastTrack のスペシャリストと連携して対象のサービスのオンボーディングを開始します。    
 - 契約キックオフ ミーティングに参加し、組織からの参加者をとりまとめて指導し、修復のタイムラインを確定します。    
 - Office 365 サービス (SharePoint Online、Exchange Online、Microsoft Teams、Office 365 ProPlus など) の目的と組織の目標を提供します。

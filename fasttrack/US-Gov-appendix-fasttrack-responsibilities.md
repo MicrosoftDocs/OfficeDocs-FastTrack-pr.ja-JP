@@ -1,23 +1,23 @@
 ---
-title: Fasttrack という責任を Office 365 の米国政府
+title: Office 365 US Government の fasttrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2989b841d247ec1e05f8e033a7000e2b2a756e24
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696784"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355285"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Fasttrack という責任を Office 365 の米国政府
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US Government の fasttrack 責任
 
 FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
   
@@ -41,14 +41,14 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
   - クライアントのニーズ (インターネット ブラウザー、クライアント オペレーティング システム、モバイル デバイス、サービスのニーズ)。
   - ユーザー ID およびプロビジョニング 
   - 購入済みでオンボーディングの一部として定義されている対象サービスの有効化。
-  - サービス導入と価値実現の促進。   
+  - 正常なサービス採用の促進と価値の増進。   
 - 修復アクティビティのタイムラインの設定。
 - 修復チェックリストの提供。   
 - 既存の SharePoint Server 2013 または SharePoint Server 2016 インフラストラクチャの評価。以下が含まれます。  
-  - SharePoint Online のハイブリッドの前提条件です。  
-  - ハイブリッド機能を SharePoint Online のオンプレミス インフラストラクチャ準備します。  
+  - SharePoint Online ハイブリッドの前提条件。  
+  - オンプレミスのインフラストラクチャの SharePoint Online ハイブリッド機能の準備状況。  
   - 必要な SharePoint Online エンドポイントへのアクセス。 
-  - ビジネスのハイブリッドの OneDrive の対象です。    
+  - OneDrive for Business ハイブリッドの対象ユーザー。    
 - 既存の Lync または Skype for Business Online インフラストラクチャの評価。以下が含まれます。  
   - サポートされる Skype for Business クライアント展開の戦略。  
   - エンドポイントへのアクセス。  
@@ -79,11 +79,11 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
   - Active Directory ドメイン サービス (AD DS) と Office 365 との間のディレクトリ同期サーバーの設置 (必要な場合)。   
   - Azure Active Directory Connect ツールを使用した Office 365 (Azure Active Directory) へのパスワードの同期 (パスワード ハッシュ) の構成 (必要な場合)。  
   - 単一フォレスト環境および複数フォレスト環境:
-      - Azure 作業中のディレクトリ パススルー認証を構成する場合に必要な (GCC 高または DoD のプランでは使用できません)。
-      - Azure Active ディレクトリ シームレスなシングル サインオン (SSO) を構成する場合に必要な (GCC 高または DoD のプランでは使用できません)。
+      - 必要に応じて、Azure Active Directory パススルー認証を構成します (GCC High または DoD プランでは利用できません)。
+      - 必要に応じて、Azure Active Directory シームレスシングルサインオン (SSO) を構成します (GCC High または DoD プランでは利用できません)。
     > [!NOTE]
     > 複数フォレスト環境の Azure Active Directory パススルー認証は、Active Directory フォレスト間にフォレストの信頼があり、名前サフィックスのルーティングが正しく構成されている場合にサポートされます。追加のエージェントは、サインイン要求の高可用性を提供するために、複数のオンプレミスのサーバーにインストールできます。詳細については、「[Azure Active Directory パススルー認証:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860094)」および「[Azure Active Directory シームレス シングル サインオン:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860095)」を参照してください。[!NOTE]
-    > パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証: 現在の制限事項](https://go.microsoft.com/fwlink/?linkid=860356)」を参照してください。[!NOTE]
+    > パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証:現在の制限事項](https://go.microsoft.com/fwlink/?linkid=860356)」を参照してください。シームレス[!NOTE]
     > SSO の問題の詳細については、「[Azure Active Directory シームレス シングル サインオンのトラブルシューティングを行う](https://go.microsoft.com/fwlink/?linkid=841926)」を参照してください。 
 - フォレストが 1 つで、フェデレーション ID を対象とする場合: 
   - 1 つのサイトのフォールト トレラント構成における Office 365 を使うローカル ドメイン認証用の AD FS のインストールと構成 (必要な場合)。  
@@ -91,7 +91,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
     > [!NOTE]
     > フォレストが複数あるすべての構成において、ADFS の展開は対象外です。 
 - SSO 機能のテスト (展開されている場合)。   
-- 正常なサービス採用の促進と価値の増進。
+- サービス導入と価値実現の促進。
     
 ## <a name="exchange-online"></a>Exchange Online
 
@@ -100,7 +100,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - ソース メッセージング システムと Office 365 環境との間での電子メール ルーティングの有効化。    
 - Exchange Online Protection 機能 (サブスクリプションで利用できる場合は Exchange Online Advanced Threat Protection も含む) を構成して、メールが有効な検証済みのすべてのドメインで MX レコードがOffice 365 をポイントしていることを確認します。   
 - 1 つのオンプレミスの Exchange 組織と Office 365 の間、*または*複数のオンプレミスの Exchange 組織と Office 365 の間におけるハイブリッド セットアップの構成。 
-- ユニファイド メッセージング (UM) と Exchange Online に設定 (UM は GCC の DoD の計画では使用できません)。 
+- Exchange Online でのユニファイドメッセージング (um) のセットアップ (um は、GCC DoD プランでは使用できません)。 
     
 データ移行の責任について詳しくは、「[データ移行](O365-data-migration.md)」を参照してください。
   
@@ -114,11 +114,11 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - 個人用サイトおよびソーシャル機能の有効化。   
 - SharePoint Online 機能の構成。    
 - FastTrack センターのデータ移行サービスを使用し、かつ資格を満たす場合は、データ移行を提供します。  
-- SharePoint Online のハイブリッドのために必要な設置型の SharePoint ファーム インフラストラクチャ構成を評価しています。    
+- SharePoint Online ハイブリッドに必要なオンプレミスの SharePoint ファームのインフラストラクチャ構成を評価します。    
 - 次に関してツールと自動化を使用します。 
   - オンプレミスのクラウド検索サービス アプリケーションの構成。    
   - SharePoint オンプレミス環境とクラウド環境間の信頼の構成。   
-- SharePoint Online のハイブリッド機能を使用する設置型の SharePoint サイトを構成しています。
+- SharePoint Online ハイブリッド機能の使用に向けたオンプレミスの SharePoint サイトの構成。
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -134,7 +134,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - エンドユーザー ライセンスの割り当て。   
 - SharePoint Online 対象ユーザーのセットアップ、および OneDrive for Business を取得するユーザーの制御と管理。    
 - OneDrive for Business 同期クライアントのデスクトップへの展開。   
-- SharePoint Online のハイブリッド OneDrive のビジネスのリダイレクト (SharePoint 2013 と SharePoint 2016 のみ) を構成する方法。  
+- SharePoint Online ハイブリッド OneDrive for Business リダイレクトの構成方法 (SharePoint 2013 および SharePoint 2016 のみ)。  
 - FastTrack Center のデータ移行サービスを使っており、かつ資格を満たす場合は、データ移行。
     
 ## <a name="skype-for-business-online"></a>Skype for Business Online
@@ -147,19 +147,19 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - 電話会議を有効にする:   
   - 会議ブリッジの既定の設定のための組織のセットアップ。   
   - ライセンスを持つユーザーへの会議ブリッジの割り当て。 
-- (GCC 高または DoD のプランでは利用不可) の電話システムを有効にします。  
+- 電話システムを有効にする (GCC High または DoD プランでは使用できません):  
   - 電話システムおよび通話プランのオンボーディングの有効化 (利用可能なマーケットのみ)。 
   - ライセンスを持つユーザーへの番号の割り当て。  
   - UI を通じた 999 件までの電話番号の移植ガイダンス。  
   - 999 件を超える電話番号の移植 SR サポート。  
-- ビジネス会議をブロードキャスト (GCC 高または DoD のプランでは使用できません) では、Skype を有効にします。  
+- Skype for business 会議ブロードキャストを有効にする (GCC High または DoD プランでは使用できません):  
   - Skype for Business 会議メディアのオンボーディング ガイダンスを有効にする。  
   - 会議メディア サービスとのフェデレーションのための組織のセットアップ。
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> GCC 高または DoD のプランでは使用できません、次の。
+> 以下は、GCC High または DoD プランでは使用できません。
 
 次の点に関するガイダンスを行います。
 - 最小要件の確認。   
@@ -193,7 +193,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 単一の Yammer ベーシック ネットワークから単一の Yammer エンタープライズ ネットワークへの変換に関するガイダンスを行います。
 
 > [!NOTE]
-> Yammer のエンタープライズでは、Office 365 の米国政府の構成要素はありませんが、Office 365 の GCC のライセンス付与、スタンドアロンの案内各ユーザーにも無料で入手できます。このサービスは、エンタープライズ アグリーメント、およびエンタープライズ サブスクリプション契約の下で Office 365 の GCC を購入する顧客に限定されています。Yammer は、GCC 高または DoD のプランでは使用できません。
+> Yammer Enterprise は office 365 US Government のコンポーネントではありませんが、GCC で office 365 のライセンスを供与された各ユーザーに対してスタンドアロンのサービスとして無償で取得することができます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer は、GCC High または DoD プランでは使用できません。
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
@@ -203,7 +203,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。   
 - iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 2016 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。   
-- Office 365 用リソース、Office 365 の展開ツールを使用するための configuration.xml ファイルの作成に関するサポートを含むため、オンサイトの 1 つのディストリビューション サーバーを設定します。   
+- Office 365 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。   
 - System Center Configuration Manager パッケージの作成サポートを含む、System Center Configuration Manager を使用した展開。
 
     
