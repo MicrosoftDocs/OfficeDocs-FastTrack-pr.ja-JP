@@ -3,19 +3,19 @@ title: 付録 A IBM Domino から Exchange Online への移行
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: IBM Domino から Exchange Online への移行には、次の段階中での処理内容を含む、いくつかの重要な側面があります。
-ms.openlocfilehash: e2a4a06dd37c9a8eb5c04330cbde7f9dfff830b2
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2b8bad92665f92abaa718b78151ad49b3920bac3
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696820"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355237"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>付録 A - IBM Domino から Exchange Online への移行
 
@@ -28,7 +28,7 @@ IBM Domino から Exchange Online への移行には、次の段階中での処�
     
 ## <a name="identities"></a>ID
 
-ID (クラウドのみ、同期済み、オンプレミスの Active Directory と統合済み) を作成して管理する責任があります。オンボーディングの初期段階に、Domino とオンプレミスの Active Directory や Azure AD の間で ID のマッピングを完了する必要があります (まだ存在しない場合)。
+ID (クラウドのみ、同期済み、オンプレミスの Active Directory と統合済み) を作成して管理する責任があります。 オンボーディングの初期段階に、Domino とオンプレミスの Active Directory や Azure Active Directory の間で ID のマッピングを完了する必要があります (まだ存在しない場合)。
   
 ## <a name="coexistence"></a>共存
 
@@ -90,7 +90,7 @@ Domino から Exchange Online への移行に関する FastTrack センター �
     >  FastTrack は許可されている合計対象サイズの 85% までメールボックスを移行しますが、2 GB を超えるメールボックスを移行しようとすると、次のようなリスクが発生します。    <br/> 移行の期間が長くなる。    <br/> 他のメールボックスを移行するためのリソースが使われる。    <br/> エラー率が大幅に増加する。 
 - 移行用にメールイン データベースとアクセス制御リスト (ACL) を準備します。Exchange Online でメールイン データベースと共有メールボックスに対するアクセス許可を正常に移行するには、いくつかの修復手順を実行する必要があります。いくつかの手順は次のとおりです。 
   - Domino ディレクトリにある既存のメールイン データベースのエントリを削除し、新しい人物レコードを作成します。
-  - Office 365 Azure AD に同期されており、Exchange Online の共有メールボックスでアクセス許可を設定するために使うオンプレミスの Active Directory に、メール対応ユニバーサル セキュリティ グループを作成します。これにより、メールイン データベースで設定されているアクセス許可が Exchange Online の共有メールボックスに転送されます。
+  - Office 365 Azure Active Directory に同期されており、Exchange Online の共有メールボックスでアクセス許可を設定するために使うオンプレミスの Active Directory に、メール対応ユニバーサル セキュリティ グループを作成します。 これにより、メールイン データベースで設定されているアクセス許可が Exchange Online の共有メールボックスに転送されます。
     
 > [!NOTE]
 > これで、新しいメッセージング システムとクライアントに関するエンド ユーザーの準備とトレーニングを開始できます。 
