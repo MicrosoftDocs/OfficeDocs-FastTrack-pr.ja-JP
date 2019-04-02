@@ -3,19 +3,19 @@ title: Office 365 US Government のオンボードと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: office 365 オンボード office 365 US Government には、開始、評価、修復、および有効化という4つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355261"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016985"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US Government のオンボードと移行のフェーズ
 
@@ -107,7 +107,7 @@ Exchange Online の場合、組織がメールをすぐに使用できるよう�
 - ソース メッセージング環境と Exchange Online との間のメール フローをセットアップします (必要な場合)。   
 - ソースのメッセージング環境から Office 365 にメール移行を実行。   
     > [!NOTE]
-    > メールとデータの移行についての詳細は、「[データ移行](O365-data-migration.md)」をご覧ください。 
+    > メールとデータの移行についての詳細は、「[データ移行](O365-data-migration.md)」を参照してください。 
   
 ![有効化フェーズ中の Exchange オンボーディング ステップ](media/O365-Onboarding-Enable-Exchange.png)
   

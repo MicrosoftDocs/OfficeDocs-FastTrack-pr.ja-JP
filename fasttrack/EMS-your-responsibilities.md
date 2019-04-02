@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 614f8b31cfd4a49ce01520efb2315a5e7237dcda
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359805"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016934"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 
@@ -49,7 +49,7 @@ ms.locfileid: "30359805"
 
 -   技術的な変更管理承認プロセスを管理し、サポートドキュメントを作成します。
 
--   運営モデルと運営ガイドの変更。
+-   運用モデルと操作ガイドを変更します。
 
 -   オンプレミスの多要素認証をセットアップします。
 
@@ -73,17 +73,17 @@ ms.locfileid: "30359805"
 
 -   チームビューアー、モバイル脅威の防御、および通信経費管理ソリューションサブスクリプションにサインアップします。
 
--   Windows Defender Advanced Threat Protection のライセンスにサインアップします。(Windows e5 または Microsoft e5 ライセンス)。
+-   Windows Defender Advanced Threat Protection のライセンスにサインアップします。 (Windows e5 または Microsoft e5 ライセンス)。
 
 ## <a name="initiate-phase"></a>開始フェーズ
 
 -   fasttrack チームと協力して、対象となるサービスのオンボードを開始します。
 
--   契約キックオフ ミーティングに参加し、組織からの参加者をとりまとめて指導し、修復のタイムラインを確定します。
+-   契約のキックオフミーティングに参加し、組織から参加者を管理およびリードし、修復のタイムラインを確認します。
 
 ## <a name="assess-phase"></a>評価フェーズ
 
--   適切な関係者 (プロジェクト マネージャを含む) を任命して、必要な評価アクティビティを完了させます。
+-   適切な関係者 (プロジェクトマネージャーを含む) を特定して、必要な評価アクティビティを完了します。
 
 -   ご使用の環境、EMS、または個別の cloud service サブスクリプションに対して評価ツールを実行するときにガイダンスが必要な場合は、fasttrack チームと画面を共有してください (選択した場合)。
 
@@ -103,7 +103,7 @@ ms.locfileid: "30359805"
 
 ## <a name="enable-phase"></a>有効化フェーズ
 
--   ご使用の環境、EMS、または個別の cloud service サブスクリプションに対して評価ツールを実行するときにガイダンスが必要な場合は、fasttrack チームと画面を共有してください (選択した場合)。必要に応じてリソースを管理します。
+-   ご使用の環境、EMS、または個別の cloud service サブスクリプションに対して評価ツールを実行するときにガイダンスが必要な場合は、fasttrack チームと画面を共有してください (選択した場合)。 必要に応じてリソースを管理します。
 
 -   fasttrack チームからのガイダンスに従って、ネットワーク関連の項目を構成します。
 
@@ -120,7 +120,7 @@ ms.locfileid: "30359805"
 -   fasttrack チームからのガイダンスごとに、さまざまなサービスを有効にします。
 
 > [!NOTE]
-> **詳細情報**「 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility) 」を参照してください。
+> **詳細な情報をご希望ですか?** 「 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility) 」を参照してください。
 
 ## <a name="see-also"></a>関連項目
 

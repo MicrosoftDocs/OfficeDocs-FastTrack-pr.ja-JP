@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 25602322bc92823cd50f4674a683762d9eeae10b
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359961"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016913"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -31,7 +31,7 @@ fasttrack には、オンボード時の次の責任があります。
 
 ## <a name="initiate-phase"></a>開始フェーズ
 
--   お客様と連携してオンボーディングを開始します。
+-   あなたと協力して、オンボードを開始します。
 
 -   オンボーディングする対象のサービスを選定します。
 
@@ -43,11 +43,11 @@ fasttrack には、オンボード時の次の責任があります。
 
     -   DNS、ネットワーク、およびインフラストラクチャのニーズ。
 
-    -   クライアントのニーズ (インターネット ブラウザー、クライアント オペレーティング システム、およびサービスのニーズ)。
+    -   クライアントのニーズ (インターネットブラウザー、クライアントオペレーティングシステム、およびサービスのニーズ)。
 
     -   ユーザー ID およびプロビジョニング
 
-    -   購入済みでオンボーディングの一部として規定されている対象サービスの有効化。
+    -   購入済みで、オンボードの一部として定義されている対象サービスの有効化。
 
 -   修復アクティビティのタイムラインの設定。
 
@@ -68,11 +68,11 @@ fasttrack には、オンボード時の次の責任があります。
 
 -   Microsoft online services への接続を検証します。
 
--   フォレスト環境が 1 つの場合:
+-   単一フォレスト環境の場合:
 
     -   Active directory ドメインサービス (AD DS) と対象となる Microsoft online services の間にディレクトリ同期サーバーをインストールします (必要に応じて、ガイダンスのみ)。
 
-    -   Azure Active Directory Connect ツールを使用して、管理された認証 (パスワードハッシュ同期またはパススルー認証) を構成します。(必要な場合にのみガイダンス)。
+    -   Azure Active Directory Connect ツールを使用して、管理された認証 (パスワードハッシュ同期またはパススルー認証) を構成します。 (必要な場合にのみガイダンス)。
 
         > [!NOTE]
         > カスタムルールの拡張機能の開発と実装が範囲外です。
@@ -96,7 +96,7 @@ fasttrack には、オンボード時の次の責任があります。
 
 - Azure AD Premium サービスへの接続を検証します。
 
-- フォレスト環境が 1 つの場合:
+- 単一フォレスト環境の場合:
 
   -   Active directory ドメインサービス (AD DS) と Azure AD Connect の間にディレクトリ同期をインストールする (必要な場合)。
 
@@ -109,14 +109,14 @@ fasttrack には、オンボード時の次の責任があります。
   - Azure Active Directory パススルー認証の構成 (必要な場合)。
   - Azure Active Directory シームレス シングル サインオン (SSO) の構成 (必要な場合)。
     > [!NOTE]
-    > active directory フォレスト間にフォレストの信頼があり、名前サフィックスルーティングが正しく構成されている場合は、複数フォレスト環境での Azure Active directory パススルー認証がサポートされます。追加のエージェントを複数のオンプレミスサーバーにインストールして、サインイン要求の高可用性を実現することができます。
+    > 複数フォレスト環境の Azure Active Directory パススルー認証は、Active Directory フォレスト間にフォレストの信頼があり、名前サフィックスのルーティングが正しく構成されている場合にサポートされます。 追加のエージェントは、サインイン要求の高可用性を提供するために、複数のオンプレミスのサーバーにインストールできます。
 
   - 詳細については、「[Azure Active Directory パススルー認証:クイック スタート](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites)」および「[Azure Active Directory シームレス シングル サインオン:クイック スタート](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)」を参照してください。
   - パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証:現在の制限事項](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)」を参照してください。シームレス
   - SSO の問題の詳細については、「[Azure Active Directory シームレス シングル サインオンのトラブルシューティングを行う](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)」を参照してください。
 
       > [!NOTE]
-      > パスワードのハッシュ同期とパスワードの書き戻しで複数のフォレストがサポートされます。ただし、その他の書き戻しのシナリオはサポートされていません。
+      > パスワードのハッシュ同期とパスワードの書き戻しで複数のフォレストがサポートされます。 ただし、その他の書き戻しのシナリオはサポートされていません。
 
   - オンプレミスの active directory フォレストと Microsoft azure active directory Premium ディレクトリ (azure active directory) との間の同期を構成します。
 
@@ -169,7 +169,7 @@ fasttrack には、オンボード時の次の責任があります。
 ### <a name="enable-phase---intune"></a>有効化フェーズ-Intune
 
 > [!IMPORTANT]
-> fasttrack では、Intune を使用した Windows 10 クラシック PC 管理はサポートされていません。fasttrack は、Intune モバイルデバイス管理 (MDM) による Windows 10 管理のみをサポートします。
+> fasttrack では、Intune を使用した Windows 10 クラシック PC 管理はサポートされていません。 fasttrack は、Intune モバイルデバイス管理 (MDM) による Windows 10 管理のみをサポートします。
 
 以下に関する**ガイダンス**を提供します。
 
@@ -284,6 +284,6 @@ fasttrack には、オンボード時の次の責任があります。
 > [!NOTE]
 > **詳細情報**「 [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)」を参照してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 [EMS の fasttrack の利点-自分の責任](EMS-your-responsibilities.md)

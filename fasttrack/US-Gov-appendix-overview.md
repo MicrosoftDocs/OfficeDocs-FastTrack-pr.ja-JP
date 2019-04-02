@@ -3,24 +3,24 @@ title: '付録 D: Office 365 US Government 向け FastTrack Center の特典の�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: office 365 の fasttrack センターの特典を使用すると、fasttrack スペシャリストとリモートで作業して、office 365 環境を使用できる状態にして、組織内での展開と使用を計画することができます。
-ms.openlocfilehash: 31782ca75f7ab5ce74415dcc7a9d754448740b6a
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: d56bbc0e78aa532cde6aaf80da6fa3c3f8625996
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355069"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016857"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>付録 D: Office 365 US Government 向け FastTrack Center の特典の概要
 
 office 365 の fasttrack センターの特典を使用すると、fasttrack スペシャリストとリモートで作業して、office 365 環境を使用できる状態にして、組織内での展開と使用を計画することができます。 
   
-ほとんどの製品と機能は office 365 スイートと office 365 米国政府の間で同じですが、一部の機能は現在すべてのプランで利用できるわけではありません。最新の機能の一覧については、「 [Office 365 US Government](https://aka.ms/aboutgovcloud)サービスの説明」を参照してください。
+ほとんどの製品と機能は office 365 スイートと office 365 米国政府の間で同じですが、一部の機能は現在すべてのプランで利用できるわけではありません。 最新の機能の一覧については、「 [Office 365 US Government](https://aka.ms/aboutgovcloud)サービスの説明」を参照してください。
 
 > [!NOTE]
 > fasttrack サービスを受けるには、 [fasttrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)に移動し、サポートを依頼します。  

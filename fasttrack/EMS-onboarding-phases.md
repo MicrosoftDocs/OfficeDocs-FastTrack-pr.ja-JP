@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 86d69ec9ff9ef26646496d1b9fb443befdd76327
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 9f41ee105af4ff7d0a250d69a56756577d47b0a7
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30360009"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017021"
 ---
-# <a name="onboarding-phases"></a>オンボードフェーズ
+# <a name="onboarding-phases"></a>オンボーディング フェーズ
 
-対象となる[サービスおよびプラン](M365-eligible-services-and-plans.md)を使用して microsoft Azure Active Directory Premium と microsoft Intune を使用できるようにする場合、このプロセスにはいくつかのフェーズが含まれます。次のセクションでは、オンボードプロセスの各フェーズについて説明します。
+対象となる[サービスおよびプラン](M365-eligible-services-and-plans.md)を使用して microsoft Azure Active Directory Premium と microsoft Intune を使用できるようにする場合、このプロセスにはいくつかのフェーズが含まれます。 次のセクションでは、オンボードプロセスの各フェーズについて説明します。
 
 オンボードには、4つの主要なフェーズがあります。
 
@@ -30,7 +30,7 @@ ms.locfileid: "30360009"
 
 ## <a name="initiate-phase"></a>開始フェーズ
 
-適切な数のライセンスを購入した後、購入確認メールのガイダンスに従って、ライセンスを既存のテナントまたは新しいテナントに関連付けます。その後、fasttrack センターの特典の資格が確認され、お客様と連絡して、オンボードのサポートを提供することを試みます。
+適切な数のライセンスを購入した後、購入確認メールのガイダンスに従って、ライセンスを既存のテナントまたは新しいテナントに関連付けます。 その後、fasttrack センターの特典の資格が確認され、お客様と連絡して、オンボードのサポートを提供することを試みます。
 
 > [!NOTE]
 > 組織のためにこれらのサービスを展開する準備が整っている場合は、 [fasttrack センター](https://go.microsoft.com/fwlink/?linkid=780698)からサポートを依頼することもできます。
@@ -42,12 +42,12 @@ ms.locfileid: "30360009"
 3. **[サービス]** を選択します。
 4. **Microsoft 365 フォームのサポート要求**を完了します。
 
-オンボーディング サポートを開始すると、オンライン会議のスケジュールが決まります。
+オンボードのサポートが開始されると、オンライン会議のスケジュールが設定されます。
 
 > [!NOTE]
-> Office 365 テナントに Microsoft パートナーが登録されている場合、このオプションは表示されません。詳細については、Microsoft パートナーにお問い合わせください。
+> Office 365 テナントに Microsoft パートナーが登録されている場合、このオプションは表示されません。 詳細については、Microsoft パートナーにお問い合わせください。
 
-Microsoft パートナーは、お客様の代わりに[fasttrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からサポートを受けることもできます。そのためには次のようにします。
+Microsoft パートナーは、お客様の代わりに[fasttrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からサポートを受けることもできます。 To do so:
 
 1. [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。
 2. **[FastTrack]** を選択します。
@@ -62,11 +62,11 @@ Microsoft パートナーは、お客様の代わりに[fasttrack サイト](htt
 
 ## <a name="assess-phase"></a>評価フェーズ
 
-オンボードプロセスが開始されると、fasttrack センターは、ソース環境と要件を評価するためにお客様と連携します。お客様の環境を評価するためのツールが実行されており、fasttrack スペシャリストは、オンプレミスの Active Directory、インターネットブラウザー、クライアントデバイスのオペレーティングシステム、ドメインネームシステム (DNS)、ネットワーク、インフラストラクチャ、および id システムを評価しています。オンボードの変更が必要かどうかを確認します。
+オンボードプロセスが開始されると、fasttrack センターは、ソース環境と要件を評価するためにお客様と連携します。 お客様の環境を評価するためのツールが実行されており、fasttrack スペシャリストは、オンプレミスの Active Directory、インターネットブラウザー、クライアントデバイスのオペレーティングシステム、ドメインネームシステム (DNS)、ネットワーク、インフラストラクチャ、および id システムを評価しています。オンボードの変更が必要かどうかを確認します。
 
 fasttrack センターでは、対象となるサービスの適切な導入を促進する方法についてのガイダンスもご利用ください。
 
-現在の設定に基づいて、移行計画を提供します。これにより、ソース環境にオンボードが EMS または個別のクラウドサービスを正常に完了するための最小要件が設定されます。また、修復フェーズのための適切なチェックポイント呼び出しも設定します。
+現在の設定に基づいて、移行計画を提供します。これにより、ソース環境にオンボードが EMS または個別のクラウドサービスを正常に完了するための最小要件が設定されます。 また、修復フェーズのための適切なチェックポイント呼び出しも設定します。
 
 ![オンボード評価フェーズ](./media/ft-assess-phase.png)
 
@@ -82,7 +82,7 @@ fasttrack センターでは、対象となるサービスの適切な導入を�
 
 **フェーズコア機能を有効にする**
 
-コアオンボードには、サービスのプロビジョニングとテナントと id の統合が含まれます。Azure AD Premium および Intune などのオンボードオンラインサービスの基礎を提供するための手順についても説明します。
+コア オンボーディングには、サービスのプロビジョニングおよびテナントと ID の統合が含まれます。 Azure AD Premium および Intune などのオンボードオンラインサービスの基礎を提供するための手順についても説明します。
 
 ![オンボード有効化フェーズコア機能](./media/ft-enable-phase-core-01.png)
 
@@ -91,7 +91,7 @@ fasttrack センターでは、対象となるサービスの適切な導入を�
 > WAP は、Web アプリケーション プロキシ (Web Application Proxy) を略したものです。SSL は、Secure Sockets Layer を略したものです。SDS は、School Data Sync を略したものです。SDS の詳細については、「[Microsoft School Data Sync へようこそ](https://go.microsoft.com/fwlink/?linkid=871480)」を参照してください。
 
 > [!NOTE]
-> 管理された認証方法にはが含まれていますが、パスワードハッシュの同期に限定されません。id の統合は、1回限りのアクティビティであり、管理やフェデレーションなどの既存の認証方法の移行または廃止には含まれません。
+> 管理された認証方法にはが含まれていますが、パスワードハッシュの同期に限定されません。 id の統合は、1回限りのアクティビティであり、管理やフェデレーションなどの既存の認証方法の移行または廃止には含まれません。
 
 ### <a name="enable-phase---azure-ad-premium"></a>有効化フェーズ-Azure AD Premium
 
@@ -131,9 +131,9 @@ Azure AD Premium セットアップには、次の機能を有効にすること
 
 ### <a name="enable-phase---intune"></a>有効化フェーズ-Intune
 
-intune では、Microsoft intune を使用してデバイスを管理できるようにするためのガイドを提供しています。正確な手順は、ソース環境によって異なり、モバイルデバイスとモバイルアプリ管理のニーズに基づいています。手順には次のものがあります。
+intune では、Microsoft intune を使用してデバイスを管理できるようにするためのガイドを提供しています。 正確な手順は、ソース環境によって異なり、モバイルデバイスとモバイルアプリ管理のニーズに基づいています。 手順には次のものがあります。
 
--   エンドユーザーのライセンスを取得します。また、必要に応じて、Microsoft クラウドサービスのテナントのボリュームライセンスをアクティブ化する方法についても説明します。
+-   エンドユーザーのライセンスを取得します。 また、必要に応じて、Microsoft クラウドサービスのテナントのボリュームライセンスをアクティブ化する方法についても説明します。
 
 -   オンプレミスの Active Directory またはクラウド id のいずれかを活用して、Intune で使用される id を構成します。
 
@@ -187,7 +187,7 @@ intune では、Microsoft intune を使用してデバイスを管理できる�
     -   Intune で利用可能なソフトウェアおよびハードウェアレポートを使用します。
 
     > [!IMPORTANT]
-    > fasttrack では、Intune を使用した Windows 10 クラシック PC 管理はサポートされていません。fasttrack は、Intune モバイルデバイス管理 (MDM) による Windows 10 デバイスの管理のみをサポートします。
+    > fasttrack では、Intune を使用した Windows 10 クラシック PC 管理はサポートされていません。 fasttrack は、Intune モバイルデバイス管理 (MDM) による Windows 10 デバイスの管理のみをサポートします。
 
 #### <a name="windows-autopilot"></a>Windows Autopilot
 
@@ -195,11 +195,11 @@ fasttrack を使用すると、Windows 自動操縦と Intune を使用してデ
 
 fasttrack は、次の自動操縦シナリオをサポートしています。
 
-- **Azure AD セルフサービス:** デバイスが Azure AD に参加し、Intune に登録されます。このシナリオは、Windows 10 1703 と最新バージョンを使用している場合にサポートされます。
+- **Azure AD セルフサービス:** デバイスが Azure AD に参加し、Intune に登録されます。 このシナリオは、Windows 10 1703 と最新バージョンを使用している場合にサポートされます。
 
-- **ハイブリッド AAD セルフサービス:** デバイスは、オンプレミスの ad と Azure ad の両方に参加し、Intune に登録します。このシナリオは、Windows 10 1809 と最新バージョンを使用している場合にサポートされます。
+- **ハイブリッド AAD セルフサービス:** デバイスは、オンプレミスの ad と Azure ad の両方に参加し、Intune に登録します。 このシナリオは、Windows 10 1809 と最新バージョンを使用している場合にサポートされます。
 
-- **セルフプロビジョニング:** デバイスは自動的に Azure AD に参加します。このシナリオは、Windows 1809 と最新バージョンを使用している場合にサポートされます。
+- **セルフプロビジョニング:** デバイスは自動的に Azure AD に参加します。 このシナリオは、Windows 1809 と最新バージョンを使用している場合にサポートされます。
 
     > [!IMPORTANT]
     > fasttrack は、構成マネージャーから開始された自動操縦シナリオをサポートしていません。
@@ -236,11 +236,11 @@ Intune を使用して iOS および Android 用の Outlook Mobile を安全に�
 
 #### <a name="co-management"></a>共同管理
 
-fasttrack は、構成マネージャーと Intune の両方を使用して、Windows 10 デバイスを同時に管理できるようにするためのガイドです。正確な手順は、ソース環境によって異なります。次のものが含まれます。
+fasttrack は、構成マネージャーと Intune の両方を使用して、Windows 10 デバイスを同時に管理できるようにするためのガイドです。 正確な手順は、ソース環境によって異なります。次のものが含まれます。
 
 - 共同管理の利点について説明します。
 
-- エンドユーザーにライセンスを付与します。fasttrack では、必要に応じて Microsoft cloud service テナントのボリュームライセンスをアクティブ化する方法についても説明しています。
+- エンドユーザーにライセンスを付与します。 fasttrack では、必要に応じて Microsoft cloud service テナントのボリュームライセンスをアクティブ化する方法についても説明しています。
 
 - オンプレミスの Active Directory とクラウド id のどちらかを活用して、Intune で使用される id を構成します。
 
@@ -273,6 +273,6 @@ fasttrack は、対象となるサービスの適切な導入を促進する方�
 > [!NOTE]
 > **詳細情報**「 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)」を参照してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 [EMS の fasttrack の特典-Microsoft の責任](EMS-fasttrack-responsibilities.md)
