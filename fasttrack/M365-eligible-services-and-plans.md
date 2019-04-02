@@ -3,19 +3,19 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355297"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016997"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -112,7 +112,7 @@ FastTrack Center は、次のサービスのサポートを提供します。
 - Exchange Online プラン 2 
 - Exchange Online Kiosk
 - Exchange Online Protection
-- Exchange Online Advanced Threat Protection
+- Office 365 Advanced Threat Protection
     
  **Project Online**
   
@@ -165,7 +165,7 @@ FastTrack Center は、次のサービスのサポートを提供します。
 |**Cloud Attach**     |    単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。     |
 |**Microsoft Intune for Education**     |  単体プランとして、または A3 または A5 の一部として購入した場合に対象となります。       |
 |**Microsoft Advanced Threat Protection**     |    制限付き。 単体プランとして購入した場合のみ対象となります。 これを行うには、「[Microsoft 365 FastTrack ポータル](https://go.microsoft.com/fwlink/p/?LinkId=2003903)」にアクセスします。   |
-|**Microsoft Advanced Threat Analytics**   |        制限付き。 単体プランとして購入した場合のみ対象となります。 これを行うには、「[Microsoft 365 FastTrack ポータル](https://go.microsoft.com/fwlink/p/?LinkId=2003903)」にアクセスします。    |
+|**Microsoft Advanced Threat Analytics**   |        制限されています。単体プランとして購入した場合のみ対象となります。これを行うには、「[Microsoft 365 FastTrack ポータル](https://go.microsoft.com/fwlink/p/?LinkId=2003903)」にアクセスします。    |
 |**Microsoft Cloud App Security**    |       制限されています。単体プランとして購入した場合のみ対象となります。これを行うには、「[Microsoft 365 FastTrack ポータル](https://go.microsoft.com/fwlink/p/?LinkId=2003903)」にアクセスします。    |
 
 詳細については、「[Enterprise Mobility + Security (EMS) 用の FastTrack センター特典](EMS-fasttrack-benefit-for-EMS.md)」を参照してください。

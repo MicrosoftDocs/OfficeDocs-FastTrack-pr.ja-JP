@@ -3,7 +3,7 @@ title: 提供されているサポート
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 のサービスを購入すると、Windows 10 や Office 365 ProPlus を展開し、無償で最新の状態を保つ (対象のサブスクリプションにより) 際のサポートとして、FastTrack スペシャリストによるアドバイスと修復ガイダンスが提供されます。
-ms.openlocfilehash: 071d1bdc76f2d450f7c9dde88f1e07858c3af36d
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ac175893fe4afb2aa553740d0e85dceeb6582d69
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355189"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016876"
 ---
 # <a name="assistance-offered"></a>提供されているサポート  
 
@@ -46,7 +46,7 @@ FastTrack は、次のサポートを提供します。
 ## <a name="out-of-scope"></a>対象外
 
 FastTrack のサポート対象外:
-- アプリのインベントリと、Windows 10 や Office 365 ProPlus で何が動作し、何が動作しないかを判断するためのテスト。このプロセスの詳しいガイダンスについては、「[モダン デスクトップ展開センター](https://go.microsoft.com/fwlink/?linkid=2080140)」を参照してください。詳細な Upgrade Readiness 評価に関心をお持ちの場合は、「[Customer Request for Modern Desktop Assessment](https://go.microsoft.com/fwlink/?linkid=2053818)」(モダン デスクトップ評価の顧客リクエスト) フォームに必要事項をご記入ください。
+- アプリのインベントリと、Windows 10 と Office 365 ProPlus で何が動作し、何が動作しないかを判断するためのテスト。 このプロセスのガイダンスについては、[デスクトップ展開センター](https://go.microsoft.com/fwlink/?linkid=2080140) を参照してください。 詳細なアップグレードの準備状況の評価に興味がある場合、[Customer Request for Modern Desktop Assessment](https://go.microsoft.com/fwlink/?linkid=2053818) のフォームを完了してください。
 - サード パーティ製の ISV アプリの Windows 10 との互換性に関する調査とサポートに関する声明。詳細については、「[Ready for Windows](https://go.microsoft.com/fwlink/?linkid=2054580)」を参照してください。
 - アプリのパッケージ専用サービス。ただし、Desktop App Assure チームでは、お客様の環境でアプリが展開できるように Windows 10 向けに修復したアプリはパッケージ化します。
 
