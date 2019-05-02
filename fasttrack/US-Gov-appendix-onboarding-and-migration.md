@@ -3,19 +3,19 @@ title: Office 365 US Government のオンボードと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: office 365 オンボード office 365 US Government には、開始、評価、修復、および有効化という4つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+description: Office 365 オンボード Office 365 US Government には、開始、評価、修復、および有効化という4つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
+ms.openlocfilehash: 8be691ee3a83e7dacea2d287460642c37c461ab3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016985"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513663"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US Government のオンボードと移行のフェーズ
 
@@ -23,7 +23,7 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
   
 ![オンボーディング特典のフェーズ](media/O365-Onboarding-Phases.png)
   
-各フェーズのタスクの詳細については、「 [fasttrack 職責 for office 365 us government](US-Gov-appendix-fasttrack-responsibilities.md) 」および「 [office 365 us government の責任](US-Gov-appendix-your-responsibilities.md)」を参照してください。
+各フェーズのタスクの詳細については、「 [Fasttrack 職責 For office 365 Us government](US-Gov-appendix-fasttrack-responsibilities.md) 」および「 [Office 365 Us government の責任](US-Gov-appendix-your-responsibilities.md)」を参照してください。
   
 ## <a name="initiate-phase"></a>開始フェーズ
 
@@ -136,7 +136,7 @@ Skype for Business Online では、次の作業のガイダンスを提供しま
 - DNS の設定。    
 - ルーム システム デバイスのアカウントの作成。    
 - サポートされる Skype for Business Online クライアントの展開。   
-- オンプレミスの lync 2010、Lync 2013、または skype for business の 2015 server 環境と skype for business Online テナントの間で、分割ドメインサーバーの構成を確立します (該当する場合)。
+- オンプレミスの Lync 2010、Lync 2013、または Skype for business の 2015 server 環境と Skype for business Online テナントの間で、分割ドメインサーバーの構成を確立します (該当する場合)。
 - 通話プラン、Skype 会議ブロードキャスト、電話システムと通話プランの有効化 (利用可能なマーケットでは、GCC High または DoD プランでは利用できません)。 
     
 ![有効化フェーズ中の Lync オンボーディング ステップ_1](media/O365-Onboarding-Enable-Lync.png)
@@ -177,7 +177,7 @@ Project Online では、次の作業のガイダンスを提供します。
 Yammer では、Yammer Enterprise サービスを有効にするためのガイダンスを提供します。
 
 > [!NOTE]
-> Yammer Enterprise は office 365 US Government のコンポーネントではありませんが、GCC で office 365 のライセンスを供与された各ユーザーに対してスタンドアロンのサービスとして無償で取得することができます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer は、GCC High または DoD プランでは使用できません。 
+> Yammer Enterprise は Office 365 US Government のコンポーネントではありませんが、GCC で Office 365 のライセンスを供与された各ユーザーに対してスタンドアロンのサービスとして無償で取得することができます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer は、GCC High または DoD プランでは使用できません。 
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 

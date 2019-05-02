@@ -1,27 +1,27 @@
 ---
 title: FastTrack の責任範囲
-description: ユーザーが EMS に対して fasttrack センターの特典を使用している場合の fasttrack の責任
+description: ユーザーが EMS に対して FastTrack センターの特典を使用している場合の FastTrack の責任
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016913"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513836"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
-fasttrack には、オンボード時の次の責任があります。
+FastTrack には、オンボード時の次の責任があります。
 
 ## <a name="general"></a>全般
 
@@ -70,7 +70,7 @@ fasttrack には、オンボード時の次の責任があります。
 
 -   単一フォレスト環境の場合:
 
-    -   Active directory ドメインサービス (AD DS) と対象となる Microsoft online services の間にディレクトリ同期サーバーをインストールします (必要に応じて、ガイダンスのみ)。
+    -   Active Directory ドメインサービス (AD DS) と対象となる Microsoft online services の間にディレクトリ同期サーバーをインストールします (必要に応じて、ガイダンスのみ)。
 
     -   Azure Active Directory Connect ツールを使用して、管理された認証 (パスワードハッシュ同期またはパススルー認証) を構成します。 (必要な場合にのみガイダンス)。
 
@@ -98,7 +98,7 @@ fasttrack には、オンボード時の次の責任があります。
 
 - 単一フォレスト環境の場合:
 
-  -   Active directory ドメインサービス (AD DS) と Azure AD Connect の間にディレクトリ同期をインストールする (必要な場合)。
+  -   Active Directory ドメインサービス (AD DS) と Azure AD Connect の間にディレクトリ同期をインストールする (必要な場合)。
 
   -   Azure AD Connect ツールを使用して、認証方法 (パスワードハッシュ同期またはパススルー認証) を構成します。
 
@@ -118,21 +118,21 @@ fasttrack には、オンボード時の次の責任があります。
       > [!NOTE]
       > パスワードのハッシュ同期とパスワードの書き戻しで複数のフォレストがサポートされます。 ただし、その他の書き戻しのシナリオはサポートされていません。
 
-  - オンプレミスの active directory フォレストと Microsoft azure active directory Premium ディレクトリ (azure active directory) との間の同期を構成します。
+  - オンプレミスの Active Directory フォレストと Microsoft Azure Active Directory Premium ディレクトリ (Azure Active Directory) との間の同期を構成します。
 
     > [!NOTE]
     > カスタムルールの拡張機能の開発と実装が範囲外です。
 
 - ターゲットがフェデレーション id の場合、単一のフォレストの場合:
 
-  -   単一サイトのフォールトトレラント構成 (必要な場合) で、Azure ad Premium を使用して、ローカルドメイン認証用の AD FS をインストールおよび構成します。
+  -   単一サイトのフォールトトレラント構成 (必要な場合) で、Azure AD Premium を使用して、ローカルドメイン認証用の AD FS をインストールおよび構成します。
 
   > [!NOTE]
   > 複数のフォレスト構成すべてにおいて、AD FS の展開は範囲外です。
 
 - SSO 機能のテスト (展開されている場合)。
 
-### <a name="enable-phase---azure-ad-premium--with-azure-ad-connect-and-ad-fs"></a>azure ad Connect と ad FS を使用して、フェーズを有効にします。 azure ad Premium
+### <a name="enable-phase---azure-ad-premium--with-azure-ad-connect-and-ad-fs"></a>Azure ad Connect と AD FS を使用して、フェーズを有効にします。 Azure AD Premium
 
 セットアップのガイダンスを提供します。
 
@@ -160,20 +160,20 @@ fasttrack には、オンボード時の次の責任があります。
 
   - Azure Active Directory の使用条件。
 
-  - Azure Active Directory id 保護。
+  - Azure Active Directory Id 保護。
 
-  - Azure Active Directory の特権 id 管理。
+  - Azure Active Directory の特権 Id 管理。
 
   - Azure Active Directory アクセスレビュー。
 
 ### <a name="enable-phase---intune"></a>有効化フェーズ-Intune
 
 > [!IMPORTANT]
-> fasttrack では、Intune を使用した Windows 10 クラシック PC 管理はサポートされていません。 fasttrack は、Intune モバイルデバイス管理 (MDM) による Windows 10 管理のみをサポートします。
+> FastTrack では、Intune を使用した Windows 10 クラシック PC 管理はサポートされていません。 FastTrack は、Intune モバイルデバイス管理 (MDM) による Windows 10 管理のみをサポートします。
 
 以下に関する**ガイダンス**を提供します。
 
--   オンプレミスの Active directory またはクラウド id (Azure active directory) を活用することによって、Intune で使用される id を構成します。
+-   オンプレミスの Active Directory またはクラウド id (Azure Active Directory) を活用することによって、Intune で使用される id を構成します。
 
 -   エンドユーザーのライセンスを取得します。
 
@@ -191,13 +191,13 @@ fasttrack には、オンボード時の次の責任があります。
 
     -   MDM 管理ポリシーおよびサービスの構成は次のように行います。
 
-        -   web リンク、MSI、またはディープリンクを介した、サポートされている各プラットフォームのアプリの展開。
+        -   Web リンク、MSI、またはディープリンクを介した、サポートされている各プラットフォームのアプリの展開。
 
         -   Windows 10 デバイスに Office ProPlus を展開します。
 
         -   アプリを展開するためのボリューム購入プログラム (Apple の VPP、ビジネス向けの Windows ストア、Google のワークストアの再生など)。
 
-        -   組織内に既存の証明機関、wi-fi、または vpn インフラストラクチャがある場合、電子メール、ワイヤレスネットワーク、および vpn プロファイルを展開します。
+        -   組織内に既存の証明機関、Wi-fi、または VPN インフラストラクチャがある場合、電子メール、ワイヤレスネットワーク、および VPN プロファイルを展開します。
 
         -   Microsoft Intune Exchange Connector のセットアップ (該当する場合)。
 
@@ -209,7 +209,7 @@ fasttrack には、オンボード時の次の責任があります。
 
     -   利用可能なオプションに関するガイダンスを使用して、Intune アプリ保護ポリシー用の基幹業務 (LOB) アプリを準備します。
 
-    -   Microsoft intune サービスを使用して、サポートされている各プラットフォームのデバイスを intune または Configuration Manager に登録します。
+    -   Microsoft Intune サービスを使用して、サポートされている各プラットフォームのデバイスを Intune または Configuration Manager に登録します。
 
     -   Intune データウェアハウスに接続します。
 
@@ -220,7 +220,7 @@ fasttrack には、オンボード時の次の責任があります。
 
         -   通信経費管理ソリューション (通信経費管理ソリューションサブスクリプションは必須)。
 
-        -   windows Defender Advanced Threat Protection (windows e5 または Microsoft 365 E5 ライセンスが必要です)。
+        -   Windows Defender Advanced Threat Protection (Windows E5 または Microsoft 365 E5 ライセンスが必要です)。
 
     -   該当するサポート対象プラットフォーム用のソフトウェア更新プログラムを構成する。
 
@@ -234,14 +234,14 @@ fasttrack には、オンボード時の次の責任があります。
 
     - Azure AD に会社のブランド化を追加します。
 
-    - windows 自動操縦プロファイルにデバイスを作成して割り当てます (たとえば、ローカル管理者アカウントの作成を制限する windows 自動操縦プロファイル)。
+    - Windows 自動操縦プロファイルにデバイスを作成して割り当てます (たとえば、ローカル管理者アカウントの作成を制限する Windows 自動操縦プロファイル)。
 
     - 組織の要件に準拠するように、[標準] (OOBE) をカスタマイズします。
 
     - Azure AD と Intune で MDM の自動登録を構成する。
 
     > [!NOTE]
-    > Intune 外での Windows 自動操縦の設定は、fasttrack 特典の対象外です。
+    > Intune 外での Windows 自動操縦の設定は、FastTrack 特典の対象外です。
 
 ### <a name="enable-phase---co-management"></a>フェーズ共同管理を有効にする
 
@@ -249,7 +249,7 @@ fasttrack には、オンボード時の次の責任があります。
 
 -   エンドユーザーのライセンスを取得します。
 
--   intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、およびユーザーとデバイスグループの作成 (intune がインストールされていない場合)。
+-   Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、およびユーザーとデバイスグループの作成 (Intune がインストールされていない場合)。
 
 -   MDM 自動登録用に Azure Active Directory をセットアップします。
 
@@ -259,7 +259,7 @@ fasttrack には、オンボード時の次の責任があります。
 
 -   Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、およびユーザーとデバイスグループの作成。
 
--   intune を準備する (intune がインストールされていない場合):
+-   Intune を準備する (Intune がインストールされていない場合):
 
     -   管理ニーズに応じて、以下のようなモバイルデバイス管理 MDM を構成します。
 
@@ -281,9 +281,25 @@ fasttrack には、オンボード時の次の責任があります。
 
 - ご使用の環境での共同管理作業を監視します。
 
+### <a name="enable-phase--azure-information-protection"></a>有効化フェーズ-Azure Information Protection
+
+次のサポートを提供します。 
+
+- お客様は、Windows 上で実行されている Office アプリ (Word、PowerPoint、Excel、Outlook など) の情報を自動的に分類してラベルを付け、Azure Information Protection クライアントを使用します。 
+- Azure Information Protection スキャナーを使用して、ファイルを保存します。
+- Exchange Online のメールフロールールを使用して転送中の電子メール。 
+
+Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encryption (OME)、データ損失防止 (DLP) を使用して保護を適用するお客様にもサポートが提供されます。 
+
+お客様には、次の方法に関するガイダンスが提供されています。 
+
+- テナントのアクティブ化と構成を行います。
+- ラベルとポリシーを作成して設定します。
+- ドキュメントに情報保護を適用します。 
+
 > [!NOTE]
 > **詳細情報**「 [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)」を参照してください。
 
 ## <a name="next-steps"></a>次の手順
 
-[EMS の fasttrack の利点-自分の責任](EMS-your-responsibilities.md)
+[EMS の FastTrack の利点-自分の責任](EMS-your-responsibilities.md)

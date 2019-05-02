@@ -1,19 +1,19 @@
 ---
 layout: HubPage
 hide_bc: true
-title: FastTrack の Microsoft のドキュメントとリソース
-description: Microsoft FastTrack がマイクロソフトのクラウド ソリューションを導入するお客様を支援する方法について説明します。Microsoft 365、Azure では、Dynamics 365 に対象のサブスクリプションを持つお客様は、そのサブスクリプションの有効期間、追加コストなしで FastTrack を使用できます。
+title: Microsoft FastTrack のドキュメントとリソース
+description: Microsoft FastTrack を使用してお客様が Microsoft クラウドソリューションを展開する方法について説明します。 Microsoft 365、Azure、または Dynamics 365 に該当するサブスクリプションを利用しているお客様は、サブスクリプションの有効期間中は、FastTrack を追加料金なしで使用できます。
 ms.openlocfilehash: ae5a62824b074863bf2649fd8aa5e2c88d33c932
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "27406008"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513344"
 ---
 <div id="main" class="v2">
     <div class="container">
-        <h1>FastTrack の Microsoft のドキュメントとリソース</h1>
-        <p>Microsoft FastTrack がマイクロソフトのクラウド ソリューションを導入するお客様を支援する方法について説明します。Microsoft 365、Azure では、Dynamics 365 に対象のサブスクリプションを持つお客様は、そのサブスクリプションの有効期間、追加コストなしで FastTrack を使用できます。</p>
+        <h1>Microsoft FastTrack のドキュメントとリソース</h1>
+        <p>Microsoft FastTrack を使用してお客様が Microsoft クラウドソリューションを展開する方法について説明します。 Microsoft 365、Azure、または Dynamics 365 に該当するサブスクリプションを利用しているお客様は、サブスクリプションの有効期間中は、FastTrack を追加料金なしで使用できます。</p>
         <p></p>
         <ul class="pivots">
             <li>
@@ -44,8 +44,8 @@ ms.locfileid: "27406008"
                                         <div class="card">
                                             <div class="cardText">
                                                 <h3>Azure の FastTrack</h3>
-                                                <p><a href="https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03">主なメリット</a></p>
-                                                <p><a href="https://azure.microsoft.com/programs/azure-fasttrack/partners/">Azure のパートナーの FastTrack</a></p>
+                                                <p><a href="https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03">主な利点</a></p>
+                                                <p><a href="https://azure.microsoft.com/programs/azure-fasttrack/partners/">Azure パートナーの FastTrack</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -57,8 +57,8 @@ ms.locfileid: "27406008"
                                         <div class="card">
                                             <div class="cardText">
                                                 <h3>Dynamics 365 の FastTrack</h3>
-                                                <p><a href="https://docs.microsoft.com/dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365">顧客活動の概要</a></p>
-                                                <p><a href="https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview">財務 & 操作のための力学</a></p>
+                                                <p><a href="https://docs.microsoft.com/dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365">顧客契約の概要</a></p>
+                                                <p><a href="https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview">Finance & 操作のダイナミクス</a></p>
                                             </div>
                                         </div>
                                     </div>
