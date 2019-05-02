@@ -3,19 +3,19 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016997"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513092"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -147,7 +147,7 @@ FastTrack Center は、次のサービスのサポートを提供します。
 
 \*\*米国政府機関向けの FastTrack の特典の詳細については、「[Office 365 US Government](https://aka.ms/aboutgovcloud)」を参照してください。
 
-\*\*\*Skype for Business Online と Microsoft Teams の両方のライセンスを付与済みのユーザーに使用できます。
+\*\*\*Skype for Business Online と Microsoft Teams の両方のライセンスを付与済みのユーザーに使用できます。 Skype for Business または Microsoft Teams を購入する資格を与える必要があります。 
 
 > [!NOTE]
 > FastTrack Center 特典の対象かどうかは、前述の対象となるプランの有料ライセンスを購入したかどうかに基づきます。 
@@ -160,7 +160,7 @@ FastTrack Center は、次のサービスのサポートを提供します。
 |---------|---------|
 |**E3 または E5 の Enterprise Mobility + Security (EMS)**       |   FastTrack 特典の対象となるクラウド サービスで利用可能です。それ以外の場合は、FastTrack スペシャリストに、またはパートナーの紹介用に転送されます。        |
 |**Microsoft Azure Active Directory Premium**     |  単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。       |
-|**Microsoft Azure Information Protection**    |  E5 の一部として、または単体プランとして、P2 で利用可能です。それ以外の場合は、FastTrack スペシャリストに、またはパートナーの紹介用に転送されます。        |
+|**Microsoft Azure Information Protection**    |  EMS E5 の一部として、または単体プランとして、P2 で利用できます。 それ以外の場合は、FastTrack スペシャリスト宛、またはパートナーの紹介に向けてルーティングされます。        |
 |**Microsoft Intune**    |   単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。      |
 |**Cloud Attach**     |    単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。     |
 |**Microsoft Intune for Education**     |  単体プランとして、または A3 または A5 の一部として購入した場合に対象となります。       |
