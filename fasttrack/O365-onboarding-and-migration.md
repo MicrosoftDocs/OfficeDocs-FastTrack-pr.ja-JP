@@ -3,19 +3,19 @@ title: オンボーディングと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 69f381f7ed84ad601d7c7b273abffcb306c5b56a
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 3fcd64283c419fdfee775b31983d17eec63783b8
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017045"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513893"
 ---
 # <a name="onboarding-and-migration-phases"></a>オンボーディングと移行のフェーズ
 
@@ -197,7 +197,8 @@ Office 365 ProPlus では、次の作業のガイダンスを提供します。
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。   
 - iOS、Android、Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 365 展開ツールを使用した更新設定の構成。   
-- Office 365 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。  
+- ローカルまたはクラウドのインストールの選択とセットアップ。 
+- Office カスタマイズ ツールを使用した Office 展開ツールの構成 XML、または展開パッケージを構成するためのネイティブ XML の作成。  
 - System Center Configuration Manager パッケージの作成サポートを含む、Microsoft System Center Configuration Manager を使用した展開。
     
 ![Office ProPlus オンボーディング ステップ](media/O365-Onboarding-Enable-OProPlus.png)
