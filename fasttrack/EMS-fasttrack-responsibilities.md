@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 4c8dd188e0e29613b9221c087f0a8e35ed744179
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513836"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967962"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -283,7 +283,7 @@ FastTrack には、オンボード時の次の責任があります。
 
 ### <a name="enable-phase--azure-information-protection"></a>有効化フェーズ-Azure Information Protection
 
-次のサポートを提供します。 
+以下に関するガイダンスを提供します。 
 
 - お客様は、Windows 上で実行されている Office アプリ (Word、PowerPoint、Excel、Outlook など) の情報を自動的に分類してラベルを付け、Azure Information Protection クライアントを使用します。 
 - Azure Information Protection スキャナーを使用して、ファイルを保存します。

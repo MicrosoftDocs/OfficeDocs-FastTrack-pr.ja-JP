@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513510"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967986"
 ---
 # <a name="onboarding-phases"></a>オンボーディング フェーズ
 
@@ -47,7 +47,7 @@ ms.locfileid: "33513510"
 > [!NOTE]
 > Office 365 テナントに Microsoft パートナーが登録されている場合、このオプションは表示されません。 詳細については、Microsoft パートナーにお問い合わせください。
 
-Microsoft パートナーは、お客様の代わりに[Fasttrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からサポートを受けることもできます。 To do so:
+Microsoft パートナーは、お客様の代わりに[Fasttrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からサポートを受けることもできます。 これを行うには、以下のようにします。
 
 1. [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。
 2. **[FastTrack]** を選択します。
@@ -272,7 +272,7 @@ FastTrack は、対象となるサービスの適切な導入を促進する方�
 
 #### <a name="enable-phase--azure-information-protection"></a>有効化フェーズ-Azure Information Protection
 
-Azure Information Protection では、次のサポートが提供されます。 
+Azure Information Protection には、次のようなガイダンスがあります。 
 
 - お客様は、Windows 上で実行されている Office アプリ (Word、PowerPoint、Excel、Outlook など) の情報を自動的に分類してラベルを付け、Azure Information Protection クライアントを使用します。 
 - Azure Information Protection スキャナーを使用して、ファイルを保存します。
