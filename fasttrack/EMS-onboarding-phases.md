@@ -5,19 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
+ms.openlocfilehash: 3725a730a5191bfbe38958403b88ace00ed5bd02
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967986"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673570"
 ---
 # <a name="onboarding-phases"></a>オンボーディング フェーズ
 
@@ -272,20 +274,16 @@ FastTrack は、対象となるサービスの適切な導入を促進する方�
 
 #### <a name="enable-phase--azure-information-protection"></a>有効化フェーズ-Azure Information Protection
 
-Azure Information Protection には、次のようなガイダンスがあります。 
-
-- お客様は、Windows 上で実行されている Office アプリ (Word、PowerPoint、Excel、Outlook など) の情報を自動的に分類してラベルを付け、Azure Information Protection クライアントを使用します。 
-- Azure Information Protection スキャナーを使用して、ファイルを保存します。
-- Exchange Online のメールフロールールを使用して転送中の電子メール。 
-
-Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encryption (OME)、データ損失防止 (DLP) を使用して保護を適用するお客様にもサポートが提供されます。 
-
 お客様には、次の方法に関するガイダンスが提供されています。 
 
 - テナントのアクティブ化と構成を行います。
 - ラベルとポリシーを作成して設定します。
 - ドキュメントに情報保護を適用します。 
+- Windows で実行されている Office アプリ (Word、PowerPoint、Excel、Outlook など) の情報を自動的に分類してラベルを付け、Azure Information Protection クライアントを使用します。
+- Azure Information Protection スキャナーを使用して、rest でファイルを使用します。
+- Exchange Online のメールフロールールを使用して転送中のメールを監視します。
 
+Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encryption (OME)、データ損失防止 (DLP) を使用して保護を適用するお客様にも、ガイダンスが提供されています。
 
 > [!NOTE]
 > **詳細情報**「 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)」を参照してください。
