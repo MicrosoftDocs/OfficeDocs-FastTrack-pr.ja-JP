@@ -3,152 +3,152 @@ title: 付録 BFastTrack センターの付加的な利点
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「対象となるサービスとプラン」を参照してください。
-ms.openlocfilehash: 1521d3eec5c710af4418bc8bf71d8aac74e68dbc
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 44cbba5e3ec5e1011c9673611a0143a7b1ba13ec
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513416"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673416"
 ---
-# <a name="appendix-b---fasttrack-center-additional-benefit"></a><span data-ttu-id="247ee-104">付録 B - FastTrack Center の付加的な利点</span><span class="sxs-lookup"><span data-stu-id="247ee-104">Appendix B - FastTrack Center Additional Benefit</span></span>
+# <a name="appendix-b---fasttrack-center-additional-benefit"></a><span data-ttu-id="fabad-104">付録 B - FastTrack Center の付加的な利点</span><span class="sxs-lookup"><span data-stu-id="fabad-104">Appendix B - FastTrack Center Additional Benefit</span></span>
 
-<span data-ttu-id="247ee-p102">FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「[対象となるサービスとプラン](M365-eligible-services-and-plans.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="247ee-p102">Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See [Eligible Services and Plans](M365-eligible-services-and-plans.md) for more details.</span></span> 
+<span data-ttu-id="fabad-p102">FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「[対象となるサービスとプラン](M365-eligible-services-and-plans.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="fabad-p102">Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See [Eligible Services and Plans](M365-eligible-services-and-plans.md) for more details.</span></span> 
   
-## <a name="onboarding-and-migration-phases"></a><span data-ttu-id="247ee-107">オンボーディングと移行のフェーズ</span><span class="sxs-lookup"><span data-stu-id="247ee-107">Onboarding and migration phases</span></span>
+## <a name="onboarding-and-migration-phases"></a><span data-ttu-id="fabad-107">オンボーディングと移行のフェーズ</span><span class="sxs-lookup"><span data-stu-id="fabad-107">Onboarding and migration phases</span></span>
 
-## <a name="core"></a><span data-ttu-id="247ee-108">コア</span><span class="sxs-lookup"><span data-stu-id="247ee-108">Core</span></span>
+## <a name="core"></a><span data-ttu-id="fabad-108">コア</span><span class="sxs-lookup"><span data-stu-id="fabad-108">Core</span></span>
 
-<span data-ttu-id="247ee-109">コア オンボーディング サービスの追加内容には、地理的冗長性を備えた Active Directory Federation Services (AD FS) およびサービスの AD FS クライアント アクセス ポリシーの構成ガイダンスが含まれます。</span><span class="sxs-lookup"><span data-stu-id="247ee-109">Core onboarding services additions include configuration guidance for geo-redundant Active Directory Federation Services (AD FS) and AD FS client access policies for the service.</span></span> 
+<span data-ttu-id="fabad-109">コア オンボーディング サービスの追加内容には、地理的冗長性を備えた Active Directory Federation Services (AD FS) およびサービスの AD FS クライアント アクセス ポリシーの構成ガイダンスが含まれます。</span><span class="sxs-lookup"><span data-stu-id="fabad-109">Core onboarding services additions include configuration guidance for geo-redundant Active Directory Federation Services (AD FS) and AD FS client access policies for the service.</span></span> 
   
-## <a name="exchange-online"></a><span data-ttu-id="247ee-110">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="247ee-110">Exchange Online</span></span>
+## <a name="exchange-online"></a><span data-ttu-id="fabad-110">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="fabad-110">Exchange Online</span></span>
 
-<span data-ttu-id="247ee-111">Exchange Online では、次に示す構成ガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-111">For Exchange Online, we provide configuration guidance for the following:</span></span>
-- <span data-ttu-id="247ee-112">Exchange Online でのユニファイド メッセージング (UM) のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="247ee-112">Setting up Unified Messaging (UM) with Exchange Online.</span></span>
-- <span data-ttu-id="247ee-113">Exchange Online と従来のオンプレミスのパブリック フォルダーとの共存の構成。</span><span class="sxs-lookup"><span data-stu-id="247ee-113">Configuring coexistence between Exchange Online and legacy on-premises public folders.</span></span>
-- <span data-ttu-id="247ee-114">メールが有効なアプリケーションの統合。</span><span class="sxs-lookup"><span data-stu-id="247ee-114">Mail-enabled application integration.</span></span> 
-- <span data-ttu-id="247ee-115">メールボックス移行の計画とグループ化。</span><span class="sxs-lookup"><span data-stu-id="247ee-115">Mailbox migration planning and grouping.</span></span>
+<span data-ttu-id="fabad-111">Exchange Online では、次に示す構成ガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-111">For Exchange Online, we provide configuration guidance for the following:</span></span>
+- <span data-ttu-id="fabad-112">Exchange Online でのユニファイド メッセージング (UM) のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="fabad-112">Setting up Unified Messaging (UM) with Exchange Online.</span></span>
+- <span data-ttu-id="fabad-113">Exchange Online と従来のオンプレミスのパブリック フォルダーとの共存の構成。</span><span class="sxs-lookup"><span data-stu-id="fabad-113">Configuring coexistence between Exchange Online and legacy on-premises public folders.</span></span>
+- <span data-ttu-id="fabad-114">メールが有効なアプリケーションの統合。</span><span class="sxs-lookup"><span data-stu-id="fabad-114">Mail-enabled application integration.</span></span> 
+- <span data-ttu-id="fabad-115">メールボックス移行の計画とグループ化。</span><span class="sxs-lookup"><span data-stu-id="fabad-115">Mailbox migration planning and grouping.</span></span>
     
-## <a name="skype-for-business-online"></a><span data-ttu-id="247ee-116">Skype for Business Online</span><span class="sxs-lookup"><span data-stu-id="247ee-116">Skype for Business Online</span></span>
+## <a name="skype-for-business-online"></a><span data-ttu-id="fabad-116">Skype for Business Online</span><span class="sxs-lookup"><span data-stu-id="fabad-116">Skype for Business Online</span></span>
 
-<span data-ttu-id="247ee-117">Skype for Business Online では、オンプレミスの Lync および Skype for Business ユーザーの Skype for Business Online への移行に関するガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-117">For Skype for Business Online, we provide guidance for on-premises Lync and Skype for Business user migration to Skype for Business Online.</span></span>
+<span data-ttu-id="fabad-117">Skype for Business Online では、オンプレミスの Lync および Skype for Business ユーザーの Skype for Business Online への移行に関するガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-117">For Skype for Business Online, we provide guidance for on-premises Lync and Skype for Business user migration to Skype for Business Online.</span></span>
   
-## <a name="office-365-proplus"></a><span data-ttu-id="247ee-118">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="247ee-118">Office 365 ProPlus</span></span>
+## <a name="office-365-proplus"></a><span data-ttu-id="fabad-118">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="fabad-118">Office 365 ProPlus</span></span>
 
-<span data-ttu-id="247ee-119">Office 365 ProPlus では、次に示すガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-119">For Office 365 ProPlus, we provide guidance for the following:</span></span> 
-- <span data-ttu-id="247ee-120">Microsoft のベストプラクティスに従って初期展開をして更新を管理するための環境の準備に焦点を当てた評価と計画。</span><span class="sxs-lookup"><span data-stu-id="247ee-120">Assessment and planning focused on preparing your environment for initial deployment and management of updates aligned with Microsoft's best practices.</span></span> 
-- <span data-ttu-id="247ee-121">Office 365 展開ツールによる展開構成と更新設定の策定。</span><span class="sxs-lookup"><span data-stu-id="247ee-121">Developing deployment configurations and update settings using the Office 365 Deployment Tool.</span></span> 
-- <span data-ttu-id="247ee-122">System Center Configuration Manager を使用した展開パッケージング。</span><span class="sxs-lookup"><span data-stu-id="247ee-122">Deployment packaging using the System Center Configuration Manager.</span></span>  
-- <span data-ttu-id="247ee-123">ビジネスに不可欠な Office 文書の使用とアプリケーション互換性のソリューションを評価するためのガイダンスを提供するための、Office テレメトリの展開と構成。</span><span class="sxs-lookup"><span data-stu-id="247ee-123">Deploying and configuring Office Telemetry to provide guidance for you to assess the use of business-critical Office documents and solutions for application compatibility.</span></span>
+<span data-ttu-id="fabad-119">Office 365 ProPlus では、次に示すガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-119">For Office 365 ProPlus, we provide guidance for the following:</span></span> 
+- <span data-ttu-id="fabad-120">Microsoft のベストプラクティスに従って初期展開をして更新を管理するための環境の準備に焦点を当てた評価と計画。</span><span class="sxs-lookup"><span data-stu-id="fabad-120">Assessment and planning focused on preparing your environment for initial deployment and management of updates aligned with Microsoft's best practices.</span></span> 
+- <span data-ttu-id="fabad-121">Office 365 展開ツールによる展開構成と更新設定の策定。</span><span class="sxs-lookup"><span data-stu-id="fabad-121">Developing deployment configurations and update settings using the Office 365 Deployment Tool.</span></span> 
+- <span data-ttu-id="fabad-122">System Center Configuration Manager を使用した展開パッケージング。</span><span class="sxs-lookup"><span data-stu-id="fabad-122">Deployment packaging using the System Center Configuration Manager.</span></span>  
+- <span data-ttu-id="fabad-123">ビジネスに不可欠な Office 文書の使用とアプリケーション互換性のソリューションを評価するためのガイダンスを提供するための、Office テレメトリの展開と構成。</span><span class="sxs-lookup"><span data-stu-id="fabad-123">Deploying and configuring Office Telemetry to provide guidance for you to assess the use of business-critical Office documents and solutions for application compatibility.</span></span>
     
-## <a name="fasttrack-responsibilities"></a><span data-ttu-id="247ee-124">FastTrack の責任範囲</span><span class="sxs-lookup"><span data-stu-id="247ee-124">FastTrack responsibilities</span></span>
+## <a name="fasttrack-responsibilities"></a><span data-ttu-id="fabad-124">FastTrack の責任範囲</span><span class="sxs-lookup"><span data-stu-id="fabad-124">FastTrack responsibilities</span></span>
 
-<span data-ttu-id="247ee-p103">FastTrack スペシャリストには、オンボーディング中に以下の責任があります。これらは、[FastTrack の責任範囲](O365-fasttrack-responsibilities.md)で定義されているアクティビティに追加あるいは置換されることがあります。</span><span class="sxs-lookup"><span data-stu-id="247ee-p103">FastTrack Specialists have the following responsibilities during onboarding. These may be in addition to or replace the activities defined in [FastTrack Responsibilities](O365-fasttrack-responsibilities.md).</span></span>
+<span data-ttu-id="fabad-p103">FastTrack スペシャリストには、オンボーディング中に以下の責任があります。これらは、[FastTrack の責任範囲](O365-fasttrack-responsibilities.md)で定義されているアクティビティに追加あるいは置換されることがあります。</span><span class="sxs-lookup"><span data-stu-id="fabad-p103">FastTrack Specialists have the following responsibilities during onboarding. These may be in addition to or replace the activities defined in [FastTrack Responsibilities](O365-fasttrack-responsibilities.md).</span></span>
   
-## <a name="general"></a><span data-ttu-id="247ee-127">全般</span><span class="sxs-lookup"><span data-stu-id="247ee-127">General</span></span>
+## <a name="general"></a><span data-ttu-id="fabad-127">全般</span><span class="sxs-lookup"><span data-stu-id="fabad-127">General</span></span>
 
-- <span data-ttu-id="247ee-128">達成計画の開発と実装、必要な構成アクティビティのための遠隔サポート アシスタンスを提供します。その内容については、「[オンボーディングと移行のフェーズ](#onboarding-and-migration-phases)」で説明しています。</span><span class="sxs-lookup"><span data-stu-id="247ee-128">Provide remote support assistance to you in success planning development, implementation, and required configuration activities as detailed in [Onboarding and migration phases](#onboarding-and-migration-phases).</span></span>
+- <span data-ttu-id="fabad-128">達成計画の開発と実装、必要な構成アクティビティのための遠隔サポート アシスタンスを提供します。その内容については、「[オンボーディングと移行のフェーズ](#onboarding-and-migration-phases)」で説明しています。</span><span class="sxs-lookup"><span data-stu-id="fabad-128">Provide remote support assistance to you in success planning development, implementation, and required configuration activities as detailed in [Onboarding and migration phases](#onboarding-and-migration-phases).</span></span>
     
-## <a name="assess-phase"></a><span data-ttu-id="247ee-129">評価フェーズ</span><span class="sxs-lookup"><span data-stu-id="247ee-129">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="fabad-129">評価フェーズ</span><span class="sxs-lookup"><span data-stu-id="fabad-129">Assess phase</span></span>
 
-- <span data-ttu-id="247ee-130">達成計画に関する電話会議を行い、ユーザーによる効果的な採用のためのガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-130">Hold a success planning call to provide guidance for successful user adoption.</span></span> 
-- <span data-ttu-id="247ee-131">お使いの環境を評価し、地理的冗長性を備えた AD FS の構成をサポートします。</span><span class="sxs-lookup"><span data-stu-id="247ee-131">Assess your environment to support the configuration of geo-redundant AD FS.</span></span>  
-- <span data-ttu-id="247ee-132">評価を実行し、AD FS クライアント アクセスの要件を特定します。</span><span class="sxs-lookup"><span data-stu-id="247ee-132">Run an assessment to identify your requirements for AD FS client access.</span></span>
+- <span data-ttu-id="fabad-130">達成計画に関する電話会議を行い、ユーザーによる効果的な採用のためのガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-130">Hold a success planning call to provide guidance for successful user adoption.</span></span> 
+- <span data-ttu-id="fabad-131">お使いの環境を評価し、地理的冗長性を備えた AD FS の構成をサポートします。</span><span class="sxs-lookup"><span data-stu-id="fabad-131">Assess your environment to support the configuration of geo-redundant AD FS.</span></span>  
+- <span data-ttu-id="fabad-132">評価を実行し、AD FS クライアント アクセスの要件を特定します。</span><span class="sxs-lookup"><span data-stu-id="fabad-132">Run an assessment to identify your requirements for AD FS client access.</span></span>
     
-## <a name="enable-phase"></a><span data-ttu-id="247ee-133">有効化フェーズ</span><span class="sxs-lookup"><span data-stu-id="247ee-133">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="fabad-133">有効化フェーズ</span><span class="sxs-lookup"><span data-stu-id="fabad-133">Enable phase</span></span>
 
-### <a name="geo-redundant-ad-fs-guidance"></a><span data-ttu-id="247ee-134">地理冗長 AD FS のガイダンス</span><span class="sxs-lookup"><span data-stu-id="247ee-134">Geo-redundant AD FS guidance</span></span>
+### <a name="geo-redundant-ad-fs-guidance"></a><span data-ttu-id="fabad-134">地理冗長 AD FS のガイダンス</span><span class="sxs-lookup"><span data-stu-id="fabad-134">Geo-redundant AD FS guidance</span></span>
 
-- <span data-ttu-id="247ee-p104">2 つのデータ センターにわたる地域冗長 AD FS トポロジに、標準的な参照アーキテクチャの設計を提供します。標準的なアーキテクチャの対象を次に示します。</span><span class="sxs-lookup"><span data-stu-id="247ee-p104">Provide standard reference architecture design for a geo-redundant AD FS topology spanning two (2) data centers. The standard architecture provides for:</span></span>
-  - <span data-ttu-id="247ee-137">FastTrack Center 特典に含まれるサービスのフェデレーション認証。</span><span class="sxs-lookup"><span data-stu-id="247ee-137">Federated authentication for services in scope for the FastTrack Center Benefit.</span></span> 
-  - <span data-ttu-id="247ee-138">単一サイトの復元。</span><span class="sxs-lookup"><span data-stu-id="247ee-138">Single site resiliency.</span></span>  
-  - <span data-ttu-id="247ee-139">高可用性とフェールオーバー。</span><span class="sxs-lookup"><span data-stu-id="247ee-139">High availability and failover.</span></span>  
-  - <span data-ttu-id="247ee-140">サイジングに関するガイダンス。</span><span class="sxs-lookup"><span data-stu-id="247ee-140">Sizing guidance.</span></span> 
-- <span data-ttu-id="247ee-141">AD FS ファームのデータベース インスタンスとして Windows Integrated Database (WID) および SQL Server の使用に関するガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-141">Provide guidance on using Windows Internal Database and SQL Server as the database instance for the AD FS farm.</span></span>   
-- <span data-ttu-id="247ee-142">スコープ内の各フォレストのフェデレーション認証の確立を検証します。</span><span class="sxs-lookup"><span data-stu-id="247ee-142">Validate the establishment of federated authentication for each forest in scope.</span></span>  
-- <span data-ttu-id="247ee-143">最大 10 ユーザーに対するフェデレーション認証機能を確認します。</span><span class="sxs-lookup"><span data-stu-id="247ee-143">Confirm federated authentication functionality for up to 10 users.</span></span>
+- <span data-ttu-id="fabad-p104">2 つのデータ センターにわたる地域冗長 AD FS トポロジに、標準的な参照アーキテクチャの設計を提供します。標準的なアーキテクチャの対象を次に示します。</span><span class="sxs-lookup"><span data-stu-id="fabad-p104">Provide standard reference architecture design for a geo-redundant AD FS topology spanning two (2) data centers. The standard architecture provides for:</span></span>
+  - <span data-ttu-id="fabad-137">FastTrack Center 特典に含まれるサービスのフェデレーション認証。</span><span class="sxs-lookup"><span data-stu-id="fabad-137">Federated authentication for services in scope for the FastTrack Center Benefit.</span></span> 
+  - <span data-ttu-id="fabad-138">単一サイトの復元。</span><span class="sxs-lookup"><span data-stu-id="fabad-138">Single site resiliency.</span></span>  
+  - <span data-ttu-id="fabad-139">高可用性とフェールオーバー。</span><span class="sxs-lookup"><span data-stu-id="fabad-139">High availability and failover.</span></span>  
+  - <span data-ttu-id="fabad-140">サイジングに関するガイダンス。</span><span class="sxs-lookup"><span data-stu-id="fabad-140">Sizing guidance.</span></span> 
+- <span data-ttu-id="fabad-141">AD FS ファームのデータベース インスタンスとして Windows Integrated Database (WID) および SQL Server の使用に関するガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-141">Provide guidance on using Windows Internal Database and SQL Server as the database instance for the AD FS farm.</span></span>   
+- <span data-ttu-id="fabad-142">スコープ内の各フォレストのフェデレーション認証の確立を検証します。</span><span class="sxs-lookup"><span data-stu-id="fabad-142">Validate the establishment of federated authentication for each forest in scope.</span></span>  
+- <span data-ttu-id="fabad-143">最大 10 ユーザーに対するフェデレーション認証機能を確認します。</span><span class="sxs-lookup"><span data-stu-id="fabad-143">Confirm federated authentication functionality for up to 10 users.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="247ee-144">AD FS の展開は、複数の Active Directory フォレスト構成を持つ、追加支援の対象となるお客様が対象になります。</span><span class="sxs-lookup"><span data-stu-id="247ee-144">AD FS deployments are in scope for additional benefit eligible customers with multiple Active Directory forest configurations.</span></span> 
+> <span data-ttu-id="fabad-144">AD FS の展開は、複数の Active Directory フォレスト構成を持つ、追加支援の対象となるお客様が対象になります。</span><span class="sxs-lookup"><span data-stu-id="fabad-144">AD FS deployments are in scope for additional benefit eligible customers with multiple Active Directory forest configurations.</span></span> 
   
-### <a name="ad-fs-client-access-policy-guidance"></a><span data-ttu-id="247ee-145">AD FS クライアント アクセスのポリシーのガイダンス</span><span class="sxs-lookup"><span data-stu-id="247ee-145">AD FS client access policy guidance</span></span>
+### <a name="ad-fs-client-access-policy-guidance"></a><span data-ttu-id="fabad-145">AD FS クライアント アクセスのポリシーのガイダンス</span><span class="sxs-lookup"><span data-stu-id="fabad-145">AD FS client access policy guidance</span></span>
 
-- <span data-ttu-id="247ee-146">セキュリティで保護された Office 365 リソースに必要なポリシーと構成を確認します。</span><span class="sxs-lookup"><span data-stu-id="247ee-146">Review the policies and configuration required to secure Office 365 resources.</span></span>  
-- <span data-ttu-id="247ee-p105">サポートされているシナリオの範囲内で識別されたクライアント アクセス シナリオについて AD FS クライアント アクセス ポリシーを構成するためのガイダンスと支援を提供します。詳細については、「[クライアントの場所に基づいて Office 365 サービスへのアクセスを制限する](https://go.microsoft.com/fwlink/?LinkID=525689)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="247ee-p105">Provide guidance and assistance with configuring the AD FS client access policy for identified client access scenarios within the boundaries of supported scenarios. For more information, see [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689).</span></span> 
-- <span data-ttu-id="247ee-149">更新されたクライアント アクセス ポリシーを使用して、最大 10 ユーザーの構成を持つ、認識されたアクセス シナリオのフェデレーション認証機能を検証します。</span><span class="sxs-lookup"><span data-stu-id="247ee-149">Validate federated authentication functionality with modified client access policies for identified access scenarios with configuration up to 10 users.</span></span>
+- <span data-ttu-id="fabad-146">セキュリティで保護された Office 365 リソースに必要なポリシーと構成を確認します。</span><span class="sxs-lookup"><span data-stu-id="fabad-146">Review the policies and configuration required to secure Office 365 resources.</span></span>  
+- <span data-ttu-id="fabad-p105">サポートされているシナリオの範囲内で識別されたクライアント アクセス シナリオについて AD FS クライアント アクセス ポリシーを構成するためのガイダンスと支援を提供します。詳細については、「[クライアントの場所に基づいて Office 365 サービスへのアクセスを制限する](https://go.microsoft.com/fwlink/?LinkID=525689)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="fabad-p105">Provide guidance and assistance with configuring the AD FS client access policy for identified client access scenarios within the boundaries of supported scenarios. For more information, see [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689).</span></span> 
+- <span data-ttu-id="fabad-149">更新されたクライアント アクセス ポリシーを使用して、最大 10 ユーザーの構成を持つ、認識されたアクセス シナリオのフェデレーション認証機能を検証します。</span><span class="sxs-lookup"><span data-stu-id="fabad-149">Validate federated authentication functionality with modified client access policies for identified access scenarios with configuration up to 10 users.</span></span>
     
-## <a name="exchange-online"></a><span data-ttu-id="247ee-150">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="247ee-150">Exchange Online</span></span>
+## <a name="exchange-online"></a><span data-ttu-id="fabad-150">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="fabad-150">Exchange Online</span></span>
 
-### <a name="exchange-unified-messaging-guidance"></a><span data-ttu-id="247ee-151">Exchange ユニファイド メッセージングのガイダンス</span><span class="sxs-lookup"><span data-stu-id="247ee-151">Exchange Unified Messaging guidance</span></span>
+### <a name="exchange-unified-messaging-guidance"></a><span data-ttu-id="fabad-151">Exchange ユニファイド メッセージングのガイダンス</span><span class="sxs-lookup"><span data-stu-id="fabad-151">Exchange Unified Messaging guidance</span></span>
 
-- <span data-ttu-id="247ee-152">以下について最大 10 個を有効にするために、Exchange Online 上で必要な構成に関するガイドラインを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-152">Provide guidance on required configuration on Exchange Online to enable up to 10:</span></span> 
-  - <span data-ttu-id="247ee-153">UM ダイヤル プラン。</span><span class="sxs-lookup"><span data-stu-id="247ee-153">UM dial plans.</span></span>   
-  - <span data-ttu-id="247ee-154">UM メールボックス ポリシー。</span><span class="sxs-lookup"><span data-stu-id="247ee-154">UM mailbox policies.</span></span> 
-  - <span data-ttu-id="247ee-155">自動応答。</span><span class="sxs-lookup"><span data-stu-id="247ee-155">Auto attendants.</span></span>  
-- <span data-ttu-id="247ee-156">UM と以下を有効にするために、オンプレミスの Lync または Skype for Business の環境構成に関するガイドラインを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-156">Provide guidance for the on-premises Lync or Skype for Business environment configuration in order to enable UM and specifically target:</span></span>  
-  - <span data-ttu-id="247ee-157">Exchange Online がホストするポリシー。</span><span class="sxs-lookup"><span data-stu-id="247ee-157">Exchange Online-hosted policies.</span></span>  
-  - <span data-ttu-id="247ee-158">Exchange Online がホストするボイス メール ポリシー。</span><span class="sxs-lookup"><span data-stu-id="247ee-158">Exchange Online-hosted voice mail policies.</span></span> 
-  - <span data-ttu-id="247ee-159">ユーザーを Exchange Online にリダイレクトするための UM の自動応答の連絡先と Outlook 音声メール。</span><span class="sxs-lookup"><span data-stu-id="247ee-159">UM auto attendant contacts and Outlook voice mail to redirect users to Exchange Online.</span></span> 
-  - <span data-ttu-id="247ee-160">フェデレーションの必要に応じて Service Location (SRV) レコードの作成をサポートします。</span><span class="sxs-lookup"><span data-stu-id="247ee-160">Assist with the creation of the Service Location (SRV) records as required for federation.</span></span>
+- <span data-ttu-id="fabad-152">以下について最大 10 個を有効にするために、Exchange Online 上で必要な構成に関するガイドラインを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-152">Provide guidance on required configuration on Exchange Online to enable up to 10:</span></span> 
+  - <span data-ttu-id="fabad-153">UM ダイヤル プラン。</span><span class="sxs-lookup"><span data-stu-id="fabad-153">UM dial plans.</span></span>   
+  - <span data-ttu-id="fabad-154">UM メールボックス ポリシー。</span><span class="sxs-lookup"><span data-stu-id="fabad-154">UM mailbox policies.</span></span> 
+  - <span data-ttu-id="fabad-155">自動応答。</span><span class="sxs-lookup"><span data-stu-id="fabad-155">Auto attendants.</span></span>  
+- <span data-ttu-id="fabad-156">UM と以下を有効にするために、オンプレミスの Lync または Skype for Business の環境構成に関するガイドラインを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-156">Provide guidance for the on-premises Lync or Skype for Business environment configuration in order to enable UM and specifically target:</span></span>  
+  - <span data-ttu-id="fabad-157">Exchange Online がホストするポリシー。</span><span class="sxs-lookup"><span data-stu-id="fabad-157">Exchange Online-hosted policies.</span></span>  
+  - <span data-ttu-id="fabad-158">Exchange Online がホストするボイス メール ポリシー。</span><span class="sxs-lookup"><span data-stu-id="fabad-158">Exchange Online-hosted voice mail policies.</span></span> 
+  - <span data-ttu-id="fabad-159">ユーザーを Exchange Online にリダイレクトするための UM の自動応答の連絡先と Outlook 音声メール。</span><span class="sxs-lookup"><span data-stu-id="fabad-159">UM auto attendant contacts and Outlook voice mail to redirect users to Exchange Online.</span></span> 
+  - <span data-ttu-id="fabad-160">フェデレーションの必要に応じて Service Location (SRV) レコードの作成をサポートします。</span><span class="sxs-lookup"><span data-stu-id="fabad-160">Assist with the creation of the Service Location (SRV) records as required for federation.</span></span>
 > [!NOTE]
-> <span data-ttu-id="247ee-p106">サポートされた UM IP ゲートウェイとセッション ボーダー コントローラー (SBC) で UM を構成できます。詳細については、「[電話システムの UM との統合](https://go.microsoft.com/fwlink/?LinkID=809293)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="247ee-p106">UM can be configured with supported UM IP gateways and session border controllers (SBCs). For more information, see [Telephone system integration with UM](https://go.microsoft.com/fwlink/?LinkID=809293).</span></span> 
+> <span data-ttu-id="fabad-p106">サポートされた UM IP ゲートウェイとセッション ボーダー コントローラー (SBC) で UM を構成できます。詳細については、「[電話システムの UM との統合](https://go.microsoft.com/fwlink/?LinkID=809293)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="fabad-p106">UM can be configured with supported UM IP gateways and session border controllers (SBCs). For more information, see [Telephone system integration with UM](https://go.microsoft.com/fwlink/?LinkID=809293).</span></span> 
   
-### <a name="public-folder-coexistence-guidance"></a><span data-ttu-id="247ee-163">パブリック フォルダーの共存のガイダンス</span><span class="sxs-lookup"><span data-stu-id="247ee-163">Public folder coexistence guidance</span></span>
+### <a name="public-folder-coexistence-guidance"></a><span data-ttu-id="fabad-163">パブリック フォルダーの共存のガイダンス</span><span class="sxs-lookup"><span data-stu-id="fabad-163">Public folder coexistence guidance</span></span>
 
-- <span data-ttu-id="247ee-164">単一のパブリック フォルダー ツリーの共存に関する次のような内容のガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-164">Provide guidance on single public folder tree coexistence, including:</span></span>  
-  - <span data-ttu-id="247ee-165">Exchange 2007、Exchange 2010、Exchange 2013 でのパブリック フォルダーの準備。</span><span class="sxs-lookup"><span data-stu-id="247ee-165">Public folder preparation in Exchange 2007, Exchange 2010, and Exchange 2013.</span></span> 
-  - <span data-ttu-id="247ee-166">Exchange Online で Exchange 2007、Exchange 2010、Exchange 2013 のパブリック フォルダー階層との同期に必要な Windows PowerShell コマンドレット。</span><span class="sxs-lookup"><span data-stu-id="247ee-166">Windows PowerShell cmdlets needed to synchronize the Exchange 2007, Exchange 2010, and Exchange 2013 public folder hierarchy with Exchange Online.</span></span>  
-  - <span data-ttu-id="247ee-167">パブリック フォルダーのアクセスをオンプレミスのパブリック フォルダーにリダイレクトするための Exchange Online の構成。</span><span class="sxs-lookup"><span data-stu-id="247ee-167">Exchange Online configuration to redirect public folder access to on-premises public folders.</span></span>  
-  - <span data-ttu-id="247ee-168">Exchange Online から単一の Exchange 2007、Exchange 2010、Exchange 2013 のオンプレミス環境へのパブリック フォルダーへのアクセスの構成。</span><span class="sxs-lookup"><span data-stu-id="247ee-168">Configuration of access to public folders from Exchange Online to a single Exchange 2007, Exchange 2010, or Exchange 2013 on-premises environment.</span></span>  
-  - <span data-ttu-id="247ee-169">Exchange Online でのパブリック フォルダー環境への最大 10 人のユーザーのアクセス検証のサポート。</span><span class="sxs-lookup"><span data-stu-id="247ee-169">Assisting access validation to the public folder environment for up to 10 users in Exchange Online.</span></span>
+- <span data-ttu-id="fabad-164">単一のパブリック フォルダー ツリーの共存に関する次のような内容のガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-164">Provide guidance on single public folder tree coexistence, including:</span></span>  
+  - <span data-ttu-id="fabad-165">Exchange 2007、Exchange 2010、Exchange 2013 でのパブリック フォルダーの準備。</span><span class="sxs-lookup"><span data-stu-id="fabad-165">Public folder preparation in Exchange 2007, Exchange 2010, and Exchange 2013.</span></span> 
+  - <span data-ttu-id="fabad-166">Exchange Online で Exchange 2007、Exchange 2010、Exchange 2013 のパブリック フォルダー階層との同期に必要な Windows PowerShell コマンドレット。</span><span class="sxs-lookup"><span data-stu-id="fabad-166">Windows PowerShell cmdlets needed to synchronize the Exchange 2007, Exchange 2010, and Exchange 2013 public folder hierarchy with Exchange Online.</span></span>  
+  - <span data-ttu-id="fabad-167">パブリック フォルダーのアクセスをオンプレミスのパブリック フォルダーにリダイレクトするための Exchange Online の構成。</span><span class="sxs-lookup"><span data-stu-id="fabad-167">Exchange Online configuration to redirect public folder access to on-premises public folders.</span></span>  
+  - <span data-ttu-id="fabad-168">Exchange Online から単一の Exchange 2007、Exchange 2010、Exchange 2013 のオンプレミス環境へのパブリック フォルダーへのアクセスの構成。</span><span class="sxs-lookup"><span data-stu-id="fabad-168">Configuration of access to public folders from Exchange Online to a single Exchange 2007, Exchange 2010, or Exchange 2013 on-premises environment.</span></span>  
+  - <span data-ttu-id="fabad-169">Exchange Online でのパブリック フォルダー環境への最大 10 人のユーザーのアクセス検証のサポート。</span><span class="sxs-lookup"><span data-stu-id="fabad-169">Assisting access validation to the public folder environment for up to 10 users in Exchange Online.</span></span>
     
-### <a name="mail-enabled-application-integration-guidance"></a><span data-ttu-id="247ee-170">メールが有効なアプリケーションの統合ガイダンス</span><span class="sxs-lookup"><span data-stu-id="247ee-170">Mail-enabled application integration guidance</span></span>
+### <a name="mail-enabled-application-integration-guidance"></a><span data-ttu-id="fabad-170">メールが有効なアプリケーションの統合ガイダンス</span><span class="sxs-lookup"><span data-stu-id="fabad-170">Mail-enabled application integration guidance</span></span>
 
-- <span data-ttu-id="247ee-171">以下に関するガイダンスのテンプレートを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-171">Provide guidance templates for:</span></span>  
-  - <span data-ttu-id="247ee-172">大量メールのアプリケーション。</span><span class="sxs-lookup"><span data-stu-id="247ee-172">Mass mailing applications.</span></span>  
-  - <span data-ttu-id="247ee-173">Exchange を介して電子メールをルーティングするアプリケーション。</span><span class="sxs-lookup"><span data-stu-id="247ee-173">Applications that route emails through Exchange.</span></span>  
-  - <span data-ttu-id="247ee-174">Exchange メールボックスを使用するアプリケーション。</span><span class="sxs-lookup"><span data-stu-id="247ee-174">Applications that use Exchange mailboxes.</span></span>  
-  - <span data-ttu-id="247ee-175">サードパーティ製またはカスタムのコンポーネントを Exchange サーバーにインストールするのに必要なアプリケーション。</span><span class="sxs-lookup"><span data-stu-id="247ee-175">Applications that require third-party or custom components to be installed on Exchange servers.</span></span>
+- <span data-ttu-id="fabad-171">以下に関するガイダンスのテンプレートを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-171">Provide guidance templates for:</span></span>  
+  - <span data-ttu-id="fabad-172">大量メールのアプリケーション。</span><span class="sxs-lookup"><span data-stu-id="fabad-172">Mass mailing applications.</span></span>  
+  - <span data-ttu-id="fabad-173">Exchange を介して電子メールをルーティングするアプリケーション。</span><span class="sxs-lookup"><span data-stu-id="fabad-173">Applications that route emails through Exchange.</span></span>  
+  - <span data-ttu-id="fabad-174">Exchange メールボックスを使用するアプリケーション。</span><span class="sxs-lookup"><span data-stu-id="fabad-174">Applications that use Exchange mailboxes.</span></span>  
+  - <span data-ttu-id="fabad-175">サードパーティ製またはカスタムのコンポーネントを Exchange サーバーにインストールするのに必要なアプリケーション。</span><span class="sxs-lookup"><span data-stu-id="fabad-175">Applications that require third-party or custom components to be installed on Exchange servers.</span></span>
     
-### <a name="mailbox-migration-planning-and-grouping"></a><span data-ttu-id="247ee-176">メールボックス移行の計画とグループ化</span><span class="sxs-lookup"><span data-stu-id="247ee-176">Mailbox migration planning and grouping</span></span>
+### <a name="mailbox-migration-planning-and-grouping"></a><span data-ttu-id="fabad-176">メールボックス移行の計画とグループ化</span><span class="sxs-lookup"><span data-stu-id="fabad-176">Mailbox migration planning and grouping</span></span>
 
-- <span data-ttu-id="247ee-177">移行計画作成に関し、次の内容を含めたガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-177">Provide guidance in creating a migration plan, including:</span></span>  
-  - <span data-ttu-id="247ee-178">バッチ処理によるユーザーとリソースのグループ化。</span><span class="sxs-lookup"><span data-stu-id="247ee-178">Grouping users and resources in batches.</span></span>
-  - <span data-ttu-id="247ee-179">移行のバッチ処理による必要なソフトウェア パッケージの展開の調整。</span><span class="sxs-lookup"><span data-stu-id="247ee-179">Coordinating the deployment of required software packages with migration batches.</span></span>   
-  - <span data-ttu-id="247ee-180">エンド ユーザー向けの通信計画作成のためのガイダンス。</span><span class="sxs-lookup"><span data-stu-id="247ee-180">Guidance to create a communication plan to end users.</span></span> 
-  - <span data-ttu-id="247ee-181">移行バッチ処理のサイズ、エラー率の調整とヘルプデスクのサポートの予定。</span><span class="sxs-lookup"><span data-stu-id="247ee-181">Coordination of size of migration batches, error rates, and expected helpdesk assistance.</span></span> 
-- <span data-ttu-id="247ee-182">バッチ処理により、ユーザーとリソースのメールボックスを、お客様が指定した関連情報に基づき、種類別、ビジネス機能別、委任アクセス別にグループ化する際のガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-182">Provide guidance in grouping user and resource mailboxes in batches by type, business function, and delegate access based on relevant information given by the customer.</span></span>
+- <span data-ttu-id="fabad-177">移行計画作成に関し、次の内容を含めたガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-177">Provide guidance in creating a migration plan, including:</span></span>  
+  - <span data-ttu-id="fabad-178">バッチ処理によるユーザーとリソースのグループ化。</span><span class="sxs-lookup"><span data-stu-id="fabad-178">Grouping users and resources in batches.</span></span>
+  - <span data-ttu-id="fabad-179">移行のバッチ処理による必要なソフトウェア パッケージの展開の調整。</span><span class="sxs-lookup"><span data-stu-id="fabad-179">Coordinating the deployment of required software packages with migration batches.</span></span>   
+  - <span data-ttu-id="fabad-180">エンド ユーザー向けの通信計画作成のためのガイダンス。</span><span class="sxs-lookup"><span data-stu-id="fabad-180">Guidance to create a communication plan to end users.</span></span> 
+  - <span data-ttu-id="fabad-181">移行バッチ処理のサイズ、エラー率の調整とヘルプデスクのサポートの予定。</span><span class="sxs-lookup"><span data-stu-id="fabad-181">Coordination of size of migration batches, error rates, and expected helpdesk assistance.</span></span> 
+- <span data-ttu-id="fabad-182">バッチ処理により、ユーザーとリソースのメールボックスを、お客様が指定した関連情報に基づき、種類別、ビジネス機能別、委任アクセス別にグループ化する際のガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-182">Provide guidance in grouping user and resource mailboxes in batches by type, business function, and delegate access based on relevant information given by the customer.</span></span>
     
-## <a name="skype-for-business-online"></a><span data-ttu-id="247ee-183">Skype for Business Online</span><span class="sxs-lookup"><span data-stu-id="247ee-183">Skype for Business Online</span></span>
+## <a name="skype-for-business-online"></a><span data-ttu-id="fabad-183">Skype for Business Online</span><span class="sxs-lookup"><span data-stu-id="fabad-183">Skype for Business Online</span></span>
 
-- <span data-ttu-id="247ee-184">Skype for Business のハイブリッド展開でのバッチ処理によるユーザーの移行 (ユーザーの連絡先リストを保持しながら) についてのガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-184">Provide guidance on migrating users in batches in a Skype for Business hybrid deployment (retaining users' contact lists).</span></span>
+- <span data-ttu-id="fabad-184">Skype for Business のハイブリッド展開でのバッチ処理によるユーザーの移行 (ユーザーの連絡先リストを保持しながら) についてのガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-184">Provide guidance on migrating users in batches in a Skype for Business hybrid deployment (retaining users' contact lists).</span></span>
     
-## <a name="office-365-proplus"></a><span data-ttu-id="247ee-185">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="247ee-185">Office 365 ProPlus</span></span>
+## <a name="office-365-proplus"></a><span data-ttu-id="fabad-185">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="fabad-185">Office 365 ProPlus</span></span>
 
-- <span data-ttu-id="247ee-186">以下についてのガイダンスとサポートを提供します。</span><span class="sxs-lookup"><span data-stu-id="247ee-186">Provide guidance and assistance for:</span></span>  
-  - <span data-ttu-id="247ee-187">初期展開と更新管理のための Microsoft のベストプラクティスに従った評価と計画。</span><span class="sxs-lookup"><span data-stu-id="247ee-187">Assessment and planning aligned with Microsoft's best practices for initial deployment and management of updates.</span></span>
-  - <span data-ttu-id="247ee-188">Office テレメトリの展開と構成。</span><span class="sxs-lookup"><span data-stu-id="247ee-188">Deploying and configuring Office Telemetry.</span></span> 
-  - <span data-ttu-id="247ee-189">グループ ポリシーを使用した、Office 2013 以降のクライアントに対するテレメトリログ記録の有効化。</span><span class="sxs-lookup"><span data-stu-id="247ee-189">Enabling telemetry logging for Office 2013 onward clients using Group Policy.</span></span> 
-  - <span data-ttu-id="247ee-190">以前の Office クライアント (Office 2003、Office 2007、および Office 2010) に対する Office テレメトリ エージェントの展開。</span><span class="sxs-lookup"><span data-stu-id="247ee-190">Deploying Office Telemetry agents for previous Office clients (Office 2003, Office 2007, and Office 2010).</span></span> 
-  - <span data-ttu-id="247ee-191">テレメトリ プロセッサの展開。</span><span class="sxs-lookup"><span data-stu-id="247ee-191">Deploying the telemetry processor.</span></span> 
+- <span data-ttu-id="fabad-186">以下についてのガイダンスとサポートを提供します。</span><span class="sxs-lookup"><span data-stu-id="fabad-186">Provide guidance and assistance for:</span></span>  
+  - <span data-ttu-id="fabad-187">初期展開と更新管理のための Microsoft のベストプラクティスに従った評価と計画。</span><span class="sxs-lookup"><span data-stu-id="fabad-187">Assessment and planning aligned with Microsoft's best practices for initial deployment and management of updates.</span></span>
+  - <span data-ttu-id="fabad-188">Office テレメトリの展開と構成。</span><span class="sxs-lookup"><span data-stu-id="fabad-188">Deploying and configuring Office Telemetry.</span></span> 
+  - <span data-ttu-id="fabad-189">グループ ポリシーを使用した、Office 2013 以降のクライアントに対するテレメトリログ記録の有効化。</span><span class="sxs-lookup"><span data-stu-id="fabad-189">Enabling telemetry logging for Office 2013 onward clients using Group Policy.</span></span> 
+  - <span data-ttu-id="fabad-190">以前の Office クライアント (Office 2003、Office 2007、および Office 2010) に対する Office テレメトリ エージェントの展開。</span><span class="sxs-lookup"><span data-stu-id="fabad-190">Deploying Office Telemetry agents for previous Office clients (Office 2003, Office 2007, and Office 2010).</span></span> 
+  - <span data-ttu-id="fabad-191">テレメトリ プロセッサの展開。</span><span class="sxs-lookup"><span data-stu-id="fabad-191">Deploying the telemetry processor.</span></span> 
     > [!NOTE]
-    > <span data-ttu-id="247ee-192">これには、テレメトリのデータを保存するファイル共有の場所と、処理されたデータを送信するための SQL Server 2005 以降を実行するサーバーが必要です。</span><span class="sxs-lookup"><span data-stu-id="247ee-192">This requires a file share location to store telemetry data and a server running SQL Server 2005 onward to submit processed data to.</span></span> 
+    > <span data-ttu-id="fabad-192">これには、テレメトリのデータを保存するファイル共有の場所と、処理されたデータを送信するための SQL Server 2005 以降を実行するサーバーが必要です。</span><span class="sxs-lookup"><span data-stu-id="fabad-192">This requires a file share location to store telemetry data and a server running SQL Server 2005 onward to submit processed data to.</span></span> 
   
-## <a name="your-responsibilities"></a><span data-ttu-id="247ee-193">お客様の責任</span><span class="sxs-lookup"><span data-stu-id="247ee-193">Your responsibilities</span></span>
+## <a name="your-responsibilities"></a><span data-ttu-id="fabad-193">お客様の責任</span><span class="sxs-lookup"><span data-stu-id="fabad-193">Your responsibilities</span></span>
 
-<span data-ttu-id="247ee-p107">お客様には、オンボーディング中に以下の責任があります。これらは「[お客様の責任](O365-your-responsibilities.md)」セクションで定義されている責任に追加されるものです。</span><span class="sxs-lookup"><span data-stu-id="247ee-p107">You have the following responsibilities during onboarding. These are in addition to the responsibilities defined in the [Your Responsibilities](O365-your-responsibilities.md) section.</span></span> 
+<span data-ttu-id="fabad-p107">お客様には、オンボーディング中に以下の責任があります。これらは「[お客様の責任](O365-your-responsibilities.md)」セクションで定義されている責任に追加されるものです。</span><span class="sxs-lookup"><span data-stu-id="fabad-p107">You have the following responsibilities during onboarding. These are in addition to the responsibilities defined in the [Your Responsibilities](O365-your-responsibilities.md) section.</span></span> 
   
-- <span data-ttu-id="247ee-196">プロジェクト計画に従いリソースを割り当て、管理する。</span><span class="sxs-lookup"><span data-stu-id="247ee-196">Assign and manage resources according to the project plan.</span></span>  
-- <span data-ttu-id="247ee-197">リスクを緩和し、顧客、パートナーのプロジェクト マネージャー、FastTrack マネージャーから発生した問題を解決するため、適宜対応する。</span><span class="sxs-lookup"><span data-stu-id="247ee-197">Take timely action to mitigate risks and resolve issues raised by the customer, partner project managers, and the FastTrack Manager.</span></span>   
-- <span data-ttu-id="247ee-198">状況レポートを確認し、それに応じて適切に処理する。</span><span class="sxs-lookup"><span data-stu-id="247ee-198">Review status reports and act accordingly.</span></span>   
-- <span data-ttu-id="247ee-199">意思決定権限を持つ運営スポンサーまたは責任者を割り当て、運営会議を実施する。</span><span class="sxs-lookup"><span data-stu-id="247ee-199">Assign an operational sponsor or lead with a decision-making authority to run the steering committee.</span></span>  
-- <span data-ttu-id="247ee-200">Microsoft のエグゼクティブ スポンサーとの連携業務を担うエグゼクティブ スポンサーを割り当てる。</span><span class="sxs-lookup"><span data-stu-id="247ee-200">Assign an executive sponsor to work with the Microsoft executive sponsor.</span></span>  
-- <span data-ttu-id="247ee-201">運営委員会の会議を毎月開催する。</span><span class="sxs-lookup"><span data-stu-id="247ee-201">Establish a monthly steering committee meeting.</span></span>
+- <span data-ttu-id="fabad-196">プロジェクト計画に従いリソースを割り当て、管理する。</span><span class="sxs-lookup"><span data-stu-id="fabad-196">Assign and manage resources according to the project plan.</span></span>  
+- <span data-ttu-id="fabad-197">リスクを緩和し、顧客、パートナーのプロジェクト マネージャー、FastTrack マネージャーから発生した問題を解決するため、適宜対応する。</span><span class="sxs-lookup"><span data-stu-id="fabad-197">Take timely action to mitigate risks and resolve issues raised by the customer, partner project managers, and the FastTrack Manager.</span></span>   
+- <span data-ttu-id="fabad-198">状況レポートを確認し、それに応じて適切に処理する。</span><span class="sxs-lookup"><span data-stu-id="fabad-198">Review status reports and act accordingly.</span></span>   
+- <span data-ttu-id="fabad-199">意思決定権限を持つ運営スポンサーまたは責任者を割り当て、運営会議を実施する。</span><span class="sxs-lookup"><span data-stu-id="fabad-199">Assign an operational sponsor or lead with a decision-making authority to run the steering committee.</span></span>  
+- <span data-ttu-id="fabad-200">Microsoft のエグゼクティブ スポンサーとの連携業務を担うエグゼクティブ スポンサーを割り当てる。</span><span class="sxs-lookup"><span data-stu-id="fabad-200">Assign an executive sponsor to work with the Microsoft executive sponsor.</span></span>  
+- <span data-ttu-id="fabad-201">運営委員会の会議を毎月開催する。</span><span class="sxs-lookup"><span data-stu-id="fabad-201">Establish a monthly steering committee meeting.</span></span>
     
 
   
