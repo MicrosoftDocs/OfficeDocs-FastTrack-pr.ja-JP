@@ -5,53 +5,55 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 46d9720545a2b92fbe4318f676308504c53ec315
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
-ms.translationtype: MT
+ms.openlocfilehash: ba29357695855236dbe0583e7667998fdf940bd0
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967938"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673321"
 ---
-# <a name="fasttrack-center-benefit-overview"></a>FastTrack Center の特典の概要
+# <a name="fasttrack-center-benefit-overview"></a>FastTrack センター特典の概要
 
-Microsoft Azure Active Directory Premium、Microsoft Intune、および Azure Information Protection の FastTrack センターの特典を使用すると、FastTrack スペシャリストとリモートで作業して、お客様の環境を使用できるようにしたり、での展開と使用を計画したりすることができます。機関. 資格の詳細については、「 [Enterprise Mobility + Security (EMS) 用の Fasttrack センターの特典プロセス](EMS-fasttrack-process.md)」を参照してください。
+Microsoft Azure Active Directory Premium、Microsoft Intune、および Azure Information Protection 向けの FastTrack センター 特典を使用すると、FastTrack スペシャリストとリモートで作業して運用のための環境の準備を進め、組織内でのロールアウトと利用を計画できます。 利用資格の詳細については、「[Enterprise Mobility + Security (EMS) 向け FastTrack センター特典プロセス](EMS-fasttrack-process.md)」を参照してください。
 
-オンボードには、次の2つの主要コンポーネントがあります。
+オンボーディングには、次の 2 つの主な構成要素があります。
 
--   **コアオンボード**-テナントの構成および Azure Active Directory との統合に必要なタスク (必要な場合)。 コアオンボードは、その他の Microsoft Online の対象となるサービスのベースラインも提供します。
+-   **コア オンボーディング** - テナント構成と Azure Active Directory との統合 (必要な場合) に必要なタスクです。 コア オンボーディングは、Microsoft Online の他の対象サービスのオンボーディングのためのベースラインにもなります。
 
--   **サービスのオンボード**-EMS ワークロードのいずれかのスタンドアロンバリエーションを構成するために必要なタスク (Azure AD Premium、Intune、および Azure Information Protection)。
+-   **サービス オンボーディング** - EMS ワークロードのいずれかのスタンドアロンのバリエーション (Azure AD Premium、Intune、および Azure Information Protection) を構成するために必要なタスクです。
 
-次の図は、FastTrack センターの特典の高度な段階的なフェーズを示しています。
+次の図では、FastTrack センター特典の高度なオンボーディング フェーズを示します。
 
-![FastTrack センターの特典を使用するための高レベルの段階的なフェーズ](./media/ft-onboarding-process.png)
+![FastTrack センター特典の利用のための高度なオンボーディング フェーズ](./media/ft-onboarding-process.png)
 
-プロセスのしくみは次のとおりです。
+プロセスは次のようになります。
 
-- FastTrack センターは、対象となるサービスのライセンスを購入した後に、オンボードのサポートを提供するためにお客に連絡しようとします。 組織のためにこれらのサービスを展開する準備が整っている場合は、 [Fasttrack センター](https://go.microsoft.com/fwlink/?linkid=780698)からサポートを依頼することもできます。 アシスタンスを要求するには、職場または学校のアカウントを使用して[Fasttrack センター](https://go.microsoft.com/fwlink/?linkid=780698)にサインインし、ダッシュボードに移動して、ページの右下隅にある [**ヘルプが必要ですか?]** リンクを展開し、指示に従って要求を完了します。 オンボードが開始されると、オンライン会議のスケジュールが設定されます。
+- ユーザーが対象サービスのライセンスを購入すると、オンボーディングのサポートを提供するために FastTrack センターがユーザーに連絡を取ります。 組織でサービスを展開する準備ができている場合は、[FastTrack センター](https://go.microsoft.com/fwlink/?linkid=780698)にサポートを依頼することもできます。 サポートをリクエストするには、職場または学校のアカウントを使用して[ FastTrack センター](https://go.microsoft.com/fwlink/?linkid=780698)にサインインし、ダッシュボードに移動し、ページの右下隅にある [**ヘルプが必要ですか?**] リンクを展開し、画面の指示に従ってリクエストを完了します。 オンボーディング サポートの開始後に、オンライン会議をスケジュールいたします。
 
--   FastTrack チームは、最初に中核となる機能 (すべての Microsoft Online サービスに共通) を提供し、次に各対象サービスをオンボードにします。
+-   FastTrack チームはまず (すべての Microsoft Online サービスに共通の) コア機能に関するサポートを提供し、次に各対象サービスのオンボーディングをサポートいたします。
 
-すべてのオンボードガイダンスは、FastTrack の担当者によってリモートで提供されます。
+すべての導入ガイドは、FastTrack の担当者によりリモートで提供されます。
 
--   FastTrack チームは、ツール、ドキュメント、ガイダンスの組み合わせを使用して、さまざまなオンボードアクティビティをリモートで支援します。
+-   FastTrack チームは、ツール、説明書、およびガイダンスを組み合わせて使用してさまざまなオンボーディング活動でお客様を遠隔からサポートします。
 
--   オンボードガイダンスは FastTrack センターによって提供され、特定の地域の通常業務時間内に利用できます。
+-   オンボーディング ガイドは FastTrack センターにより提供され、各地域の通常業務時間内に入手いただけます。
 
--   オンボードアシスタンスは、繁体字中国語、簡体字中国語 (リソースは中国語のみ)、英語、フランス語、ドイツ語、イタリア語、日本語、韓国語、ポルトガル語 (ブラジル)、スペイン語、タイ語、ベトナム語で利用できます。
+-   オンボーディングのサポートは、繁体字中国語、簡体字中国語 (担当者は標準中国語のみ使えます)、英語、フランス語、ドイツ語、イタリア語、日本語、韓国語、ポルトガル語 (ブラジル)、スペイン語、タイ語、ベトナム語で利用できます。
 
--   FastTrack チームは、自分または担当者と直接連携することができます。
+-   FastTrack チームはお客様またはお客様の代理者と直接連携して作業いたします。
 
 > [!NOTE]
-> **詳細情報**「 [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)」を参照してください。
+> **詳細な情報をご希望の場合は**、[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility) をご覧ください。
 
 ## <a name="next-steps"></a>次の手順
 
-[EMS ソース環境に対する FastTrack センターのメリット](EMS-source-environment-expectations.md)
+[EMS 向け FastTrack センター特典 - ソース環境要件](EMS-source-environment-expectations.md)

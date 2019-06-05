@@ -3,19 +3,19 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ab0f1cccc88720cc8c323d8a083c9a9ff1f67e
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513092"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673608"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -63,6 +63,7 @@ FastTrack Center は、次のサービスのサポートを提供します。
 - Microsoft StaffHub
 - Windows 10
 - Azure Active Directory Premium
+- Azure Information Protection
 - Microsoft Intune
     
 ## <a name="eligible-microsoft-365-plans"></a>対象となる Microsoft 365 プラン
@@ -160,7 +161,7 @@ FastTrack Center は、次のサービスのサポートを提供します。
 |---------|---------|
 |**E3 または E5 の Enterprise Mobility + Security (EMS)**       |   FastTrack 特典の対象となるクラウド サービスで利用可能です。それ以外の場合は、FastTrack スペシャリストに、またはパートナーの紹介用に転送されます。        |
 |**Microsoft Azure Active Directory Premium**     |  単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。       |
-|**Microsoft Azure Information Protection**    |  EMS E5 の一部として、または単体プランとして、P2 で利用できます。 それ以外の場合は、FastTrack スペシャリスト宛、またはパートナーの紹介に向けてルーティングされます。        |
+|**Microsoft Azure Information Protection**    |  E5 の一部として、または単体プランとして、P2 で利用できます。 FastTrack 特典の対象となるクラウド サービスで利用できます。 クラウド サービス P1 については、FastTrack が自己展開ガイドを共有しています。       |
 |**Microsoft Intune**    |   単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。      |
 |**Cloud Attach**     |    単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。     |
 |**Microsoft Intune for Education**     |  単体プランとして、または A3 または A5 の一部として購入した場合に対象となります。       |
