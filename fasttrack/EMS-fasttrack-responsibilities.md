@@ -1,37 +1,39 @@
 ---
 title: FastTrack の責任範囲
-description: ユーザーが EMS に対して FastTrack センターの特典を使用している場合の FastTrack の責任
+description: お客様が EMS 向け FastTrack センター特典を使用している場合の FastTrack の責任範囲
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 4c8dd188e0e29613b9221c087f0a8e35ed744179
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
-ms.translationtype: MT
+ms.openlocfilehash: b4444aae990b064cf6b22921d897e0bd948f6ed1
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967962"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673459"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
-FastTrack には、オンボード時の次の責任があります。
+FastTrack には、オンボーディング中に以下の責任があります。
 
 ## <a name="general"></a>全般
 
--   詳細なフェーズの説明に記載されている必要な構成アクティビティについて、リモートサポートのサポートを提供します。
+-   必要な構成アクティビティのための遠隔サポートの提供。その内容については、フェーズの詳細な説明で詳述しています。
 
--   構成タスクを削減または排除できるように、使用可能なドキュメント、ソフトウェアツール、管理コンソールを提供します。
+-   構成タスクを減らしたり省略したりするための、利用可能な説明書やソフトウェア ツール、管理コンソール、スクリプトを提供します。
 
 ## <a name="initiate-phase"></a>開始フェーズ
 
--   あなたと協力して、オンボードを開始します。
+-   お客様と連携してオンボーディングを開始します。
 
 -   オンボーディングする対象のサービスを選定します。
 
@@ -43,68 +45,68 @@ FastTrack には、オンボード時の次の責任があります。
 
     -   DNS、ネットワーク、およびインフラストラクチャのニーズ。
 
-    -   クライアントのニーズ (インターネットブラウザー、クライアントオペレーティングシステム、およびサービスのニーズ)。
+    -   クライアントのニーズ (インターネット ブラウザー、クライアント オペレーティング システム、およびサービスのニーズ)。
 
     -   ユーザー ID およびプロビジョニング
 
-    -   購入済みで、オンボードの一部として定義されている対象サービスの有効化。
+    -   購入済みの、オンボーディングの一部として規定されている対象サービスの有効化。
 
 -   修復アクティビティのタイムラインの設定。
 
--   Intune および Azure AD Premium の修復チェックリストを提供します。
+-   Intune、Azure AD Premium の両方に関する修復チェックリストの提供。
 
 ## <a name="remediate-phase"></a>修復フェーズ
 
--   同意済みのスケジュールに従って電話会議を開催します。たとえば、修復アクティビティの進行状況を確認するには、「Microsoft cloud service の前に、インストールの前提条件」を参照してください。
+-   同意済みのスケジュールに従って電話会議を行い、修復アクティビティの進捗状況を確認します。たとえば、Microsoft クラウド サービスのオンボーディングに先立つインストールの前提条件のガイダンスなどを提供します。
 
 ## <a name="enable-phase"></a>有効化フェーズ
 次の点に関するガイダンスを行います。
 
--   Microsoft online service のテナントまたはサブスクリプションをアクティブ化します。
+-   Microsoft オンライン サービスのテナントまたはサブスクリプションのライセンス認証。
 
 -   TCP/IP プロトコルとファイアウォール ポートの構成。
 
 -   対象サービスの DNS の構成。
 
--   Microsoft online services への接続を検証します。
+-   Microsoft オンライン サービスへの接続の検証。
 
--   単一フォレスト環境の場合:
+-   フォレスト環境が 1 つの場合:
 
-    -   Active Directory ドメインサービス (AD DS) と対象となる Microsoft online services の間にディレクトリ同期サーバーをインストールします (必要に応じて、ガイダンスのみ)。
+    -   Active Directory Domain Services (AD DS) と対象の Microsoft オンライン サービスとの間へのディレクトリ同期サーバーの設置 (必要な場合は、ガイダンスのみ提供)。
 
-    -   Azure Active Directory Connect ツールを使用して、管理された認証 (パスワードハッシュ同期またはパススルー認証) を構成します。 (必要な場合にのみガイダンス)。
+    -   Azure Active Directory Connect ツールを使用した、管理対象の認証 (パスワード ハッシュの同期またはパススルー認証) の構成。 (必要な場合は、ガイダンスのみ提供)。
 
         > [!NOTE]
-        > カスタムルールの拡張機能の開発と実装が範囲外です。
+        > カスタム ルール拡張機能の開発と実装は対象外です。
 
--   単一のフォレストの場合: ターゲットがフェデレーション id の場合: 単一サイトのフォールトトレラント構成で、Intune を使用したローカルドメイン認証用の Active Directory フェデレーションサービス (AD FS) のインストールと構成 (必要な場合)。
+-   フォレストが 1 つで、対象がフェデレーション ID の場合: 単一サイトのフォールト トレラント構成における Intune を使用したローカル ドメイン認証用の、 Active Directory フェデレーション サービス (AD FS) のインストールおよび構成 (必要な場合)。
 
     > [!NOTE]
-    > 複数のフォレスト構成すべてにおいて、AD FS の展開は範囲外です。
+    > フォレストが複数あるすべての構成において、ADFS の展開は対象外です。
 
--   シングルサインオン (SSO) 機能のテスト (展開されている場合)。
+-   シングル サインオン (SSO) 機能のテスト (展開されている場合)。
 
-### <a name="enable-phase---microsoft-azure-active-directory-premium"></a>有効化フェーズ-Microsoft Azure Active Directory Premium
+### <a name="enable-phase---microsoft-azure-active-directory-premium"></a>有効化フェーズ - Microsoft Azure Active Directory Premium
 
 次の点に関するガイダンスを行います。
 
-- Azure AD Premium テナントをアクティブ化します。
+- Azure AD Premium テナントのアクティブ化。
 
 - ファイアウォール ポートの構成。
 
 - 対象サービスの DNS の構成。
 
-- Azure AD Premium サービスへの接続を検証します。
+- Azure AD Premium サービスへの接続の検証。
 
-- 単一フォレスト環境の場合:
+- フォレスト環境が 1 つの場合:
 
-  -   Active Directory ドメインサービス (AD DS) と Azure AD Connect の間にディレクトリ同期をインストールする (必要な場合)。
+  -   Active Directory Domain Services (AD DS) と Azure AD Connect との間へのディレクトリ同期の設置 (必要な場合)。
 
-  -   Azure AD Connect ツールを使用して、認証方法 (パスワードハッシュ同期またはパススルー認証) を構成します。
+  -   Azure AD Connect ツールを使用した、認証方法 (パスワード ハッシュの同期またはパススルー認証) の構成。
 
-- 複数フォレスト環境の場合:
+- フォレスト環境が複数の場合:
 
-  -   Azure AD Connect の同期のインストール。複数のフォレストのシナリオ用にセットアップします。
+  -   Azure AD Connect の同期のインストール、複数のフォレスト シナリオ用の設定。
 - 単一フォレスト環境および複数フォレスト環境:
   - Azure Active Directory パススルー認証の構成 (必要な場合)。
   - Azure Active Directory シームレス シングル サインオン (SSO) の構成 (必要な場合)。
@@ -112,194 +114,196 @@ FastTrack には、オンボード時の次の責任があります。
     > 複数フォレスト環境の Azure Active Directory パススルー認証は、Active Directory フォレスト間にフォレストの信頼があり、名前サフィックスのルーティングが正しく構成されている場合にサポートされます。 追加のエージェントは、サインイン要求の高可用性を提供するために、複数のオンプレミスのサーバーにインストールできます。
 
   - 詳細については、「[Azure Active Directory パススルー認証:クイック スタート](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites)」および「[Azure Active Directory シームレス シングル サインオン:クイック スタート](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)」を参照してください。
-  - パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証:現在の制限事項](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)」を参照してください。シームレス
+  - パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証: 現在の制限事項](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)」を参照してください。
   - SSO の問題の詳細については、「[Azure Active Directory シームレス シングル サインオンのトラブルシューティングを行う](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)」を参照してください。
 
       > [!NOTE]
-      > パスワードのハッシュ同期とパスワードの書き戻しで複数のフォレストがサポートされます。 ただし、その他の書き戻しのシナリオはサポートされていません。
+      > パスワード ハッシュの同期およびパスワード ライトバックは複数のフォレストをサポートします。 ただし、その他のライトバックのシナリオはサポートされていません。
 
-  - オンプレミスの Active Directory フォレストと Microsoft Azure Active Directory Premium ディレクトリ (Azure Active Directory) との間の同期を構成します。
+  - オンプレミスの Active Directory フォレストと Microsoft Azure Active Directory Premium ディレクトリ (Azure Active Directory) との間の同期の構成。
 
     > [!NOTE]
-    > カスタムルールの拡張機能の開発と実装が範囲外です。
+    > カスタム ルール拡張機能の開発と実装は対象外です。
 
-- ターゲットがフェデレーション id の場合、単一のフォレストの場合:
+- フォレストが 1 つで、対象がフェデレーション ID の場合:
 
-  -   単一サイトのフォールトトレラント構成 (必要な場合) で、Azure AD Premium を使用して、ローカルドメイン認証用の AD FS をインストールおよび構成します。
+  -   1 つのサイトのフォールト トレラント構成における、 Azure AD Premium を使用した、ローカル ドメイン認証用の AD FS のインストールと構成 (必要な場合)。
 
   > [!NOTE]
-  > 複数のフォレスト構成すべてにおいて、AD FS の展開は範囲外です。
+  > フォレストが複数あるすべての構成において、ADFS の展開は対象外です。
 
 - SSO 機能のテスト (展開されている場合)。
 
-### <a name="enable-phase---azure-ad-premium--with-azure-ad-connect-and-ad-fs"></a>Azure ad Connect と AD FS を使用して、フェーズを有効にします。 Azure AD Premium
+### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a>有効化フェーズ - Azure Ad Connect - Azure AD Connect および AD FS を使用
 
-セットアップのガイダンスを提供します。
+セットアップに関するガイダンスを行います。
 
-- ユーザープロビジョニング (ライセンスを含む)。
+- ライセンス認証を含むユーザー プロビジョニング。
 
-- Azure AD Connect ディレクトリ同期 (パスワードの書き戻しとパスワードハッシュ同期を使用)。
+- Azure AD Connect ディレクトリ同期 (パスワード ライトバックおよびパスワード ハッシュ同期を使用)。
 
-  - Azure Active Directory Self Service のパスワードのリセット (SSPR)。
+  - Azure Active Directory セルフサービスによるパスワードのリセット (SSPR)。
 
-  - Azure 多要素認証。
+  - Azure Multi-Factor Authentication。
 
-  - [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/)のシングルサインオン (SSO) を使用したサービス (SaaS) アプリケーションの統合として、最大3つ以上のソフトウェア。
+  - 最大 3 つ (またはそれ以上) のサービスとしてのソフトウェア (SaaS) アプリケーションの、[Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/) からのシングル サインオン (SSO) との統合。
 
-  - [アプリ統合チュートリアルリスト](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list)に記載されている事前に統合された SaaS アプリケーションの自動ユーザープロビジョニングのみ。送信プロビジョニングのみに制限されます。
+  - 「[アプリ統合に関するチュートリアルのリスト](https://docs.microsoft.com/ja-JP/azure/active-directory/saas-apps/tutorial-list)」に記載される、事前統合された SaaS アプリケーションでの自動ユーザープロビジョニン (外向きプロビジョニングのみに制限されています)。
 
-  - カスタマイズされたログオン画面 (ロゴ、テキスト、画像など)。
+  - ロゴ、テキスト、画像などを含む、カスタマイズされたログオン画面。
 
-  - セルフサービスおよび動的グループ (グループ)。
+  - セルフサービスと動的グループ (グループ)。
 
-  - Azure Active Directory アプリケーションプロキシ。
+  - Azure Active Directory アプリケーション プロキシ。
 
   - Azure Active Directory Connect Health。
 
   - Azure Active Directory の条件付きアクセス。
 
-  - Azure Active Directory の使用条件。
+  - Azure Active Directory の利用規約。
 
-  - Azure Active Directory Id 保護。
+  - Azure Active Directory Identity Protection。
 
-  - Azure Active Directory の特権 Id 管理。
+  - Azure Active Directory Privileged Identity Management。
 
-  - Azure Active Directory アクセスレビュー。
+  - Azure Active Directory アクセス レビュー。
 
-### <a name="enable-phase---intune"></a>有効化フェーズ-Intune
+### <a name="enable-phase---intune"></a>有効化フェーズ - Intune
 
 > [!IMPORTANT]
-> FastTrack では、Intune を使用した Windows 10 クラシック PC 管理はサポートされていません。 FastTrack は、Intune モバイルデバイス管理 (MDM) による Windows 10 管理のみをサポートします。
+> FastTrack では、Intune を使用した Windows 10 の従来の PC 管理をサポートしていません。 FastTrack では、Intune モバイル デバイス管理 (MDM) を経由する Windows 10 の管理のみがサポートされます。
 
-以下に関する**ガイダンス**を提供します。
+次のような内容のガイダンスを提供します。
 
--   オンプレミスの Active Directory またはクラウド id (Azure Active Directory) を活用することによって、Intune で使用される id を構成します。
+-   オンプレミスの Active Directory またはクラウド ID (Azure Active Directory) を利用した、Intune で使用する ID の構成。
 
--   エンドユーザーのライセンスを取得します。
+-   エンド ユーザーのライセンス認証。
 
--   Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、およびユーザーとデバイスグループの作成。
+-   Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成。
 
--   管理ニーズに応じて、以下のようなモバイルデバイス管理 MDM を構成します。
+-   管理ニーズに応じた、以下を含むモバイル デバイス管理 (MDM) 機関の構成。
 
-    -   MDM 権限として Intune を設定します。
+    -   Intune を MDM 機関として設定。
 
-    -   MDM 管理ポリシーの検証に使用するテストグループを構成する。
+    -   MDM 管理ポリシーの検証に使用するテストグループの構成。
 
-    -   Intune 管理ポータルを移動して、ユーザーとデバイスに関する情報を探します。
+    -   ユーザーとデバイスに関する情報を見つけるための、Intune 管理 ポータル内の移動。
 
-    -   Intune の役割の設定 (ヘルプデスクオペレーター、管理者など)
+    -   Intune の役割 (ヘルプ デスク オペレーター、管理者など) のセットアップ。
 
-    -   MDM 管理ポリシーおよびサービスの構成は次のように行います。
+    -   以下のような、MDM 管理ポリシーとサービスの構成:
 
-        -   Web リンク、MSI、またはディープリンクを介した、サポートされている各プラットフォームのアプリの展開。
+        -   Web リンク、MSI、および/またはディープ リンクを介した、サポートされている各プラットフォームでのアプリの展開。
 
-        -   Windows 10 デバイスに Office ProPlus を展開します。
+        -   Windows 10 デバイス上での Office ProPlus の展開。
 
-        -   アプリを展開するためのボリューム購入プログラム (Apple の VPP、ビジネス向けの Windows ストア、Google のワークストアの再生など)。
+        -   アプリ展開用のボリューム購入プログラム (Apple の VPP、企業向け Windows ストア、Google の Play for Work ストアなどを含む)。
 
-        -   組織内に既存の証明機関、Wi-fi、または VPN インフラストラクチャがある場合、電子メール、ワイヤレスネットワーク、および VPN プロファイルを展開します。
+        -   組織に既存の証明機関や Wi-Fi または VPN インフラストラクチャがある場合の、メール、ワイヤレス ネットワーク、および VPN プロファイルの展開。
 
         -   Microsoft Intune Exchange Connector のセットアップ (該当する場合)。
 
-        -   サポートされているデバイスプラットフォームのデバイス構成プロファイル。
+        -   サポートされているデバイス プラットフォームでのデバイス構成プロファイル。
 
-    -   条件付きアクセスポリシーを設定する。
+    -   条件付きアクセス ポリシーのセットアップ。
 
-    -   サポートされている各プラットフォームに対して Intune アプリ保護ポリシーを構成および展開します。
+    -   サポートされている各プラットフォームでの Intune アプリ保護ポリシーの構成および展開。
 
-    -   利用可能なオプションに関するガイダンスを使用して、Intune アプリ保護ポリシー用の基幹業務 (LOB) アプリを準備します。
+    -   Intune アプリ保護ポリシー用の基幹業務 (LOB) アプリの準備、および利用可能なオプションについてのガイダンス。
 
-    -   Microsoft Intune サービスを使用して、サポートされている各プラットフォームのデバイスを Intune または Configuration Manager に登録します。
+    -   Microsoft Intune サービスを使用した、サポートされている各プラットフォームのデバイスの Intune または Configuration Manager への登録。
 
-    -   Intune データウェアハウスに接続します。
+    -   Intune データ ウェアハウスへの接続。
 
-    -   Intune との統合:
-        -   リモートアシスタンスのチームビューアー (チームビューアーサブスクリプションは必須)。
+    -   以下との Intune の統合:
+        -   リモート アシスタンス用の Team Viewer (Team Viewer のサブスクリプションが必要です)。
 
-        -   モバイル脅威防御パートナーソリューション (モバイル脅威防衛パートナーソリューションサブスクリプションが必要)。
+        -   Mobile Threat Defense パートナー ソリューション (Mobile Threat Defense パートナー ソリューションのサブスクリプションが必要です)。
 
-        -   通信経費管理ソリューション (通信経費管理ソリューションサブスクリプションは必須)。
+        -   通信経費の管理ソリューション (通信経費の管理ソリューションのサブスクリプションが必要です)。
 
         -   Windows Defender Advanced Threat Protection (Windows E5 または Microsoft 365 E5 ライセンスが必要です)。
 
-    -   該当するサポート対象プラットフォーム用のソフトウェア更新プログラムを構成する。
+    -   該当するサポート対象プラットフォームでのソフトウェア更新プログラムの構成。
 
     -   ユーザー導入計画のリソース。
 
-- Windows 自動操縦のセットアップ:
+- Windows Autopilot のセットアップ:
 
-    - Microsoft Intune for Windows 自動操縦を構成してセットアップします。
+    - Windows Autopilot での Microsoft Intune のセットアップおよび構成。
 
-    - Azure AD の動的グループを構成する
+    - Azure AD の動的グループの構成
 
-    - Azure AD に会社のブランド化を追加します。
+    - Azure AD への会社のブランドの追加。
 
-    - Windows 自動操縦プロファイルにデバイスを作成して割り当てます (たとえば、ローカル管理者アカウントの作成を制限する Windows 自動操縦プロファイル)。
+    - Windows Autopilot プロファイルでのデバイスの作成と割り当て (例: ローカル管理者アカウントの作成を制限する Windows Autopilot プロファイル)。
 
-    - 組織の要件に準拠するように、[標準] (OOBE) をカスタマイズします。
+    - 組織の要件に準拠するための、Out-of-box-experience (OOBE) のカスタマイズ。
 
-    - Azure AD と Intune で MDM の自動登録を構成する。
+    - Azure AD および Intune での MDM 自動登録の構成。
 
     > [!NOTE]
-    > Intune 外での Windows 自動操縦の設定は、FastTrack 特典の対象外です。
+    > Intune 以外での Windows Autopilot のセットアップは、FastTrack 特典の対象外です。
 
-### <a name="enable-phase---co-management"></a>フェーズ共同管理を有効にする
+### <a name="enable-phase---co-management"></a>有効化フェーズ - 共同管理
 
-次の点に関するガイダンスを行います。
+次のような内容のガイダンスを提供します。
 
--   エンドユーザーのライセンスを取得します。
+-   エンド ユーザーのライセンス認証。
 
--   Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、およびユーザーとデバイスグループの作成 (Intune がインストールされていない場合)。
+-   Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成 (Intune がインストールされていない場合)。
 
--   MDM 自動登録用に Azure Active Directory をセットアップします。
+-   MDM 自動登録のための Azure Active Directory のセットアップ。
 
--   ハイブリッド Azure Active Directory の参加を設定します。
+-   ハイブリッド Azure Active Directory 参加のセットアッップ。
 
--   Cloud Management Gateway をセットアップします。
+-   クラウド管理ゲートウェイのセットアップ。
 
--   Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、およびユーザーとデバイスグループの作成。
+-   Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成。
 
--   Intune を準備する (Intune がインストールされていない場合):
+-   Intune の準備 (Intune がインストールされていない場合):
 
-    -   管理ニーズに応じて、以下のようなモバイルデバイス管理 MDM を構成します。
+    -   管理ニーズに応じた、以下を含むモバイル デバイス管理 (MDM) 機関の構成。
 
-    -   MDM 権限として Intune を設定します。
+    -   Intune を MDM 機関として設定。
 
-    -   MDM 管理ポリシーの検証に使用するテストグループを構成する。
+    -   MDM 管理ポリシーの検証に使用するテストグループの構成。
 
-    -   Intune 管理ポータルを移動して、ユーザーとデバイスに関する情報を探します。
+    -   ユーザーとデバイスに関する情報を見つけるための、Intune 管理 ポータル内の移動。
 
-    -   Intune の役割の設定 (ヘルプデスクオペレーター、管理者など)
+    -   Intune の役割 (ヘルプ デスク オペレーター、管理者など) のセットアップ。
 
-    -   サポートされている各プラットフォームに対して Intune アプリ保護ポリシーを構成および展開します。
+    -   サポートされている各プラットフォームでの Intune アプリ保護ポリシーの構成および展開。
 
-    -   Windows 10 デバイスを Intune に登録します。
+    -   Windows 10 デバイスの Intune への登録。
 
-- 構成マネージャーコンソールで共同管理を有効にします。
+- Configuration Manager コンソールでの共同管理の有効化。
 
-- ワークロードを Intune に切り替えます。
+- ワークロードの Intune への切り替え。
 
-- ご使用の環境での共同管理作業を監視します。
+- 環境内での共同管理アクティビティの監視。
 
-### <a name="enable-phase--azure-information-protection"></a>有効化フェーズ-Azure Information Protection
+### <a name="enable-phase--azure-information-protection"></a>有効化フェーズ - Azure Information Protection
 
 以下に関するガイダンスを提供します。 
 
-- お客様は、Windows 上で実行されている Office アプリ (Word、PowerPoint、Excel、Outlook など) の情報を自動的に分類してラベルを付け、Azure Information Protection クライアントを使用します。 
-- Azure Information Protection スキャナーを使用して、ファイルを保存します。
-- Exchange Online のメールフロールールを使用して転送中の電子メール。 
+- 顧客テナントのアクティブ化と構成。
 
-Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encryption (OME)、データ損失防止 (DLP) を使用して保護を適用するお客様にもサポートが提供されます。 
+- ラベルおよびポリシーの作成と設定。
 
-お客様には、次の方法に関するガイダンスが提供されています。 
+- ドキュメントへの情報保護の適用。 
 
-- テナントのアクティブ化と構成を行います。
-- ラベルとポリシーを作成して設定します。
-- ドキュメントに情報保護を適用します。 
+- Windows で実行されている、Azure Information Protection クライアントを使用する Office アプリ (Word、PowerPoint、Excel、Outlook など) の自動分類およびラベル付け。
+
+- Azure Information Protection スキャナーを使用した、保管中ファイルの使用。
+
+- Exchange Online のメール フロー ルールを使用した、転送中メールの監視。
+
+Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encryption (OME)、およびデータ損失防止 (DLP) を使用して保護を適用するお客様にもガイダンスを提供いたします。
 
 > [!NOTE]
-> **詳細情報**「 [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)」を参照してください。
+> **詳細な情報をご希望の場合は**、[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility) をご覧ください。
 
 ## <a name="next-steps"></a>次の手順
 
-[EMS の FastTrack の利点-自分の責任](EMS-your-responsibilities.md)
+[EMS 向けの FastTrack 特典 - ユーザーの責任範囲](EMS-your-responsibilities.md)
