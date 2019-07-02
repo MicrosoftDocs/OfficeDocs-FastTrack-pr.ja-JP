@@ -3,19 +3,19 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: 58ab0f1cccc88720cc8c323d8a083c9a9ff1f67e
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 5ed941e536a548aadc20117e45f66c141e81e4c7
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673608"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410828"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -128,7 +128,7 @@ FastTrack Center は、次のサービスのサポートを提供します。
     
  **OneDrive for Business**
   
-- OneDrive for Business with Office Online 
+- OneDrive for Business with Office
 - OneDrive for Business プラン 1
 - OneDrive for Business (プラン 2)
     
