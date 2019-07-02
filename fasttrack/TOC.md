@@ -19,6 +19,6 @@
 #### [オンボーディング フェーズ](EMS-onboarding-phases.md)
 #### [FastTrack の責任範囲](EMS-fasttrack-responsibilities.md)
 #### [お客様の責任](EMS-your-responsibilities.md)
-## [Windows 10 用 FastTrack Center 特典](Win-10-fasttrack-benefit-for-Windows-10.md)
+## [Windows 10 用 FastTrack Center 特典](Win-10-fasttrack-benefit-for-windows-10.md)
 ### [Desktop App Assure](Win-10-desktop-app-assure.md)
 #### [提供されているサポート](Win-10-daa-assistance-offered.md)

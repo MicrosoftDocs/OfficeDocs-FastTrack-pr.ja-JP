@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,16 +14,16 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: b8d84c1f3ff0d64b0056800c2e80b59585aaa7fc
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: a02f80244677999aa9c5fd80b924b69619c089f6
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673284"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410888"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>Enterprise Mobility + Security (EMS) 向け FastTrack センターの特典
 
-EMS または対象となるプランの EMS 提供のクラウドサービス向けに 150 以上のライセンスを購入するときに、Enterprise Mobility + Security (EMS) FastTrack センターの特典を使用します。 　 You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. これらのスペシャリストは、移行のガイダンスも提供します。
+EMS または対象となるプランの EMS 提供のクラウドサービス向けに 150 以上のライセンスを購入するときに、Enterprise Mobility + Security (EMS) FastTrack センターの特典を使用します。 　 You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. これらのスペシャリストは、移行のガイダンスも提供します。 
 
 > [!IMPORTANT]
 > このドキュメントの目的に沿い、FastTrack のスペシャリストには、Microsoft の従業員と Microsoft 承認のベンダー、および Microsoft 承認のパートナーを含めることができます。
