@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c3cbc52811bfdbb6780fefce58e8a58f7ad78c14
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 2b4a24dad8319abd723ce32d1cefa6eb3b440cfa
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673566"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410816"
 ---
 # <a name="source-environment-expectations"></a>ソース環境要件
 
@@ -38,7 +38,7 @@ Enterprise Mobility + Security (EMS) と統合させることを希望するオ�
 |Windows Defender Advanced Threat Protection (Windows Defender ATP) と統合された Intune|Windows Defender ATP サブスクリプションのライセンス認証が完了し、組織のセキュリティ要件に基づいて構成されている。<br /><br />**注**: FastTrack サービス特典は、Intune の Windows Defender ATPとの統合および Windows 10 の リスク レベル評価に基づいたデバイス コンプライアンス ポリシーの作成に対する支援を提供します。 FastTrack サービス特典は、Windows Defender ATP およびそのセキュリティ センター コンソールの購入、ライセンス、ライセンス認証、または使用に関する支援は提供しません。 |
 |Windows Autopilot|IT 管理者は、管理者自身または管理者の代理としてハードウェアの製造元がハードウェア ID を Windows Autopilot サービスにアップロードすることにより、デバイスを組織に登録する責任があります。 |
 |Intune を使用して Outlook for iOS および Outlook for Android を安全に展開する|<br /><br />- Office 365 用の Azure AD でユーザー ID が有効になっている。<br />- Exchange Online またはハイブリッド Exchange が構成され、ユーザー ライセンスが割りてられている。<br />|
-|Azure Information Protection (P2 または EMS E5)|<br /><br />お客様は既に以下を行っている必要があります。 <br /> - Azure AD を使用している。<br />- Windows または iOS (その他の OS は対象外) を使用している。<br /> - メインのクライアントとして、Office Online に依存することのない Office 2010 SP2 以降の Office クライアントを使用している。 <br /> - 主なファイル共有場所がある。  <br /> - Active Directory Rights Management サービス (AD RMS) からのアップグレードが完了している。 <br /> - 承認済みの分類方法がある。 <br /> - 保護されたキー管理に対するすべての規制を理解している。 <br />|
+|Azure Information Protection (P2 または EMS E5)|<br /><br />お客様は既に以下を行っている必要があります。 <br /> - Azure AD を使用している。<br />- Windows または iOS (その他の OS は対象外) を使用している。<br /> - メインのクライアントとして、Office に依存することのない Office 2010 SP2 以降の Office クライアントを使用している。 <br /> - 主なファイル共有場所がある。  <br /> - Active Directory Rights Management サービス (AD RMS) からのアップグレードが完了している。 <br /> - 承認済みの分類方法がある。 <br /> - 保護されたキー管理に対するすべての規制を理解している。 <br />|
 |Azure Information Protection スキャナー|<br /><br /> お客様は既に以下を行っている必要があります。 <br /> - Windows Server 2012 R2 または Windows Server 2016 を使用している。<br /> - インターネットに接続されている。 <br /> -ローカルまたはリモートのインスタンスに、Microsoft SQL Server 2012 以降がある。  <br /> - オンプレミスの Active Directory 用のサービス アカウントが作成され、Azure AD との同期が行われている。  <br /> - AzInfoProtection.exe をダウンロードしてある。 <br /> -ラベルを自動分類/保護用にラベルが構成されている。<br />|
 
 > [!NOTE]
