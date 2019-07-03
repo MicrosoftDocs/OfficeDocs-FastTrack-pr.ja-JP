@@ -1,11 +1,11 @@
 ---
 title: お客様の責任
-description: FastTrack センターの特典を使用する場合のお客様の責任
+description: EMS 向け FastTrack センター特典を使用している場合のお客様の責任範囲
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,22 +14,22 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 67634a552ac731b2b2fa8b6d594bd870d79d68ef
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
-ms.translationtype: MT
+ms.openlocfilehash: e9dad847ebb41be6d00791bd1415622228811a6d
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673644"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410744"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 
 お客様には、オンボーディング中に以下の責任があります。
 
-## <a name="general-responsibilities"></a>一般的な責任
+## <a name="general-responsibilities"></a>基本的な責任範囲
 
--   ここに記載されている構成可能なオプションを超える、Enterprise Mobility + Security (EMS) テナントの機能強化と統合について説明します。
+-   ここに記載されている構成可能なオプション以上の、Enterprise Mobility + Security (EMS) テナントへの機能拡張や統合の提供。
 
--   リソースの全体的なプログラムとプロジェクトの管理を提供します。
+-   お客様のリソースのプログラムおよびプロジェクトの全般的な管理の提供。
 
 -   エンドユーザーのコミュニケーション、資料、トレーニング、および変更管理の提供。
 
@@ -43,59 +43,59 @@ ms.locfileid: "34673644"
 
 -   ソフトウェアの調達、インストール、および構成。
 
--   EMS サービスのベースライン構成と機能に対して作成されたものを超えるセキュリティポリシーを管理、構成、および適用します。
+-   EMS サービスのベースライン構成と機能用に作成されたポリシー以外のセキュリティ ポリシーの管理、構成、および適用。
 
--   Microsoft Azure Active Directory EMS サービスのベースライン構成と機能をテストするために使用されるユーザーアカウント以外のユーザーアカウントを登録します。
+-   Microsoft Azure Active Directory の EMS サービスのベースライン構成と機能のテストに使用されるユーザー アカウント以外のユーザー アカウントの登録。
 
--   ネットワーク構成、分析、帯域幅検証、テスト、監視を管理します。
+-   ネットワーク構成、分析、帯域幅検証、テスト、およびモニターの管理。
 
--   技術的な変更管理承認プロセスを管理し、ガイダンスベースのドキュメントを作成します。
+-   技術的な変更管理承認プロセスおよびガイダンスに基づいた資料の作成の管理。
 
--   運用モデルと操作ガイドを変更します。
+-   運営モデルと運営ガイドの変更。
 
--   オンプレミスの多要素認証をセットアップします。
+-   オンプレミスの多要素認証の設定。
 
--   以前使用していたソース環境とサービスを撤去して削除します。
+-   以前に使用していたソース環境とサービスの停止および削除。
 
 -   テスト環境の構築と維持。
 
--   インフラストラクチャサーバーに service pack/累積的な更新プログラム (Cu) とその他の必要な更新プログラムをインストールします。
+-   インフラストラクチャ サーバーでの Service Pack や累積的な更新プログラム (CU) および他の必須更新プログラムのインストール。
 
 -   公開 Secure Sockets Layer (SSL) 証明書の提供と構成。
 
--   構成マネージャーを使用して Microsoft Intune 統合の最小要件を設定またはアップグレードします。
+-   Configuration Manager と Microsoft Intune との統合の最小要件の設定またはアップグレード。
 
--   Intune を使用して Wi-fi および VPN プロファイルを展開する必要がある場合は、必要に応じて、証明機関、Wi-fi、および VPN インフラストラクチャを指定して構成します。
+-   Intune で Wi-fi および VPN のプロフィールを展開する必要がある場合、必要に応じて、証明機関、Wi-fi、および VPN のインフラストラクチャの提供および構成。
 
--   エンドユーザーがアクセスできる Microsoft Intune ポータルサイトで構成および表示される組織の使用条件 (使用条件) ステートメントを記述します。
+-   エンド ユーザーがアクセスできる Microsoft Intune 会社のポータルに構成および表示する、組織の利用規約 (TOU) ステートメントの記述。
 
--   Configuration Manager サイトサーバーおよび Configuration manager クライアントを最新のビルドバージョンにアップグレードします (必要な場合)。
+-   Configuration Manager サイト サーバーと Configuration Manager クライアントの最新バージョンへのアップグレード (必要な場合)。
 
--   Microsoft Intune との統合を行う必要がある場合は、「モバイル脅威の防御」、「通信費用」などのサードパーティのサブスクリプションにサインアップします。
+-   Microsoft Intune との統合が必要な場合、モバイルの脅威保護、通信費などのサードパーティ製サブスクリプションへのサインアップ。
 
--   チームビューアー、モバイル脅威の防御、および通信経費管理ソリューションサブスクリプションにサインアップします。
+-   Team Viewer、モバイルの脅威保護、および通信費管理ソリューションのサブスクリプションのサインアップ。
 
--   Windows Defender Advanced Threat Protection のライセンスにサインアップします。 (Windows E5 または Microsoft E5 ライセンス)。
+-   Windows Defender Advanced Threat Protection ライセンスのサインアップ。 (Windows E5 または Microsoft E5 のライセンス)。
 
 ## <a name="initiate-phase"></a>開始フェーズ
 
--   FastTrack チームと協力して、対象となるサービスのオンボードを開始します。
+-   FastTrack チームと連携して対象となるサービスのオンボーディングを開始します。
 
--   契約のキックオフミーティングに参加し、組織から参加者を管理およびリードし、修復のタイムラインを確認します。
+-   契約キックオフ ミーティングに参加して、組織からの参加者をとりまとめて指導し、修復のタイムラインを確定します。
 
 ## <a name="assess-phase"></a>評価フェーズ
 
--   適切な関係者 (プロジェクトマネージャーを含む) を特定して、必要な評価アクティビティを完了します。
+-   適切な関係者 (プロジェクト マネージャーなど) を任命して、必要な評価アクティビティを完了させます。
 
--   ご使用の環境、EMS、または個別の cloud service サブスクリプションに対して評価ツールを実行するときにガイダンスが必要な場合は、FastTrack チームと画面を共有してください (選択した場合)。
+-   環境や EMS、個人のクラウド サービスのサブスクリプションに対する評価ツールの実行中にガイダンスが必要な場合には、もしよろしければ、FastTrack チームと画面を共有します。
 
--   会議に参加して、修復チェックリストを作成し、インフラストラクチャ、ネットワーク、管理、ディレクトリ同期の準備、ネットワークセキュリティ、フェデレーション id のトピックを含む全体的な計画に投稿します。
+-   会議に参加して修復チェックリストを作成し、インフラストラクチャ、ネットワーク、管理、ディレクトリ同期の準備、ネットワーク セキュリティ、およびフェデレーション ID のトピックを含む全体的な計画を策定します。
 
 -   ユーザー プロビジョニング アプローチの概略を決める会議に参加します。
 
 -   オンライン サービス構成を計画する会議に参加します。
 
--   移行の準備状況のサポート計画を作成します。
+-   迅速に移行するためのサポート計画を作成します。
 
 ## <a name="remediate-phase"></a>修復フェーズ
 
@@ -105,27 +105,27 @@ ms.locfileid: "34673644"
 
 ## <a name="enable-phase"></a>有効化フェーズ
 
--   ご使用の環境、EMS、または個別の cloud service サブスクリプションに対して評価ツールを実行するときにガイダンスが必要な場合は、FastTrack チームと画面を共有してください (選択した場合)。 必要に応じてリソースを管理します。
+-   環境や EMS、個人のクラウド サービスのサブスクリプションに対する評価ツールの実行中にガイダンスが必要な場合には、もしよろしければ、FastTrack チームと画面を共有します。 必要に応じてリソースを管理します。
 
--   FastTrack チームからのガイダンスに従って、ネットワーク関連の項目を構成します。
+-   FastTrack チームのガイダンスで示されているとおりに、ネットワーク関連の項目を構成します。
 
--   ディレクトリの準備を行い、FastTrack チームからのガイダンスに従ってディレクトリ同期を構成します。
+-   FastTrack チームのガイダンスで示されているとおりにディレクトリの準備を行い、ディレクトリ同期を構成します。
 
--   認証方法 (管理対象またはフェデレーションなど) を構成します。 
+-   フェデレーション認証または管理された認証といった認証方法を構成します。 
 
--   FastTrack チームからのガイダンスに従って、セキュリティ関連のインフラストラクチャ (ファイアウォールポートなど) を構成します。
+-   FastTrack チームのガイダンスで示されているとおりに、セキュリティ関連のインフラストラクチャ (ファイアウォール ポートなど) を構成します。
 
--   適切なクライアントインフラストラクチャを実装します。
+-   適切なクライアント インフラストラクチャを実装します。
 
--   FastTrack チームからのガイダンスに従って、ユーザーのプロビジョニング方法を実装します。
+-   FastTrack チームのガイダンスで示されているとおりに、ユーザー プロビジョニングのアプローチを実装します。
 
--   FastTrack チームからのガイダンスごとに、さまざまなサービスを有効にします。
+-   FastTrack チームのガイダンスで示されているとおりに、各種サービスを有効にします。
 
 > [!NOTE]
-> **詳細な情報をご希望ですか?** 「 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility) 」を参照してください。
+> **詳細について** 「[Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)」を参照してください
 
 ## <a name="see-also"></a>関連項目
 
-- [EMS の FastTrack の利点](EMS-fasttrack-benefit-for-EMS.md)
-- [Office 365 の FastTrack の特典](O365-fasttrack-benefit-for-office-365.md)
+- [EMS 用 FastTrack 特典](EMS-fasttrack-benefit-for-EMS.md)
+- [Office 365 用 FastTrack 特典](O365-fasttrack-benefit-for-office-365.md)
 
