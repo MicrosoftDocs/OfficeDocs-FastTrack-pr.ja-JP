@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 07/02/2019
+ms.date: 08/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: e9dad847ebb41be6d00791bd1415622228811a6d
-ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.openlocfilehash: 30875b429649b7d69083ea39f99b0158fbc7de0b
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35410744"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053788"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 
@@ -101,7 +101,7 @@ ms.locfileid: "35410744"
 
 -   評価フェーズによって明確にされた修復アクティビティを完了するために必要なステップを実行します。
 
--   チェックポイント会議に参加します。
+-   チェックポイント会議への参加。
 
 ## <a name="enable-phase"></a>有効化フェーズ
 
