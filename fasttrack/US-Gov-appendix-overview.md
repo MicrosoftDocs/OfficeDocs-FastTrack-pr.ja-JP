@@ -3,18 +3,18 @@ title: '付録 D: Office 365 US Government 向け FastTrack Center の特典の�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Office 365 の FastTrack センターの特典を使用すると、FastTrack スペシャリストとリモートで作業して、Office 365 環境を使用できる状態にして、組織内での展開と使用を計画することができます。
-ms.openlocfilehash: 3e7dfbb34fe7d6438c5fb0857a10e318cabe5496
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: d3bc324674ab18bb4345578fcca6340bbcf2cc84
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673812"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054040"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>付録 D: Office 365 US Government 向け FastTrack Center の特典の概要
 
