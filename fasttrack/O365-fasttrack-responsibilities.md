@@ -3,19 +3,19 @@ title: FastTrack の責任範囲
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 93d88be1b3279b19d1136f96968bb9f2c39713ea
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: c1121c804b547401c18050be6013f62c5bbc8fe1
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673596"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053956"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -221,8 +221,9 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。
 - iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (iOS および Android 用の Outlook、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。 
-- Office 2016 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。
-- Office 365 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。
+- Office 365 展開ツールを使用した更新設定の構成。
+- ローカルまたはクラウドのインストールの選択とセットアップ。
+- Office カスタマイズ ツールを使用した Office 展開ツールの構成 XML、または展開パッケージを構成するためのネイティブ XML の作成。
 - System Center Configuration Manager パッケージの作成サポートを含む、System Center Configuration Manager を使用した展開。
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
