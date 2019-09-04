@@ -3,19 +3,19 @@ title: Office 365 US Government のオンボードと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 オンボード Office 365 US Government には、開始、評価、修復、および有効化という4つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: dc7a100bf956e7f29d68b4392f13c488c0fbdf8e
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: 1c16d6f22b9739431d014bca490dd609f7564728
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294351"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712285"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US Government のオンボードと移行のフェーズ
 

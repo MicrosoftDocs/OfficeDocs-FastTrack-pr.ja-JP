@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ffb9af7e6a0a4c2358a0bbe054469cf0caae11c4
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: b17dcadf6a592c0b715007315d7093157614476f
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053759"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711505"
 ---
 # <a name="source-environment-expectations"></a>ソース環境要件
 

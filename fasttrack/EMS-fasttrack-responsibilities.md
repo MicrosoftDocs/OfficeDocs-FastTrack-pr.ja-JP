@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 404cce73114e57f09a6f2d93806c2f2305317458
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 8b3470f34474d8cfd9377cd11d1911ea7825af88
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053776"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711481"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
