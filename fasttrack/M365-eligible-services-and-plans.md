@@ -3,19 +3,19 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: fc2fbf5911d3460a67941ca63a233731106a3823
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294219"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711637"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -158,13 +158,12 @@ FastTrack Center は、次のサービスのサポートを提供します。
 |プラン    |利用資格の詳細  |
 |---------|---------|
 |**E3 または E5 の Enterprise Mobility + Security (EMS)**       |   FastTrack 特典の対象となるクラウド サービスで利用可能です。それ以外の場合は、FastTrack スペシャリストに、またはパートナーの紹介用に転送されます。        |
-|**Microsoft Azure Active Directory Premium**     |  単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。       |
-|**Microsoft Azure Information Protection**    |  E5 の一部として、または単体プランとして、P2 で利用できます。 FastTrack 特典の対象となるクラウド サービスで利用できます。 クラウド サービス P1 については、FastTrack が自己展開ガイドを共有しています。       |
+|**Azure Active Directory Premium**     |  単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。       |
+|**Azure Information Protection**    |  E5 の一部として、または単体プランとして、P2 で利用できます。 FastTrack 特典の対象となるクラウド サービスで利用できます。 クラウド サービス P1 については、FastTrack が自己展開ガイドを共有しています。       |
 |**Microsoft Intune**    |   単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。      |
-|**Microsoft Intune を使用して Configuration Manager をクラウド アタッチする**     |    単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。     |
+|**Microsoft Intune と Configuration Manager**     |    単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。     |
 |**Microsoft Intune for Education**     |  単体プランとして、または A3 または A5 の一部として購入した場合に対象となります。       |
-|**Microsoft Advanced Threat Protection**     |    制限付き。 単体プランとして購入した場合のみ対象となります。 これを行うには、「[Microsoft 365 FastTrack ポータル](https://go.microsoft.com/fwlink/p/?LinkId=2003903)」にアクセスします。   |
-|**Microsoft Advanced Threat Analytics**   |        制限されています。単体プランとして購入した場合のみ対象となります。これを行うには、「[Microsoft 365 FastTrack ポータル](https://go.microsoft.com/fwlink/p/?LinkId=2003903)」にアクセスします。    |
+|**Azure Advanced Threat Protection**     |    制限されています。単体プランとして購入した場合のみ対象となります。これを行うには、「[Microsoft 365 FastTrack ポータル](https://go.microsoft.com/fwlink/p/?LinkId=2003903)」にアクセスします。   |
 |**Microsoft Cloud App Security**    |       制限されています。単体プランとして購入した場合のみ対象となります。これを行うには、「[Microsoft 365 FastTrack ポータル](https://go.microsoft.com/fwlink/p/?LinkId=2003903)」にアクセスします。    |
 
 詳細については、「[Enterprise Mobility + Security (EMS) 用の FastTrack センター特典](EMS-fasttrack-benefit-for-EMS.md)」を参照してください。
