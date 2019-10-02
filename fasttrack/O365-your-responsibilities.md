@@ -3,19 +3,19 @@ title: お客様の責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 60bdfd0ba6a9d9840a8cdaaa64506c0aba8b1716
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 30e23a54e511e978c58fd3654ee160c1c7b74c1b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712105"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342152"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 
@@ -99,8 +99,6 @@ ms.locfileid: "36712105"
 - 適切なクライアント インフラストラクチャを実装します。  
 - Microsoft のガイダンスによって示されたとおりに、ユーザー プロビジョニングのアプローチを実装します。  
 - Microsoft のガイダンスによって示されたとおりに、各種サービスを有効化します。  
-- モバイル デバイス管理 (MDM) を構成している場合には、Apple ID を取得します。   
-- Apple プッシュ通知サービス (APNS) 証明書を更新します。
     
 \*Office 365 US Government でのお客様の責任については、「[Office 365 US Governmentでの責任](US-Gov-appendix-your-responsibilities.md)」を参照してください。
   
