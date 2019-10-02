@@ -5,21 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
-ms.reviewer: ''
-ms.suite: ems
-ms.openlocfilehash: ba93fb6e6ba23219752eebb857ed156f2cbfaab8
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 5b661d709b4f5c25395f07f005d055c5bb84db35
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711541"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342620"
 ---
 # <a name="onboarding-phases"></a>オンボーディング フェーズ
 
@@ -138,9 +135,9 @@ Intune の場合、デバイスの管理に Microsoft Intune を使用するた�
 
 -   Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成。
 
--   管理ニーズに応じた、以下を含むモバイル デバイス管理 (MDM) 機関の構成:
+-   管理ニーズに基づき、以下のモバイル デバイス管理 (MDM) 機関を構成する:
 
-    -   MDM ソリューションとして Intune のみを使用している場合、または Intune を Office 365 のモバイル デバイス管理と併用している場合の、MDM 機関としての Intune の設定。
+    -   Intune が MDM ソリューションでしかない場合、MDM 機関として Intune を設定します。
 
 -   以下の MDM ガイダンスの提供:
 

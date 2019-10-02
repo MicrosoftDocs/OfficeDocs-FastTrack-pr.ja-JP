@@ -3,19 +3,19 @@ title: ソース環境要件
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack センター特典では、Windows 10 の展開に使用するソース環境との統合レベルを設定するためのガイダンスをユーザーに提供します。
-ms.openlocfilehash: 30e3ce25d36116629dcd3814c90d3402bcff895e
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: f2cbee68266e953dd9b58f25bb0cf9fabb67e7b7
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712261"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342668"
 ---
 # <a name="source-environment-expectations"></a>ソース環境要件
 
@@ -29,9 +29,10 @@ PC のアップグレードの場合には、次の要件を満たす必要が�
 
 インフラストラクチャのアップグレードの場合には、次の要件を満たす必要があります。   
 
-- Windows 10 対象としてサポートされているバージョンの System Center Configuration Manager (Current Branch)。
+- System Center Configuration Manager (Current Branch) バージョン 1902 以降 
+- Configuration Manager バージョンが、Windows 10 のターゲット バージョンでサポートされていなければならない
 
-詳細については、「[Configuration Manager の Windows 10 のサポート](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10)」で Configuration Manager のサポート テーブルを参照してください。
+詳細については、「[Configuration Manager での Windows 10 のサポート](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10)」で Configuration Manager のサポート テーブルを参照してください。
   
 
  
