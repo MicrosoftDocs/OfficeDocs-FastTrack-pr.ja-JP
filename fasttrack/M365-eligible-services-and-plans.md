@@ -3,19 +3,19 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: fc2fbf5911d3460a67941ca63a233731106a3823
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: a9214126f8795d99c90b2008d16d99fc6dc83676
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711637"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342560"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -58,7 +58,6 @@ FastTrack Center は、次のサービスのサポートを提供します。
 - Project Online
 - Yammer エンタープライズ 
 - Office 365 ProPlus
-- Microsoft StaffHub
 - Windows 10
 - Azure Active Directory Premium
 - Azure Information Protection

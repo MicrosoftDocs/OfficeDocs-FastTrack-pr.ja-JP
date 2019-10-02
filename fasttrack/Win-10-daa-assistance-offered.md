@@ -3,19 +3,19 @@ title: 提供されているサポート
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 のサービスを購入すると、Windows 10 や Office 365 ProPlus を展開し、無償で最新の状態を保つ (対象のサブスクリプションにより) 際のサポートとして、FastTrack スペシャリストによるアドバイスと修復ガイダンスが提供されます。
-ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712249"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342572"
 ---
 # <a name="assistance-offered"></a>提供されているサポート  
 
@@ -51,7 +51,9 @@ FastTrack のサポート対象外:
 お客様の責任範囲:
 - アプリ インベントリの作成。
 - Windows 10 および Office 365 ProPlus での当該アプリの検証。
+
 > [!NOTE]
-> Microsoft はお客様のソース コードを変更することはできません。ただし、Desktop App Assure チームでは、ソース コードがアプリで使用可能な場合はアプリ開発者に対してガイダンスを提供することができます。 [!NOTE]
-> FastTrack は、Windows 10 および Office 365 ProPlus でサポートされている新しいバージョンがある場合、以前のバージョンの ISV アプリ、アドイン、マクロを修復できません。[!NOTE]
+> Microsoft はお客様のソース コードを変更することはできません。ただし、Desktop App Assure チームでは、ソース コードがアプリで使用可能な場合はアプリ開発者に対してガイダンスを提供することができます。
+
+> [!NOTE]
 > 対象外となっているサービスに関してサポートが必要な場合は、[Microsoft パートナー](https://go.microsoft.com/fwlink/?linkid=2080150)にお問い合わせください。

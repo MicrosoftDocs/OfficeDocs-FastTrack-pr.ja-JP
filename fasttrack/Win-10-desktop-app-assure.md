@@ -3,19 +3,19 @@ title: Desktop App Assure
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 用 FastTrack Center 特典では、Windows 10 と Office 365 ProPlus アプリの互換性の問題に対応するために設計されたサービス、Desktop App Assure へのアクセスを提供します。
-ms.openlocfilehash: dcc99c9145eda077c2e9733708841a00fb7aac02
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 31226c3d617f7f486e24cdcdc5964688f07cbc69
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712225"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342692"
 ---
 # <a name="desktop-app-assure"></a>Desktop App Assure
 
