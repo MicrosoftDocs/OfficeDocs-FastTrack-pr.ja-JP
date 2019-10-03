@@ -3,19 +3,19 @@ title: FastTrack の責任範囲
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 4e2383b2654fb1218bbb2cb9913e6cbf6b94572a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712160"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342296"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -225,14 +225,6 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - ローカルまたはクラウドのインストールの選択とセットアップ。
 - Office カスタマイズ ツールを使用した Office 展開ツールの構成 XML、または展開パッケージを構成するためのネイティブ XML の作成。
 - System Center Configuration Manager パッケージの作成サポートを含む、System Center Configuration Manager を使用した展開。
-    
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-次の点に関するガイダンスを行います。
-- Microsoft StaffHub が Office 365 テナントで有効であることの確認。
-- ユーザーのライセンスの有効化と無効化。
-- コア製品の機能。
-- Microsoft StaffHub のダウンロード場所。
     
 ## <a name="outlook-for-ios-and-android"></a>iOS および Android 用の Outlook
 
