@@ -3,19 +3,19 @@ title: お客様の責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 30e23a54e511e978c58fd3654ee160c1c7b74c1b
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: f8bb50b94be08212d682c51aa6290adc687c2a69
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342152"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922610"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 

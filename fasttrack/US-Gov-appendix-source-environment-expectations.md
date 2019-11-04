@@ -3,19 +3,19 @@ title: Office 365 US Government のソース環境の要件
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Center 特典は、ソース環境との統合のレベルを設定するためのガイダンスを提供します (たとえば、Office 365 に移動するソース環境内に既にサービスが含まれている場合)。
-ms.openlocfilehash: 75f45b6933efb900dcbce9baa1a4120e7de4bbfa
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 00874c59fc3de017c457e633eca1c85ff453e9c7
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342632"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921951"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Office 365 US Government のソース環境の要件
 

@@ -3,19 +3,19 @@ title: Office 365 US Government の FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 006ab382d74cca8850a8d7542d39a09f133cb6ff
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 5f37774e11197e549e0c34f6c8f660c584bfd751
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342164"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922608"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US Government の FastTrack 責任
 
@@ -83,7 +83,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
       - 必要に応じて、Azure Active Directory シームレスシングルサインオン (SSO) を構成します (GCC High または DoD プランでは利用できません)。
     > [!NOTE]
     > 複数フォレスト環境の Azure Active Directory パススルー認証は、Active Directory フォレスト間にフォレストの信頼があり、名前サフィックスのルーティングが正しく構成されている場合にサポートされます。追加のエージェントは、サインイン要求の高可用性を提供するために、複数のオンプレミスのサーバーにインストールできます。詳細については、「[Azure Active Directory パススルー認証:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860094)」および「[Azure Active Directory シームレス シングル サインオン:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860095)」を参照してください。[!NOTE]
-    > パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証:現在の制限事項](https://go.microsoft.com/fwlink/?linkid=860356)」を参照してください。シームレス[!NOTE]
+    > パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証: 現在の制限事項](https://go.microsoft.com/fwlink/?linkid=860356)」を参照してください。[!NOTE]
     > SSO の問題の詳細については、「[Azure Active Directory シームレス シングル サインオンのトラブルシューティングを行う](https://go.microsoft.com/fwlink/?linkid=841926)」を参照してください。 
 - フォレストが 1 つで、フェデレーション ID を対象とする場合: 
   - 1 つのサイトのフォールト トレラント構成における Office 365 を使うローカル ドメイン認証用の AD FS のインストールと構成 (必要な場合)。  
