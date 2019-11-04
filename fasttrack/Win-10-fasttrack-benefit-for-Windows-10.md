@@ -3,29 +3,29 @@ title: Windows 10 用 FastTrack Center 特典
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 対象となるサービスやプランについて*少なくとも* 150 ライセンスを購入する場合は、Windows 10 用 FastTrack Center 特典を利用できます。
-ms.openlocfilehash: b41536789bdb119c25b136779fb55b35460cabd4
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 444268c16b93ef8cccbf156e779c6465d32a5b8a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342704"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921903"
 ---
-# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="75916-103">Windows 10 用 FastTrack Center 特典</span><span class="sxs-lookup"><span data-stu-id="75916-103">FastTrack Center Benefit for Windows 10</span></span>
+# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="e46f9-103">Windows 10 用 FastTrack Center 特典</span><span class="sxs-lookup"><span data-stu-id="e46f9-103">FastTrack Center Benefit for Windows 10</span></span>
 
-<span data-ttu-id="75916-104">対象となるサービスやプランのために少なくとも 150 ライセンスを購入する場合は、Windows 10 の FastTrack Center 特典を利用できます。</span><span class="sxs-lookup"><span data-stu-id="75916-104">You use the FastTrack Center Benefit for Windows 10 when you purchase  at least  150 licenses for an eligible service or plan.</span></span> <span data-ttu-id="75916-105">その後に FastTrack スペシャリストと連携して、Windows 10 の評価、修復、展開を行い、Office 365 ProPlus の FastTrack Center 特典を統合します。</span><span class="sxs-lookup"><span data-stu-id="75916-105">You then work with FastTrack Specialists to assess, remediate, and deploy Windows 10 and coordinate FastTrack Center benefits for Office 365 ProPlus.</span></span> <span data-ttu-id="75916-106">Desktop App Assure サービスを使用すると、アプリの互換性の問題が発生した場合に、助言および修復のガイダンスを提供してくれるFastTrack スペシャリストを利用できます。</span><span class="sxs-lookup"><span data-stu-id="75916-106">The Desktop App Assure service makes a FastTrack Specialist available who provides advisory and remediation guidance if you encounter app compatibility issues.</span></span>  <span data-ttu-id="75916-107">FastTrack スペシャリストは、Windows 10 および Office 365 ProPlus を展開して最新の状態に保てるようにするガイダンスも提供します。</span><span class="sxs-lookup"><span data-stu-id="75916-107">FastTrack Specialists will also provide guidance as you deploy and stay up-to-date with Windows 10 and Office 365 ProPlus.</span></span> <span data-ttu-id="75916-108">FastTrack の [対象となるサービスとプラン](M365-eligible-services-and-plans.md)に含まれている対象のサブスクリプションを使用して、これらのサービス特典を追加コストなしで利用できます。</span><span class="sxs-lookup"><span data-stu-id="75916-108">These service benefits are available at no additional cost with an eligible subscription included in the FastTrack [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+<span data-ttu-id="e46f9-104">対象となるサービスやプランのために少なくとも 150 ライセンスを購入する場合は、Windows 10 の FastTrack Center 特典を利用できます。</span><span class="sxs-lookup"><span data-stu-id="e46f9-104">You use the FastTrack Center Benefit for Windows 10 when you purchase at least 150 licenses for an eligible service or plan.</span></span> <span data-ttu-id="e46f9-105">その後に FastTrack スペシャリストと連携して、Windows 10 の評価、修復、展開を行い、Office 365 ProPlus の FastTrack Center 特典を統合します。</span><span class="sxs-lookup"><span data-stu-id="e46f9-105">You then work with FastTrack Specialists to assess, remediate, and deploy Windows 10 and coordinate FastTrack Center benefits for Office 365 ProPlus.</span></span> <span data-ttu-id="e46f9-106">Desktop App Assure サービスを使用すると、アプリの互換性の問題が発生した場合に、助言および修復のガイダンスを提供してくれるFastTrack スペシャリストを利用できます。</span><span class="sxs-lookup"><span data-stu-id="e46f9-106">The Desktop App Assure service makes a FastTrack Specialist available who provides advisory and remediation guidance if you encounter app compatibility issues.</span></span>  <span data-ttu-id="e46f9-107">FastTrack スペシャリストは、Windows 10 および Office 365 ProPlus を展開して最新の状態に保てるようにするガイダンスも提供します。</span><span class="sxs-lookup"><span data-stu-id="e46f9-107">FastTrack Specialists will also provide guidance as you deploy and stay up-to-date with Windows 10 and Office 365 ProPlus.</span></span> <span data-ttu-id="e46f9-108">FastTrack の [対象となるサービスとプラン](M365-eligible-services-and-plans.md)に含まれている対象のサブスクリプションを使用して、これらのサービス特典を追加コストなしで利用できます。</span><span class="sxs-lookup"><span data-stu-id="e46f9-108">These service benefits are available at no additional cost with an eligible subscription included in the FastTrack [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="75916-109">このドキュメントの目的に沿い、FastTrack のスペシャリストには、Microsoft の従業員、Microsoft 承認のベンダー、および Microsoft 承認のパートナーが含まれます。</span><span class="sxs-lookup"><span data-stu-id="75916-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="e46f9-109">このドキュメントの目的に沿い、FastTrack のスペシャリストには、Microsoft の従業員、Microsoft 承認のベンダー、および Microsoft 承認のパートナーが含まれます。</span><span class="sxs-lookup"><span data-stu-id="e46f9-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
     
-- [<span data-ttu-id="75916-110">Windows 10</span><span class="sxs-lookup"><span data-stu-id="75916-110">Windows 10</span></span>](Win-10-windows-10.md)
-- [<span data-ttu-id="75916-111">Desktop App Assure</span><span class="sxs-lookup"><span data-stu-id="75916-111">Desktop App Assure</span></span>](Win-10-desktop-app-assure.md)
+- [<span data-ttu-id="e46f9-110">Windows 10</span><span class="sxs-lookup"><span data-stu-id="e46f9-110">Windows 10</span></span>](Win-10-windows-10.md)
+- [<span data-ttu-id="e46f9-111">Desktop App Assure</span><span class="sxs-lookup"><span data-stu-id="e46f9-111">Desktop App Assure</span></span>](Win-10-desktop-app-assure.md)
   
 
   
