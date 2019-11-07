@@ -3,19 +3,19 @@ title: FastTrack の責任範囲
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342296"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921583"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -88,8 +88,8 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
   - AD FS インフラストラクチャをインターネットに公開するための、WAP のインストールおよび構成 (必要な場合)。
     > [!NOTE]
     > フォレストが複数あるすべての構成において、ADFS の展開は対象外です。 
-- SSO 機能のテスト (展開されている場合)。
-- サービス導入と価値実現の促進。
+- シームレスな SSO 機能のテスト (展開されている場合)。
+- 正常なサービス採用の促進と価値の増進。
     
 \*\*パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証: 現在の制限事項](https://go.microsoft.com/fwlink/?linkid=860356)」を参照してください。 
 
@@ -100,9 +100,10 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 次の点に関するガイダンスを行います。
 - DNS レコードの作成または更新。 
 - ソース メッセージング システムと Office 365 環境との間での電子メール ルーティングの有効化。 
-- Exchange Online Protection、データ損失防止 (DLP)、Office 365 Message Encryption (OME) の機能 (サブスクリプションで利用できる場合は Exchange Online Advanced Threat Protection も含む) を構成して、メールが有効な検証済みのすべてのドメインで MX レコードが Office 365 をポイントしていることを確認します。
+- Exchange Online Protection、データ損失防止 (DLP)、Office 365 Message Encryption (OME)、Office 365 Advanced Threat Protection (ATP) (サブスクリプションで利用できる場合) を構成して、メールが有効な検証済みのすべてのドメインで MX レコードが Office 365 をポイントしていることを確認します。
 - 1 つのオンプレミスの Exchange 組織と Office 365 の間、*または*複数のオンプレミスの Exchange 組織と Office 365 の間におけるハイブリッド セットアップの構成。 
 - メールボックス クライアント (Outlook for Windows、Outlook on the web、iOS および Android 用の Outlook) の構成。
+- Office 365 ATP の自動化、調査、応答を構成する (サブスクリプションで使用可能な場合)。
     
 データ移行の責任について詳しくは、「[データ移行](O365-data-migration.md)」を参照してください。
   
@@ -139,6 +140,16 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - SharePoint Online ハイブリッド OneDrive for Business リダイレクトの構成方法 (SharePoint 2013 および SharePoint 2016 のみ)。
 - FastTrack Center のデータ移行サービスを使っており、かつ資格を満たす場合は、データ移行。
     
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+
+次の点に関するガイダンスを行います。
+- 安全なリンクの有効化。
+- 安全な添付ファイル機能の有効化。
+- フィッシング詐欺対策ポリシーの有効化。
+- 自動化、調査、応答の構成。
+- 攻撃シミュレータの使用。
+- レポート作成と脅威分析。
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 次の点に関するガイダンスを行います。

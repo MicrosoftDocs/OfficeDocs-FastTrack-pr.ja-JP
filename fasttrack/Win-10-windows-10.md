@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack では、Windows 10 の展開のガイダンスを提供することで、ユーザーが Windows 7 Professional および Windows 8.1 Professional から Windows 10 Enterprise にアップグレードするお手伝いをします。
-ms.openlocfilehash: ffbbde094e77bfc5ddf6155a318e7534e2a1c666
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e9999306b8ac1a6916562eb7ac0f422622c834da
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342656"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921571"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -24,6 +24,7 @@ FastTrack では、Windows 10 の展開のガイダンスを提供すること�
 - Microsoft System Center Configuration Manager または Microsoft 365 を使用する Windows 10 Enterprise の展開。
 - Office 365 ProPlus の展開。 
 - System Center Configuration Manager または Microsoft 365 を使用する Windows 10 Enterprise および Office 365 ProPlus の更新。
+- Microsoft Intune を使用して Configuration Manager をクラウドで接続するか、単独のクラウド管理ソリューションとして Intune を展開します。
   
 > [!NOTE]
 > FastTrack では、お客様に推奨されるアプローチ、ガイダンス、および迅速に予測可能な結果を導き出すためのベスト プラクティスを提供します。 このガイダンス以外の方法での展開を考えている場合、エクスペリエンスに影響が生じる可能性があります。 ガイダンスは、口頭および書面のサポートの組み合わせとして定義されています。 FastTrack スペシャリストがガイダンスを提供する場合、お客様に代わって FastTrack の担当者が操作することはできません。 サブスクリプションが最新の状態に保たれている限り、FastTrack サービスを対象プランに使用できます。  

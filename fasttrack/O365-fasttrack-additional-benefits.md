@@ -3,18 +3,18 @@ title: 付録 BFastTrack センターの付加的な利点
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「対象となるサービスとプラン」を参照してください。
-ms.openlocfilehash: c2f25e63d1e6d7d8b870a191136aad29e52fcfa3
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 8da19cd3922e1e37eb382716039dc6a96166191e
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342500"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921295"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>付録 B - FastTrack Center の付加的な利点
 
@@ -42,9 +42,9 @@ Skype for Business Online では、オンプレミスの Lync および Skype fo
 
 Office 365 ProPlus では、次に示すガイダンスを提供します。 
 - Microsoft のベストプラクティスに従って初期展開をして更新を管理するための環境の準備に焦点を当てた評価と計画。 
-- Office 365 展開ツールによる展開構成と更新設定の策定。 
+- Office 365 展開ツールと Office カスタマイズ ツールによる展開構成と更新設定の策定。 
 - System Center Configuration Manager を使用した展開パッケージング。  
-- ビジネスに不可欠な Office 文書の使用とアプリケーション互換性のソリューションを評価するためのガイダンスを提供するための、Office テレメトリの展開と構成。
+- Office 用準備ツールキットの使用を有効化して、Office で使用する Microsoft Visual Basic for Applications (VBA) マクロとアドインで起きる可能性がある互換性の問題を識別します。
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -132,12 +132,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 
 - 以下についてのガイダンスとサポートを提供します。  
   - 初期展開と更新管理のための Microsoft のベストプラクティスに従った評価と計画。
-  - Office テレメトリの展開と構成。 
-  - グループ ポリシーを使用した、Office 2013 以降のクライアントに対するテレメトリログ記録の有効化。 
-  - 以前の Office クライアント (Office 2003、Office 2007、および Office 2010) に対する Office テレメトリ エージェントの展開。 
-  - テレメトリ プロセッサの展開。 
-    > [!NOTE]
-    > これには、テレメトリのデータを保存するファイル共有の場所と、処理されたデータを送信するための SQL Server 2005 以降を実行するサーバーが必要です。 
+  - Office 用準備ツールキットの使用を有効化して、Office で使用する Microsoft VBA マクロとアドインで起きる可能性がある互換性の問題を識別します。
   
 ## <a name="your-responsibilities"></a>お客様の責任
 

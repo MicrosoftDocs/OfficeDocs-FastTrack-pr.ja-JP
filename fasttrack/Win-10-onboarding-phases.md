@@ -3,19 +3,19 @@ title: オンボーディング フェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。
-ms.openlocfilehash: 8cd5f1586518976d965c08f07398974334093658
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: c2c9515f0e3cefed133da74d41e84995724ed042
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342680"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921891"
 ---
 # <a name="onboarding-phases"></a>オンボーディング フェーズ
 
@@ -33,6 +33,8 @@ Windows 10 のアプリの評価において推奨されるオプションを提
 
 FastTrack では、Configuration Manager で Office 365 の準備ダッシュボードを利用するか、Office のスタンドアロンの準備ツールキットを使用して、Office 365 ProPlus 互換性評価を行うこともできます。 利用可能なサービスの詳細については、「[Office 365 用 FastTrack Center 特典](O365-fasttrack-benefit-for-office-365.md)」を参照してください。 
 
+FastTrack では、Microsoft Intune を使用して Configuration Manager をクラウドで接続するか、それとも単独のクラウド管理ソリューションとして Intune を展開するなど、最新の管理戦略の評価も行います。
+
 ## <a name="remediate"></a>修復する
 
 ソース環境に基づいて修復タスクを行い、オンボーディングの要件を満たすことができます。 環境を整え、これらの要素が展開を成功させるのにソース環境を最小要件にしていることを検証する修復チェックリストを提供します。 
@@ -45,6 +47,8 @@ Office 365 ProPlus の展開方法について説明し、Configuration Manager 
 
 既存の Configuration Manager 環境または Microsoft 365 を使用して、組織が Windows 10 Enterprise および Office 365 ProPlus を常に最新の状態に保つためのガイダンスを提供します。
 
+必要な場面で FastTrack を使用すれば、お客様は Configuration Manager を Intune にクラウドで接続したり、Intune をスタンドアロンで展開したりして、最新の管理を行うことができます。 関連するサービスの詳細については、「[Enterprise Mobility + Security (EMS) 向け FastTrack Center の特典プロセス](EMS-fasttrack-process.md)」を参照してください。
+
 > [!NOTE]
 > 展開および保守用の既存のプランやプロセスがない場合は、インプレース アップグレード シナリオ (推奨) または [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot) に基づいて、ベストプラクティスのガイダンスを提供できます。
 
@@ -54,6 +58,7 @@ FastTrack では以下について説明していません。
 
 - Configuration Manager の Current Branch へのアップグレード。
 - Windows 10 展開用のカスタム画像の作成。
+- Windows 10 の展開用の展開スクリプトの作成とサポート。
 - Windows 10 システムの BIOS から Unified Extensible Firmware Interface (UEFI) への変換。
 - Windows 10 のセキュリティ機能の有効化。 
 - Preboot Execution Environment (PXE) ブートの Windows 展開サービス (WDS) の構成。

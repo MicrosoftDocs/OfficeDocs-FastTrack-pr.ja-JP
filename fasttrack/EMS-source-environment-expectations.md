@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c5cb280c3ac2280f0f32fda39258b68ee144e508
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 3163294fc53913a125beb560a0ec21f7aac96e22
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342368"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921187"
 ---
 # <a name="source-environment-expectations"></a>ソース環境要件
 
@@ -35,7 +35,7 @@ Enterprise Mobility + Security (EMS) と統合させることを希望するオ�
 |Azure AD Premium のオンボーディング|オンプレミスの Active Directory とその環境は Azure AD Premium 用に準備されている。これには、特定された、Azure AD および Azure AD Premium 機能との統合を妨げる問題の修復が含まれます。|
 |Intune オンボーディング| Intune を使用した Wi-Fi および VPN の展開を計画する段階で、IT 管理者は既存の証明機関、WiFi、および VPN のインフラストラクチャを運用環境で動作させている必要があります。<br /><br /> **注**: サービス特典には、認証機関、Wi-Fi、VPN インフラストラクチャ、または Apple MDM プッシュ証明書のセットアップおよび構成に関するサポートは含まれません。  |
 |共同管理|共同管理を行う場合、IT 管理者はオンプレミス環境の準備を行う責任があります。これには、Configuration Manager と Intune の両方を使用して行う、Windows 10 デバイスを同時に管理することを妨げている問題の修復が含まれる場合があります。<br /><br />**注**: FastTrack サービス特典には、Configuration Manager サイト サーバーおよび/または Configuration Manager クライアントのセットアップまたは Windows 10 デバイスでの共同管理をサポートするために必要な最小要件へのアップグレードの支援は含まれていません。 |
-|Windows Defender Advanced Threat Protection (Windows Defender ATP) と統合された Intune|Windows Defender ATP サブスクリプションのライセンス認証が完了し、組織のセキュリティ要件に基づいて構成されている。<br /><br />**注**: FastTrack サービス特典は、Intune の Windows Defender ATPとの統合および Windows 10 の リスク レベル評価に基づいたデバイス コンプライアンス ポリシーの作成に対する支援を提供します。 FastTrack サービス特典は、Windows Defender ATP およびそのセキュリティ センター コンソールの購入、ライセンス、ライセンス認証、または使用に関する支援は提供しません。 |
+|Intune と Microsoft Defender Advanced Threat Protection (ATP) の統合|**注**: FastTrack サービス特典は、Intune の Microsoft Defender ATP との統合および Windows 10 のリスク レベル評価に基づいたデバイス コンプライアンス ポリシーの作成に対する支援を提供します。 このサービス特典では、購入、ライセンス、アクティベーションに関するサポートは提供されません。 |
 |Windows Autopilot|IT 管理者は、管理者自身または管理者の代理としてハードウェアの製造元がハードウェア ID を Windows Autopilot サービスにアップロードすることにより、デバイスを組織に登録する責任があります。 |
 |Intune を使用して Outlook for iOS および Outlook for Android を安全に展開する|<br /><br />- Office 365 用の Azure AD でユーザー ID が有効になっている。<br />- Exchange Online またはハイブリッド Exchange が構成され、ユーザー ライセンスが割りてられている。<br />|
 |Azure Information Protection (P2 または EMS E5)|<br /><br />お客様は既に以下を行っている必要があります。 <br /> - Azure AD を使用している。<br />- Windows または iOS (その他の OS は対象外) を使用している。<br /> - メインのクライアントとして、Office に依存することのない Office 2010 SP2 以降の Office クライアントを使用している。 <br /> - 主なファイル共有場所がある。  <br /> - Active Directory Rights Management サービス (AD RMS) からのアップグレードが完了している。 <br /> - 承認済みの分類方法がある。 <br /> - 保護されたキー管理に対するすべての規制を理解している。 <br />|
