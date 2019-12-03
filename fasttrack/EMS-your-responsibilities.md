@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ffa984d56b60dffa39fe03138088bb81391bfc61
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 9f65fb1c88abbd93b7289da992f7f1e6dec826b3
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921283"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662758"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 
@@ -122,7 +122,7 @@ ms.locfileid: "37921283"
 -   FastTrack チームのガイダンスに従って、各種サービスを有効にします。
 
 > [!NOTE]
-> **詳細について** 「[Enterprise Mobility + Security](https://www.microsoft.com/ja-JP/cloud-platform/enterprise-mobility)」を参照してください
+> **詳細について** 「[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)」を参照してください
 
 ## <a name="see-also"></a>関連項目
 

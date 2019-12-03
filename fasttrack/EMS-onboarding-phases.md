@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 8f850c133d18ea42b50f3c4333092d5358d8b1c8
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 858294224aa18dc3f2aae927630498f49afeb872
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921595"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662918"
 ---
 # <a name="onboarding-phases"></a>オンボーディング フェーズ
 
@@ -103,7 +103,7 @@ Azure AD Premium のセットアップには、以下の機能が含まれます
 
 -   最大 3 つ (またはそれ以上) のサービスとしてのソフトウェア (SaaS) アプリケーションの、[Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/) からのシングル サインオン (SSO) との統合。
 
--   「[アプリ統合に関するチュートリアルのリスト](https://docs.microsoft.com/ja-JP/azure/active-directory/saas-apps/tutorial-list)」に記載される、事前統合された SaaS アプリケーションでの自動ユーザープロビジョニン (外向きプロビジョニングのみに制限されています)。
+-   「[アプリ統合に関するチュートリアルのリスト](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)」に記載される、事前統合された SaaS アプリケーションでの自動ユーザープロビジョニン (外向きプロビジョニングのみに制限されています)。
 
 -   ロゴ、テキスト、画像などを含む、カスタマイズされたログオン画面。
 
@@ -280,7 +280,7 @@ FastTrack では、対象サービスを正しく導入するためのガイダ�
 Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encryption (OME)、およびデータ損失防止 (DLP) を使用して保護を適用するお客様にもガイダンスを提供いたします。
 
 > [!NOTE]
-> **詳細な情報をご希望の場合は**、[Enterprise Mobility + Security](https://www.microsoft.com/ja-JP/cloud-platform/enterprise-mobility) をご覧ください。
+> **詳細な情報をご希望の場合は**、[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility) をご覧ください。
 
 ## <a name="next-steps"></a>次の手順
 

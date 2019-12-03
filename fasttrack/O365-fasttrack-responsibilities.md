@@ -3,19 +3,19 @@ title: FastTrack の責任範囲
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 08fc251860aca5868deefd19904abd30b5a9f8b9
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921583"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662990"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -107,49 +107,6 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
     
 データ移行の責任について詳しくは、「[データ移行](O365-data-migration.md)」を参照してください。
   
-## <a name="sharepoint-online"></a>SharePoint Online
-
-次の点に関するガイダンスを行います。
-- ライセンシングを含むユーザー プロビジョニングのセットアップ。
-- SharePoint Online 管理者のサイト作成の有効化。    
-- サイト コレクションのプランニング。 
-- コンテンツのセキュリティ保護および権限の管理。
-- 個人用サイトおよびソーシャル機能の有効化。
-- SharePoint Online 機能の構成。 
-- FastTrack センターのデータ移行サービスを使用し、かつ資格を満たす場合は、データ移行を提供します。
-- SharePoint Online ハイブリッドに必要なオンプレミスの SharePoint ファームのインフラストラクチャ構成を評価します。 
-- 次に関してツールと自動化を使用します。
-  - オンプレミスのクラウド検索サービス アプリケーションの構成。 
-  - SharePoint オンプレミス環境とクラウド環境間の信頼の構成。
-- SharePoint Online ハイブリッド機能の使用に向けたオンプレミスの SharePoint サイトの構成。
-    
-## <a name="onedrive-for-business"></a>OneDrive for Business
-
-次の点に関するガイダンスを行います。
-- オンプレミスの SharePoint バージョンと統合オプションの識別。 
-- 同期と ID オプションの識別。
-- ロールアウト オプションの選択    
-  - ジャストインタイム ロールアウト。
-  - 段階的ロールアウト (順序付けとフェーズ)。
-- OneDrive for Business 展開用のオンプレミスの環境の準備:
-  - 正しい OneDrive for Business 同期クライアントの識別。
-  - DNS、ネットワーク ポート、およびファイアウォールの構成。 
-- エンドユーザー ライセンスの割り当て。 
-- SharePoint Online 対象ユーザーのセットアップ、および OneDrive for Business を取得するユーザーの制御と管理。 
-- OneDrive for Business 同期クライアントのデスクトップへの展開。   
-- SharePoint Online ハイブリッド OneDrive for Business リダイレクトの構成方法 (SharePoint 2013 および SharePoint 2016 のみ)。
-- FastTrack Center のデータ移行サービスを使っており、かつ資格を満たす場合は、データ移行。
-    
-## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
-
-次の点に関するガイダンスを行います。
-- 安全なリンクの有効化。
-- 安全な添付ファイル機能の有効化。
-- フィッシング詐欺対策ポリシーの有効化。
-- 自動化、調査、応答の構成。
-- 攻撃シミュレータの使用。
-- レポート作成と脅威分析。
-
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 次の点に関するガイダンスを行います。
@@ -175,26 +132,51 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - Teams ライブ イベントの有効化。 
 - 組織のセットアップと Microsoft Stream への統合。
 
-
-## <a name="skype-for-business-online"></a>Skype for Business Online
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
 次の点に関するガイダンスを行います。
-- Office 365 向け Skype for Business 識別情報のプロビジョニング。 
-- Office 365 のオンライン会議、インスタント メッセージング (IM)、プレゼンス機能の有効化。 
-- サポートされる会議システム デバイスに関連付けるアカウントの作成 (最大 10 個のアカウント)。 
-- Lync ハイブリッドまたは Skype for Business Online ハイブリッドのシナリオ (該当する場合) をサポートするための分割ドメイン サーバー環境の構成。
-- 電話会議を有効にする:
-  - 会議ブリッジの既定の設定のための組織のセットアップ。
-  - ライセンスを持つユーザーへの会議ブリッジの割り当て。
-- 電話システムを有効にする:
-  - 電話システムおよび通話プランのオンボーディングの有効化 (利用可能なマーケットのみ)。
-  - ライセンスを持つユーザーへの番号の割り当て。
-  - UI を通じた 999 件までの電話番号の移植ガイダンス。
-  - 999 件を超える電話番号の移植 SR サポート。
-- Skype for Business 会議メディアトを有効にする:
-  - Skype for Business 会議メディアのオンボーディング ガイダンスを有効にする。
-  - 会議メディア サービスとのフェデレーションのための組織のセットアップ。
+- 安全なリンクの有効化。
+- 安全な添付ファイル機能の有効化。
+- フィッシング詐欺対策ポリシーの有効化。
+- 自動化、調査、応答の構成。
+- 攻撃シミュレータの使用。
+- レポート作成と脅威分析。
+
+## <a name="office-365-proplus"></a>Office 365 ProPlus
+
+次の点に関するガイダンスを行います。
+- 展開の問題への対応。
+- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。
+- クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。
+- iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (iOS および Android 用の Outlook、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。 
+- Office 365 展開ツールを使用した更新設定の構成。
+- ローカルまたはクラウドのインストールの選択とセットアップ。
+- Office カスタマイズ ツールを使用した Office 展開ツールの構成 XML、または展開パッケージを構成するためのネイティブ XML の作成。
+- System Center Configuration Manager パッケージの作成サポートを含む、System Center Configuration Manager を使用した展開。
     
+## <a name="onedrive-for-business"></a>OneDrive for Business
+
+次の点に関するガイダンスを行います。
+- オンプレミスの SharePoint バージョンと統合オプションの識別。 
+- 同期と ID オプションの識別。
+- ロールアウト オプションの選択    
+  - ジャストインタイム ロールアウト。
+  - 段階的ロールアウト (順序付けとフェーズ)。
+- OneDrive for Business 展開用のオンプレミスの環境の準備:
+  - 正しい OneDrive for Business 同期クライアントの識別。
+  - DNS、ネットワーク ポート、およびファイアウォールの構成。 
+- エンドユーザー ライセンスの割り当て。 
+- SharePoint Online 対象ユーザーのセットアップ、および OneDrive for Business を取得するユーザーの制御と管理。 
+- OneDrive for Business 同期クライアントのデスクトップへの展開。   
+- SharePoint Online ハイブリッド OneDrive for Business リダイレクトの構成方法 (SharePoint 2013 および SharePoint 2016 のみ)。
+- FastTrack Center のデータ移行サービスを使っており、かつ資格を満たす場合は、データ移行。
+    
+## <a name="outlook-for-ios-and-android"></a>iOS および Android 用の Outlook
+
+次の点に関するガイダンスを行います。
+- iOS および Android デバイスへの Outlook のダウンロード。
+- Outlook 内でのメール アカウントの構成。
+
 ## <a name="power-bi"></a>Power BI
 
 次の点に関するガイダンスを行います。
@@ -220,28 +202,45 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - Office 365 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。
 - Office 2016 展開ツールの configuration.xml ファイルを作成するためのガイダンスを含む Project Online デスクトップ クライアント 用の 1 つのオンサイト配布サーバーのセットアップ。 
 - Project Online デスクトップ クライアント の Project Online への接続。
+
+## <a name="sharepoint-online"></a>SharePoint Online
+
+次の点に関するガイダンスを行います。
+- ライセンシングを含むユーザー プロビジョニングのセットアップ。
+- SharePoint Online 管理者のサイト作成の有効化。    
+- サイト コレクションのプランニング。 
+- コンテンツのセキュリティ保護および権限の管理。
+- 個人用サイトおよびソーシャル機能の有効化。
+- SharePoint Online 機能の構成。 
+- FastTrack センターのデータ移行サービスを使用し、かつ資格を満たす場合は、データ移行を提供します。
+- SharePoint Online ハイブリッドに必要なオンプレミスの SharePoint ファームのインフラストラクチャ構成を評価します。 
+- 次に関してツールと自動化を使用します。
+  - オンプレミスのクラウド検索サービス アプリケーションの構成。 
+  - SharePoint オンプレミス環境とクラウド環境間の信頼の構成。
+- SharePoint Online ハイブリッド機能の使用に向けたオンプレミスの SharePoint サイトの構成。
     
-## <a name="yammer-enterprise"></a>Yammer エンタープライズ
+## <a name="skype-for-business-online"></a>Skype for Business Online
+
+次の点に関するガイダンスを行います。
+- Office 365 向け Skype for Business 識別情報のプロビジョニング。 
+- Office 365 のオンライン会議、インスタント メッセージング (IM)、プレゼンス機能の有効化。 
+- サポートされる会議システム デバイスに関連付けるアカウントの作成 (最大 10 個のアカウント)。 
+- Lync ハイブリッドまたは Skype for Business Online ハイブリッドのシナリオ (該当する場合) をサポートするための分割ドメイン サーバー環境の構成。
+- 電話会議を有効にする:
+  - 会議ブリッジの既定の設定のための組織のセットアップ。
+  - ライセンスを持つユーザーへの会議ブリッジの割り当て。
+- 電話システムを有効にする:
+  - 電話システムおよび通話プランのオンボーディングの有効化 (利用可能なマーケットのみ)。
+  - ライセンスを持つユーザーへの番号の割り当て。
+  - UI を通じた 999 件までの電話番号の移植ガイダンス。
+  - 999 件を超える電話番号の移植 SR サポート。
+- Skype for Business 会議メディアトを有効にする:
+  - Skype for Business 会議メディアのオンボーディング ガイダンスを有効にする。
+  - 会議メディア サービスとのフェデレーションのための組織のセットアップ。
+    
+## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 単一の Yammer ベーシック ネットワークから単一の Yammer エンタープライズ ネットワークへの変換に関するガイダンスを行います。
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
-
-次の点に関するガイダンスを行います。
-- 展開の問題への対応。
-- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。
-- クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。
-- iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (iOS および Android 用の Outlook、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。 
-- Office 365 展開ツールを使用した更新設定の構成。
-- ローカルまたはクラウドのインストールの選択とセットアップ。
-- Office カスタマイズ ツールを使用した Office 展開ツールの構成 XML、または展開パッケージを構成するためのネイティブ XML の作成。
-- System Center Configuration Manager パッケージの作成サポートを含む、System Center Configuration Manager を使用した展開。
-    
-## <a name="outlook-for-ios-and-android"></a>iOS および Android 用の Outlook
-
-次の点に関するガイダンスを行います。
-- iOS および Android デバイスへの Outlook のダウンロード。
-- Outlook 内でのメール アカウントの構成。
-
 \*Office 365 US Government のための FastTrack でのお客様の責任については、「[Office 365 US Government のための FastTrack での責任](US-Gov-appendix-fasttrack-responsibilities.md)」を参照してください。
 
