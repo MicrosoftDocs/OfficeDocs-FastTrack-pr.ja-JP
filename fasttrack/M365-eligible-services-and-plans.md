@@ -3,19 +3,19 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 47f0a830a289974b8cfe370101d4049f3f19816f
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921175"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662770"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -72,6 +72,7 @@ FastTrack Center は、次のサービスのサポートを提供します。
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Security\*
+- Microsoft 365 F1*
 - Microsoft 365 Business\*
     
  **Microsoft 365 Education**
@@ -164,8 +165,6 @@ FastTrack Center は、次のサービスのサポートを提供します。
 |**Microsoft Intune**    |   単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。      |
 |**Microsoft Intune と Configuration Manager**     |    単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。     |
 |**Microsoft Intune for Education**     |  単体プランとして、または A3 または A5 の一部として購入した場合に対象となります。       |
-|**Azure Advanced Threat Protection**     |    制限されています。単体プランとして購入した場合のみ対象となります。これを行うには、「[Microsoft 365 FastTrack ポータル](https://go.microsoft.com/fwlink/p/?LinkId=2003903)」にアクセスします。   |
-|**Microsoft Cloud App Security**    |       制限されています。単体プランとして購入した場合のみ対象となります。これを行うには、「[Microsoft 365 FastTrack ポータル](https://go.microsoft.com/fwlink/p/?LinkId=2003903)」にアクセスします。    |
 
 詳細については、「[Enterprise Mobility + Security (EMS) 用の FastTrack センター特典](EMS-fasttrack-benefit-for-EMS.md)」を参照してください。
 
