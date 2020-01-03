@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,29 +14,29 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 7b5a49b4fc2a41952efabe6265e1a79c4b966b7b
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: a1b024f2e1b8df5ff911a11ad2784c72b380ca73
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662882"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40928695"
 ---
-# <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a><span data-ttu-id="befd1-103">Enterprise Mobility + Security (EMS) 向け FastTrack センターの特典</span><span class="sxs-lookup"><span data-stu-id="befd1-103">FastTrack Center Benefit for Enterprise Mobility + Security (EMS)</span></span>
+# <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a><span data-ttu-id="96298-103">Enterprise Mobility + Security (EMS) 向け FastTrack センターの特典</span><span class="sxs-lookup"><span data-stu-id="96298-103">FastTrack Center Benefit for Enterprise Mobility + Security (EMS)</span></span>
 
-<span data-ttu-id="befd1-104">EMS または対象となるプランの EMS 提供のクラウドサービス向けに 150 以上のライセンスを購入するときに、Enterprise Mobility + Security (EMS) FastTrack センターの特典を使用します。 　</span><span class="sxs-lookup"><span data-stu-id="befd1-104">You use the Enterprise Mobility + Security (EMS) FastTrack Center Benefit when you purchase at least 150 licenses for EMS or any of its individual cloud services in an eligible plan.</span></span> <span data-ttu-id="befd1-105">You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services.</span><span class="sxs-lookup"><span data-stu-id="befd1-105">You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services.</span></span> <span data-ttu-id="befd1-106">これらのスペシャリストは、移行のガイダンスも提供します。</span><span class="sxs-lookup"><span data-stu-id="befd1-106">These specialists also provide migration guidance.</span></span> 
+<span data-ttu-id="96298-104">EMS または対象となるプランの EMS 提供のクラウドサービス向けに 150 以上のライセンスを購入するときに、Enterprise Mobility + Security (EMS) FastTrack センターの特典を使用します。 　</span><span class="sxs-lookup"><span data-stu-id="96298-104">You use the Enterprise Mobility + Security (EMS) FastTrack Center Benefit when you purchase at least 150 licenses for EMS or any of its individual cloud services in an eligible plan.</span></span> <span data-ttu-id="96298-105">You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services.</span><span class="sxs-lookup"><span data-stu-id="96298-105">You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services.</span></span> <span data-ttu-id="96298-106">これらのスペシャリストは、移行のガイダンスも提供します。</span><span class="sxs-lookup"><span data-stu-id="96298-106">These specialists also provide migration guidance.</span></span> 
 
 > [!IMPORTANT]
-> <span data-ttu-id="befd1-107">このドキュメントの目的に沿い、FastTrack のスペシャリストには、Microsoft の従業員と Microsoft 承認のベンダー、および Microsoft 承認のパートナーを含めることができます。</span><span class="sxs-lookup"><span data-stu-id="befd1-107">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span>
+> <span data-ttu-id="96298-107">このドキュメントの目的に沿い、FastTrack のスペシャリストには、Microsoft の従業員と Microsoft 承認のベンダー、および Microsoft 承認のパートナーを含めることができます。</span><span class="sxs-lookup"><span data-stu-id="96298-107">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span>
 
-- <span data-ttu-id="befd1-108">対象となるサービスとプランに関する詳細については、「[対象となるサービスとプラン](M365-eligible-services-and-plans.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="befd1-108">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+- <span data-ttu-id="96298-108">対象となるサービスとプランに関する詳細については、「[対象となるサービスとプラン](M365-eligible-services-and-plans.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="96298-108">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
 
-- <span data-ttu-id="befd1-109">FastTrack センター のプロセス、および誰が何の責任を担うかに関する詳細については、「[Enterprise Mobility + Security の FastTrack センターの特典プロセス](EMS-fasttrack-process.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="befd1-109">To learn about the FastTrack Center process and who’s responsible for what, see [FastTrack Center Benefit Process for Enterprise Mobility + Security](EMS-fasttrack-process.md).</span></span>
+- <span data-ttu-id="96298-109">FastTrack センター のプロセス、および誰が何の責任を担うかに関する詳細については、「[Enterprise Mobility + Security の FastTrack センターの特典プロセス](EMS-fasttrack-process.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="96298-109">To learn about the FastTrack Center process and who’s responsible for what, see [FastTrack Center Benefit Process for Enterprise Mobility + Security](EMS-fasttrack-process.md).</span></span>
 
     > [!TIP]
-    > <span data-ttu-id="befd1-110">組織内で EMS の採用を促進させる組織のロゴを入れることができる、Enterprise Mobility + Security の**ハウツーガイド**と電子メールを含む .zip ファイルをダウンロードする場合は、「[FastTrack for EMS ハウツーガイドと電子メールのカスタマイズ](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="befd1-110">If you want to download a .zip file containing Enterprise Mobility + Security **how-to guides** and emails that can be customized with your organization’s logo to help promote adoption of EMS within your organization, see [FastTrack for EMS How To Guides & Emails to Customize](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c).</span></span>
+    > <span data-ttu-id="96298-110">組織内で EMS の採用を促進させる組織のロゴを入れることができる、Enterprise Mobility + Security の**ハウツーガイド**と電子メールを含む .zip ファイルをダウンロードする場合は、「[FastTrack for EMS ハウツーガイドと電子メールのカスタマイズ](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="96298-110">If you want to download a .zip file containing Enterprise Mobility + Security **how-to guides** and emails that can be customized with your organization’s logo to help promote adoption of EMS within your organization, see [FastTrack for EMS How To Guides & Emails to Customize](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c).</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="befd1-111">次のステップ</span><span class="sxs-lookup"><span data-stu-id="befd1-111">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="96298-111">次のステップ</span><span class="sxs-lookup"><span data-stu-id="96298-111">Next steps</span></span>
 
-[<span data-ttu-id="befd1-112">EMS 向け FastTrack センターの特典の対象となるサービスとプラン</span><span class="sxs-lookup"><span data-stu-id="befd1-112">Eligible services and plans for FastTrack Center benefit for EMS</span></span>](M365-eligible-services-and-plans.md)
+[<span data-ttu-id="96298-112">EMS 向け FastTrack センターの特典の対象となるサービスとプラン</span><span class="sxs-lookup"><span data-stu-id="96298-112">Eligible services and plans for FastTrack Center benefit for EMS</span></span>](M365-eligible-services-and-plans.md)
 
 
