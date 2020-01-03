@@ -3,19 +3,19 @@ title: Office 365 US Government の FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: fd1ff8f660ec5b9a808ef0b30b347fee62d4363c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 6ac727d55ba8d5653fb9ebffa95b7c3c4a104f70
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662942"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929295"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US Government の FastTrack 責任
 
@@ -24,7 +24,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 ## <a name="general"></a>全般
 
 - 達成計画の開発と実装、必要な構成アクティビティのための遠隔サポート アシスタンスを提供します。その内容については、各フェーズの説明で詳述しています。
-- お客様が構成タスクを削減または省略して、リソースの計画を成功できるようガイダンスを提供するため、入手可能な説明書、ソフトウェア ツール、管理コンソール、スクリプトを提供します。 
+- お客様が構成タスクを削減または省略して、リソースの計画を成功できるようガイダンスを提供するため、入手可能な説明書、ソフトウェア ツール、管理コンソール、スクリプトを提供します。   
     
 ## <a name="initiate-phase"></a>開始フェーズ
 
@@ -185,7 +185,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - ERP 同期を含む、Project Online へのユーザーの追加。  
 - プロジェクト作成による、基本的な Project Online 機能の検証。
     
-## <a name="yammer-enterprise"></a>Yammer エンタープライズ
+## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 単一の Yammer ベーシック ネットワークから単一の Yammer エンタープライズ ネットワークへの変換に関するガイダンスを行います。
 

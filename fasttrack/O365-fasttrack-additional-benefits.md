@@ -3,18 +3,18 @@ title: 付録 BFastTrack センターの付加的な利点
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「対象となるサービスとプラン」を参照してください。
-ms.openlocfilehash: 45665010bf9e7f59a6afc0a9761155a3a841248c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662870"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929211"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>付録 B - FastTrack Center の付加的な利点
 
@@ -102,7 +102,6 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 
 - 単一のパブリック フォルダー ツリーの共存に関する次のような内容のガイダンスを提供します。  
   - Exchange 2007、Exchange 2010、Exchange 2013 でのパブリック フォルダーの準備。 
-  - Exchange Online で Exchange 2007、Exchange 2010、Exchange 2013 のパブリック フォルダー階層との同期に必要な Windows PowerShell コマンドレット。  
   - パブリック フォルダーのアクセスをオンプレミスのパブリック フォルダーにリダイレクトするための Exchange Online の構成。  
   - Exchange Online から単一の Exchange 2007、Exchange 2010、Exchange 2013 のオンプレミス環境へのパブリック フォルダーへのアクセスの構成。  
   - Exchange Online でのパブリック フォルダー環境への最大 10 人のユーザーのアクセス検証のサポート。
