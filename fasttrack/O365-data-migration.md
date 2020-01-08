@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack スペシャリストは、Office 365 へのデータ移行の手順に関するガイダンスを提供します。Office 365 サービス (Exchange Online、OneDrive for Business、SharePoint Online 用) のすべての対象ユーザーが利用できます。
-ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 3e7ceca2b222425d3a679bb3dcd0ee94ef76c5b7
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929223"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959201"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -98,7 +98,6 @@ FastTrack スペシャリストは、移行中に以下のことを行います�
 - メールボックスの移行スケジュールのために標準テンプレートを提供します。
 - FastTrack スペシャリストに必要なアクセス許可についての情報を提供します。 
 - あらかじめ定義された形式で事前に定義したメールボックスの移行スケジュールを収集します。
-- プレフライト ツールを共有することにより、失敗したメールボックスを移行する前に、プレフライト ツールを実行し、プレフライトでの不具合を事前に修正することができます。
 - 移行バッチで 1 つのメールボックスを最大 2 回移行しようとした後に、そのメールボックスの移行エラーが報告されます。
 - Exchange と IMAP4 ベースの移行元の環境では、ユーザー メールボックス容量の上限の最大 85% までメールボックスのコンテンツが移行されます (たとえば、メールボックス容量の上限が 50 GB の場合、Microsoft によって 50 GB 容量の上限の最大 85% まで移行が行われます)。 
 - カット オーバー移行を使用している場合を除き、ソース メッセージング環境と Office 365 Exchange Online の間で SMTP メール ルーティングの共存を有効にします。
