@@ -61,8 +61,13 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "fasttrack/Win-10-daa-assistance-offered-and-plans.md", 
-      "redirect_url": "https://docs.microsoft.com/en-us/fasttrack/win-10-daa-assistance-offered",
+      "source_path": "fasttrack/win-10-desktop-app-assure.md", 
+      "redirect_url": "https://docs.microsoft.com/en-us/fasttrack/win-10-app-assure",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "fasttrack/Win-10-daa-assistance-offered.md", 
+      "redirect_url": "https://docs.microsoft.com/en-us/fasttrack/win-10-app-assure-assistance-offered",
       "redirect_document_id": true
     }
   ]
