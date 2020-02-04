@@ -3,18 +3,18 @@ title: 付録 BFastTrack センターの付加的な利点
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「対象となるサービスとプラン」を参照してください。
-ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929211"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41676649"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>付録 B - FastTrack Center の付加的な利点
 
