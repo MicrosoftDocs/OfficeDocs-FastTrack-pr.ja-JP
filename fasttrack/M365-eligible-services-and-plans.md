@@ -3,19 +3,19 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: 08b1129c7758f26d98b0bdc3989e7f39f423da0e
-ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
+ms.openlocfilehash: be16cbd7248d9a05b75ea9bcccb48f0580febca6
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40959177"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677021"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -79,6 +79,7 @@ FastTrack Center は、次のサービスのサポートを提供します。
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
+- Microsoft 365 A5 Security\*
  
 ## <a name="eligible-office-365-plans"></a>対象となる Office 365 プラン
 
@@ -157,14 +158,35 @@ FastTrack Center は、次のサービスのサポートを提供します。
 
 ## <a name="eligible-enterprise-mobility--security-plans"></a>対象となる Enterprise Mobility + Security プラン
 
-|プラン    |利用資格の詳細  |
-|---------|---------|
-|**E3 または E5 の Enterprise Mobility + Security (EMS)**       |   FastTrack 特典の対象となるクラウド サービスで利用可能です。それ以外の場合は、FastTrack スペシャリストに、またはパートナーの紹介用に転送されます。        |
-|**Azure Active Directory Premium**     |  単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。       |
-|**Azure Information Protection**    |  E5 の一部として、または単体プランとして、P2 で利用できます。 FastTrack 特典の対象となるクラウド サービスで利用できます。 クラウド サービス P1 については、FastTrack が自己展開ガイドを共有しています。       |
-|**Microsoft Intune**    |   単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。      |
-|**Microsoft Intune と Configuration Manager**     |    単体プランとして、または E3 または E5 の一部として購入した場合に対象となります。     |
-|**Microsoft Intune for Education**     |  単体プランとして、または A3 または A5 の一部として購入した場合に対象となります。       |
+**Enterprise Mobility + Security** 
+
+- Enterprise Mobility + Security (EMS) E3\*\*\*\*
+- Enterprise Mobility + Security (EMS) E5\*\*\*\*
+
+**Azure Active Directory Premium**
+
+- Azure Active Directory Premium プラン 1
+- Azure Active Directory Premium プラン 2
+
+**Azure Information Protection**
+
+- Azure Information Protection プラン 2\*\*\*\*\*
+
+**Microsoft Intune**
+
+- Microsoft Intune
+
+**Microsoft Intune と Configuration Manager**
+
+- Microsoft Intune と Configuration Manager
+
+**Microsoft Intune for Education**
+
+- Microsoft Intune for Education
+
+\*\*\*\*FastTrack 特典の対象となるクラウド サービスで利用できます。 それ以外の場合は、FastTrack スペシャリスト宛、またはパートナーの紹介に向けてルーティングされます。
+
+\*\*\*\*\*E5 の一部として、または単体プランとして、P2 で利用できます。 FastTrack 特典の対象となるクラウド サービスで利用できます。 クラウド サービス P1 については、FastTrack が自己展開ガイドを共有しています。
 
 詳細については、「[Enterprise Mobility + Security (EMS) 用の FastTrack センター特典](EMS-fasttrack-benefit-for-EMS.md)」を参照してください。
 
