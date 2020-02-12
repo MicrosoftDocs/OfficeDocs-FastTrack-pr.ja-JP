@@ -1,0 +1,52 @@
+### YamlMime:Hub
+title: Microsoft FastTrack のドキュメントとリソース
+summary: Microsoft FastTrack を使用してお客様が Microsoft クラウドソリューションを展開する方法について説明します。 Microsoft 365、Azure、または Dynamics 365 に該当するサブスクリプションを利用しているお客様は、サブスクリプションの有効期間中は、FastTrack を追加料金なしで使用できます。
+brand: m365
+metadata:
+  title: Microsoft FastTrack のドキュメントとリソース
+  description: Microsoft FastTrack を使用してお客様が Microsoft クラウドソリューションを展開する方法について説明します。 Microsoft 365、Azure、または Dynamics 365 に該当するサブスクリプションを利用しているお客様は、サブスクリプションの有効期間中は、FastTrack を追加料金なしで使用できます。
+  ms.service: microsoft-365-enterprise
+  ms.topic: hub-page
+  audience: ITPro
+  author: samanro
+  ms.author: samanro
+  ms.date: 07/03/2019
+  localization_priority: Priority
+  ms.openlocfilehash: c890da55f729c321c506493ada7be8b11395e0e7
+  ms.sourcegitcommit: cf6fd5a133d007ea395318540471691860c33303
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 02/11/2020
+  ms.locfileid: "41891757"
+conceptualContent:
+  items:
+  - title: Microsoft 365 の FastTrack
+    links:
+    - url: /fasttrack/m365-fasttrack-benefit-overview
+      itemType: overview
+      text: 概要
+    - url: /fasttrack/O365-fasttrack-benefit-for-office-365
+      itemType: concept
+      text: Office 365
+    - url: /enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program
+      itemType: concept
+      text: Enterprise Mobility + Security
+    - url: /fasttrack/win-10-fasttrack-benefit-for-windows-10
+      itemType: concept
+      text: Windows 10
+  - title: Azure の FastTrack
+    links:
+    - url: https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03
+      itemType: overview
+      text: 主な利点
+    - url: https://azure.microsoft.com/programs/azure-fasttrack/partners/
+      itemType: concept
+      text: Azure パートナーの FastTrack
+  - title: Dynamics 365 の FastTrack
+    links:
+    - url: /dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365
+      itemType: overview
+      text: 顧客契約の概要
+    - url: /dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview
+      itemType: concept
+      text: 財務 & の運用のためのダイナミクス
