@@ -3,19 +3,19 @@ title: Office 365 US Government の責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 786fcd6b78c20d09fa66e0d8f6b25a1316c82148
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 088534b930921210396a0ba9371bd3373756ff92
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677189"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347781"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 US Government の責任
 

@@ -3,19 +3,19 @@ title: Office 365 US Government のオンボードと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 オンボード Office 365 US Government には、開始、評価、修復、および有効化という4つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 699b2f9229187df182e6d9fc6f2f7d49d9707174
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: eac974f67137a327b873b911a8c9906859fd3597
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676661"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347529"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US Government のオンボードと移行のフェーズ
 
@@ -35,19 +35,17 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
 
 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
 1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **[FastTrack]** を選択します。
-3.  **[サービス]** を選択します。
-4.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。 
+2.  ランディングページの上部にある**クイックアクション**で [ **microsoft 365 のサポートを要求**する] を選択するか、または展開カードで [ **Microsoft 365 のアシスタンスを要求**する] を選択します。
+3. **Microsoft 365 フォームのリクエストアシスタンスを**完了します。 
 
 パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
 1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **[FastTrack]** を選択します。
-3.  **[顧客]** を選択します。
-4.  顧客を検索するか、顧客リストから選択します。
-5.  **[サービス]** を選択します。
-6.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。   
+2.  **[顧客]** を選択します。
+3.  顧客を検索するか、顧客リストから選択します。
+4.  **[サービス]** を選択します。
+5.  **Microsoft 365 フォームのリクエストアシスタンスを**完了します。   
 
-テナントが利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) から FastTrack センター サポートを依頼することもできます。 
+また、テナントで利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)から FastTrack Center のサポートを依頼できます。 
     
 このフェーズで、オンボーディング プロセスについて説明し、データを検証し、キックオフ ミーティングのスケジュールを設定します。
   
@@ -186,7 +184,7 @@ Office 365 ProPlus では、次の作業のガイダンスを提供します。
 - iOS、Android、Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 365 展開ツールを使用した更新設定の構成。    
 - Office 365 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。    
-- System Center Configuration Manager パッケージの作成サポートを含む、Microsoft System Center Configuration Manager を使用した展開。
+- Microsoft エンドポイント構成マネージャーを使用した展開。 Microsoft エンドポイント構成マネージャーのパッケージ作成のサポートが含まれます。
     
 ![Office ProPlus オンボーディング ステップ](media/O365-Onboarding-Enable-OProPlus.png)
 
