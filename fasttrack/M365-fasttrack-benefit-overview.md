@@ -3,7 +3,7 @@ title: Microsoft 365 用 FastTrack Center 特典
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,28 +12,28 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 用 FastTrack Center では、Microsoft のエンジニアリング専門知識、ベスト プラクティス、ツール、リソースにアクセスできるなど、計画、展開、導入の手引きが提供されます。Microsoft 365 用 FastTrack Center を利用することで、組織とそのパートナーは短期間で展開したり、Office 365、Windows 10、Enterprise Mobility + Security をエンドユーザーに導入してもらったりすることができます。
-ms.openlocfilehash: 4e6c53605d8054493c7e5603da0139e7c25535c5
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 84e08aab87cc1223c858f82c8e84484dd257cde8
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677045"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347565"
 ---
-# <a name="fasttrack-center-benefit-for-microsoft-365"></a><span data-ttu-id="28961-104">Microsoft 365 用 FastTrack Center 特典</span><span class="sxs-lookup"><span data-stu-id="28961-104">FastTrack Center Benefit for Microsoft 365</span></span>
+# <a name="fasttrack-center-benefit-for-microsoft-365"></a><span data-ttu-id="2e11e-104">Microsoft 365 用 FastTrack Center 特典</span><span class="sxs-lookup"><span data-stu-id="2e11e-104">FastTrack Center Benefit for Microsoft 365</span></span>
 
-<span data-ttu-id="28961-p102">Microsoft 365 用 FastTrack Center 特典からは、Microsoft のエンジニアリング専門知識、ベスト プラクティス、ツール、リソースにアクセスできるなど、計画、展開、導入の手引きが提供されます。Microsoft 365 用 FastTrack Center を利用することで、組織とそのパートナーは短期間で展開したり、Office 365、Enterprise Mobility + Security、Windows 10 をエンドユーザーに導入してもらったりすることができます。対象 Microsoft 365 サブスクリプションに追加料金なしで含まれる FastTrack があれば、Microsoft 365 サービスの使用を開始したり、データを移行したり、サイバーセキュリティ上の脅威から組織を守ったり、効果的なチームワークを可能にしたり、デバイスやアプリを最新の状態に維持したりできます。これには次が含まれます。</span><span class="sxs-lookup"><span data-stu-id="28961-p102">The FastTrack Center Benefit for Microsoft 365 provides guidance for planning, deployment, and adoption including remote access to Microsoft engineering expertise, best practices, tools, and resources. FastTrack for Microsoft 365 helps organizations and their partners accelerate deployment and gain end-user adoption of Office 365, Enterprise Mobility + Security, and Windows 10. Included in your eligible Microsoft 365 subscription at no additional cost, FastTrack can help you onboard to Microsoft 365 services, migrate data, protect your organization from cybersecurity threats, enable effective teamwork, and keep your devices and apps up to date. This includes:</span></span>
+<span data-ttu-id="2e11e-p102">Microsoft 365 用 FastTrack Center 特典からは、Microsoft のエンジニアリング専門知識、ベスト プラクティス、ツール、リソースにアクセスできるなど、計画、展開、導入の手引きが提供されます。Microsoft 365 用 FastTrack Center を利用することで、組織とそのパートナーは短期間で展開したり、Office 365、Enterprise Mobility + Security、Windows 10 をエンドユーザーに導入してもらったりすることができます。対象 Microsoft 365 サブスクリプションに追加料金なしで含まれる FastTrack があれば、Microsoft 365 サービスの使用を開始したり、データを移行したり、サイバーセキュリティ上の脅威から組織を守ったり、効果的なチームワークを可能にしたり、デバイスやアプリを最新の状態に維持したりできます。これには次が含まれます。</span><span class="sxs-lookup"><span data-stu-id="2e11e-p102">The FastTrack Center Benefit for Microsoft 365 provides guidance for planning, deployment, and adoption including remote access to Microsoft engineering expertise, best practices, tools, and resources. FastTrack for Microsoft 365 helps organizations and their partners accelerate deployment and gain end-user adoption of Office 365, Enterprise Mobility + Security, and Windows 10. Included in your eligible Microsoft 365 subscription at no additional cost, FastTrack can help you onboard to Microsoft 365 services, migrate data, protect your organization from cybersecurity threats, enable effective teamwork, and keep your devices and apps up to date. This includes:</span></span>
 
-- <span data-ttu-id="28961-109">サブスクリプションに現行で含まれている繰り返し可能な特典。</span><span class="sxs-lookup"><span data-stu-id="28961-109">Ongoing, repeatable benefits included in your subscription.</span></span>
-- <span data-ttu-id="28961-110">Microsoft のエンジニアまたは認定パートナーによる配信。</span><span class="sxs-lookup"><span data-stu-id="28961-110">Delivery by Microsoft engineers or approved partners.</span></span>
-- <span data-ttu-id="28961-111">すべてのお客様が利用できるオンラインのリソースとツール。</span><span class="sxs-lookup"><span data-stu-id="28961-111">Online resources and tools available to all customers.</span></span>
+- <span data-ttu-id="2e11e-109">サブスクリプションに現行で含まれている繰り返し可能な特典。</span><span class="sxs-lookup"><span data-stu-id="2e11e-109">Ongoing, repeatable benefits included in your subscription.</span></span>
+- <span data-ttu-id="2e11e-110">Microsoft のエンジニアまたは認定パートナーによる配信。</span><span class="sxs-lookup"><span data-stu-id="2e11e-110">Delivery by Microsoft engineers or approved partners.</span></span>
+- <span data-ttu-id="2e11e-111">すべてのお客様が利用できるオンラインのリソースとツール。</span><span class="sxs-lookup"><span data-stu-id="2e11e-111">Online resources and tools available to all customers.</span></span>
   
-<span data-ttu-id="28961-112">詳細については、次を参照してください。</span><span class="sxs-lookup"><span data-stu-id="28961-112">To learn more, see:</span></span>
+<span data-ttu-id="2e11e-112">詳細については、次を参照してください。</span><span class="sxs-lookup"><span data-stu-id="2e11e-112">To learn more, see:</span></span>
 
-- [<span data-ttu-id="28961-113">Office 365 用 FastTrack Center 特典</span><span class="sxs-lookup"><span data-stu-id="28961-113">FastTrack Center Benefit for Office 365</span></span>](O365-fasttrack-benefit-for-office-365.md) 
-- [<span data-ttu-id="28961-114">Enterprise Mobility + Security 向け FastTrack Center の特典</span><span class="sxs-lookup"><span data-stu-id="28961-114">FastTrack Center Benefit for Enterprise Mobility + Security</span></span>](EMS-fasttrack-benefit-for-EMS.md)
-- <span data-ttu-id="28961-115">[Windows 10 用 FastTrack Center 特典](Win-10-fasttrack-benefit-for-Windows-10.md) また、今すぐ FastTrack サービスを試したり、[サポートを要請](https://go.microsoft.com/fwlink/p/?LinkId=2003903)したりできます。</span><span class="sxs-lookup"><span data-stu-id="28961-115">[FastTrack Center Benefit for Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) You can also explore FastTrack services and [request assistance](https://go.microsoft.com/fwlink/p/?LinkId=2003903) from FastTrack today.</span></span>
+- [<span data-ttu-id="2e11e-113">Office 365 用 FastTrack Center 特典</span><span class="sxs-lookup"><span data-stu-id="2e11e-113">FastTrack Center Benefit for Office 365</span></span>](O365-fasttrack-benefit-for-office-365.md) 
+- [<span data-ttu-id="2e11e-114">Enterprise Mobility + Security 向け FastTrack Center の特典</span><span class="sxs-lookup"><span data-stu-id="2e11e-114">FastTrack Center Benefit for Enterprise Mobility + Security</span></span>](EMS-fasttrack-benefit-for-EMS.md)
+- <span data-ttu-id="2e11e-115">[Windows 10 用 FastTrack Center 特典](Win-10-fasttrack-benefit-for-Windows-10.md) また、今すぐ FastTrack サービスを試したり、[サポートを要請](https://go.microsoft.com/fwlink/p/?LinkId=2003903)したりできます。</span><span class="sxs-lookup"><span data-stu-id="2e11e-115">[FastTrack Center Benefit for Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) You can also explore FastTrack services and [request assistance](https://go.microsoft.com/fwlink/p/?LinkId=2003903) from FastTrack today.</span></span>
 
-<span data-ttu-id="28961-116">FastTrack は、Microsoft 365 の導入を成功させるパートナーです。</span><span class="sxs-lookup"><span data-stu-id="28961-116">FastTrack is your partner for Microsoft 365 success.</span></span>
+<span data-ttu-id="2e11e-116">FastTrack は、Microsoft 365 の導入を成功させるパートナーです。</span><span class="sxs-lookup"><span data-stu-id="2e11e-116">FastTrack is your partner for Microsoft 365 success.</span></span>
   
   
 
