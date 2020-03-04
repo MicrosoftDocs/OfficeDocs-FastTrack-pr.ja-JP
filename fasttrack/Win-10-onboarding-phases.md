@@ -3,19 +3,19 @@ title: オンボーディング フェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。
-ms.openlocfilehash: f2fb6dea1cd54393fa71e2fc97eae667647893ec
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: e39e2fe56deba31188faf022c69b68ab0a6ab5a0
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677237"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347757"
 ---
 # <a name="onboarding-phases"></a>オンボーディング フェーズ
 
@@ -27,7 +27,7 @@ Windows 10 オンボーディングには、開始、評価、修復、有効化
 
 ## <a name="assess"></a>評価する
 
-FastTrack のスペシャリストはお客様と作業し、ソース環境と要件を評価します。 System Center Configuration Manager が必要なレベルにアップグレードされていることを確認し、Windows 10 の展開をサポートします。 
+FastTrack のスペシャリストはお客様と作業し、ソース環境と要件を評価します。 Microsoft Endpoint Configuration Manager が必要なレベルにアップグレードされていることを確認し、Windows 10 の展開をサポートします。 
 
 Windows 10 のアプリの評価において推奨されるオプションを提供します。 FastTrack では、デスクトップ分析の使用を有効にするためのガイダンスと、デスクトップ分析の展開計画を作成する方法について説明します。
 

@@ -3,18 +3,18 @@ title: 付録 BFastTrack センターの付加的な利点
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「対象となるサービスとプラン」を参照してください。
-ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676649"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347613"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>付録 B - FastTrack Center の付加的な利点
 
@@ -43,7 +43,7 @@ Skype for Business Online では、オンプレミスの Lync および Skype fo
 Office 365 ProPlus では、次に示すガイダンスを提供します。 
 - Microsoft のベストプラクティスに従って初期展開をして更新を管理するための環境の準備に焦点を当てた評価と計画。 
 - Office 365 展開ツールと Office カスタマイズ ツールによる展開構成と更新設定の策定。 
-- System Center Configuration Manager を使用した展開パッケージング。  
+- Microsoft Endpoint Configuration Manager を使用した展開パッケージング。  
 - Office 用準備ツールキットの使用を有効化して、Office で使用する Microsoft Visual Basic for Applications (VBA) マクロとアドインで起きる可能性がある互換性の問題を識別します。
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲

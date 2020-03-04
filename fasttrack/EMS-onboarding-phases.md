@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 02f5a1c0c2bbbe2526f0ee0fcea9da844dae1f6a
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 38d4c3c71c9127314f4453238a1b03a7b8945217
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676805"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347505"
 ---
 # <a name="onboarding-phases"></a>オンボーディング フェーズ
 
@@ -32,25 +32,23 @@ ms.locfileid: "41676805"
 適切な数のライセンスを購入したら、購入確認メールのガイダンスに従って、ライセンスを既存や新規のテナントに関連付けます。 Microsoft では、お客様の FastTrack センター特典の利用資格を確認させていただき、オンボーディング アシスタンスをご案内するためにご連絡を差し上げます。
 
 > [!NOTE]
-> 組織でサービスを展開する準備ができている場合は、[FastTrack センター](https://go.microsoft.com/fwlink/?linkid=780698)にサポートを依頼することもできます。
+> 組織でサービスを展開する準備ができている場合は、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサポートを依頼することもできます。
 
 ### <a name="to-request-assistance"></a>アシスタンスを依頼する方法
 
 1. [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。
-2. **[FastTrack]** を選択します。
-3. **[サービス]** を選択します。
-4. **Microsoft 365 サポート要求フォーム**に必要事項を記入します。
+2. ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
+3. [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。
 
 オンボーディング サポートが開始されると、オンライン会議のスケジュールが立てられます。
 
 Microsoft パートナーは顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からもサポートを受けることができます。 これを行うには、以下のようにします:
 
 1. [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。
-2. **[FastTrack]** を選択します。
-3. **[顧客]** を選択します。
-4. 顧客を検索するか、顧客リストから選択します。
-5. **[サービス]** を選択します。
-6. **Microsoft 365 サポート要求フォーム**に必要事項を記入します。
+2. **[顧客]** を選択します。
+3. 顧客を検索するか、顧客リストから選択します。
+4. **[サービス]** を選択します。
+5. [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。
 
 オンボーディング サポートが開始されると、FastTrack ではお客様とオンボーディングのプロセスについて話し合うためのオンライン会議のスケジュールを設定し、データを確認し、立ち上げミーティングをセットアップします。
 
@@ -123,6 +121,10 @@ Azure AD Premium のセットアップには、以下の機能が含まれます
 
 -   Azure Active Directory アクセス レビュー。
 
+-   Azure Active Directory のパスワード保護。
+
+-   Azure Active Directory B2B。
+
 ![オンボーディング有効化フェーズ - Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
 ### <a name="enable-phase---intune"></a>有効化フェーズ - Intune
@@ -162,7 +164,7 @@ Intune の場合、デバイスの管理に Microsoft Intune を使用するた�
 
             -   通信経費の管理ソリューション (通信経費の管理ソリューションのサブスクリプションが必要です)。
 
-            -   Windows Defender Advanced Threat Protection (Windows E5 または Microsoft 365 E5 ライセンスが必要です)。
+            -   Microsoft Defender Advanced Threat Protection (Windows E5 または Microsoft 365 E5 ライセンスが必要です)。
 
     -   [サポートされている各プラットフォーム](https://technet.microsoft.com/library/dn600287.aspx)のデバイスの Intune への登録。
 
@@ -242,7 +244,7 @@ FastTrack では、Windows 10 デバイスを Configuration Manager と Intune �
 
 - Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成。
 
-- System Center Configuration Manager と統合された Intune (ハイブリッド) から Intune スタンドアロンに移行する方法のガイダンス。
+- Microsoft Endpoint Configuration Manager と統合された Intune から Intune スタンドアロンに移行する方法のガイダンス。
 
 - MDM 自動登録のための Azure Active Directory のセットアップ用ガイダンスの提供。
 

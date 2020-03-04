@@ -3,19 +3,19 @@ title: 提供されているサポート
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 のサービスを購入すると、Windows 10 や Office 365 ProPlus を展開し、無償で最新の状態を保つ (対象のサブスクリプションにより) 際のサポートとして、FastTrack スペシャリストによるアドバイスと修復ガイダンスが提供されます。
-ms.openlocfilehash: 088901d2508acd679e261f3870476f8e21e79cdf
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677201"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347685"
 ---
 # <a name="assistance-offered"></a>提供されているサポート  
 
@@ -40,6 +40,8 @@ FastTrack は、次の Microsoft 製品に展開されたアプリの修復支�
 
 - Web アプリまたはサイトが Internet Explorer 11、サポート対象バージョンの Google Chrome、または Microsoft Edge のいずれかのバージョンで動作する場合、それらは新しい Microsoft Edge でも動作します。
 
+Microsoft Edge の展開に関するガイダンスについては、「[Microsoft Edge チャネルの概要](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels)」を参照してください。 Web は常に進化しているため、既知の [Microsoft Edge のサイト互換性に影響を与える変更](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes)のリストを公開しています。
+
 ### <a name="windows-virtual-desktop"></a>Windows Virtual Desktop に移動します。
 
 - Windows Server リモート デスクトップ セッション ホスト (RDSH) で実行される仮想アプリは、Windows Virtual Desktop の一部として Windows 10 Enterprise マルチセッションでも実行されます。
@@ -58,7 +60,7 @@ FastTrack は、次の Microsoft 製品に展開されたアプリの修復支�
 
 ## <a name="out-of-scope"></a>対象外
 
-FastTrack のサポート対象外:
+FastTrack サービスには含まれません:
 - アプリのインベントリと、Windows 10 と Office 365 ProPlus で何が動作し、何が動作しないかを判断するためのテスト。 このプロセスのガイダンスについては、[デスクトップ展開センター](https://go.microsoft.com/fwlink/?linkid=2080140) を参照してください。 詳細なアップグレードの準備状況の評価に興味がある場合、[Customer Request for Modern Desktop Assessment](https://go.microsoft.com/fwlink/?linkid=2053818) のフォームを完了してください。
 - サード パーティ製の ISV アプリの Windows 10 との互換性に関する調査とサポートに関する声明。 詳細については、「[Desktop Analytics とは](https://docs.microsoft.com/sccm/desktop-analytics/overview)」を参照してください。
 - アプリのパッケージ化専用サービス。 ただし、App Assure チームでは、お客様の環境でアプリが展開できるように Windows 10 向けに修復したアプリはパッケージ化します。
