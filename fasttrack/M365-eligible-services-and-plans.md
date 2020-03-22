@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: dd0ebf343498250492b6af42b0fbbf144dc1b5e8
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 801984b3f6f6762ba455bbff0f86e5cc3b1c2365
+ms.sourcegitcommit: 6f67f054a52821211ee0e3a5bc1926ec6c111310
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637381"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707046"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
 Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
 
 > [!IMPORTANT]
-> FastTrack サービスを受けるには、対象となるプランのリストから*少なくとも* 150 のライセンスを購入する必要があります。 
+> FastTrack サービスを受けるには、対象となるプランのリストから*少なくとも* 150 のライセンスを購入する必要があります。 お客様が COVID-19 (コロナウイルス) 発生への対応を図る中、Microsoft では 6 か月無料の [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) および [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) の試用版ライセンスを 2020 年 3 月より新たに提供し、リモートでの勤務や学習を支援します。 2020 年 3 月から 2020 年 8 月までは例外的に、これらの無料ライセンスへのオンボーディングに対して、FastTrack によるサポートが提供されます。  
   
 [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)または [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 
 
@@ -152,7 +152,7 @@ FastTrack Center は、次のサービスのサポートを提供します。
 \*\*\*Skype for Business Online と Microsoft Teams の両方のライセンスを付与済みのユーザーに使用できます。 Skype for Business または Microsoft Teams を購入する資格を与える必要があります。 
 
 > [!NOTE]
-> FastTrack Center 特典の対象かどうかは、前述の対象となるプランの有料ライセンスを購入したかどうかに基づきます。 
+> FastTrack Center 特典の対象かどうかは、前述の対象となるプランの有料ライセンスを購入したかどうかに基づきます。 お客様が COVID-19 (コロナウイルス) 発生への対応を図る中、Microsoft では 6 か月無料の [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) および [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) の試用版ライセンスを 2020 年 3 月より新たに提供し、リモートでの勤務や学習を支援します。 2020 年 3 月から 2020 年 8 月までは例外的に、これらの無料ライセンスへのオンボーディングに対して、FastTrack によるサポートが提供されます。 
  
 詳細については、「[Office 365 用 FastTrack Center 特典](https://go.microsoft.com/fwlink/?linkid=2044752)」を参照してください。
 
