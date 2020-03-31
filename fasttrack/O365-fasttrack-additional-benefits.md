@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「対象となるサービスとプラン」を参照してください。
-ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 2cb4a8e5ba7378b96833c89da88db963e271552b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347613"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052562"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>付録 B - FastTrack Center の付加的な利点
 
@@ -143,7 +143,3 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - 意思決定権限を持つ運営スポンサーまたは責任者を割り当て、運営会議を実施する。  
 - Microsoft のエグゼクティブ スポンサーとの連携業務を担うエグゼクティブ スポンサーを割り当てる。  
 - 運営委員会の会議を毎月開催する。
-    
-
-  
-

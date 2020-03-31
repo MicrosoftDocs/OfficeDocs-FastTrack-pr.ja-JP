@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 9ef9df9c1430c73b8c8f9f93108555b16215bc0b
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 68023823f4bbc18618b922fd455f2f53834dcefc
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347625"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052634"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 
@@ -102,4 +102,3 @@ ms.locfileid: "42347625"
     
 \*Office 365 US Government でのお客様の責任については、「[Office 365 US Governmentでの責任](US-Gov-appendix-your-responsibilities.md)」を参照してください。
   
-

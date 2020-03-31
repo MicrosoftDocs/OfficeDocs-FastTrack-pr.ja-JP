@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 対象となるサービスやプランについて*少なくとも* 150 ライセンスを購入する場合は、Windows 10 用 FastTrack Center 特典を利用できます。
-ms.openlocfilehash: d856f8bb6448d118eff7f4092841efe70bf8018b
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 6e8b9a998d55197069b86f4cf21640808f255dd7
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347697"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052898"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Windows 10 用 FastTrack Center 特典
 
@@ -32,8 +32,4 @@ FastTrack のスペシャリストは、Windows 10、Microsoft Edge および Of
 - [App Assure](Win-10-app-assure.md)
 - [Microsoft Edge](Win-10-microsoft-edge.md)
 - [Microsoft Defender Advanced Threat Protection](Win-10-microsoft-defender-atp.md)
-  
 
-  
-
- 

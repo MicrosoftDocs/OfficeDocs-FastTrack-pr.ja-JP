@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack プロセスでは、オンボーディングと、ユーザー採用サービスが提供されます。
-ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8d16a291e883207bd5274e15ed47ae073e7bc1d8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347661"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052766"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack プロセス
 
@@ -42,20 +42,20 @@ FastTrack プロセスでは、オンボーディングと、ユーザー採用�
 [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)からヘルプを取得するには、管理者は管理センターにサインインして、**[サポートを依頼する]** をクリックします。 
 
 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
-1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
-3.  [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。 
+1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.    ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
+3.    [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。 
   
  テナントが利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) から FastTrack センター サポートを依頼することもできます。 
     
  オンボーディング支援を開始すると、オンライン会議のスケジュールが決まります。
     
 パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
-1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **[顧客]** を選択します。
-3.  顧客を検索するか、顧客リストから選択します。
-4.  **[サービス]** を選択します。
-5.  [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。 
+1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.    **[顧客]** を選択します。
+3.    顧客を検索するか、顧客リストから選択します。
+4.    **[サービス]** を選択します。
+5.    [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。 
 
 次の表は、プロセスでの役割と責任を一覧にしたものです。
     
@@ -64,7 +64,3 @@ FastTrack プロセスでは、オンボーディングと、ユーザー採用�
 |**役割** <br/> |**責任** <br/> |
 |**FastTrack スペシャリスト** <br/> |すべてのオンボーディング、移行、ユーザー採用サービスをリモートで提供します。  <br/> ツールと発行されているドキュメントを組み合わせて活用し、お客様をリモートでサポートします。 <br/> お客様またはお客様の担当者との作業を直接行います。 <br/> メールとデータ移行についてもガイダンスを行います。|
 |**FastTrack センター**  <br/> |コア オンボーディングおよびサービス オンボーディング、さらには使用できるサービスの採用プランニングが成功するようにガイダンスを提供します。  <br/> 指定された地域の通常業務時間内に利用できるサポートを提供します。 <br/> 繁体字中国語、簡体字中国語 (リソースは標準中国語のみ)、英語、フランス語、ドイツ語、イタリア語、日本語、韓国語、ポルトガル語 (ブラジル)、スペイン語、タイ語、ベトナム語によるサポートを提供します。|
-
-
-  
-

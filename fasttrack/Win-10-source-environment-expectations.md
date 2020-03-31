@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack センター特典では、Windows 10 の展開に使用するソース環境との統合レベルを設定するためのガイダンスをユーザーに提供します。
-ms.openlocfilehash: 6aa9b600ac68286cc788995f155f8c5ec63a84ad
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 17873396463de2a8b08563ea9245b7206890de1e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347637"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052286"
 ---
 # <a name="source-environment-expectations"></a>ソース環境要件
 
@@ -34,5 +34,3 @@ PC のアップグレードの場合には、次の要件を満たす必要が�
 
 詳細については、「[Configuration Manager での Windows 10 のサポート](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10)」で Configuration Manager のサポート テーブルを参照してください。
   
-
- 
