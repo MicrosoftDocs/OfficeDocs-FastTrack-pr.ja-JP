@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 450106d47775f531cbfccdec978d3d15eedad5ac
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 03718f62f7ce28d9e3cbd2b586b64bc26b93e614
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347457"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052790"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US Government の FastTrack 責任
 
@@ -201,8 +201,4 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - iOS、Android、Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 2016 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。   
 - Office 365 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。   
-- Microsoft エンドポイント構成マネージャーを使用した展開。 Microsoft エンドポイント構成マネージャーのパッケージ作成のサポートが含まれます。
-
-    
-
-
+- Microsoft Endpoint Configuration Manager パッケージの作成サポートを含む、Microsoft Endpoint Configuration Manager を使用した展開。

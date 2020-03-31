@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Center 特典は、ソース環境との統合のレベルを設定するためのガイダンスを提供します (たとえば、Office 365 に移動するソース環境内に既にサービスが含まれている場合)。
-ms.openlocfilehash: ac2b711d6b97584862d506666ab01e9fb5525a9e
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 47bfa8393c9e14eb8b35f90cd8d776b2c81aa78e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347421"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052942"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Office 365 US Government のソース環境の要件
 
@@ -34,7 +34,3 @@ FastTrack Center 特典は、ソース環境との統合のレベルを設定す
 |Skype for Business Online オンボーディング  | **ネットワーク評価**  <br/>  ポートとエンドポイントの確認。  <br/>  接続品質の確認。  <br/>  帯域幅の推定値。  <br/><br/>  **Lync ハイブリッド**  <br/>  1 つのオンプレミスの Active Directory フォレスト。  <br/>  Lync 2010 Server 環境と、Lync 2013 2013 管理ツールまたは Skype for Business 2015 管理ツール、および Lync 2010 エッジ サーバーの役割。  <br/>  Lync 2013 Server 環境と Lync 2013 エッジ サーバーの役割。  <br/><br/>  **Skype for Business Online ハイブリッド**  <br/>  1 つのオンプレミスの Active Directory フォレスト。  <br/>  1 つの Active Directory アカウント フォレスト以降とリソース フォレスト (Exchange と Skype for Business の一方または両方) のトポロジ。  <br/>  複数の Active Directory アカウント フォレスト、および一元化された Active Directory アカウント フォレストで、その中に Exchange と Skype for Business の一方または両方がある 1 つのフォレスト。  <br/>  Skype for Business エッジ サーバーの役割を含む Skype for Business Server 2015 環境。  <br/><br/> **メモ**  *この追加のサービスは分割ドメイン (ハイブリッド) タスクの構成と検証のためのものであり、オンプレミスのコンポーネント (たとえば、Lync 2013 管理ツールや Lync 2013/Skype for Business Online サーバー、Lync 2010、Lync 2013、または Skype for Business エッジ サーバー) の導入は含まれていません。*    <br/><br/>        **会議室デバイス**  <br/>  [Skype for Business ソリューション カタログ](https://go.microsoft.com/fwlink/?LinkId=615775) の [Meeting Room Systems (会議室システム)] タブに一覧表示されている、サポート対象会議室デバイスに必要なオンライン アカウントの作成。  <br/><br/>  **電話会議を有効にする**  <br/>  会議ブリッジの既定の設定のための組織のセットアップ。  <br/>  ライセンスを持つユーザーへの会議ブリッジの割り当て。  <br/><br/>  **電話システムおよび通話プランのガイダンスを有効にする (米国のみ– GCC High または DoD プランでは利用できません)**  <br/>  Cloud Voice の既定の設定のための組織のセットアップ。  <br/>  ライセンスを持つユーザーへの番号の割り当て。  <br/>  ユーザー インターフェイス (UI) を通じた 999 件までの電話番号の移植ガイダンス。  <br/>  999 件を超える電話番号の移植サービス リクエスト (SR) サポート。  <br/><br/>  **Skype for Business 会議のブロードキャストガイダンスを有効にする (GCC High または DoD プランでは利用できません)**  <br/>  会議メディア サービスとのフェデレーションのための組織のセットアップ。   |
 |Microsoft Teams のオンボード (GCC High または DoD プランでは利用できません) | Office 365 の Azure Active Directory で ID が有効になっている。  <br/>  SharePoint Online に対してユーザーが有効になっている。  <br/>  Exchange メールボックスがある (Exchange ハイブリッド構成でオンラインまたはオンプレミス、あるいはその両方)。  <br/>  Office 365 グループに対して有効になっている。  <br/><br/> **メモ**  *SharePoint Online ライセンスがユーザーに割り当てられておらず、有効でないと、Office 365 の OneDrive for Business ストレージは与えられません。ファイル共有はチャネル内で引き続き機能しますが、ユーザーは Office 365 の OneDrive for Business ストレージがないとチャットでファイルを共有できません。Microsoft Teams は SharePoint 社内展開をサポートしていません。*   <br/> <br/>       **メモ**  *すべてのユーザーがメールボックスを ExchangeOnline のホームに設定するのが理想的な状態です。メールボックスがオンプレミスでホームに設定されているユーザーは、Azure Active Directory Connect を介して ID を Office 365 ディレクトリと同期させる必要があります。これら Exchange ハイブリッドのお客様について、ユーザーのメールボックスがオンプレミスの場合、ユーザーはコネクタを追加することも構成することもできません。*          |
 | サービス オンボーディング。次が含まれます。  <br/>  *Exchange Online <br/> SharePoint online <br/> OneDrive for business <br/> online の Skype FOR <br/> business online <br/> Microsoft Teams <br/> Power BI <br/> Project <br/> online Yammer Office 365 ProPlus<br/>*   |Project for Office 365、Outlook クライアント、OneDrive for Business 同期クライアント、Power BI Desktop、Skype for Business などのオンライン クライアント ソフトウェアは、「[Office のシステム要件](https://go.microsoft.com/fwlink/?LinkID=723597)」で定義されている最小レベルを満たしていなければなりません。  <br/> Microsoft Teams Windows と Mac デスクトップ クライアントのインストーラーは、[https://go.microsoft.com/fwlink/?linkid=839411](https://go.microsoft.com/fwlink/?linkid=839411) からダウンロードできます。   |
-   
-
-  
-

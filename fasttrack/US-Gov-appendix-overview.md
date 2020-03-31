@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Office 365 の FastTrack センターの特典を使用すると、FastTrack スペシャリストとリモートで作業して、Office 365 環境を使用できる状態にして、組織内での展開と使用を計画することができます。
-ms.openlocfilehash: a26f01aa7c12444c5e64ce1618e53360d9fbc5ff
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: fa44502e2697cd18e2e2e3c56d8c1f629ed60afc
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347373"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052814"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>付録 D: Office 365 US Government 向け FastTrack Center の特典の概要
 
@@ -34,5 +34,3 @@ Office 365 の FastTrack センターの特典を使用すると、FastTrack ス
 - [Office 365 US Government の責任](US-Gov-appendix-your-responsibilities.md) 
 - [付録 A: IBM Domino から Exchange Online への移行](O365-from-ibm-domino-to-exchange-online.md)   
 - [付録 B: FastTrack センターの付加的な利点](O365-fasttrack-additional-benefits.md)
-
-
