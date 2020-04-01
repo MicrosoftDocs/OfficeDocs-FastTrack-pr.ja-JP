@@ -14,47 +14,48 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 5ba44a6c06fa8d607bb9587e33e9a4508b4eb48a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: de8a5570478cd0b6317a7b6da8430272983dca68
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347397"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052322"
 ---
-# <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a><span data-ttu-id="6027e-103">Enterprise Mobility + Security (EMS) 向け FastTrack Center の特典プロセス</span><span class="sxs-lookup"><span data-stu-id="6027e-103">FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)</span></span>
-<span data-ttu-id="6027e-104">お客様の組織が EMS 向け FastTrack Center の特典を受ける対象である場合は、FastTrack スペシャリストとリモートで作業して Microsoft Azure Active Directory Premium、Microsoft Intune、および Azure Information Protection を使用できるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="6027e-104">If your organization is eligible for the FastTrack Center Benefit for EMS, you can work remotely with FastTrack Specialists to get Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection ready for use.</span></span> <span data-ttu-id="6027e-105">また、Azure Information Protection や Microsoft Cloud App Security の [FastTrack サイト](https://www.microsoft.com/fasttrack/microsoft-365/ems)からもヘルプを要求できます。</span><span class="sxs-lookup"><span data-stu-id="6027e-105">You can also request help through the [FastTrack site](https://www.microsoft.com/fasttrack/microsoft-365/ems) for Azure Information Protection and Microsoft Cloud App Security.</span></span> <span data-ttu-id="6027e-106">組織が特典を受ける対象であるかどうかを判断するには、「[対象となるサービスとプラン](M365-eligible-services-and-plans.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6027e-106">To learn whether your organization is eligible, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+# <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a><span data-ttu-id="ae4e4-103">Enterprise Mobility + Security (EMS) 向け FastTrack Center の特典プロセス</span><span class="sxs-lookup"><span data-stu-id="ae4e4-103">FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)</span></span>
+<span data-ttu-id="ae4e4-104">お客様の組織が EMS 向け FastTrack Center の特典を受ける対象である場合は、FastTrack スペシャリストとリモートで作業して Microsoft Azure Active Directory Premium、Microsoft Intune、および Azure Information Protection を使用できるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-104">If your organization is eligible for the FastTrack Center Benefit for EMS, you can work remotely with FastTrack Specialists to get Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection ready for use.</span></span> <span data-ttu-id="ae4e4-105">また、Azure Information Protection や Microsoft Cloud App Security の [FastTrack サイト](https://www.microsoft.com/fasttrack/microsoft-365/ems)からもヘルプを要求できます。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-105">You can also request help through the [FastTrack site](https://www.microsoft.com/fasttrack/microsoft-365/ems) for Azure Information Protection and Microsoft Cloud App Security.</span></span> <span data-ttu-id="ae4e4-106">組織が特典を受ける対象であるかどうかを判断するには、「[対象となるサービスとプラン](M365-eligible-services-and-plans.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-106">To learn whether your organization is eligible, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
 
 
-<span data-ttu-id="6027e-107">ここでは、オンボーディング プロセスについて説明します。</span><span class="sxs-lookup"><span data-stu-id="6027e-107">Here's what we cover about the onboarding process:</span></span>
+<span data-ttu-id="ae4e4-107">ここでは、オンボーディング プロセスについて説明します。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-107">Here's what we cover about the onboarding process:</span></span>
 
--   [<span data-ttu-id="6027e-108">オンボーディング プロセスの概要</span><span class="sxs-lookup"><span data-stu-id="6027e-108">Overview of the onboarding process</span></span>](EMS-fasttrack-benefit-overview.md)
+-   [<span data-ttu-id="ae4e4-108">オンボーディング プロセスの概要</span><span class="sxs-lookup"><span data-stu-id="ae4e4-108">Overview of the onboarding process</span></span>](EMS-fasttrack-benefit-overview.md)
 
--   [<span data-ttu-id="6027e-109">ソース環境の要件</span><span class="sxs-lookup"><span data-stu-id="6027e-109">Expectations for your source environment</span></span>](EMS-source-environment-expectations.md)
+-   [<span data-ttu-id="ae4e4-109">ソース環境の要件</span><span class="sxs-lookup"><span data-stu-id="ae4e4-109">Expectations for your source environment</span></span>](EMS-source-environment-expectations.md)
 
--   [<span data-ttu-id="6027e-110">オンボーディング プロセスのフェーズ</span><span class="sxs-lookup"><span data-stu-id="6027e-110">Phases of the onboarding process</span></span>](EMS-onboarding-phases.md)
+-   [<span data-ttu-id="ae4e4-110">オンボーディング プロセスのフェーズ</span><span class="sxs-lookup"><span data-stu-id="ae4e4-110">Phases of the onboarding process</span></span>](EMS-onboarding-phases.md)
 
--   <span data-ttu-id="6027e-111">各フェーズの [FastTrack の責任範囲](EMS-fasttrack-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="6027e-111">[FastTrack responsibilities](EMS-fasttrack-responsibilities.md) for each phase</span></span>
+-   <span data-ttu-id="ae4e4-111">各フェーズの [FastTrack の責任範囲](EMS-fasttrack-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="ae4e4-111">[FastTrack responsibilities](EMS-fasttrack-responsibilities.md) for each phase</span></span>
 
--   <span data-ttu-id="6027e-112">各フェーズの [お客様の責任範囲](EMS-your-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="6027e-112">[Customer responsibilities](EMS-your-responsibilities.md) for each phase</span></span>
+-   <span data-ttu-id="ae4e4-112">各フェーズの [お客様の責任範囲](EMS-your-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="ae4e4-112">[Customer responsibilities](EMS-your-responsibilities.md) for each phase</span></span>
 
-<span data-ttu-id="6027e-113">オンボーディングを終えると、次のような状態になっているはずです。</span><span class="sxs-lookup"><span data-stu-id="6027e-113">Here’s what you can expect when onboarding is complete:</span></span>
+<span data-ttu-id="ae4e4-113">以下は、オンボード完了時に予測される内容です。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-113">Here's what you can expect when onboarding is complete:</span></span>
 
--   <span data-ttu-id="6027e-114">選択したサービスの EMS テナントが作成されます。</span><span class="sxs-lookup"><span data-stu-id="6027e-114">Your EMS tenants for your selected services are created.</span></span>
+-   <span data-ttu-id="ae4e4-114">選択したサービスの EMS テナントが作成されます。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-114">Your EMS tenants for your selected services are created.</span></span>
 
--   <span data-ttu-id="6027e-115">ライセンスを持つユーザーが、以下のいずれかの ID オプションを使用して EMS サービスにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="6027e-115">Licensed users can access EMS Services by using one of the following identity options:</span></span>
+-   <span data-ttu-id="ae4e4-115">ライセンスを持つユーザーが、以下のいずれかの ID オプションを使用して EMS サービスにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-115">Licensed users can access EMS Services by using one of the following identity options:</span></span>
 
-    -   <span data-ttu-id="6027e-116">クラウド ID (固有の EMS アカウント)。</span><span class="sxs-lookup"><span data-stu-id="6027e-116">Cloud Identities (unique EMS accounts).</span></span>
+    -   <span data-ttu-id="ae4e4-116">クラウド ID (固有の EMS アカウント)。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-116">Cloud Identities (unique EMS accounts).</span></span>
 
-    -   <span data-ttu-id="6027e-117">同期 ID: Azure Active Directory Connect ツール (パスワード ハッシュ同期またはパススルー認証) を使用して、オンプレミスの Active Directory から EMS アカウントを同期しています。</span><span class="sxs-lookup"><span data-stu-id="6027e-117">Synchronized Identities: EMS accounts synchronized from your on-premises Active Directory by using the Azure Active Directory Connect tool (Password Hash Sync or Pass-through Authentication).</span></span> <span data-ttu-id="6027e-118">このオプションは、単一フォレストまたは複数の Active Directory フォレストを持つお客様向けです。</span><span class="sxs-lookup"><span data-stu-id="6027e-118">This option is for customers with a single forest or multiple Active Directory forests.</span></span>
+    -   <span data-ttu-id="ae4e4-117">同期 ID: Azure Active Directory Connect ツール (パスワード ハッシュ同期またはパススルー認証) を使用して、オンプレミスの Active Directory から EMS アカウントを同期しています。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-117">Synchronized Identities: EMS accounts synchronized from your on-premises Active Directory by using the Azure Active Directory Connect tool (Password Hash Sync or Pass-through Authentication).</span></span> <span data-ttu-id="ae4e4-118">このオプションは、単一フォレストまたは複数の Active Directory フォレストを持つお客様向けです。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-118">This option is for customers with a single forest or multiple Active Directory forests.</span></span>
 
-    -   <span data-ttu-id="6027e-119">次の Microsoft EMS アカウントを持つフェデレーション ID:</span><span class="sxs-lookup"><span data-stu-id="6027e-119">Federated Identities--with Microsoft EMS accounts that are:</span></span>
+    -   <span data-ttu-id="ae4e4-119">次の Microsoft EMS アカウントを持つフェデレーション ID:</span><span class="sxs-lookup"><span data-stu-id="ae4e4-119">Federated Identities--with Microsoft EMS accounts that are:</span></span>
 
-        -   <span data-ttu-id="6027e-120">Active Directory から Azure AD Connect ツールと同期します。</span><span class="sxs-lookup"><span data-stu-id="6027e-120">Synchronized from Active Directory with the Azure AD Connect tool.</span></span> <span data-ttu-id="6027e-121">このオプションは、単一の Active Directory フォレスト構成を持つお客様向けです。</span><span class="sxs-lookup"><span data-stu-id="6027e-121">This option is for customers with a single Active Directory forest configuration.</span></span>
+        -   <span data-ttu-id="ae4e4-120">Active Directory から Azure AD Connect ツールと同期します。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-120">Synchronized from Active Directory with the Azure AD Connect tool.</span></span> <span data-ttu-id="ae4e4-121">このオプションは、単一の Active Directory フォレスト構成を持つお客様向けです。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-121">This option is for customers with a single Active Directory forest configuration.</span></span>
 
-        -   <span data-ttu-id="6027e-122">オンプレミスの Active Directory から Windows Server 2012 R2 の Active Directory フェデレーション サービス (AD FS) 2.0 以降とフェデレーションされています。</span><span class="sxs-lookup"><span data-stu-id="6027e-122">Federated with Windows Server 2012 R2 Active Directory Federation Services (AD FS) 2.0 or later from your on-premises Active Directory.</span></span>
+        -   <span data-ttu-id="ae4e4-122">オンプレミスの Active Directory から Windows Server 2012 R2 の Active Directory フェデレーション サービス (AD FS) 2.0 以降とフェデレーションされています。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-122">Federated with Windows Server 2012 R2 Active Directory Federation Services (AD FS) 2.0 or later from your on-premises Active Directory.</span></span>
 
-        -   <span data-ttu-id="6027e-123">Azure Information Protection を使用して、保存中および転送中の両方で情報を自動分類および保護する機能。</span><span class="sxs-lookup"><span data-stu-id="6027e-123">The ability to auto-classify and protect information both at rest and in transit with Azure Information Protection.</span></span> 
+        -   <span data-ttu-id="ae4e4-123">Azure Information Protection を使用して、保存中および転送中の両方で情報を自動分類および保護する機能。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-123">The ability to auto-classify and protect information both at rest and in transit with Azure Information Protection.</span></span> 
 
-        -   <span data-ttu-id="6027e-124">Azure Information Protection スキャナーを使用して、オンプレミスのファイル共有と SharePoint サーバーの情報を見つける機能。</span><span class="sxs-lookup"><span data-stu-id="6027e-124">The ability to discover information within on-premises file shares and SharePoint servers with the Azure Information Protection scanner.</span></span> 
+        -   <span data-ttu-id="ae4e4-124">Azure Information Protection スキャナーを使用して、オンプレミスのファイル共有と SharePoint サーバーの情報を見つける機能。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-124">The ability to discover information within on-premises file shares and SharePoint servers with the Azure Information Protection scanner.</span></span> 
 
-        -   <span data-ttu-id="6027e-125">Azure Key Vault 内の Azure Information Protection テナント キーを管理する機能。</span><span class="sxs-lookup"><span data-stu-id="6027e-125">The ability to manage your Azure Information Protection tenant keys within the Azure Key Vault.</span></span> 
+        -   <span data-ttu-id="ae4e4-125">Azure Key Vault 内の Azure Information Protection テナント キーを管理する機能。</span><span class="sxs-lookup"><span data-stu-id="ae4e4-125">The ability to manage your Azure Information Protection tenant keys within the Azure Key Vault.</span></span> 
+
