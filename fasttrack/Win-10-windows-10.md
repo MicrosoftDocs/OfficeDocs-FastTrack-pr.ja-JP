@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack では、Windows 10 の展開のガイダンスを提供することで、ユーザーが Windows 7 Professional および Windows 8.1 Professional から Windows 10 Enterprise にアップグレードするお手伝いをします。
-ms.openlocfilehash: 8d959c773009f144b258d18629c18a94d5c180fb
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 71abbc8958e462bef41aae4bbf9bdda9503ed50e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347517"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052514"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -40,15 +40,15 @@ FastTrack では、Windows 10 の展開のガイダンスを提供すること�
 [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)または [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)を通してヘルプを受けられます。 サインインするには、アクティブなテナントでの職場または学校のアクティブなアカウント (組織 ID または Azure Active Directory ID) が必要です。 
 
 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
-1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
-3.  [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。
+1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.    ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
+3.    [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。
   
 パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
-1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **[顧客]** を選択します。
-3.  顧客を検索するか、顧客リストから選択します。
-4.  **[サービス]** を選択します。
-5.  [**Microsoft 365 のサポートを依頼する**] フォームを選択します。
-6.  Windows 10 の製品オプションを選択し、フォームに記入します。
+1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.    **[顧客]** を選択します。
+3.    顧客を検索するか、顧客リストから選択します。
+4.    **[サービス]** を選択します。
+5.    [**Microsoft 365 のサポートを依頼する**] フォームを選択します。
+6.    Windows 10 の製品オプションを選択し、フォームに記入します。
  

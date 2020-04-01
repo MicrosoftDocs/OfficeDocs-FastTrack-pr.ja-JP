@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 5ba44a6c06fa8d607bb9587e33e9a4508b4eb48a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: de8a5570478cd0b6317a7b6da8430272983dca68
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347397"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052322"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Enterprise Mobility + Security (EMS) 向け FastTrack Center の特典プロセス
 お客様の組織が EMS 向け FastTrack Center の特典を受ける対象である場合は、FastTrack スペシャリストとリモートで作業して Microsoft Azure Active Directory Premium、Microsoft Intune、および Azure Information Protection を使用できるようにすることができます。 また、Azure Information Protection や Microsoft Cloud App Security の [FastTrack サイト](https://www.microsoft.com/fasttrack/microsoft-365/ems)からもヘルプを要求できます。 組織が特典を受ける対象であるかどうかを判断するには、「[対象となるサービスとプラン](M365-eligible-services-and-plans.md)」を参照してください。
@@ -37,7 +37,7 @@ ms.locfileid: "42347397"
 
 -   各フェーズの [お客様の責任範囲](EMS-your-responsibilities.md)
 
-オンボーディングを終えると、次のような状態になっているはずです。
+以下は、オンボード完了時に予測される内容です。
 
 -   選択したサービスの EMS テナントが作成されます。
 
@@ -58,3 +58,4 @@ ms.locfileid: "42347397"
         -   Azure Information Protection スキャナーを使用して、オンプレミスのファイル共有と SharePoint サーバーの情報を見つける機能。 
 
         -   Azure Key Vault 内の Azure Information Protection テナント キーを管理する機能。 
+

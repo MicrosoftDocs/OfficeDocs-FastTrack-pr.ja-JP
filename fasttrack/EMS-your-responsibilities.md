@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: bec4a709c6728803b383db40f53fc84826fa6b55
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347481"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052541"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 
@@ -63,11 +63,11 @@ ms.locfileid: "42347481"
 
 -   公開 Secure Sockets Layer (SSL) 証明書の提供と構成。
 
--   Configuration Manager と Microsoft Intune との統合の最小要件の設定またはアップグレード。
+-     Configuration Manager と Microsoft Intune との統合の最小要件の設定またはアップグレード。
 
--   Intune で Wi-Fi および VPN のプロフィールを展開する必要がある場合の、証明機関、Wi-Fi、および VPN のインフラストラクチャの必要に応じた提供および構成。
+-     Intune で Wi-Fi および VPN のプロフィールを展開する必要がある場合の、証明機関、Wi-Fi、および VPN のインフラストラクチャの必要に応じた提供および構成。
 
--   エンド ユーザーがアクセス可能な Microsoft Intune ポータル サイトで構成および表示する、組織の利用規約 (TOU) ステートメントの記述。
+-   エンド ユーザーがアクセス可能な Microsoft Intune ポータル サイトで構成および表示する、組織の利用規約 (TOU) に関する声明の記述。
 
 -   Configuration Manager サイト サーバーと Configuration Manager クライアントの最新バージョンへのアップグレード (必要な場合)。
 
@@ -127,5 +127,6 @@ ms.locfileid: "42347481"
 ## <a name="see-also"></a>関連項目
 
 - [EMS 用 FastTrack 特典](EMS-fasttrack-benefit-for-EMS.md)
+
 - [Office 365 用 FastTrack 特典](O365-fasttrack-benefit-for-office-365.md)
 

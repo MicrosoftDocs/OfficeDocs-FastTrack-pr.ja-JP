@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0a6ec092c8c9ec5ba574465fc10a59ae48e7b23e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347769"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052274"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -146,7 +146,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 
 次の点に関するガイダンスを行います。
 - 展開の問題への対応。
-- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。
+- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスとデバイスベース ライセンスの割り当て。
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。
 - iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (iOS および Android 用の Outlook、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。 
 - Office 365 展開ツールを使用した更新設定の構成。
@@ -243,4 +243,3 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 単一の Yammer ベーシック ネットワークから単一の Yammer エンタープライズ ネットワークへの変換に関するガイダンスを行います。
   
 \*Office 365 US Government のための FastTrack でのお客様の責任については、「[Office 365 US Government のための FastTrack での責任](US-Gov-appendix-fasttrack-responsibilities.md)」を参照してください。
-
