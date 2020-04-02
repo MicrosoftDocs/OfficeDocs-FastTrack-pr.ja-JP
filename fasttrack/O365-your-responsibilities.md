@@ -3,102 +3,102 @@ title: お客様の責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 68023823f4bbc18618b922fd455f2f53834dcefc
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: e52a02c356fe9d516e041819717d38a0e2bee3ba
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052634"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097587"
 ---
-# <a name="your-responsibilities"></a><span data-ttu-id="d309f-103">お客様の責任</span><span class="sxs-lookup"><span data-stu-id="d309f-103">Your Responsibilities</span></span>
+# <a name="your-responsibilities"></a><span data-ttu-id="da5a3-103">お客様の責任</span><span class="sxs-lookup"><span data-stu-id="da5a3-103">Your Responsibilities</span></span>
 
-<span data-ttu-id="d309f-104">お客様には、オンボーディング中に以下の責任があります。\*</span><span class="sxs-lookup"><span data-stu-id="d309f-104">You have the following responsibilities during onboarding.\*</span></span>
+<span data-ttu-id="da5a3-104">お客様には、オンボーディング中に以下の責任があります。\*</span><span class="sxs-lookup"><span data-stu-id="da5a3-104">You have the following responsibilities during onboarding.\*</span></span>
   
-## <a name="general"></a><span data-ttu-id="d309f-105">全般</span><span class="sxs-lookup"><span data-stu-id="d309f-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="da5a3-105">全般</span><span class="sxs-lookup"><span data-stu-id="da5a3-105">General</span></span>
 
-- <span data-ttu-id="d309f-106">達成計画の策定と遂行。</span><span class="sxs-lookup"><span data-stu-id="d309f-106">Develop and implement your success plan.</span></span>
-- <span data-ttu-id="d309f-107">ここに記載されている構成可能なオプション以上の、Office 365 テナントへの機能拡張や統合の提供。</span><span class="sxs-lookup"><span data-stu-id="d309f-107">Provide any enhancements and integrations to your Office 365 tenant beyond the configurable options listed here.</span></span>  
-- <span data-ttu-id="d309f-108">全体的なプログラムおよびプロジェクトの管理の提供。次のものが含まれます。</span><span class="sxs-lookup"><span data-stu-id="d309f-108">Provide overall program and project management, including:</span></span> 
-  - <span data-ttu-id="d309f-109">FastTrack マネージャーの連絡窓口としてプロジェクト マネージャーを割り当てる。</span><span class="sxs-lookup"><span data-stu-id="d309f-109">Assigning a project manager as the primary contact for the FastTrack Manager.</span></span>
-  - <span data-ttu-id="d309f-110">FastTrack のエンジニア用連絡窓口として技術担当主任を割り当てる。</span><span class="sxs-lookup"><span data-stu-id="d309f-110">Assigning a technical lead as the primary contact for the FastTrack Engineer.</span></span>
-  - <span data-ttu-id="d309f-111">FastTrack チームの説明に従い、修復、構成、実施可能タスクを実行する技術担当者を割り当てる。</span><span class="sxs-lookup"><span data-stu-id="d309f-111">Assigning technical resources to perform remediation, configuration, and enablement tasks as outlined by the FastTrack team.</span></span> 
-- <span data-ttu-id="d309f-112">エンド ユーザーによるサービス採用の推進に対する責任を負うリソースの用意。</span><span class="sxs-lookup"><span data-stu-id="d309f-112">Provide resources accountable for driving end user adoption of the service.</span></span> 
-- <span data-ttu-id="d309f-113">エンドユーザーのコミュニケーション、資料、トレーニング、および変更管理の提供。</span><span class="sxs-lookup"><span data-stu-id="d309f-113">Provide end-user communications, documentation, training, and change management.</span></span>
-- <span data-ttu-id="d309f-114">適切なビジネス スポンサーの特定と関与。</span><span class="sxs-lookup"><span data-stu-id="d309f-114">Identify and engage appropriate business sponsors.</span></span>  
-- <span data-ttu-id="d309f-115">ヘルプデスクの資料とトレーニングの提供。</span><span class="sxs-lookup"><span data-stu-id="d309f-115">Provide helpdesk documentation and training.</span></span>  
-- <span data-ttu-id="d309f-116">組織専用のレポート、プレゼンテーション、または会議議事録の作成。</span><span class="sxs-lookup"><span data-stu-id="d309f-116">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span> 
-- <span data-ttu-id="d309f-117">組織専用のアーキテクチャおよび技術に関する資料の作成。</span><span class="sxs-lookup"><span data-stu-id="d309f-117">Create architectural and technical documentation specific to your organization.</span></span>   
-- <span data-ttu-id="d309f-118">ハードウェアとネットワークの設計、調達、インストール、および構成。</span><span class="sxs-lookup"><span data-stu-id="d309f-118">Design, procure, install, and configure hardware and networking.</span></span>   
-- <span data-ttu-id="d309f-119">ソフトウェアの調達、インストール、および構成。</span><span class="sxs-lookup"><span data-stu-id="d309f-119">Procure, install, and configure software.</span></span>  
-- <span data-ttu-id="d309f-120">Office 365 に必要なクライアント ソフトウェアの構成、パッケージ化、および配布。</span><span class="sxs-lookup"><span data-stu-id="d309f-120">Configure, package, and distribute client software required for Office 365.</span></span>  
-- <span data-ttu-id="d309f-121">セキュリティ ポリシーの管理、構成、および適用。</span><span class="sxs-lookup"><span data-stu-id="d309f-121">Manage, configure, and apply security policies.</span></span>
-- <span data-ttu-id="d309f-122">モバイル デバイスのアクティブ化。</span><span class="sxs-lookup"><span data-stu-id="d309f-122">Activate mobile devices.</span></span>
-- <span data-ttu-id="d309f-123">ネットワーク構成、分析、帯域幅検証、テスト、およびモニターの用意。</span><span class="sxs-lookup"><span data-stu-id="d309f-123">Provide network configuration, analysis, bandwidth validation, testing, and monitoring.</span></span> 
-- <span data-ttu-id="d309f-124">Skype for Business Online サービスに必要な帯域幅を提供するためのネットワークの変更。</span><span class="sxs-lookup"><span data-stu-id="d309f-124">Alter the network to provide necessary bandwidth for Skype for Business Online services.</span></span> 
-- <span data-ttu-id="d309f-125">技術的な変更管理承認プロセスの管理およびサポート用資料の作成。</span><span class="sxs-lookup"><span data-stu-id="d309f-125">Manage a technical change management approval process and create supporting documentation.</span></span>  
-- <span data-ttu-id="d309f-126">ユーザー、ワークステーション、およびサーバー管理のためのグループ ポリシーの規定と定義。</span><span class="sxs-lookup"><span data-stu-id="d309f-126">Specify and define group policies for user, workstation, and server management.</span></span> 
-- <span data-ttu-id="d309f-127">運営モデルと運営ガイドの変更。</span><span class="sxs-lookup"><span data-stu-id="d309f-127">Modify your operational model and operation guides.</span></span> 
-- <span data-ttu-id="d309f-128">多要素認証のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="d309f-128">Set up multi-factor authentication.</span></span>  
-- <span data-ttu-id="d309f-129">ソース環境の無効化および削除 (メッセージングやコラボレーションなど)。</span><span class="sxs-lookup"><span data-stu-id="d309f-129">Decommission and remove source environments (like messaging and collaboration).</span></span> 
+- <span data-ttu-id="da5a3-106">達成計画の策定と遂行。</span><span class="sxs-lookup"><span data-stu-id="da5a3-106">Develop and implement your success plan.</span></span>
+- <span data-ttu-id="da5a3-107">ここに記載されている構成可能なオプション以上の、Office 365 テナントへの機能拡張や統合の提供。</span><span class="sxs-lookup"><span data-stu-id="da5a3-107">Provide any enhancements and integrations to your Office 365 tenant beyond the configurable options listed here.</span></span>  
+- <span data-ttu-id="da5a3-108">全体的なプログラムおよびプロジェクトの管理の提供。次のものが含まれます。</span><span class="sxs-lookup"><span data-stu-id="da5a3-108">Provide overall program and project management, including:</span></span> 
+  - <span data-ttu-id="da5a3-109">FastTrack マネージャーの連絡窓口としてプロジェクト マネージャーを割り当てる。</span><span class="sxs-lookup"><span data-stu-id="da5a3-109">Assigning a project manager as the primary contact for the FastTrack Manager.</span></span>
+  - <span data-ttu-id="da5a3-110">FastTrack のエンジニア用連絡窓口として技術担当主任を割り当てる。</span><span class="sxs-lookup"><span data-stu-id="da5a3-110">Assigning a technical lead as the primary contact for the FastTrack Engineer.</span></span>
+  - <span data-ttu-id="da5a3-111">FastTrack チームの説明に従い、修復、構成、実施可能タスクを実行する技術担当者を割り当てる。</span><span class="sxs-lookup"><span data-stu-id="da5a3-111">Assigning technical resources to perform remediation, configuration, and enablement tasks as outlined by the FastTrack team.</span></span> 
+- <span data-ttu-id="da5a3-112">エンド ユーザーによるサービス採用の推進に対する責任を負うリソースの用意。</span><span class="sxs-lookup"><span data-stu-id="da5a3-112">Provide resources accountable for driving end user adoption of the service.</span></span> 
+- <span data-ttu-id="da5a3-113">エンドユーザーのコミュニケーション、資料、トレーニング、および変更管理の提供。</span><span class="sxs-lookup"><span data-stu-id="da5a3-113">Provide end-user communications, documentation, training, and change management.</span></span>
+- <span data-ttu-id="da5a3-114">適切なビジネス スポンサーの特定と関与。</span><span class="sxs-lookup"><span data-stu-id="da5a3-114">Identify and engage appropriate business sponsors.</span></span>  
+- <span data-ttu-id="da5a3-115">ヘルプデスクの資料とトレーニングの提供。</span><span class="sxs-lookup"><span data-stu-id="da5a3-115">Provide helpdesk documentation and training.</span></span>  
+- <span data-ttu-id="da5a3-116">組織専用のレポート、プレゼンテーション、または会議議事録の作成。</span><span class="sxs-lookup"><span data-stu-id="da5a3-116">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span> 
+- <span data-ttu-id="da5a3-117">組織専用のアーキテクチャおよび技術に関する資料の作成。</span><span class="sxs-lookup"><span data-stu-id="da5a3-117">Create architectural and technical documentation specific to your organization.</span></span>   
+- <span data-ttu-id="da5a3-118">ハードウェアとネットワークの設計、調達、インストール、および構成。</span><span class="sxs-lookup"><span data-stu-id="da5a3-118">Design, procure, install, and configure hardware and networking.</span></span>   
+- <span data-ttu-id="da5a3-119">ソフトウェアの調達、インストール、および構成。</span><span class="sxs-lookup"><span data-stu-id="da5a3-119">Procure, install, and configure software.</span></span>  
+- <span data-ttu-id="da5a3-120">Office 365 に必要なクライアント ソフトウェアの構成、パッケージ化、および配布。</span><span class="sxs-lookup"><span data-stu-id="da5a3-120">Configure, package, and distribute client software required for Office 365.</span></span>  
+- <span data-ttu-id="da5a3-121">セキュリティ ポリシーの管理、構成、および適用。</span><span class="sxs-lookup"><span data-stu-id="da5a3-121">Manage, configure, and apply security policies.</span></span>
+- <span data-ttu-id="da5a3-122">モバイル デバイスのアクティブ化。</span><span class="sxs-lookup"><span data-stu-id="da5a3-122">Activate mobile devices.</span></span>
+- <span data-ttu-id="da5a3-123">ネットワーク構成、分析、帯域幅検証、テスト、およびモニターの用意。</span><span class="sxs-lookup"><span data-stu-id="da5a3-123">Provide network configuration, analysis, bandwidth validation, testing, and monitoring.</span></span> 
+- <span data-ttu-id="da5a3-124">Skype for Business Online サービスに必要な帯域幅を提供するためのネットワークの変更。</span><span class="sxs-lookup"><span data-stu-id="da5a3-124">Alter the network to provide necessary bandwidth for Skype for Business Online services.</span></span> 
+- <span data-ttu-id="da5a3-125">技術的な変更管理承認プロセスの管理およびサポート用資料の作成。</span><span class="sxs-lookup"><span data-stu-id="da5a3-125">Manage a technical change management approval process and create supporting documentation.</span></span>  
+- <span data-ttu-id="da5a3-126">ユーザー、ワークステーション、およびサーバー管理のためのグループ ポリシーの規定と定義。</span><span class="sxs-lookup"><span data-stu-id="da5a3-126">Specify and define group policies for user, workstation, and server management.</span></span> 
+- <span data-ttu-id="da5a3-127">運営モデルと運営ガイドの変更。</span><span class="sxs-lookup"><span data-stu-id="da5a3-127">Modify your operational model and operation guides.</span></span> 
+- <span data-ttu-id="da5a3-128">多要素認証のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="da5a3-128">Set up multi-factor authentication.</span></span>  
+- <span data-ttu-id="da5a3-129">ソース環境の無効化および削除 (メッセージングやコラボレーションなど)。</span><span class="sxs-lookup"><span data-stu-id="da5a3-129">Decommission and remove source environments (like messaging and collaboration).</span></span> 
     > [!NOTE]
-    > <span data-ttu-id="d309f-130">ソース環境の使用停止および削除を行う前に、必要なデータが移行済みであることを確認してください。</span><span class="sxs-lookup"><span data-stu-id="d309f-130">Ensure that all wanted data is migrated prior to decommission and the removal of your source environment.</span></span> 
-- <span data-ttu-id="d309f-131">テスト環境の構築と維持。</span><span class="sxs-lookup"><span data-stu-id="d309f-131">Construct and maintain your test environment.</span></span>  
-- <span data-ttu-id="d309f-132">分割ドメイン構成をサポートするための Lync 2013 や Skype for Business Online 2015 の管理ツールとサービス パックのインストール。</span><span class="sxs-lookup"><span data-stu-id="d309f-132">Install Lync 2013 or Skype for Business Online 2015 admin tools and service packs to support split domain configuration.</span></span>
-- <span data-ttu-id="d309f-133">インフラストラクチャ サーバーでの Service Pack および他の必須の更新のインストール。</span><span class="sxs-lookup"><span data-stu-id="d309f-133">Install service packs and other required updates on infrastructure servers.</span></span> 
-- <span data-ttu-id="d309f-134">公開 Secure Sockets Layer (SSL) 証明書の提供と構成。</span><span class="sxs-lookup"><span data-stu-id="d309f-134">Provide and configure any public Secure Sockets Layer (SSL) certificates.</span></span> 
+    > <span data-ttu-id="da5a3-130">ソース環境の使用停止および削除を行う前に、必要なデータが移行済みであることを確認してください。</span><span class="sxs-lookup"><span data-stu-id="da5a3-130">Ensure that all wanted data is migrated prior to decommission and the removal of your source environment.</span></span> 
+- <span data-ttu-id="da5a3-131">テスト環境の構築と維持。</span><span class="sxs-lookup"><span data-stu-id="da5a3-131">Construct and maintain your test environment.</span></span>  
+- <span data-ttu-id="da5a3-132">分割ドメイン構成をサポートするための Lync 2013 や Skype for Business Online 2015 の管理ツールとサービス パックのインストール。</span><span class="sxs-lookup"><span data-stu-id="da5a3-132">Install Lync 2013 or Skype for Business Online 2015 admin tools and service packs to support split domain configuration.</span></span>
+- <span data-ttu-id="da5a3-133">インフラストラクチャ サーバーでの Service Pack および他の必須の更新のインストール。</span><span class="sxs-lookup"><span data-stu-id="da5a3-133">Install service packs and other required updates on infrastructure servers.</span></span> 
+- <span data-ttu-id="da5a3-134">公開 Secure Sockets Layer (SSL) 証明書の提供と構成。</span><span class="sxs-lookup"><span data-stu-id="da5a3-134">Provide and configure any public Secure Sockets Layer (SSL) certificates.</span></span> 
     
-## <a name="initiate-phase"></a><span data-ttu-id="d309f-135">開始フェーズ</span><span class="sxs-lookup"><span data-stu-id="d309f-135">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="da5a3-135">開始フェーズ</span><span class="sxs-lookup"><span data-stu-id="da5a3-135">Initiate phase</span></span>
 
-- <span data-ttu-id="d309f-136">オンボーディング パートナーシップ用に共同作業用の Microsoft Teams スペースをセットアップして、FastTrack Center チームのメンバーを招待します。</span><span class="sxs-lookup"><span data-stu-id="d309f-136">Set up collaborative Microsoft Teams space for onboarding partnership and invite FastTrack Center team members.</span></span>   
-- <span data-ttu-id="d309f-137">FastTrack のスペシャリストと連携して対象のサービスのオンボーディングを開始します。</span><span class="sxs-lookup"><span data-stu-id="d309f-137">Work with FastTrack Specialists to begin onboarding of eligible services.</span></span>    
-- <span data-ttu-id="d309f-138">契約キックオフ ミーティングに参加し、組織からの参加者をとりまとめて指導し、修復のタイムラインを確定します。</span><span class="sxs-lookup"><span data-stu-id="d309f-138">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>   
-- <span data-ttu-id="d309f-139">Office 365 サービス (SharePoint Online、Exchange Online、Microsoft Teams、Office 365 ProPlus など) の目的と組織の目標を提供します。</span><span class="sxs-lookup"><span data-stu-id="d309f-139">Provide your objectives for Office 365 services (for example, SharePoint Online, Exchange Online, Microsoft Teams, and Office 365 ProPlus) and organizational goals.</span></span>
+- <span data-ttu-id="da5a3-136">オンボーディング パートナーシップ用に共同作業用の Microsoft Teams スペースをセットアップして、FastTrack Center チームのメンバーを招待します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-136">Set up collaborative Microsoft Teams space for onboarding partnership and invite FastTrack Center team members.</span></span>   
+- <span data-ttu-id="da5a3-137">FastTrack のスペシャリストと連携して対象のサービスのオンボーディングを開始します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-137">Work with FastTrack Specialists to begin onboarding of eligible services.</span></span>    
+- <span data-ttu-id="da5a3-138">契約キックオフ ミーティングに参加し、組織からの参加者をとりまとめて指導し、修復のタイムラインを確定します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-138">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>   
+- <span data-ttu-id="da5a3-139">Office 365 サービス (SharePoint Online、Exchange Online、Microsoft Teams、Office 365 ProPlus など) の目的と組織の目標を提供します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-139">Provide your objectives for Office 365 services (for example, SharePoint Online, Exchange Online, Microsoft Teams, and Office 365 ProPlus) and organizational goals.</span></span>
     
-## <a name="assess-phase"></a><span data-ttu-id="d309f-140">評価フェーズ</span><span class="sxs-lookup"><span data-stu-id="d309f-140">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="da5a3-140">評価フェーズ</span><span class="sxs-lookup"><span data-stu-id="da5a3-140">Assess phase</span></span>
 
-- <span data-ttu-id="d309f-141">適切な関係者 (プロジェクト マネージャおよびビジネス所有者を含む) を任命して、必要な評価アクティビティを完了させます。</span><span class="sxs-lookup"><span data-stu-id="d309f-141">Identify appropriate stakeholders (including a project manager and business owners) to complete the necessary assessment activities.</span></span>    
-- <span data-ttu-id="d309f-142">修復チェックリストを作成し、インフラストラクチャ、ネットワーク、管理、ディレクトリ同期準備、ネットワーク セキュリティ、およびフェデレーション ID などのトピックを含む全体的な計画を策定する会議に参加します。</span><span class="sxs-lookup"><span data-stu-id="d309f-142">Participate in the meetings to create the remediation checklist, and contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>   
-- <span data-ttu-id="d309f-143">ユーザー プロビジョニング アプローチの概略を決める会議に参加します。</span><span class="sxs-lookup"><span data-stu-id="d309f-143">Participate in the meetings to outline the user-provisioning approach.</span></span>  
-- <span data-ttu-id="d309f-144">オンライン サービス構成を計画する会議に参加します。</span><span class="sxs-lookup"><span data-stu-id="d309f-144">Participate in the meetings to plan online service configuration.</span></span>    
-- <span data-ttu-id="d309f-145">迅速に移行するためのサポート計画を作成します。</span><span class="sxs-lookup"><span data-stu-id="d309f-145">Create support plan for migration readiness.</span></span> 
-- <span data-ttu-id="d309f-146">以下の概略を決める、達成計画に関する電話会議計に参加します。</span><span class="sxs-lookup"><span data-stu-id="d309f-146">Participate in the success planning call to outline:</span></span>   
-  - <span data-ttu-id="d309f-147">契約の正当な関係者。</span><span class="sxs-lookup"><span data-stu-id="d309f-147">The right stakeholders for the engagement.</span></span>  
-  - <span data-ttu-id="d309f-148">組織全体のニーズと目標に合うシナリオ。</span><span class="sxs-lookup"><span data-stu-id="d309f-148">Scenarios to fit the needs and goals across your organization.</span></span>
-  - <span data-ttu-id="d309f-149">組織の意識向上とトレーニングの計画。</span><span class="sxs-lookup"><span data-stu-id="d309f-149">An organizational awareness and training plan.</span></span>
+- <span data-ttu-id="da5a3-141">適切な関係者 (プロジェクト マネージャおよびビジネス所有者を含む) を任命して、必要な評価アクティビティを完了させます。</span><span class="sxs-lookup"><span data-stu-id="da5a3-141">Identify appropriate stakeholders (including a project manager and business owners) to complete the necessary assessment activities.</span></span>    
+- <span data-ttu-id="da5a3-142">修復チェックリストを作成し、インフラストラクチャ、ネットワーク、管理、ディレクトリ同期準備、ネットワーク セキュリティ、およびフェデレーション ID などのトピックを含む全体的な計画を策定する会議に参加します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-142">Participate in the meetings to create the remediation checklist, and contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>   
+- <span data-ttu-id="da5a3-143">ユーザー プロビジョニング アプローチの概略を決める会議に参加します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-143">Participate in the meetings to outline the user-provisioning approach.</span></span>  
+- <span data-ttu-id="da5a3-144">オンライン サービス構成を計画する会議に参加します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-144">Participate in the meetings to plan online service configuration.</span></span>    
+- <span data-ttu-id="da5a3-145">迅速に移行するためのサポート計画を作成します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-145">Create support plan for migration readiness.</span></span> 
+- <span data-ttu-id="da5a3-146">以下の概略を決める、達成計画に関する電話会議計に参加します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-146">Participate in the success planning call to outline:</span></span>   
+  - <span data-ttu-id="da5a3-147">契約の正当な関係者。</span><span class="sxs-lookup"><span data-stu-id="da5a3-147">The right stakeholders for the engagement.</span></span>  
+  - <span data-ttu-id="da5a3-148">組織全体のニーズと目標に合うシナリオ。</span><span class="sxs-lookup"><span data-stu-id="da5a3-148">Scenarios to fit the needs and goals across your organization.</span></span>
+  - <span data-ttu-id="da5a3-149">組織の意識向上とトレーニングの計画。</span><span class="sxs-lookup"><span data-stu-id="da5a3-149">An organizational awareness and training plan.</span></span>
     
-## <a name="remediate-phase"></a><span data-ttu-id="d309f-150">修復フェーズ</span><span class="sxs-lookup"><span data-stu-id="d309f-150">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="da5a3-150">修復フェーズ</span><span class="sxs-lookup"><span data-stu-id="da5a3-150">Remediate phase</span></span>
 
-- <span data-ttu-id="d309f-151">評価フェーズによって明確にされた修復アクティビティを完了するために必要なステップを実行します。</span><span class="sxs-lookup"><span data-stu-id="d309f-151">Perform required steps to complete remediation activities identified in the Assess phase.</span></span> 
-- <span data-ttu-id="d309f-152">チェックポイント会議に参加します。</span><span class="sxs-lookup"><span data-stu-id="d309f-152">Participate in checkpoint meetings and:</span></span> 
-  - <span data-ttu-id="d309f-153">ビジネス シナリオを定義します。</span><span class="sxs-lookup"><span data-stu-id="d309f-153">Define business scenarios.</span></span>   
-  - <span data-ttu-id="d309f-154">関係者を定義して関与させます。</span><span class="sxs-lookup"><span data-stu-id="d309f-154">Define and engage stakeholders.</span></span>
-  - <span data-ttu-id="d309f-155">意識向上計画を作成します。</span><span class="sxs-lookup"><span data-stu-id="d309f-155">Build an awareness plan.</span></span> 
-  - <span data-ttu-id="d309f-156">トレーニング計画を作成します。</span><span class="sxs-lookup"><span data-stu-id="d309f-156">Build a training plan.</span></span>
+- <span data-ttu-id="da5a3-151">評価フェーズによって明確にされた修復アクティビティを完了するために必要なステップを実行します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-151">Perform required steps to complete remediation activities identified in the Assess phase.</span></span> 
+- <span data-ttu-id="da5a3-152">チェックポイント会議に参加します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-152">Participate in checkpoint meetings and:</span></span> 
+  - <span data-ttu-id="da5a3-153">ビジネス シナリオを定義します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-153">Define business scenarios.</span></span>   
+  - <span data-ttu-id="da5a3-154">関係者を定義して関与させます。</span><span class="sxs-lookup"><span data-stu-id="da5a3-154">Define and engage stakeholders.</span></span>
+  - <span data-ttu-id="da5a3-155">意識向上計画を作成します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-155">Build an awareness plan.</span></span> 
+  - <span data-ttu-id="da5a3-156">トレーニング計画を作成します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-156">Build a training plan.</span></span>
     
-## <a name="enable-phase"></a><span data-ttu-id="d309f-157">有効化フェーズ</span><span class="sxs-lookup"><span data-stu-id="d309f-157">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="da5a3-157">有効化フェーズ</span><span class="sxs-lookup"><span data-stu-id="da5a3-157">Enable phase</span></span>
 
-- <span data-ttu-id="d309f-158">FastTrack スペシャリストと連携し、対象となるすべてのサービスのオンボーディングを完了した後、以下を行います。</span><span class="sxs-lookup"><span data-stu-id="d309f-158">Work with FastTrack Specialists to complete onboarding of all eligible services and:</span></span>  
-  - <span data-ttu-id="d309f-159">意識向上計画を実装します。</span><span class="sxs-lookup"><span data-stu-id="d309f-159">Implement an awareness plan.</span></span>  
-  - <span data-ttu-id="d309f-160">トレーニング計画を実装します。</span><span class="sxs-lookup"><span data-stu-id="d309f-160">Implement a training plan.</span></span> 
-  - <span data-ttu-id="d309f-161">達成計画の進捗状況を提供し、ガイダンスが必要な領域を判断します。</span><span class="sxs-lookup"><span data-stu-id="d309f-161">Provide success planning progress and determine areas where you need guidance.</span></span>
-- <span data-ttu-id="d309f-162">FastTrack スペシャリストにアクセス許可と権限を付与します (移行タスクの実行を Microsoft に依頼することを希望する場合)。</span><span class="sxs-lookup"><span data-stu-id="d309f-162">Provide FastTrack Specialists with access and permissions (if you choose to have Microsoft perform migration tasks).</span></span>  
-- <span data-ttu-id="d309f-163">必要に応じて、移行先の環境について管理者アカウントを調達および提供します (移行アクティビティの実行をマイクロソフトに依頼することを希望する場合)。</span><span class="sxs-lookup"><span data-stu-id="d309f-163">Procure and provide administrative accounts to target environments as appropriate (if you choose to have Microsoft perform migration activities).</span></span>   
-- <span data-ttu-id="d309f-164">必要に応じてリソースを管理します。</span><span class="sxs-lookup"><span data-stu-id="d309f-164">Manage resources as appropriate.</span></span>   
-- <span data-ttu-id="d309f-165">Microsoft のガイダンスによって示されたとおりに、ネットワーク関連の項目を構成します。</span><span class="sxs-lookup"><span data-stu-id="d309f-165">Configure network-related items per Microsoft guidance.</span></span>  
-- <span data-ttu-id="d309f-166">ドメインの検証要件に基づき、MX レコードを含むように DNS レコードを構成します。</span><span class="sxs-lookup"><span data-stu-id="d309f-166">Configure DNS records based on domain validation requirements to include your MX records.</span></span>   
-- <span data-ttu-id="d309f-167">Microsoft のガイダンスによって示されたとおりに、ディレクトリの準備を行って、ディレクトリ同期を構成します。</span><span class="sxs-lookup"><span data-stu-id="d309f-167">Perform directory readiness and configure directory synchronization per Microsoft guidance.</span></span>
-- <span data-ttu-id="d309f-168">サード パーティ製のディレクトリからメール関連の属性値を持つオンプレミスの Active Directory オブジェクトを作成します。</span><span class="sxs-lookup"><span data-stu-id="d309f-168">Populate on-premises Active Directory objects with mail-related attribute values from third-party directories.</span></span>   
-- <span data-ttu-id="d309f-169">Microsoft のガイダンスによって示されたとおりに、セキュリティ関連のインフラストラクチャ (ファイアウォール ポートなど) を構成します。</span><span class="sxs-lookup"><span data-stu-id="d309f-169">Configure security-related infrastructure (like firewall ports) per Microsoft guidance.</span></span>
-- <span data-ttu-id="d309f-170">適切なクライアント インフラストラクチャを実装します。</span><span class="sxs-lookup"><span data-stu-id="d309f-170">Implement appropriate client infrastructure.</span></span>  
-- <span data-ttu-id="d309f-171">Microsoft のガイダンスによって示されたとおりに、ユーザー プロビジョニングのアプローチを実装します。</span><span class="sxs-lookup"><span data-stu-id="d309f-171">Implement a user-provisioning approach per Microsoft guidance.</span></span>  
-- <span data-ttu-id="d309f-172">Microsoft のガイダンスによって示されたとおりに、各種サービスを有効化します。</span><span class="sxs-lookup"><span data-stu-id="d309f-172">Enable various services per Microsoft guidance.</span></span>  
+- <span data-ttu-id="da5a3-158">FastTrack スペシャリストと連携し、対象となるすべてのサービスのオンボーディングを完了した後、以下を行います。</span><span class="sxs-lookup"><span data-stu-id="da5a3-158">Work with FastTrack Specialists to complete onboarding of all eligible services and:</span></span>  
+  - <span data-ttu-id="da5a3-159">意識向上計画を実装します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-159">Implement an awareness plan.</span></span>  
+  - <span data-ttu-id="da5a3-160">トレーニング計画を実装します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-160">Implement a training plan.</span></span> 
+  - <span data-ttu-id="da5a3-161">達成計画の進捗状況を提供し、ガイダンスが必要な領域を判断します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-161">Provide success planning progress and determine areas where you need guidance.</span></span>
+- <span data-ttu-id="da5a3-162">FastTrack スペシャリストにアクセス許可と権限を付与します (移行タスクの実行を Microsoft に依頼することを希望する場合)。</span><span class="sxs-lookup"><span data-stu-id="da5a3-162">Provide FastTrack Specialists with access and permissions (if you choose to have Microsoft perform migration tasks).</span></span>  
+- <span data-ttu-id="da5a3-163">必要に応じて、移行先の環境について管理者アカウントを調達および提供します (移行アクティビティの実行をマイクロソフトに依頼することを希望する場合)。</span><span class="sxs-lookup"><span data-stu-id="da5a3-163">Procure and provide administrative accounts to target environments as appropriate (if you choose to have Microsoft perform migration activities).</span></span>   
+- <span data-ttu-id="da5a3-164">必要に応じてリソースを管理します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-164">Manage resources as appropriate.</span></span>   
+- <span data-ttu-id="da5a3-165">Microsoft のガイダンスによって示されたとおりに、ネットワーク関連の項目を構成します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-165">Configure network-related items per Microsoft guidance.</span></span>  
+- <span data-ttu-id="da5a3-166">ドメインの検証要件に基づき、MX レコードを含むように DNS レコードを構成します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-166">Configure DNS records based on domain validation requirements to include your MX records.</span></span>   
+- <span data-ttu-id="da5a3-167">Microsoft のガイダンスによって示されたとおりに、ディレクトリの準備を行って、ディレクトリ同期を構成します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-167">Perform directory readiness and configure directory synchronization per Microsoft guidance.</span></span>
+- <span data-ttu-id="da5a3-168">サード パーティ製のディレクトリからメール関連の属性値を持つオンプレミスの Active Directory オブジェクトを作成します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-168">Populate on-premises Active Directory objects with mail-related attribute values from third-party directories.</span></span>   
+- <span data-ttu-id="da5a3-169">Microsoft のガイダンスによって示されたとおりに、セキュリティ関連のインフラストラクチャ (ファイアウォール ポートなど) を構成します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-169">Configure security-related infrastructure (like firewall ports) per Microsoft guidance.</span></span>
+- <span data-ttu-id="da5a3-170">適切なクライアント インフラストラクチャを実装します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-170">Implement appropriate client infrastructure.</span></span>  
+- <span data-ttu-id="da5a3-171">Microsoft のガイダンスによって示されたとおりに、ユーザー プロビジョニングのアプローチを実装します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-171">Implement a user-provisioning approach per Microsoft guidance.</span></span>  
+- <span data-ttu-id="da5a3-172">Microsoft のガイダンスによって示されたとおりに、各種サービスを有効化します。</span><span class="sxs-lookup"><span data-stu-id="da5a3-172">Enable various services per Microsoft guidance.</span></span>  
     
-<span data-ttu-id="d309f-173">\*Office 365 US Government でのお客様の責任については、「[Office 365 US Governmentでの責任](US-Gov-appendix-your-responsibilities.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d309f-173">\*For information on your responsibilities for Office 365 US Government, see [Your Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).</span></span>
+<span data-ttu-id="da5a3-173">\*Office 365 US Government でのお客様の責任については、「[Office 365 US Governmentでの責任](US-Gov-appendix-your-responsibilities.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="da5a3-173">\*For information on your responsibilities for Office 365 US Government, see [Your Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).</span></span>
   
