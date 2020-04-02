@@ -3,19 +3,19 @@ title: Windows 10 用 FastTrack Center 特典
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 対象となるサービスやプランについて*少なくとも* 150 ライセンスを購入する場合は、Windows 10 用 FastTrack Center 特典を利用できます。
-ms.openlocfilehash: 6e8b9a998d55197069b86f4cf21640808f255dd7
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: aaa143651057586938f829fe41a0ddbe2cdf40c5
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052898"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098207"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Windows 10 用 FastTrack Center 特典
 

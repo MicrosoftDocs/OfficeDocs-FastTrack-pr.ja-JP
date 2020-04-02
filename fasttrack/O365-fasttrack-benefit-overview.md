@@ -3,7 +3,7 @@ title: FastTrack Center の特典の概要
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 用 FastTrack Center 特典では、FastTrack スペシャリストとリモートで作業して、組織内で Office 365 環境を使い始められるように準備を行い、ロールアウトと使用法を計画することができます。資格について詳しくは、「Office 365 用 FastTrack Center 特典」を参照してください。
-ms.openlocfilehash: 8ce3fa3b8a0f677c520aa8ffd1924c4461ee17c2
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: e53815e6e1d0ea481a7ab1a34cda618ffe679554
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052754"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098267"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack Center の特典の概要
 

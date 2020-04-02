@@ -3,19 +3,19 @@ title: FastTrack の責任範囲
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 0a6ec092c8c9ec5ba574465fc10a59ae48e7b23e
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052274"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098279"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 

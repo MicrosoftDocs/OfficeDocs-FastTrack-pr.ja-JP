@@ -3,19 +3,19 @@ title: Office 365 US Government のオンボードと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 オンボード Office 365 US Government には、開始、評価、修復、および有効化という4つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 73c2647a6b1c34d2396d19bedecb7ca1768aba6f
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 2fe39da0e41e6d42cecef8d4ecb410a1676419e1
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052994"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098243"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US Government のオンボードと移行のフェーズ
 
@@ -57,7 +57,7 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
 
 FastTrack マネージャーは、採用チーム関係者との対話型の成功プランニング電話会議を実施します。これによって、購入した使用可能なサービスの機能、成功に必要な主要な基盤、サービスの利用状況を促進するための手法、サービスが価値を生み出すために使用できるシナリオがお客様に紹介されます。成功プランニングを援助し、必要に応じて主要な分野に関するフィードバックを提供します。
   
-FastTrack のスペシャリストはお客様と作業し、ソース環境と要件を評価します。 お客様の環境に関するデータを収集し、帯域幅要件を推定し、インターネットブラウザー、クライアントオペレーティングシステム、ドメインネームシステム (DNS)、ネットワーク、インフラストラクチャ、および id システムを評価するためのツールを提供しています。オンボードの変更が必要かどうかを確認します。 
+FastTrack のスペシャリストはお客様と作業し、ソース環境と要件を評価します。 お客様の環境に関するデータを収集し、帯域幅要件を推定し、インターネットブラウザー、クライアントオペレーティングシステム、ドメインネームシステム (DNS)、ネットワーク、インフラストラクチャ、および id システムを評価するためのツールを提供しています。これにより、変更がオンボードに必要かどうかを判断できます。 
   
 現在のセットアップ環境に基づいて、お使いのソース環境を Office 365 へと正常にオンボーディングするために (必要な場合にはメールボックス移行やデータ移行を正常に行うためにも) 必要な最低要件を満たすような修復プランを提供します。エンドユーザーの価値や採用を増やすための一連の推奨アクティビティを示します。また、修復フェーズのための適切なチェックポイント電話会議を設定します。
   

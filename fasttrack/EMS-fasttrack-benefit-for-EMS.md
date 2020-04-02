@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 9788df4d240397f1373849d3e4a740a5b58d4cae
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: f7e4d5e2fdca888a43531956f8fef9f8ed2b347d
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052298"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097767"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>Enterprise Mobility + Security (EMS) 向け FastTrack センターの特典
 
@@ -39,3 +39,4 @@ EMS または対象となるプランの EMS 提供のクラウドサービス�
 
 [EMS 向け FastTrack センターの特典の対象となるサービスとプラン](M365-eligible-services-and-plans.md)
 
+''''

@@ -3,7 +3,7 @@ title: Microsoft 365 用 FastTrack Center 特典
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 用 FastTrack Center では、Microsoft のエンジニアリング専門知識、ベスト プラクティス、ツール、リソースにアクセスできるなど、計画、展開、導入の手引きが提供されます。Microsoft 365 用 FastTrack Center を利用することで、組織とそのパートナーは短期間で展開したり、Office 365、Windows 10、Enterprise Mobility + Security をエンドユーザーに導入してもらったりすることができます。
-ms.openlocfilehash: 7595141667db532522104a48ce07b61d4f724200
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 3c4aa5090917a721ef8cbbc909c1940a44578062
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052527"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097758"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Microsoft 365 用 FastTrack Center 特典
 

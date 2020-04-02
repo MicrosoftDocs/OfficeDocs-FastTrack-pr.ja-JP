@@ -3,7 +3,7 @@ title: Office 365 用 FastTrack Center 特典
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 対象となるサービスや Office 365 テナントのプランについて少なくとも 150 ライセンスを購入する場合は、Office 365 用 FastTrack Center 特典を使います。その後、FastTrack のスペシャリストと共に該当するサービスを評価、修復、有効化し、利用状況を促進する作業を行うことができます。これらのスペシャリストは、移行のガイダンスも提供します。
-ms.openlocfilehash: 9bb79dbf6c7dc770d460801048476e0e6e8ba8a8
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 830aca2f274cb00d7c365866b31dced314e5429d
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052742"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098219"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Office 365 用 FastTrack Center 特典
 
