@@ -3,19 +3,19 @@ title: 提供されているサポート
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 サービス (「対象となるサービスとプラン」の詳細を参照) を購入すると、Internet Explorer または Google Chrome で動作する Web アプリまたはサイトがある場合に、FastTrack スペシャリストがリモート配置ガイダンスと互換性の支援を提供します。
-ms.openlocfilehash: 24fc9e2794f30897172aa422902919594d2c6114
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 1a843d087560f728aa44a26a66403900df8fad3b
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347553"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097731"
 ---
 # <a name="assistance-offered"></a>提供されているサポート
 
@@ -32,17 +32,17 @@ FastTrack は、以下に関するリモート ガイダンスを提供します
 Microsoft Edge の配置ガイダンスを要求する場合、[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)または [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)を通してヘルプを受けられます。 サインインするには、アクティブなテナントでの職場または学校のアクティブなアカウント (組織 ID または Azure Active Directory ID) が必要です。 
 
 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
-1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
-3.  [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。
+1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.    ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
+3.    [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。
   
 パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
-1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **[顧客]** を選択します。
-3.  顧客を検索するか、顧客リストから選択します。
-4.  **[サービス]** を選択します。
-5.  [**Microsoft 365 のサポートを依頼する**] フォームを選択します。
-6.  **[Microsoft Edge]** 製品オプションを選択し、フォームに必要事項を記入します。
+1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.    **[顧客]** を選択します。
+3.    顧客を検索するか、顧客リストから選択します。
+4.    **[サービス]** を選択します。
+5.    [**Microsoft 365 のサポートを依頼する**] フォームを選択します。
+6.    **[Microsoft Edge]** 製品オプションを選択し、フォームに必要事項を記入します。
  
 アプリの互換性のヘルプを取得するには、[[App Assure サービス要求]](https://go.microsoft.com/fwlink/?linkid=2022721) に必要事項を記入します。
 
@@ -53,3 +53,4 @@ Microsoft Edge の配置ガイダンスを要求する場合、[Microsoft 365 �
 FastTrack サービスには含まれません:
 - 顧客の Microsoft Edge 配置のプロジェクトの管理。
 - オンサイト サポート。
+

@@ -3,19 +3,19 @@ title: 付録 A IBM Domino から Exchange Online への移行
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: IBM Domino から Exchange Online への移行には、次の段階中での処理内容を含む、いくつかの重要な側面があります。
-ms.openlocfilehash: ac945137e7beee0d0813ce171fc7292d683e9cd9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: b24ab9399bba785a984444190f187f6a3028d021
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347577"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098127"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>付録 A - IBM Domino から Exchange Online への移行
 
@@ -126,7 +126,7 @@ Domino から Exchange Online への移行に関する FastTrack センター �
     
  **お客様の責任**
   
-- 移行の 21 日前に移行スケジュールを識別しインポートします。
+- 定義された方法で設定したスケジュールと、移行する特定のユーザー データの一覧を各移行イベントごとに提供します。
     > [!NOTE]
     > 移行前のアクティビティには、実際の移行日 (T-0) 前のさまざまな段階での修復やレプリカ作成の再試行が関係しているため、このタスクは重要です。一部のメールボックスを移行しているときでも、他のメールボックスでは T マイナス処理が実行されています。このため、適切な計画と調整が必要です。 
 - T マイナス アクティビティ中に特定された問題を修正します。
@@ -136,7 +136,3 @@ Domino から Exchange Online への移行に関する FastTrack センター �
 - 移行後の問題を識別してレポートします。FastTrack センター は、移行 5 日後 (T+5) まで、移行後のサポートを提供します。それ以降はお客様の責任になります。メールボックスでのメール、予定表アイテム、連絡先の欠落や重複といった問題に対して、移行後のチケットをログ出力できます。
     
 FastTrack センター では、展開、ライセンス料、ディレクトリの準備に関連したサポート (Domino と Active Directory ディレクトリの同期を含む)、Notes アプリケーションを相互運用するための共存ソフトウェアのアドオン、セルフサービスの移行、アーカイブの移行については扱いません。
-  
-
-  
-

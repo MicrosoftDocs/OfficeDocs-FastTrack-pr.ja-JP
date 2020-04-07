@@ -3,19 +3,19 @@ title: 提供されているサポート
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 のサービスを購入すると、Windows 10 や Office 365 ProPlus を展開し、無償で最新の状態を保つ (対象のサブスクリプションにより) 際のサポートとして、FastTrack スペシャリストによるアドバイスと修復ガイダンスが提供されます。
-ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0f5b8abfc30c63b1990e69004ba7bca7ee33aaec
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347685"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098387"
 ---
 # <a name="assistance-offered"></a>提供されているサポート  
 
@@ -74,3 +74,5 @@ FastTrack サービスには含まれません:
 
 > [!NOTE]
 > 対象外となっているサービスに関してサポートが必要な場合は、[Microsoft パートナー](https://go.microsoft.com/fwlink/?linkid=2080150)にお問い合わせください。
+
+

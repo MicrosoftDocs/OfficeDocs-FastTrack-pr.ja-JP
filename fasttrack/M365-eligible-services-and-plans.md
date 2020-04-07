@@ -3,26 +3,26 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: 801984b3f6f6762ba455bbff0f86e5cc3b1c2365
-ms.sourcegitcommit: 6f67f054a52821211ee0e3a5bc1926ec6c111310
+ms.openlocfilehash: 3d91de034609cfe85833327c6d753f6a05525e5f
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707046"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098115"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
 Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
 
 > [!IMPORTANT]
-> FastTrack サービスを受けるには、対象となるプランのリストから*少なくとも* 150 のライセンスを購入する必要があります。 お客様が COVID-19 (コロナウイルス) 発生への対応を図る中、Microsoft では 6 か月無料の [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) および [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) の試用版ライセンスを 2020 年 3 月より新たに提供し、リモートでの勤務や学習を支援します。 2020 年 3 月から 2020 年 8 月までは例外的に、これらの無料ライセンスへのオンボーディングに対して、FastTrack によるサポートが提供されます。  
+> FastTrack サービスを受けるには、対象となるプランのリストから*少なくとも* 150 のライセンスを購入する必要があります。 お客様が COVID-19 発生への対応を図る中、Microsoft では 6 か月無料の [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) および [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) の試用版ライセンスを 2020 年 3 月より新たに提供し、リモートでの勤務や学習を支援します。 2020 年 3 月から 2020 年 8 月までは例外的に、これらの無料の試用版ライセンスおよび学生向け [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) へのオンボーディングに対して、FastTrack によるサポートが提供されます。 この支援サービスは、予告なしに中止、変更、または一時停止する場合がございます。   
   
 [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)または [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 
 
@@ -224,6 +224,3 @@ FastTrack サービスの対象ではないプランには以下が含まれま�
 
 FastTrack Center の追加サービスは、Office 365 テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象になります。詳細については、「[付録 B - FastTrack Center のその他の利点](O365-fasttrack-additional-benefits.md)」を参照してください。
   
-
-  
-

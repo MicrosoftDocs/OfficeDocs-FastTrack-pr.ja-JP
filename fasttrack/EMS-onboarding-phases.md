@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 1003bedcffa5c5e5d66bf3ec348d53716f108d91
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637393"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098067"
 ---
 # <a name="onboarding-phases"></a>オンボーディング フェーズ
 
@@ -232,41 +232,37 @@ Intune を使用して Outlook for iOS および Outlook for Android を安全�
     > [!IMPORTANT]
     > FastTrack チームは、Exchange のモバイル デバイス メールボックス ポリシーを使用した Outlook for iOS および Outlook for Android のセキュリティ保護はサポートしていません。
 
-#### <a name="co-management"></a>共同管理
+#### <a name="cloud-attach"></a>クラウド接続
 
-FastTrack では、Windows 10 デバイスを Configuration Manager と Intune の両方で同時に管理するための準備をご案内します。 具体的な手順はソース環境によって異なりますが、以下の手順が含まれる可能性があります:
+FastTrack では、Intune を使用した既存の Configuration Manager 環境のクラウド接続の準備をサポートしています。 具体的な手順はソース環境によって異なります。 手順には以下が含まれます。
 
-- 共同管理の利点についての説明。
+- Intune を使用してクラウドに接続することの利点についての説明。
 
-- エンドユーザーへのライセンスの付与。 FastTrack では、Microsoft クラウド サービス テナントのボリューム ライセンスをアクティブ化する方法についてのアシスタンスも提供されます (必要に応じて)。
+- エンド ユーザーのライセンス認証。 FastTrack では、Microsoft クラウド サービス テナントのボリューム ライセンスをアクティブ化する方法についてのアシスタンスも提供されます (必要に応じて)。
 
-- オンプレミスの Active Directory および/またはクラウド ID を利用した、Intune で使用する ID の構成。
+- オンプレミスの Active Directory またはクラウド ID を利用した、Intune で使用する ID の構成。
 
 - Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成。
 
-- Microsoft Endpoint Configuration Manager と統合された Intune から Intune スタンドアロンに移行する方法のガイダンス。
-
-- MDM 自動登録のための Azure Active Directory のセットアップ用ガイダンスの提供。
+- Configuration Manager コンソールでのクラウド接続の有効化。
 
 - ハイブリッド Azure Active Directory 参加のセットアップ用ガイダンスの提供。
 
-- クラウド管理ゲートウェイのセットアップする方法についてのガイダンスの提供。
+- MDM 自動登録のための Azure Active Directory のセットアップ用ガイダンスの提供。
 
-- Configuration Manager コンソールでの共同管理の有効化。
+- クラウド管理ゲートウェイをセットアップする方法についてのガイダンスの提供。
 
 - Intune に切り替えることを希望する、サポートされているワークロードの構成。
 
 - Intune 登録済みデバイスへの Configuration Manager クライアントのインストール。
 
-- 環境内の共同管理アクティビティを監視する方法についてのガイダンスの提供。
-
-FastTrack では、対象サービスを正しく導入するためのガイダンスも提供されます。
+FastTrack では、対象サービスを正しく導入するためのガイダンスも提供しています。
 
 ![オンボーディング有効化フェーズ - Intune](./media/ft-enable-phase_intune_mam.png)
 
 ![オンボーディング有効化フェーズ - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![オンボーディング有効化フェーズ - 共同管理](./media/ft-9-enable-phase-comanagement.png) 
+![オンボーディング有効化フェーズ - クラウドの接続](./media/cloud-attach-diagram.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>有効化フェーズ - Azure Information Protection
 
@@ -287,3 +283,4 @@ Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encr
 ## <a name="next-steps"></a>次の手順
 
 [EMS 向けの FastTrack 特典 - Microsoft の責任範囲](EMS-fasttrack-responsibilities.md)
+

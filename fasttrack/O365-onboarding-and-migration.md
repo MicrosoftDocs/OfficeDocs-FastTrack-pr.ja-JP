@@ -3,19 +3,19 @@ title: オンボーディングと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: c3716b2a55a2c04b58e19cf6530050cd843dcfdc
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: d4e6447ced77c6a12cda8b6947633b97ba1fb755
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347745"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098291"
 ---
 # <a name="onboarding-and-migration-phases"></a>オンボーディングと移行のフェーズ
 
@@ -37,16 +37,16 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
 [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)からヘルプを取得するには、管理者は管理センターにサインインして、**[サポートを依頼する]** をクリックします。 
 
 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
-1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
-3.  [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。 
+1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.    ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
+3.    [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。 
   
 パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
-1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.  **[顧客]** を選択します。
-3.  顧客を検索するか、顧客リストから選択します。
-4.  **[サービス]** を選択します。
-5.  [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。
+1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.    **[顧客]** を選択します。
+3.    顧客を検索するか、顧客リストから選択します。
+4.    **[サービス]** を選択します。
+5.    [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。
 
 テナントが利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) から FastTrack センター サポートを依頼することもできます。 
     
@@ -205,7 +205,7 @@ Yammer では、Yammer Enterprise サービスを有効にするためのガイ�
 
 Office 365 ProPlus では、次の作業のガイダンスを提供します。
 - 展開の問題への対応。   
-- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。 
+- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスとデバイスベース ライセンスの割り当て。 
 - クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。   
 - iOS、Android、Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 365 展開ツールを使用した更新設定の構成。   
@@ -220,4 +220,3 @@ Office 365 ProPlus では、次の作業のガイダンスを提供します。
 iOS および Android 用の Outlook では、次のガイダンスが用意されています。
 - Apple App Store や Google Play からの iOS および Android 用の Outlook のダウンロード。
 - アカウントの構成、および Exchange Online メールボックスへのアクセス。
-
