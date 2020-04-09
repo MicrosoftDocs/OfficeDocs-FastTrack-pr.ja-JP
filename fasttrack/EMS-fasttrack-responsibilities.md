@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: b87d85269cde92e90dd127bfa717d16ed9036484
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347409"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097719"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -249,43 +249,37 @@ FastTrack には、オンボーディング中に以下の責任があります�
     > [!NOTE]
     > Intune 以外での Windows Autopilot のセットアップは、FastTrack 特典の対象外です。
 
-### <a name="enable-phase---co-management"></a>有効化フェーズ - 共同管理
+### <a name="enable-phase---cloud-attach"></a>有効化フェーズ - クラウドの接続
 
 次のような内容のガイダンスを提供します。
 
 -   エンド ユーザーのライセンス認証。
 
+-   Configuration Manager コンソールでのクラウド接続の実装。
+
 -   Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成 (Intune がインストールされていない場合)。
+
+-   ハイブリッド Azure Active Directory 参加のセットアップ。
 
 -   MDM 自動登録のための Azure Active Directory のセットアップ。
 
--   ハイブリッド Azure Active Directory 参加のセットアッップ。
-
 -   クラウド管理ゲートウェイのセットアップ。
 
--   Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成。
+-   Intune サブスクリプションへのユーザーの追加、IT 管理者のロールの定義、ユーザーおよびデバイス グループの作成。
 
--   Intune の準備 (Intune がインストールされていない場合):
+-   デバイス管理のための Intune サービスの準備。
 
-    -   管理ニーズに応じた、以下を含むモバイル デバイス管理 (MDM) 機関の構成。
+-   Intune へのモバイル デバイスの管理 (MDM) の権限の設定。
 
-    -   Intune を MDM 機関として設定。
+-   MDM 管理ポリシーの検証に使用するテストグループの構成。
 
-    -   MDM 管理ポリシーの検証に使用するテストグループの構成。
+-   ユーザーとデバイスに関する情報を見つけるための、Intune 管理 ポータル内の移動。
 
-    -   ユーザーとデバイスに関する情報を見つけるための、Intune 管理 ポータル内の移動。
+-   Intune の役割 (ヘルプデスク オペレーター、管理者など) のセットアップ。
 
-    -   Intune の役割 (ヘルプ デスク オペレーター、管理者など) のセットアップ。
+-   Windows 10 デバイスの Intune への登録。
 
-    -   サポートされている各プラットフォームでの Intune アプリ保護ポリシーの構成および展開。
-
-    -   Windows 10 デバイスの Intune への登録。
-
-- Configuration Manager コンソールでの共同管理の有効化。
-
-- ワークロードの Intune への切り替え。
-
-- 環境内での共同管理アクティビティの監視。
+-   必要に応じた、Intune による管理のワークロードの切り替え。
 
 ### <a name="enable-phase--azure-information-protection"></a>有効化フェーズ - Azure Information Protection
 
@@ -311,3 +305,4 @@ Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encr
 ## <a name="next-steps"></a>次の手順
 
 [EMS 向けの FastTrack 特典 - ユーザーの責任範囲](EMS-your-responsibilities.md)
+
