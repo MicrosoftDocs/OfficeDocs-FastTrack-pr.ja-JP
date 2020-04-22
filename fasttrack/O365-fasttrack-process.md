@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack プロセスでは、オンボーディングと、ユーザー採用サービスが提供されます。
-ms.openlocfilehash: 98e4f944e54de52ebbdf1755c5ab185a80395b33
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 641637705a5a578b18f3ba06130d9477975b92f8
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097707"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666139"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack プロセス
 
@@ -35,7 +35,7 @@ FastTrack プロセスでは、オンボーディングと、ユーザー採用�
 
 次の図は、オンボーディング プロセスを示しています。
   
-![オンボーディング特典を利用する場合のタイムライン](media/O365-Onboarding-Timeline.png)
+![オンボーディング特典を利用する場合のタイムライン](media/o365-onboarding-timeline-m365-apps.png)
   
 [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)または [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 
 

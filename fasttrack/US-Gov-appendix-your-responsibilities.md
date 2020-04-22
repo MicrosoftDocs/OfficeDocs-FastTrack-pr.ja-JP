@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 26432b8bc6228956012fc7708b6de95d2b8b69da
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 159f38e85340308bd97eaf31eb20f58fec1d0554
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098351"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665813"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 US Government の責任
 
@@ -61,7 +61,7 @@ ms.locfileid: "43098351"
 - オンボードパートナーシップのための共同作業用の Microsoft Teams スペースを設定し、FastTrack Center チームメンバーを招待します (GCC High または DoD プランでは利用できません)。   
 - FastTrack のスペシャリストと連携して対象のサービスのオンボーディングを開始します。    
 - 契約キックオフ ミーティングに参加し、組織からの参加者をとりまとめて指導し、修復のタイムラインを確定します。    
-- Office 365 サービス (SharePoint Online、Exchange Online、Microsoft Teams、Office 365 ProPlus など) の目的と組織の目標を提供します。
+- Office 365 サービスの目的 (たとえば、SharePoint Online、Exchange Online、Microsoft Teams、Microsoft 365 アプリ)、および組織の目標を提供します。
     
 ## <a name="assess-phase"></a>評価フェーズ
 

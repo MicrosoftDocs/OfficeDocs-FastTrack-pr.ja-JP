@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 オンボード Office 365 US Government には、開始、評価、修復、および有効化という4つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 2fe39da0e41e6d42cecef8d4ecb410a1676419e1
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098243"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665914"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US Government のオンボードと移行のフェーズ
 
@@ -175,15 +175,15 @@ Yammer では、Yammer Enterprise サービスを有効にするためのガイ�
 > [!NOTE]
 > Yammer Enterprise は Office 365 US Government のコンポーネントではありませんが、GCC で Office 365 のライセンスを供与された各ユーザーに対してスタンドアロンのサービスとして無償で取得することができます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer は、GCC High または DoD プランでは使用できません。 
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 アプリ
 
-Office 365 ProPlus では、次の作業のガイダンスを提供します。 
+Microsoft 365 アプリの場合、次のようなガイダンスを提供します。 
 - 展開の問題への対応。    
 - [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。    
-- クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。    
-- iOS、Android、Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
+- クイック実行を使用して Office 365 ポータルから Microsoft 365 アプリをインストールします。    
+- IOS または Android デバイスに Office モバイルアプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) をインストールします。   
 - Office 365 展開ツールを使用した更新設定の構成。    
-- Office 365 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Office 365 ProPlus 用の 1 つのオンサイト配布サーバーのセットアップ。    
+- Office 365 展開ツールで使用するための config.xml ファイルの作成に関するサポートを含む、Microsoft 365 アプリ用の単一のオンサイト配布サーバーのセットアップ。    
 - Microsoft Endpoint Configuration Manager パッケージの作成サポートを含む、Microsoft Endpoint Configuration Manager を使用した展開。
     
-![Office ProPlus オンボーディング ステップ](media/O365-Onboarding-Enable-OProPlus.png)
+![Office ProPlus オンボーディング ステップ](media/o365-onboarding-enable-m365-apps-2.png)
