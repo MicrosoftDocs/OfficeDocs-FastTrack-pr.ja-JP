@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: e52a02c356fe9d516e041819717d38a0e2bee3ba
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 2529ba36c5656cceeea43f3360adba94e5d96ec3
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097587"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666065"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 
@@ -58,8 +58,8 @@ ms.locfileid: "43097587"
 
 - オンボーディング パートナーシップ用に共同作業用の Microsoft Teams スペースをセットアップして、FastTrack Center チームのメンバーを招待します。   
 - FastTrack のスペシャリストと連携して対象のサービスのオンボーディングを開始します。    
-- 契約キックオフ ミーティングに参加し、組織からの参加者をとりまとめて指導し、修復のタイムラインを確定します。   
-- Office 365 サービス (SharePoint Online、Exchange Online、Microsoft Teams、Office 365 ProPlus など) の目的と組織の目標を提供します。
+- 初回打ち合わせへの参加、組織からの参加者のとりまとめと先導、修復のタイムラインの確定。   
+- Office 365 サービス (SharePoint Online、Exchange Online、Microsoft Teams、Microsoft 365 アプリなど) の目的と組織の目標の用意。
     
 ## <a name="assess-phase"></a>評価フェーズ
 

@@ -10,20 +10,20 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack では、Windows 10 の展開のガイダンスを提供することで、ユーザーが Windows 7 Professional および Windows 8.1 Professional から Windows 10 Enterprise にアップグレードするお手伝いをします。
-ms.openlocfilehash: d9f2ea820828f91e6eb0ddc22e37c7f98dd8f71d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: d8f8821c1a730a8c42f7ae3755e6c227d53a2b7a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665837"
 ---
 # <a name="windows-10"></a>Windows 10
 
 FastTrack では、Windows 10 の展開のガイダンスを提供することで、ユーザーが Windows 7 Professional および Windows 8.1 Professional から Windows 10 Enterprise にアップグレードするお手伝いをします。 次の目的で FastTrack スペシャリストと連携します。
 
 - Microsoft Endpoint Configuration Manager または Microsoft 365 を使用する Windows 10 Enterprise の展開。
-- Office 365 ProPlus の展開。 
-- Microsoft Endpoint Configuration Manager または Microsoft 365 を使用する Windows 10 Enterprise および Office 365 ProPlus の更新。
+- Microsoft 365 アプリを展開します。 
+- Microsoft Endpoint Configuration Manager または Microsoft 365 を使用する Windows 10 Enterprise および Microsoft 365 アプリを更新します。
 - Microsoft Intune を使用して Configuration Manager をクラウドで接続するか、単独のクラウド管理ソリューションとして Intune を展開します。
   
 > [!NOTE]

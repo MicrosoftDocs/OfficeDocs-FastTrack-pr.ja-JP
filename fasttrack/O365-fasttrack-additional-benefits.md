@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「対象となるサービスとプラン」を参照してください。
-ms.openlocfilehash: 1317992820ba385e70ccb5908c0eab3a2dd7c140
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 62d0f5cf99624fbfb69a3bcb950f4718e0372512
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098183"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666113"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>付録 B - FastTrack Center の付加的な利点
 
@@ -38,9 +38,9 @@ Exchange Online では、次に示す構成ガイダンスを提供します。
 
 Skype for Business Online では、オンプレミスの Lync および Skype for Business ユーザーの Skype for Business Online への移行に関するガイダンスを提供します。
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 アプリ
 
-Office 365 ProPlus では、次に示すガイダンスを提供します。 
+Microsoft 365 アプリに関しては、次に示すガイダンスを提供します。 
 - Microsoft のベストプラクティスに従って初期展開をして更新を管理するための環境の準備に焦点を当てた評価と計画。 
 - Office 365 展開ツールと Office カスタマイズ ツールによる展開構成と更新設定の策定。 
 - Microsoft Endpoint Configuration Manager を使用した展開パッケージング。  
@@ -127,7 +127,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 
 - Skype for Business のハイブリッド展開でのバッチ処理によるユーザーの移行 (ユーザーの連絡先リストを保持しながら) についてのガイダンスを提供します。
     
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 アプリ
 
 - 以下についてのガイダンスとサポートを提供します。  
   - 初期展開と更新管理のための Microsoft のベストプラクティスに従った評価と計画。

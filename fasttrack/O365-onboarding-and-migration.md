@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: d4e6447ced77c6a12cda8b6947633b97ba1fb755
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 0a64f10e0a0fe1be6e26801d1722a06fc0ef5e73
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098291"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666161"
 ---
 # <a name="onboarding-and-migration-phases"></a>オンボーディングと移行のフェーズ
 
@@ -201,19 +201,19 @@ Project Online Professional と Project Online Premium では、次の作業の�
 
 Yammer では、Yammer Enterprise サービスを有効にするためのガイダンスを提供します。
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 アプリ
 
-Office 365 ProPlus では、次の作業のガイダンスを提供します。
+Microsoft 365 アプリに関しては、次に示すガイダンスを提供します。
 - 展開の問題への対応。   
 - [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスとデバイスベース ライセンスの割り当て。 
-- クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。   
-- iOS、Android、Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
+- クイック実行を使用した Office 365 ポータルからの Microsoft 365 アプリのインストール。   
+- iOS または Android デバイスへの Office モバイル アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 365 展開ツールを使用した更新設定の構成。   
 - ローカルまたはクラウドのインストールの選択とセットアップ。 
 - Office カスタマイズ ツールを使用した Office 展開ツールの構成 XML、または展開パッケージを構成するためのネイティブ XML の作成。  
 - Microsoft Endpoint Configuration Manager パッケージの作成サポートを含む、Microsoft Endpoint Configuration Manager を使用した展開。
     
-![Office ProPlus オンボーディング ステップ](media/O365-Onboarding-Enable-OProPlus.png)
+![Office ProPlus オンボーディング ステップ](media/o365-onboarding-enable-m365-apps-2.png)
   
 ## <a name="outlook-for-ios-and-android"></a>iOS および Android 用の Outlook
 

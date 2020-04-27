@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Windows 10 または Microsoft 365 のサービスを購入すると、Windows 10 や Office 365 ProPlus を展開し、無償で最新の状態を保つ (対象のサブスクリプションにより) 際のサポートとして、FastTrack スペシャリストによるアドバイスと修復ガイダンスが提供されます。
-ms.openlocfilehash: 0f5b8abfc30c63b1990e69004ba7bca7ee33aaec
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+description: Windows 10 または Microsoft 365 のサービスを購入すると、Windows 10 や Microsoft 365 アプリを展開し、最新の状態を保つための FastTrack スペシャリストによるアドバイスと修復ガイダンスが (対象のサブスクリプションでは) 無償で提供されます。
+ms.openlocfilehash: e7bc00346742f4a69865d6d111eea4187a861c40
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098387"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666053"
 ---
 # <a name="assistance-offered"></a>提供されているサポート  
 
@@ -32,9 +32,9 @@ Windows 10 または Microsoft 365 のサービス (詳細については、「[
 
 FastTrack は、次の Microsoft 製品に展開されたアプリの修復支援を提供します。
 
-### <a name="windows-10-and-office-365-proplus"></a>Windows 10 および Office 365 ProPlus
+### <a name="windows-10-and-microsoft-365-apps"></a>Windows 10 および Microsoft 365 アプリ
 
-- Windows 7、Windows 8.1、Office 2010、および Office 2013 で動作するアプリは、Windows 10 および Office 365 ProPlus でも動作します。
+- Windows 7、Windows 8.1、Office 2010、Office 2013 で動作するアプリは、Windows 10 および Microsoft 365 アプリでも動作します。
 
 ### <a name="the-new-microsoft-edge"></a>新しい Microsoft Edge
 
@@ -61,13 +61,13 @@ Microsoft Edge の展開に関するガイダンスについては、「[Microso
 ## <a name="out-of-scope"></a>対象外
 
 FastTrack サービスには含まれません:
-- アプリのインベントリと、Windows 10 と Office 365 ProPlus で何が動作し、何が動作しないかを判断するためのテスト。 このプロセスのガイダンスについては、[デスクトップ展開センター](https://go.microsoft.com/fwlink/?linkid=2080140) を参照してください。 詳細なアップグレードの準備状況の評価に興味がある場合、[Customer Request for Modern Desktop Assessment](https://go.microsoft.com/fwlink/?linkid=2053818) のフォームを完了してください。
+- アプリのインベントリと、Windows 10 と Microsoft 365 アプリで何が動作し、何が動作しないかを判断するためのテスト。 このプロセスのガイダンスについては、[デスクトップ展開センター](https://go.microsoft.com/fwlink/?linkid=2080140) を参照してください。 詳細なアップグレードの準備状況の評価に興味がある場合、[Customer Request for Modern Desktop Assessment](https://go.microsoft.com/fwlink/?linkid=2053818) のフォームを完了してください。
 - サード パーティ製の ISV アプリの Windows 10 との互換性に関する調査とサポートに関する声明。 詳細については、「[Desktop Analytics とは](https://docs.microsoft.com/sccm/desktop-analytics/overview)」を参照してください。
 - アプリのパッケージ化専用サービス。 ただし、App Assure チームでは、お客様の環境でアプリが展開できるように Windows 10 向けに修復したアプリはパッケージ化します。
 
 お客様の責任範囲:
 - アプリ インベントリの作成。
-- Windows 10 および Office 365 ProPlus での当該アプリの検証。
+- Windows 10 および Microsoft 365 アプリでの当該アプリの検証。
 
 > [!NOTE]
 > Microsoft はお客様のソース コードを変更することはできません。 ただし、App Assure チームでは、ソース コードがアプリで使用可能な場合はアプリ開発者に対してガイダンスを提供することができます。

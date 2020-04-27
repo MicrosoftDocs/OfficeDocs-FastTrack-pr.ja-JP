@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 対象となるサービスや Office 365 テナントのプランについて少なくとも 150 ライセンスを購入する場合は、Office 365 用 FastTrack Center 特典を使います。その後、FastTrack のスペシャリストと共に該当するサービスを評価、修復、有効化し、利用状況を促進する作業を行うことができます。これらのスペシャリストは、移行のガイダンスも提供します。
-ms.openlocfilehash: 830aca2f274cb00d7c365866b31dced314e5429d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 5bf7e1d6376adc1c2224e4a0f9919b0b051bf3f1
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098219"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665801"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Office 365 用 FastTrack Center 特典
 
@@ -35,9 +35,9 @@ FastTrack Center のプロセスの説明、およびだれが何を担当する
 サービス別の FastTrack の利点については、次を参照してください。
 
 - [Exchange Online](O365-fasttrack-responsibilities.md#exchange-online)
+- [Microsoft 365 アプリ](O365-fasttrack-responsibilities.md#microsoft-365-apps)
 - [Microsoft Teams](O365-fasttrack-responsibilities.md#microsoft-teams)
 - [Office 365 Advanced Threat Protection](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
-- [Office 365 ProPlus](O365-fasttrack-responsibilities.md#office-365-proplus)
 - [OneDrive for Business](O365-fasttrack-responsibilities.md#onedrive-for-business)
 - [iOS 版および Android 版 Outlook](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
 - [Power BI](O365-fasttrack-responsibilities.md#power-bi)
@@ -49,7 +49,7 @@ FastTrack Center のプロセスの説明、およびだれが何を担当する
   
 [Enterprise Mobility + Security 用の FastTrack Center 特典](EMS-fasttrack-benefit-for-EMS.md)に関する情報をお探しですか。内容は以下のとおりです。
   
-- Microsoft Intune    
+- Microsoft Intune
 - Azure Active Directory Premium 
 - Azure Information Protection
     

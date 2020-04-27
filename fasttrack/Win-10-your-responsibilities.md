@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: お客様には、Windows 10 のオンボーディング中に以下の責任があります。
-ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 75e9746d8e3ac9f4389cc26d2a89d6d3c8aa3294
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097791"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666089"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 
@@ -54,7 +54,7 @@ ms.locfileid: "43097791"
 ## <a name="enable-phase"></a>有効化フェーズ
 
 - 組織の環境やクラウド サービスのサブスクリプションに対する評価ツールの実行中にガイダンスが必要な場合の、FastTrack チームとの画面の共有 (任意)。
-- FastTrack チームのガイダンスに従った、ネットワーク関連の項目の構成。
-- Windows 10 で Office 365 ProPlus を展開する際の、FastTrack チームのガイダンスに従った、ディレクトリの準備とディレクトリ同期の構成。
+- FastTrack チームのガイダンスに従って、ネットワーク関連の項目を構成します。
+- Windows 10 で Microsoft 365 アプリを展開する際の、FastTrack チームのガイダンスに従った、ディレクトリの準備とディレクトリ同期の構成。
 - 認証方法 (例: フェデレーション認証、管理対象の認証) の構成。
 

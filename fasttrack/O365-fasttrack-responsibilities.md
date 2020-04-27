@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098279"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666173"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -107,6 +107,18 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
     
 データ移行の責任について詳しくは、「[データ移行](O365-data-migration.md)」を参照してください。
   
+## <a name="microsoft-365-apps"></a>Microsoft 365 アプリ
+
+次の点に関するガイダンスを行います。
+- 展開の問題への対応。
+- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスとデバイスベース ライセンスの割り当て。
+- クイック実行を使用した Office 365 ポータルからの Microsoft 365 アプリのインストール。
+- iOS または Android への Office モバイル アプリ (iOS および Android 用の Outlook、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。 
+- Office 365 展開ツールを使用した更新設定の構成。
+- ローカルまたはクラウドのインストールの選択とセットアップ。
+- Office カスタマイズ ツールを使用した Office 展開ツールの構成 XML、または展開パッケージを構成するためのネイティブ XML の作成。
+- Microsoft Endpoint Configuration Manager パッケージの作成サポートを含む、Microsoft Endpoint Configuration Manager を使用した展開。
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 次の点に関するガイダンスを行います。
@@ -141,18 +153,6 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - 自動化、調査、応答の構成。
 - 攻撃シミュレータの使用。
 - レポート作成と脅威分析。
-
-## <a name="office-365-proplus"></a>Office 365 ProPlus
-
-次の点に関するガイダンスを行います。
-- 展開の問題への対応。
-- [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスとデバイスベース ライセンスの割り当て。
-- クイック実行を使用した Office 365 ポータルからの Office 365 ProPlus のインストール。
-- iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (iOS および Android 用の Outlook、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。 
-- Office 365 展開ツールを使用した更新設定の構成。
-- ローカルまたはクラウドのインストールの選択とセットアップ。
-- Office カスタマイズ ツールを使用した Office 展開ツールの構成 XML、または展開パッケージを構成するためのネイティブ XML の作成。
-- Microsoft Endpoint Configuration Manager パッケージの作成サポートを含む、Microsoft Endpoint Configuration Manager を使用した展開。
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 

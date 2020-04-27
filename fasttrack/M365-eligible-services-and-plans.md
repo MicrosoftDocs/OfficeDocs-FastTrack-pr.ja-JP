@@ -10,12 +10,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: 3d91de034609cfe85833327c6d753f6a05525e5f
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 7b27f5c3c2e989e1dbe932346d013bd6e9fb1890
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098115"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666077"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -52,11 +52,11 @@ FastTrack Center は、次のサービスのサポートを提供します。
 - Azure Active Directory Premium
 - Azure Information Protection
 - Exchange Online 
+- Microsoft 365 アプリ
 - Microsoft Defender Advanced Threat Protection
 - Microsoft Intune
 - Microsoft Teams
 - Office 365 Advanced Threat Protection
-- Office 365 ProPlus
 - OneDrive for Business
 - Power BI
 - Project Online
@@ -64,7 +64,10 @@ FastTrack Center は、次のサービスのサポートを提供します。
 - Skype for Business Online
 - Windows 10
 - Yammer Enterprise 
-  
+
+> [!NOTE]
+> Office 365 ProPlus は Microsoft 365 アプリに名称変更されました。 場合によっては、以前の名称が使用されていることもあります。 この変更が適用される時期について詳しくは、「[Office 365 ProPlus の名称変更](https://docs.microsoft.com/deployoffice/name-change)」をご覧ください。 
+
 ## <a name="eligible-microsoft-365-plans"></a>対象となる Microsoft 365 プラン
   
  **Microsoft 365 Enterprise**
@@ -72,14 +75,23 @@ FastTrack Center は、次のサービスのサポートを提供します。
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Security\*
-- Microsoft 365 F1*
+- Microsoft 365 F1\*
 - Microsoft 365 Business\*
+- Microsoft 365 Apps for enterprise\*
+- Microsoft 365 Apps for enterprise (デバイス)\*
     
+ **Microsoft 365 Business**
+
+ - Microsoft 365 Business Basic\*
+ - Microsoft 365 Business Standard\*
+ - Microsoft 365 Apps for business\*
+ 
  **Microsoft 365 Education**
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 Security\*
+- Microsoft 365 Apps for Education (デバイス)\*
  
 ## <a name="eligible-office-365-plans"></a>対象となる Office 365 プラン
 
@@ -95,13 +107,6 @@ FastTrack Center は、次のサービスのサポートを提供します。
 - Office 365 US Government G4\*\*
 - Office 365 US Government G5\*\*
 - Office 365 US Government F1\*\*
-- Office 365 ProPlus
-    
-**Office 365 Business**
-
-- Office 365 Business  
-- Office 365 Business Essentials  
-- Office 365 Business Premium
 
 **Office 365 Education**
   
@@ -206,7 +211,7 @@ FastTrack Center は、次のサービスのサポートを提供します。
 詳細については、「[Windows 10 用 FastTrack Center 特典](https://go.microsoft.com/fwlink/?linkid=2044661)」を参照してください。
 
 > [!NOTE]
-> Windows 10 アプリをビルドする商業独立系ソフトウェア ベンダー (ISV) に対するライセンスの最小要件はありません。すべてのアプリ要件は、現在 Windows のメインストリーム サービスに含まれている Windows 10 または Office 365 ProPlus バージョンを対象にしている必要があります。
+> 商業目的の独立系ソフトウェア ベンダー (ISV) が Windows 10 アプリを作成する際のライセンスの最小要件はありません。 すべてのアプリ要求は、メインストリーム サービス期間内の Windows 10 または Microsoft 365 アプリのバージョンを対象としている必要があります。
 
 ## <a name="ineligible-plans"></a>対象外のプラン
 
