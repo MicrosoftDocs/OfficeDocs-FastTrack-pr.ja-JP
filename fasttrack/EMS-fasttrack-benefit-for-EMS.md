@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: f7e4d5e2fdca888a43531956f8fef9f8ed2b347d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 8c148a26e1fa19b1413dd6adb93624c73639015a
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097767"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999112"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>Enterprise Mobility + Security (EMS) 向け FastTrack センターの特典
 

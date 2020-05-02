@@ -3,19 +3,19 @@ title: 提供されているサポート
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 サービス (「対象となるサービスとプラン」の詳細を参照) を購入すると、Internet Explorer または Google Chrome で動作する Web アプリまたはサイトがある場合に、FastTrack スペシャリストがリモート配置ガイダンスと互換性の支援を提供します。
-ms.openlocfilehash: 1a843d087560f728aa44a26a66403900df8fad3b
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 2de928647dff3b08b3e080d8e106552d8b9a8d76
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097731"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999631"
 ---
 # <a name="assistance-offered"></a>提供されているサポート
 

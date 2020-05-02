@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 1003bedcffa5c5e5d66bf3ec348d53716f108d91
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 58e59fb0531625093bf7bfbc767eee90954b6158
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098067"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999701"
 ---
 # <a name="onboarding-phases"></a>オンボーディング フェーズ
 

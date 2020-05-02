@@ -3,19 +3,19 @@ title: お客様の責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: お客様には、Windows 10 のオンボーディング中に以下の責任があります。
-ms.openlocfilehash: 75e9746d8e3ac9f4389cc26d2a89d6d3c8aa3294
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: f026103aa3bbe3cb5c1409a91c7ad4574fe4fe03
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666089"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999571"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 
