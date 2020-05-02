@@ -3,19 +3,19 @@ title: Office 365 US Government のオンボードと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 オンボード Office 365 US Government には、開始、評価、修復、および有効化という4つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 8725265751740495e1264945c3472f6ee233b1c5
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665914"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999797"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US Government のオンボードと移行のフェーズ
 
@@ -177,11 +177,11 @@ Yammer では、Yammer Enterprise サービスを有効にするためのガイ�
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 アプリ
 
-Microsoft 365 アプリの場合、次のようなガイダンスを提供します。 
+Microsoft 365 アプリに関しては、次に示すガイダンスを提供します。 
 - 展開の問題への対応。    
 - [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。    
-- クイック実行を使用して Office 365 ポータルから Microsoft 365 アプリをインストールします。    
-- IOS または Android デバイスに Office モバイルアプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) をインストールします。   
+- クイック実行を使用した Office 365 ポータルからの Microsoft 365 アプリのインストール。    
+- iOS または Android デバイスへの Office モバイル アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 365 展開ツールを使用した更新設定の構成。    
 - Office 365 展開ツールで使用するための config.xml ファイルの作成に関するサポートを含む、Microsoft 365 アプリ用の単一のオンサイト配布サーバーのセットアップ。    
 - Microsoft Endpoint Configuration Manager パッケージの作成サポートを含む、Microsoft Endpoint Configuration Manager を使用した展開。
