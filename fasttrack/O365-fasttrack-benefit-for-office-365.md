@@ -3,7 +3,7 @@ title: Office 365 用 FastTrack Center 特典
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 対象となるサービスや Office 365 テナントのプランについて少なくとも 150 ライセンスを購入する場合は、Office 365 用 FastTrack Center 特典を使います。その後、FastTrack のスペシャリストと共に該当するサービスを評価、修復、有効化し、利用状況を促進する作業を行うことができます。これらのスペシャリストは、移行のガイダンスも提供します。
-ms.openlocfilehash: 5bf7e1d6376adc1c2224e4a0f9919b0b051bf3f1
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 3cda5d2785f89927678cd4fb95464d76910a4177
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665801"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999857"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Office 365 用 FastTrack Center 特典
 
@@ -52,6 +52,13 @@ FastTrack Center のプロセスの説明、およびだれが何を担当する
 - Microsoft Intune
 - Azure Active Directory Premium 
 - Azure Information Protection
+
+[Windows 10　の FastTrack Center の特典](Win-10-fasttrack-benefit-for-Windows-10.md)を探していますか? これには次の内容が含まれます。
+
+- Windows 10
+- App Assure
+- 新しい Microsoft Edge
+- Microsoft Defender Advanced Threat Protection
     
 > [!NOTE]
 > これは、情報提供のみを目的としています。 
