@@ -3,7 +3,7 @@ title: Office 365 用 FastTrack Center 特典
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,47 +12,54 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 対象となるサービスや Office 365 テナントのプランについて少なくとも 150 ライセンスを購入する場合は、Office 365 用 FastTrack Center 特典を使います。その後、FastTrack のスペシャリストと共に該当するサービスを評価、修復、有効化し、利用状況を促進する作業を行うことができます。これらのスペシャリストは、移行のガイダンスも提供します。
-ms.openlocfilehash: 5bf7e1d6376adc1c2224e4a0f9919b0b051bf3f1
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 3cda5d2785f89927678cd4fb95464d76910a4177
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665801"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999857"
 ---
-# <a name="fasttrack-center-benefit-for-office-365"></a><span data-ttu-id="a2fb3-105">Office 365 用 FastTrack Center 特典</span><span class="sxs-lookup"><span data-stu-id="a2fb3-105">FastTrack Center Benefit for Office 365</span></span>
+# <a name="fasttrack-center-benefit-for-office-365"></a><span data-ttu-id="4c00a-105">Office 365 用 FastTrack Center 特典</span><span class="sxs-lookup"><span data-stu-id="4c00a-105">FastTrack Center Benefit for Office 365</span></span>
 
-<span data-ttu-id="a2fb3-p102">対象となるサービスや Office 365 テナントのプランについて*少なくとも* 150 ライセンスを購入する場合は、Office 365 用 FastTrack Center 特典を使います。その後、FastTrack のスペシャリストと共に該当するサービスを評価、修復、有効化し、利用状況を促進する作業を行うことができます。これらのスペシャリストは、移行のガイダンスも提供します。</span><span class="sxs-lookup"><span data-stu-id="a2fb3-p102">You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.</span></span> 
+<span data-ttu-id="4c00a-p102">対象となるサービスや Office 365 テナントのプランについて*少なくとも* 150 ライセンスを購入する場合は、Office 365 用 FastTrack Center 特典を使います。その後、FastTrack のスペシャリストと共に該当するサービスを評価、修復、有効化し、利用状況を促進する作業を行うことができます。これらのスペシャリストは、移行のガイダンスも提供します。</span><span class="sxs-lookup"><span data-stu-id="4c00a-p102">You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="a2fb3-109">このドキュメントの目的に沿い、FastTrack のスペシャリストには、Microsoft の従業員と Microsoft 承認のベンダー、および Microsoft 承認のパートナーを含めることができます。</span><span class="sxs-lookup"><span data-stu-id="a2fb3-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="4c00a-109">このドキュメントの目的に沿い、FastTrack のスペシャリストには、Microsoft の従業員と Microsoft 承認のベンダー、および Microsoft 承認のパートナーを含めることができます。</span><span class="sxs-lookup"><span data-stu-id="4c00a-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
   
-<span data-ttu-id="a2fb3-p103">FastTrack センター の移行サービスの資格を得るには、Office 365 テナントに 500 以上のライセンスが必要です。詳細については、「[データ移行](O365-data-migration.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a2fb3-p103">To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).</span></span>
+<span data-ttu-id="4c00a-p103">FastTrack センター の移行サービスの資格を得るには、Office 365 テナントに 500 以上のライセンスが必要です。詳細については、「[データ移行](O365-data-migration.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="4c00a-p103">To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).</span></span>
   
-<span data-ttu-id="a2fb3-112">対象となるサービスとプランに関する詳細については、「[対象となるサービスとプラン](M365-eligible-services-and-plans.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a2fb3-112">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+<span data-ttu-id="4c00a-112">対象となるサービスとプランに関する詳細については、「[対象となるサービスとプラン](M365-eligible-services-and-plans.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="4c00a-112">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
   
-<span data-ttu-id="a2fb3-113">FastTrack Center のプロセスの説明、およびだれが何を担当するかについては、「[FastTrack Center の特典の概要](O365-fasttrack-benefit-overview.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a2fb3-113">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Overview](O365-fasttrack-benefit-overview.md).</span></span>
+<span data-ttu-id="4c00a-113">FastTrack Center のプロセスの説明、およびだれが何を担当するかについては、「[FastTrack Center の特典の概要](O365-fasttrack-benefit-overview.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="4c00a-113">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Overview](O365-fasttrack-benefit-overview.md).</span></span>
 
-<span data-ttu-id="a2fb3-114">サービス別の FastTrack の利点については、次を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a2fb3-114">To learn about the benefits provided by FastTrack by service, see:</span></span>
+<span data-ttu-id="4c00a-114">サービス別の FastTrack の利点については、次を参照してください。</span><span class="sxs-lookup"><span data-stu-id="4c00a-114">To learn about the benefits provided by FastTrack by service, see:</span></span>
 
-- [<span data-ttu-id="a2fb3-115">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="a2fb3-115">Exchange Online</span></span>](O365-fasttrack-responsibilities.md#exchange-online)
-- [<span data-ttu-id="a2fb3-116">Microsoft 365 アプリ</span><span class="sxs-lookup"><span data-stu-id="a2fb3-116">Microsoft 365 Apps</span></span>](O365-fasttrack-responsibilities.md#microsoft-365-apps)
-- [<span data-ttu-id="a2fb3-117">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="a2fb3-117">Microsoft Teams</span></span>](O365-fasttrack-responsibilities.md#microsoft-teams)
-- [<span data-ttu-id="a2fb3-118">Office 365 Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="a2fb3-118">Office 365 Advanced Threat Protection</span></span>](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
-- [<span data-ttu-id="a2fb3-119">OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="a2fb3-119">OneDrive for Business</span></span>](O365-fasttrack-responsibilities.md#onedrive-for-business)
-- [<span data-ttu-id="a2fb3-120">iOS 版および Android 版 Outlook</span><span class="sxs-lookup"><span data-stu-id="a2fb3-120">Outlook for iOS and Android</span></span>](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
-- [<span data-ttu-id="a2fb3-121">Power BI</span><span class="sxs-lookup"><span data-stu-id="a2fb3-121">Power BI</span></span>](O365-fasttrack-responsibilities.md#power-bi)
-- [<span data-ttu-id="a2fb3-122">Project Online</span><span class="sxs-lookup"><span data-stu-id="a2fb3-122">Project Online</span></span>](O365-fasttrack-responsibilities.md#project-online)
-- [<span data-ttu-id="a2fb3-123">Project Online Professional と Project Online Premium</span><span class="sxs-lookup"><span data-stu-id="a2fb3-123">Project Online Professional and Project Online Premium</span></span>](O365-fasttrack-responsibilities.md#project-online-professional-and-project-online-premium)
-- [<span data-ttu-id="a2fb3-124">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="a2fb3-124">SharePoint Online</span></span>](O365-fasttrack-responsibilities.md#sharepoint-online)
-- [<span data-ttu-id="a2fb3-125">Skype for Business Online</span><span class="sxs-lookup"><span data-stu-id="a2fb3-125">Skype for Business Online</span></span>](O365-fasttrack-responsibilities.md#skype-for-business-online)
-- [<span data-ttu-id="a2fb3-126">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="a2fb3-126">Yammer Enterprise</span></span>](O365-fasttrack-responsibilities.md#yammer-enterprise)
+- [<span data-ttu-id="4c00a-115">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="4c00a-115">Exchange Online</span></span>](O365-fasttrack-responsibilities.md#exchange-online)
+- [<span data-ttu-id="4c00a-116">Microsoft 365 アプリ</span><span class="sxs-lookup"><span data-stu-id="4c00a-116">Microsoft 365 Apps</span></span>](O365-fasttrack-responsibilities.md#microsoft-365-apps)
+- [<span data-ttu-id="4c00a-117">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="4c00a-117">Microsoft Teams</span></span>](O365-fasttrack-responsibilities.md#microsoft-teams)
+- [<span data-ttu-id="4c00a-118">Office 365 Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="4c00a-118">Office 365 Advanced Threat Protection</span></span>](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
+- [<span data-ttu-id="4c00a-119">OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="4c00a-119">OneDrive for Business</span></span>](O365-fasttrack-responsibilities.md#onedrive-for-business)
+- [<span data-ttu-id="4c00a-120">iOS 版および Android 版 Outlook</span><span class="sxs-lookup"><span data-stu-id="4c00a-120">Outlook for iOS and Android</span></span>](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
+- [<span data-ttu-id="4c00a-121">Power BI</span><span class="sxs-lookup"><span data-stu-id="4c00a-121">Power BI</span></span>](O365-fasttrack-responsibilities.md#power-bi)
+- [<span data-ttu-id="4c00a-122">Project Online</span><span class="sxs-lookup"><span data-stu-id="4c00a-122">Project Online</span></span>](O365-fasttrack-responsibilities.md#project-online)
+- [<span data-ttu-id="4c00a-123">Project Online Professional と Project Online Premium</span><span class="sxs-lookup"><span data-stu-id="4c00a-123">Project Online Professional and Project Online Premium</span></span>](O365-fasttrack-responsibilities.md#project-online-professional-and-project-online-premium)
+- [<span data-ttu-id="4c00a-124">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="4c00a-124">SharePoint Online</span></span>](O365-fasttrack-responsibilities.md#sharepoint-online)
+- [<span data-ttu-id="4c00a-125">Skype for Business Online</span><span class="sxs-lookup"><span data-stu-id="4c00a-125">Skype for Business Online</span></span>](O365-fasttrack-responsibilities.md#skype-for-business-online)
+- [<span data-ttu-id="4c00a-126">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="4c00a-126">Yammer Enterprise</span></span>](O365-fasttrack-responsibilities.md#yammer-enterprise)
   
-<span data-ttu-id="a2fb3-p104">[Enterprise Mobility + Security 用の FastTrack Center 特典](EMS-fasttrack-benefit-for-EMS.md)に関する情報をお探しですか。内容は以下のとおりです。</span><span class="sxs-lookup"><span data-stu-id="a2fb3-p104">Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? It includes information about:</span></span>
+<span data-ttu-id="4c00a-p104">[Enterprise Mobility + Security 用の FastTrack Center 特典](EMS-fasttrack-benefit-for-EMS.md)に関する情報をお探しですか。内容は以下のとおりです。</span><span class="sxs-lookup"><span data-stu-id="4c00a-p104">Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? It includes information about:</span></span>
   
-- <span data-ttu-id="a2fb3-129">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="a2fb3-129">Microsoft Intune</span></span>
-- <span data-ttu-id="a2fb3-130">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="a2fb3-130">Azure Active Directory Premium</span></span> 
-- <span data-ttu-id="a2fb3-131">Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="a2fb3-131">Azure Information Protection</span></span>
+- <span data-ttu-id="4c00a-129">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="4c00a-129">Microsoft Intune</span></span>
+- <span data-ttu-id="4c00a-130">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="4c00a-130">Azure Active Directory Premium</span></span> 
+- <span data-ttu-id="4c00a-131">Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="4c00a-131">Azure Information Protection</span></span>
+
+<span data-ttu-id="4c00a-132">[Windows 10　の FastTrack Center の特典](Win-10-fasttrack-benefit-for-Windows-10.md)を探していますか?</span><span class="sxs-lookup"><span data-stu-id="4c00a-132">Are you looking for [FastTrack Center Benefit for Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)?</span></span> <span data-ttu-id="4c00a-133">これには次の内容が含まれます。</span><span class="sxs-lookup"><span data-stu-id="4c00a-133">It includes information about:</span></span>
+
+- <span data-ttu-id="4c00a-134">Windows 10</span><span class="sxs-lookup"><span data-stu-id="4c00a-134">Windows 10</span></span>
+- <span data-ttu-id="4c00a-135">App Assure</span><span class="sxs-lookup"><span data-stu-id="4c00a-135">App Assure</span></span>
+- <span data-ttu-id="4c00a-136">新しい Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="4c00a-136">The new Microsoft Edge</span></span>
+- <span data-ttu-id="4c00a-137">Microsoft Defender Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="4c00a-137">Microsoft Defender Advanced Threat Protection</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="a2fb3-132">これは、情報提供のみを目的としています。</span><span class="sxs-lookup"><span data-stu-id="a2fb3-132">For informational purposes only.</span></span> 
+> <span data-ttu-id="4c00a-138">これは、情報提供のみを目的としています。</span><span class="sxs-lookup"><span data-stu-id="4c00a-138">For informational purposes only.</span></span> 
 
