@@ -3,19 +3,19 @@ title: ソース環境要件
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack センター特典では、Windows 10 の展開に使用するソース環境との統合レベルを設定するためのガイダンスをユーザーに提供します。
-ms.openlocfilehash: 52dbaee7b32290098c1e9fb873ff6984a2d26152
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: 96ce7e58d2b9b87e5fc014996bd5f2d250051fda
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999595"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471986"
 ---
 # <a name="source-environment-expectations"></a>ソース環境要件
 

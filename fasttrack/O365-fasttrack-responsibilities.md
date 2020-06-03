@@ -3,19 +3,19 @@ title: FastTrack の責任範囲
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 78abfd26506f457858bc2e56f3ccfd1407c4cbdf
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999821"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472202"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -118,6 +118,41 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - ローカルまたはクラウドのインストールの選択とセットアップ。
 - Office カスタマイズ ツールを使用した Office 展開ツールの構成 XML、または展開パッケージを構成するためのネイティブ XML の作成。
 - Microsoft Endpoint Configuration Manager パッケージの作成サポートを含む、Microsoft Endpoint Configuration Manager を使用した展開。
+
+## <a name="microsoft-information-governance"></a>Microsoft Information ガバナンス 
+
+次の点に関するガイダンスを行います。
+- レコード管理
+  - レコード管理のアクセス許可を適用します。
+  - ファイルプランおよび保持スケジュールをラベルとポリシーに変換するためのガイダンスです。
+  - 保持ラベルおよびポリシーを作成する。
+  - 削除ポリシーを確立します。
+  - 廃棄のためにアイテムをレビューします。
+- Insider リスク管理。
+  - Office 365 監査ログを有効にする。
+  - Insider リスク管理内で設定を構成します。
+  - 組み込みのプレイブックを使用して、insider リスクポリシーを作成します。
+  - 通信のコンプライアンスのためのアクセス許可を構成する。
+  - カスタマイズ可能なテンプレートを使用して、通信コンプライアンスポリシーを作成します。
+  - 通知を監視およびレビューします。
+- 情報ガバナンス。
+  - 情報ガバナンスの権限を適用します。
+  - 保持ラベルを作成します。
+  - 保持ラベルの発行 (手動および自動)
+  - インポートジョブを作成する。
+
+## <a name="microsoft-information-protection"></a>Microsoft Information Protection
+
+次の点に関するガイダンスを行います。
+- データの分類。
+- 機密情報の種類。
+- 機密ラベルを作成する。
+- 機密ラベルを適用する。 
+- 統合されたラベル
+- Trainable 分類子。
+- コンテンツエクスプローラーとアクティビティエクスプローラーを使用してデータを把握します。
+- ポリシーを使用してラベルを発行する (手動および自動)。
+- Microsoft Teams のチャットおよびチャネルのデータ損失防止 (DLP) ポリシーを作成します。
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
