@@ -3,7 +3,7 @@ title: FastTrack Center の特典の概要
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 用 FastTrack Center 特典では、FastTrack スペシャリストとリモートで作業して、組織内で Office 365 環境を使い始められるように準備を行い、ロールアウトと使用法を計画することができます。資格について詳しくは、「Office 365 用 FastTrack Center 特典」を参照してください。
-ms.openlocfilehash: f3dd071707d469041900f9bab86c07489ffcb4d0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: a403178c2e94cd3415fa04bc9c2ecc68514557ec
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999893"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471711"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack Center の特典の概要
 
@@ -30,10 +30,9 @@ Office 365 用 FastTrack Center 特典では、FastTrack スペシャリスト�
 - [データ移行](O365-data-migration.md)
 - [FastTrack の責任範囲](O365-fasttrack-responsibilities.md)
 - [お客様の責任](O365-your-responsibilities.md) 
-- [付録 A: IBM Domino から Exchange Online への移行](O365-from-ibm-domino-to-exchange-online.md)
-- [付録 B: FastTrack センターの付加的な利点](O365-fasttrack-additional-benefits.md)
-- [付録 C: FastTrack Center HIPAA ビジネス アソシエイト契約](O365-hipaa-business-associate-agreement.md)
-- [付録 D: Office 365 US Government 向け FastTrack Center の特典の概要](US-Gov-appendix-overview.md)
+- [付録 A - FastTrack センターのその他の利点](O365-fasttrack-additional-benefits.md)
+- [付録 B: FastTrack Center HIPAA ビジネス アソシエイト契約](O365-hipaa-business-associate-agreement.md)
+- [付録 C: Office 365 US Government 向け FastTrack Center の特典の概要](US-Gov-appendix-overview.md)
     
 オンボーディングが完了すると、Office 365 テナントが作成されます。ライセンスを持つユーザーが、以下のいずれかの ID オプションを使って Office 365 にアクセスできます。
 - 固有の Office 365 アカウントを持つクラウド ID。
