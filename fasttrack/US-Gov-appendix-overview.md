@@ -1,5 +1,5 @@
 ---
-title: 付録 C-Office 365 US Government の FastTrack センターの特典の概要
+title: '付録 C: Office 365 US Government 向け FastTrack Center の特典の概要'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -16,7 +16,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 06/01/2020
 ms.locfileid: "44472154"
 ---
-# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>付録 C-Office 365 US Government の FastTrack センターの特典の概要
+# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>付録 C: Office 365 US Government 向け FastTrack Center の特典の概要
 
 Office 365 の FastTrack センターの特典を使用すると、FastTrack スペシャリストとリモートで作業して、Office 365 環境を使用できる状態にして、組織内での展開と使用を計画することができます。 
   
@@ -32,4 +32,4 @@ Office 365 の FastTrack センターの特典を使用すると、FastTrack ス
 - [データ移行](O365-data-migration.md)    
 - [Office 365 US Government の FastTrack 責任](US-Gov-appendix-fasttrack-responsibilities.md)   
 - [Office 365 US Government の責任](US-Gov-appendix-your-responsibilities.md)    
-- [付録 A-FastTrack Center のその他の利点](O365-fasttrack-additional-benefits.md)
+- [付録 A - FastTrack センターのその他の利点](O365-fasttrack-additional-benefits.md)
