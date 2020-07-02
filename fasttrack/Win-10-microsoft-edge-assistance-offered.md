@@ -3,19 +3,19 @@ title: 提供されているサポート
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 サービス (「対象となるサービスとプラン」の詳細を参照) を購入すると、Internet Explorer または Google Chrome で動作する Web アプリまたはサイトがある場合に、FastTrack スペシャリストがリモート配置ガイダンスと互換性の支援を提供します。
-ms.openlocfilehash: b72be35d0f7842aed62c3a60a85d9c7892235f6c
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 2e295d43ac037d0908a78c0a9f2bb03f2dce177c
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472027"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011563"
 ---
 # <a name="assistance-offered"></a>提供されているサポート
 
@@ -36,7 +36,7 @@ Microsoft Edge の配置ガイダンスを要求する場合、[Microsoft 365 �
 2.    ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
 3.    [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。
   
-パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
 2.    **[顧客]** を選択します。
 3.    顧客を検索するか、顧客リストから選択します。

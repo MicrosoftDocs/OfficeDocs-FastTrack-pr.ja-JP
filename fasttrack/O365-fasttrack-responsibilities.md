@@ -3,19 +3,19 @@ title: FastTrack の責任範囲
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: f7a519e0f5fd6b5b8d458fd326826e5a16797a67
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472202"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011431"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -82,7 +82,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
       - Azure Active Directory パススルー認証の構成 (必要な場合)。\*\*
       - Azure Active Directory シームレス シングル サインオン (SSO) の構成 (必要な場合)。\*\*\*
     > [!NOTE]
-    > 複数フォレスト環境の Azure Active Directory パススルー認証は、Active Directory フォレスト間にフォレストの信頼があり、名前サフィックスのルーティングが正しく構成されている場合にサポートされます。追加のエージェントは、サインイン要求の高可用性を提供するために、複数のオンプレミスのサーバーにインストールできます。詳細については、「[Azure Active Directory パススルー認証:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860094)」および「[Azure Active Directory シームレス シングル サインオン:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860095)」を参照してください。 
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
 - フォレストが 1 つで、フェデレーション ID を対象とする場合: 
   - 1 つのサイトのフォールト トレラント構成における Office 365 を使うローカル ドメイン認証用の AD FS のインストールと構成 (必要な場合)。
   - AD FS インフラストラクチャをインターネットに公開するための、WAP のインストールおよび構成 (必要な場合)。
@@ -140,6 +140,15 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
   - 保持ラベルを作成します。
   - 保持ラベルの発行 (手動および自動)
   - インポートジョブを作成する。
+- 高度な電子情報開示。
+  - Office 以外の365データ。
+  - アクセス許可を設定する。
+  - ケースを作成する。
+  - 保管担当者を追加します。 
+  - 法律ホールド。
+  - 探す.
+  - 設定を確認します。
+  - コンテンツをエクスポートする。
 
 ## <a name="microsoft-information-protection"></a>Microsoft Information Protection
 

@@ -3,19 +3,19 @@ title: 提供されているサポート
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 のいずれかのサービスを購入した場合は、FastTrack スペシャリストによってエンドポイントのセキュリティを強化するためのリモート展開ガイダンスが提供されます。 Microsoft のサービスは、お客様の環境とニーズに合わせて調整されます。
-ms.openlocfilehash: 3cbfd8a00ebb829394d617be0d22867828c86c79
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: ec29f863b01ffb312b7b8b299580e5e38f60fa9d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472010"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011527"
 ---
 # <a name="assistance-offered"></a>提供されているサポート  
 
@@ -37,7 +37,7 @@ FastTrack は、以下に関するリモート ガイダンスを提供します
     - 調査と修復の自動化。
     - セキュア スコア。
 - シミュレーションとチュートリアル (プラクティスのシナリオ、擬似マルウェア、自動調査など) を確認します。
-- レポート作成と脅威分析の詳細。
+- レポート機能と脅威分析機能の概要。
 - Office 365 の ATP と Microsoft Defender ATP の統合。
 - Microsoft Defender セキュリティ センター ポータルのチュートリアルを実行します。
 
@@ -51,6 +51,7 @@ FastTrack サービスには含まれません:
    - Windows Server
    - macOS
    - Linux
+   - モバイルデバイス (Android および iOS)
 - 次の攻撃面の縮小機能の構成:
     - ハードウェア ベースの分離。
     - アプリケーション制御。
@@ -60,3 +61,4 @@ FastTrack サービスには含まれません:
 - API またはセキュリティ情報およびイベント管理 (SIEM) 接続を確認する構成やトレーニング。
 - Microsoft 脅威保護 (MTP) の登録または構成。
 - 高度な検出に関するトレーニングまたはガイダンス。
+- Kusto クエリの使用または作成をカバーするトレーニングまたはガイダンス。
