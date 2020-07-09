@@ -3,23 +3,23 @@ title: Office 365 US Government のオンボードと移行のフェーズ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 オンボード Office 365 US Government には、開始、評価、修復、および有効化という4つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 6ab44c470bdec34aeab2ae3514e479007f6df394
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 8d4e396694af010f4233a3aeb8cedd6237baf203
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472190"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011275"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US Government のオンボードと移行のフェーズ
 
-Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
+Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase as shown in the following figure.
   
 ![オンボーディング特典のフェーズ](media/O365-Onboarding-Phases.png)
   
@@ -38,7 +38,7 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
 2.    ランディングページの上部にある**クイックアクション**で [ **microsoft 365 のサポートを要求**する] を選択するか、または展開カードで [ **Microsoft 365 のアシスタンスを要求**する] を選択します。
 3. [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。 
 
-パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
 2.    **[顧客]** を選択します。
 3.    顧客を検索するか、顧客リストから選択します。
@@ -55,11 +55,11 @@ Office 365 オンボーディングには、開始、評価、修復、有効化
   
 ## <a name="assess-phase"></a>評価フェーズ
 
-FastTrack マネージャーは、採用チーム関係者との対話型の成功プランニング電話会議を実施します。これによって、購入した使用可能なサービスの機能、成功に必要な主要な基盤、サービスの利用状況を促進するための手法、サービスが価値を生み出すために使用できるシナリオがお客様に紹介されます。成功プランニングを援助し、必要に応じて主要な分野に関するフィードバックを提供します。
+Your FastTrack Manager conducts an interactive success planning call with you and your adoption team. This introduces you to the capabilities of the eligible services you purchased, the key foundations you need for success, the methodology for driving usage of the service, and scenarios you can use to get value from the services. We assist you in success planning and provide feedback on key areas (as needed).
   
 FastTrack のスペシャリストはお客様と作業し、ソース環境と要件を評価します。 お客様の環境に関するデータを収集し、帯域幅要件を推定し、インターネットブラウザー、クライアントオペレーティングシステム、ドメインネームシステム (DNS)、ネットワーク、インフラストラクチャ、および id システムを評価するためのツールを提供しています。これにより、変更がオンボードに必要かどうかを判断できます。 
   
-現在のセットアップ環境に基づいて、お使いのソース環境を Office 365 へと正常にオンボーディングするために (必要な場合にはメールボックス移行やデータ移行を正常に行うためにも) 必要な最低要件を満たすような修復プランを提供します。エンドユーザーの価値や採用を増やすための一連の推奨アクティビティを示します。また、修復フェーズのための適切なチェックポイント電話会議を設定します。
+Based on your current setup, we provide a remediation plan that brings your source environment up to the minimum requirements for successful onboarding to Office 365 and, if needed, for successful mailbox and/or data migration. We provide a set of suggested activities to increase end user value and adoption. We also set up appropriate checkpoint calls for the Remediate phase.
   
 ![評価フェーズのオンボーディング ステップ](media/O365.png)
   
@@ -69,7 +69,7 @@ FastTrack のスペシャリストはお客様と作業し、ソース環境と�
   
 ![修復フェーズ中のオンボーディング ステップ](media/O365-Onboarding-Remediate.png)
   
-また、エンド ユーザーの価値と採用を増やすための一連の推奨アクティビティを示します。有効化フェーズを開始する前に、修復アクティビティの結果を一緒に検証して、先に進む準備ができているかを確認します。 
+We also provide a set of suggested activities to increase end user value and adoption. Before beginning the Enable phase, we jointly verify the outcomes of the remediation activities to make sure you're ready to proceed. 
   
 このフェーズでは、FastTrack マネージャーと一緒に達成計画を立て、組織でサービスを利用できるようにし、サービスの利用状況を促進するうえで役立つ適切なリソースとベスト プラクティスについてお客様にガイダンスを提供します。
   
@@ -79,25 +79,25 @@ FastTrack のスペシャリストはお客様と作業し、ソース環境と�
   
 ## <a name="core"></a>コア
 
-コア オンボーディングには、サービスのプロビジョニングおよびテナントと ID の統合が含まれます。また、Exchange Online、SharePoint Online、Skype for Business Online などのオンボーディング サービスの基盤を提供する手順も含まれています。お客様と FastTrack マネージャーは継続してチェックポイント会議を開催し、目標に対する進捗状況を評価し、必要な追加の援助を判別します。
+Core onboarding involves service provisioning and tenant and identity integration. It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Skype for Business Online. You and your FastTrack Manager continue to have success planning checkpoint meetings to evaluate progress against your goals and determine what further assistance you need.
   
 ![有効化フェーズ中のコア オンボーディング ステップ_1](media/O365-Onboarding-Enable-Core.png)
   
 ![有効化フェーズ中のコア オンボーディング ステップ_2](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP は、Web アプリケーション プロキシ (Web Application Proxy) を略したものです。SSL は、Secure Sockets Layer を略したものです。SDS は、School Data Sync を略したものです。SDS の詳細については、「[Microsoft School Data Sync へようこそ](https://go.microsoft.com/fwlink/?linkid=871480)」を参照してください。 
+> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
   
 1 つ以上の対象サービスをオンボーディングする作業は、コア オンボーディングを終えてから開始できます。
   
 ## <a name="exchange-online"></a>Exchange Online
 
-Exchange Online の場合、組織がメールをすぐに使用できるようにするプロセスを案内します。正確な手順は、お客様のソース環境とメールの移行プランによって異なりますが、次の作業のガイダンス提供が含まれます。
+For Exchange Online, we guide you through the process to get your organization ready to use email. The exact steps, depending on your source environment and your email migration plans, can include providing guidance for:
   
 - Office 365 で検証される、メールが有効なすべてのドメインの Exchange Online Protection (EOP) 機能の設定。   
     > [!NOTE]
     > メール交換 (MX) レコードは、Office 365 をポイントする必要があります。   
-- MX レコードが Office 365 をポイントしたら、サブスクリプション サービスの一部である Exchange Online Advanced Threat Protection (ATP) 機能を設定する。この機能は、Exchange Online Protection のマルウェア対策の設定の一部として構成されます。   
+- Setting up the Exchange Online Advanced Threat Protection (ATP) feature if it's part of your subscription service once your MX records point to Office 365. This feature is configured as part of the Exchange Online Protection antimalware settings.   
 - ファイアウォール ポートの構成。   
 - DNS のセットアップ。必須の自動検出、Sender Policy Framework (SPF)、および MX レコード (必要な場合) が含まれます。     
 - ソース メッセージング環境と Exchange Online との間のメール フローをセットアップします (必要な場合)。   
@@ -183,7 +183,7 @@ Microsoft 365 アプリに関しては、次に示すガイダンスを提供し
 - クイック実行を使用した Office 365 ポータルからの Microsoft 365 アプリのインストール。    
 - iOS または Android デバイスへの Office モバイル アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 365 展開ツールを使用した更新設定の構成。    
-- Office 365 展開ツールで使用するための config.xml ファイルの作成に関するサポートを含む、Microsoft 365 アプリ用の単一のオンサイト配布サーバーのセットアップ。    
+- Office 365 展開ツールで使用する configuration.xml ファイルの作成に関するサポートを含む、Microsoft 365 アプリ用の単一のオンサイト配布サーバーのセットアップ。    
 - Microsoft Endpoint Configuration Manager パッケージの作成サポートを含む、Microsoft Endpoint Configuration Manager を使用した展開。
     
 ![Office ProPlus オンボーディング ステップ](media/o365-onboarding-enable-m365-apps-2.png)
