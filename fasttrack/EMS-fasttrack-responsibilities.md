@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,295 +14,295 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 62ed549ea78146541d0d4a2d860f02b15c02f44f
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 517e031793114328b8def0cd474e9e71ca54ee79
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471723"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011191"
 ---
-# <a name="fasttrack-responsibilities"></a><span data-ttu-id="29989-103">FastTrack の責任範囲</span><span class="sxs-lookup"><span data-stu-id="29989-103">FastTrack Responsibilities</span></span>
+# <a name="fasttrack-responsibilities"></a><span data-ttu-id="5398b-103">FastTrack の責任範囲</span><span class="sxs-lookup"><span data-stu-id="5398b-103">FastTrack Responsibilities</span></span>
 
-<span data-ttu-id="29989-104">FastTrack には、オンボーディング中に以下の責任があります。</span><span class="sxs-lookup"><span data-stu-id="29989-104">FastTrack has the following responsibilities during onboarding.</span></span>
+<span data-ttu-id="5398b-104">FastTrack には、オンボーディング中に以下の責任があります。</span><span class="sxs-lookup"><span data-stu-id="5398b-104">FastTrack has the following responsibilities during onboarding.</span></span>
 
-## <a name="general"></a><span data-ttu-id="29989-105">全般</span><span class="sxs-lookup"><span data-stu-id="29989-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="5398b-105">全般</span><span class="sxs-lookup"><span data-stu-id="5398b-105">General</span></span>
 
--   <span data-ttu-id="29989-106">必要な構成アクティビティのための遠隔サポートの提供。その内容については、フェーズの詳細な説明で詳述しています。</span><span class="sxs-lookup"><span data-stu-id="29989-106">Provide remote support assistance to you for the required configuration activities as listed in the detailed phase descriptions.</span></span>
+-   <span data-ttu-id="5398b-106">必要な構成アクティビティのための遠隔サポートの提供。その内容については、フェーズの詳細な説明で詳述しています。</span><span class="sxs-lookup"><span data-stu-id="5398b-106">Provide remote support assistance to you for the required configuration activities as listed in the detailed phase descriptions.</span></span>
 
--   <span data-ttu-id="29989-107">構成タスクを減らしたり省略したりするための、利用可能な説明書やソフトウェア ツール、管理コンソール、スクリプトを提供します。</span><span class="sxs-lookup"><span data-stu-id="29989-107">Provide available documentation, software tools and admin consoles to help you reduce or eliminate configuration tasks.</span></span>
+-   <span data-ttu-id="5398b-107">構成タスクを減らしたり省略したりするための、利用可能な説明書やソフトウェア ツール、管理コンソール、スクリプトを提供します。</span><span class="sxs-lookup"><span data-stu-id="5398b-107">Provide available documentation, software tools and admin consoles to help you reduce or eliminate configuration tasks.</span></span>
 
-## <a name="initiate-phase"></a><span data-ttu-id="29989-108">開始フェーズ</span><span class="sxs-lookup"><span data-stu-id="29989-108">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="5398b-108">開始フェーズ</span><span class="sxs-lookup"><span data-stu-id="5398b-108">Initiate phase</span></span>
 
--   <span data-ttu-id="29989-109">お客様と連携してオンボーディングを開始します。</span><span class="sxs-lookup"><span data-stu-id="29989-109">Work with you to begin onboarding.</span></span>
+-   <span data-ttu-id="5398b-109">お客様と連携してオンボーディングを開始します。</span><span class="sxs-lookup"><span data-stu-id="5398b-109">Work with you to begin onboarding.</span></span>
 
--   <span data-ttu-id="29989-110">オンボーディングする対象のサービスを選定します。</span><span class="sxs-lookup"><span data-stu-id="29989-110">Define which eligible services you want to onboard.</span></span>
+-   <span data-ttu-id="5398b-110">オンボーディングする対象のサービスを選定します。</span><span class="sxs-lookup"><span data-stu-id="5398b-110">Define which eligible services you want to onboard.</span></span>
 
-## <a name="assess-phase"></a><span data-ttu-id="29989-111">評価フェーズ</span><span class="sxs-lookup"><span data-stu-id="29989-111">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="5398b-111">評価フェーズ</span><span class="sxs-lookup"><span data-stu-id="5398b-111">Assess phase</span></span>
 
--   <span data-ttu-id="29989-112">管理上の概要を示します。</span><span class="sxs-lookup"><span data-stu-id="29989-112">Provide an administrative overview.</span></span>
+-   <span data-ttu-id="5398b-112">管理上の概要を示します。</span><span class="sxs-lookup"><span data-stu-id="5398b-112">Provide an administrative overview.</span></span>
 
--   <span data-ttu-id="29989-113">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="29989-113">Provide guidance about:</span></span>
+-   <span data-ttu-id="5398b-113">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="5398b-113">Provide guidance about:</span></span>
 
-    -   <span data-ttu-id="29989-114">DNS、ネットワーク、およびインフラストラクチャのニーズ。</span><span class="sxs-lookup"><span data-stu-id="29989-114">DNS, network, and infrastructure needs.</span></span>
+    -   <span data-ttu-id="5398b-114">DNS、ネットワーク、およびインフラストラクチャのニーズ。</span><span class="sxs-lookup"><span data-stu-id="5398b-114">DNS, network, and infrastructure needs.</span></span>
 
-    -   <span data-ttu-id="29989-115">クライアントのニーズ (インターネット ブラウザー、クライアント オペレーティング システム、およびサービスのニーズ)。</span><span class="sxs-lookup"><span data-stu-id="29989-115">Client needs (Internet browser, client operating system, and services' needs).</span></span>
+    -   <span data-ttu-id="5398b-115">クライアントのニーズ (インターネット ブラウザー、クライアント オペレーティング システム、およびサービスのニーズ)。</span><span class="sxs-lookup"><span data-stu-id="5398b-115">Client needs (Internet browser, client operating system, and services' needs).</span></span>
 
-    -   <span data-ttu-id="29989-116">ユーザー ID およびプロビジョニング</span><span class="sxs-lookup"><span data-stu-id="29989-116">User identity and provisioning.</span></span>
+    -   <span data-ttu-id="5398b-116">ユーザー ID およびプロビジョニング</span><span class="sxs-lookup"><span data-stu-id="5398b-116">User identity and provisioning.</span></span>
 
-    -   <span data-ttu-id="29989-117">購入済みの、オンボーディングの一部として規定されている対象サービスの有効化。</span><span class="sxs-lookup"><span data-stu-id="29989-117">Enabling eligible services that have been purchased and defined to be part of the onboarding.</span></span>
+    -   <span data-ttu-id="5398b-117">購入済みの、オンボーディングの一部として規定されている対象サービスの有効化。</span><span class="sxs-lookup"><span data-stu-id="5398b-117">Enabling eligible services that have been purchased and defined to be part of the onboarding.</span></span>
 
--   <span data-ttu-id="29989-118">修復アクティビティのタイムラインの設定。</span><span class="sxs-lookup"><span data-stu-id="29989-118">Establish the timeline for remediation activities.</span></span>
+-   <span data-ttu-id="5398b-118">修復アクティビティのタイムラインの設定。</span><span class="sxs-lookup"><span data-stu-id="5398b-118">Establish the timeline for remediation activities.</span></span>
 
--   <span data-ttu-id="29989-119">Intune、Azure AD Premium の両方に関する修復チェックリストの提供。</span><span class="sxs-lookup"><span data-stu-id="29989-119">Provide a remediation checklist for both Intune and Azure AD Premium.</span></span>
+-   <span data-ttu-id="5398b-119">Intune、Azure AD Premium の両方に関する修復チェックリストの提供。</span><span class="sxs-lookup"><span data-stu-id="5398b-119">Provide a remediation checklist for both Intune and Azure AD Premium.</span></span>
 
-## <a name="remediate-phase"></a><span data-ttu-id="29989-120">修復フェーズ</span><span class="sxs-lookup"><span data-stu-id="29989-120">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="5398b-120">修復フェーズ</span><span class="sxs-lookup"><span data-stu-id="5398b-120">Remediate phase</span></span>
 
--   <span data-ttu-id="29989-121">同意済みのスケジュールに従って電話会議を行い、修復アクティビティの進捗状況を確認します。たとえば、Microsoft クラウド サービスのオンボーディングに先立つインストールの前提条件のガイダンスなどを提供します。</span><span class="sxs-lookup"><span data-stu-id="29989-121">Hold conference calls with you according to the agreed-upon schedule to review the progress of the remediation activities, for example, guide you through installation pre-requisites prior onboarding a Microsoft cloud service.</span></span>
+-   <span data-ttu-id="5398b-121">同意済みのスケジュールに従って電話会議を行い、修復アクティビティの進捗状況を確認します。たとえば、Microsoft クラウド サービスのオンボーディングに先立つインストールの前提条件のガイダンスなどを提供します。</span><span class="sxs-lookup"><span data-stu-id="5398b-121">Hold conference calls with you according to the agreed-upon schedule to review the progress of the remediation activities, for example, guide you through installation pre-requisites prior onboarding a Microsoft cloud service.</span></span>
 
-## <a name="enable-phase"></a><span data-ttu-id="29989-122">有効化フェーズ</span><span class="sxs-lookup"><span data-stu-id="29989-122">Enable phase</span></span>
-<span data-ttu-id="29989-123">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="29989-123">Provide guidance about:</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="5398b-122">有効化フェーズ</span><span class="sxs-lookup"><span data-stu-id="5398b-122">Enable phase</span></span>
+<span data-ttu-id="5398b-123">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="5398b-123">Provide guidance about:</span></span>
 
--   <span data-ttu-id="29989-124">Microsoft オンライン サービスのテナントまたはサブスクリプションのライセンス認証。</span><span class="sxs-lookup"><span data-stu-id="29989-124">Activating your Microsoft online service tenant or subscription.</span></span>
+-   <span data-ttu-id="5398b-124">Microsoft オンライン サービスのテナントまたはサブスクリプションのライセンス認証。</span><span class="sxs-lookup"><span data-stu-id="5398b-124">Activating your Microsoft online service tenant or subscription.</span></span>
 
--   <span data-ttu-id="29989-125">TCP/IP プロトコルとファイアウォール ポートの構成。</span><span class="sxs-lookup"><span data-stu-id="29989-125">Configuring TCP/IP protocols and firewall ports.</span></span>
+-   <span data-ttu-id="5398b-125">TCP/IP プロトコルとファイアウォール ポートの構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-125">Configuring TCP/IP protocols and firewall ports.</span></span>
 
--   <span data-ttu-id="29989-126">対象サービスの DNS の構成。</span><span class="sxs-lookup"><span data-stu-id="29989-126">Configuring DNS for eligible services.</span></span>
+-   <span data-ttu-id="5398b-126">対象サービスの DNS の構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-126">Configuring DNS for eligible services.</span></span>
 
--   <span data-ttu-id="29989-127">Microsoft オンライン サービスへの接続の検証。</span><span class="sxs-lookup"><span data-stu-id="29989-127">Validating connectivity to Microsoft online services.</span></span>
+-   <span data-ttu-id="5398b-127">Microsoft オンライン サービスへの接続の検証。</span><span class="sxs-lookup"><span data-stu-id="5398b-127">Validating connectivity to Microsoft online services.</span></span>
 
--   <span data-ttu-id="29989-128">フォレスト環境が 1 つの場合:</span><span class="sxs-lookup"><span data-stu-id="29989-128">For a single-forest environment:</span></span>
+-   <span data-ttu-id="5398b-128">フォレスト環境が 1 つの場合:</span><span class="sxs-lookup"><span data-stu-id="5398b-128">For a single-forest environment:</span></span>
 
-    -   <span data-ttu-id="29989-129">Active Directory Domain Services (AD DS) と対象の Microsoft オンライン サービスとの間へのディレクトリ同期サーバーの設置 (必要な場合は、ガイダンスのみ提供)。</span><span class="sxs-lookup"><span data-stu-id="29989-129">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and the eligible Microsoft online services (only guidance if required).</span></span>
+    -   <span data-ttu-id="5398b-129">Active Directory Domain Services (AD DS) と対象の Microsoft オンライン サービスとの間へのディレクトリ同期サーバーの設置 (必要な場合は、ガイダンスのみ提供)。</span><span class="sxs-lookup"><span data-stu-id="5398b-129">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and the eligible Microsoft online services (only guidance if required).</span></span>
 
-    -   <span data-ttu-id="29989-130">Azure Active Directory Connect ツールを使用した、管理対象の認証 (パスワード ハッシュの同期またはパススルー認証) の構成。</span><span class="sxs-lookup"><span data-stu-id="29989-130">Configuring managed authentication (Password Hash Sync or Pass-through Authentication) with the Azure Active Directory Connect tool.</span></span> <span data-ttu-id="29989-131">(必要な場合は、ガイダンスのみ提供)。</span><span class="sxs-lookup"><span data-stu-id="29989-131">(only guidance if required).</span></span>
+    -   <span data-ttu-id="5398b-130">Azure Active Directory Connect ツールを使用した、管理対象の認証 (パスワード ハッシュの同期またはパススルー認証) の構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-130">Configuring managed authentication (Password Hash Sync or Pass-through Authentication) with the Azure Active Directory Connect tool.</span></span> <span data-ttu-id="5398b-131">(必要な場合は、ガイダンスのみ提供)。</span><span class="sxs-lookup"><span data-stu-id="5398b-131">(only guidance if required).</span></span>
 
         > [!NOTE]
-        > <span data-ttu-id="29989-132">カスタム ルール拡張機能の開発と実装は対象外です。</span><span class="sxs-lookup"><span data-stu-id="29989-132">Development and implementation for custom rules extensions are out of scope.</span></span>
+        > <span data-ttu-id="5398b-132">カスタム ルール拡張機能の開発と実装は対象外です。</span><span class="sxs-lookup"><span data-stu-id="5398b-132">Development and implementation for custom rules extensions are out of scope.</span></span>
 
--   <span data-ttu-id="29989-133">フォレストが 1 つで、対象がフェデレーション ID の場合: 単一サイトのフォールト トレラント構成における Intune を使用したローカル ドメイン認証用の、 Active Directory フェデレーション サービス (AD FS) のインストールおよび構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="29989-133">For a single forest when the target is federated identities: Installing and configuring Active Directory Federation Services (AD FS) for local domain authentication with Intune in a single-site, fault-tolerant configuration, if required.</span></span>
+-   <span data-ttu-id="5398b-133">フォレストが 1 つで、対象がフェデレーション ID の場合: 単一サイトのフォールト トレラント構成における Intune を使用したローカル ドメイン認証用の、 Active Directory フェデレーション サービス (AD FS) のインストールおよび構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="5398b-133">For a single forest when the target is federated identities: Installing and configuring Active Directory Federation Services (AD FS) for local domain authentication with Intune in a single-site, fault-tolerant configuration, if required.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="29989-134">フォレストが複数あるすべての構成において、ADFS の展開は対象外です。</span><span class="sxs-lookup"><span data-stu-id="29989-134">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
+    > <span data-ttu-id="5398b-134">フォレストが複数あるすべての構成において、ADFS の展開は対象外です。</span><span class="sxs-lookup"><span data-stu-id="5398b-134">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
 
--   <span data-ttu-id="29989-135">シングル サインオン (SSO) 機能のテスト (展開されている場合)。</span><span class="sxs-lookup"><span data-stu-id="29989-135">Testing single sign-on (SSO) functionality, if deployed.</span></span>
+-   <span data-ttu-id="5398b-135">シングル サインオン (SSO) 機能のテスト (展開されている場合)。</span><span class="sxs-lookup"><span data-stu-id="5398b-135">Testing single sign-on (SSO) functionality, if deployed.</span></span>
 
-### <a name="enable-phase---microsoft-azure-active-directory-premium"></a><span data-ttu-id="29989-136">有効化フェーズ - Microsoft Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="29989-136">Enable phase - Microsoft Azure Active Directory Premium</span></span>
+### <a name="enable-phase---microsoft-azure-active-directory-premium"></a><span data-ttu-id="5398b-136">有効化フェーズ - Microsoft Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="5398b-136">Enable phase - Microsoft Azure Active Directory Premium</span></span>
 
-<span data-ttu-id="29989-137">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="29989-137">Provide guidance about:</span></span>
+<span data-ttu-id="5398b-137">次の点に関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="5398b-137">Provide guidance about:</span></span>
 
-- <span data-ttu-id="29989-138">Azure AD Premium テナントのアクティブ化。</span><span class="sxs-lookup"><span data-stu-id="29989-138">Activating your Azure AD Premium tenant.</span></span>
+- <span data-ttu-id="5398b-138">Azure AD Premium テナントのアクティブ化。</span><span class="sxs-lookup"><span data-stu-id="5398b-138">Activating your Azure AD Premium tenant.</span></span>
 
-- <span data-ttu-id="29989-139">ファイアウォール ポートの構成。</span><span class="sxs-lookup"><span data-stu-id="29989-139">Configuring firewall ports.</span></span>
+- <span data-ttu-id="5398b-139">ファイアウォール ポートの構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-139">Configuring firewall ports.</span></span>
 
-- <span data-ttu-id="29989-140">対象サービスの DNS の構成。</span><span class="sxs-lookup"><span data-stu-id="29989-140">Configuring DNS for eligible services.</span></span>
+- <span data-ttu-id="5398b-140">対象サービスの DNS の構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-140">Configuring DNS for eligible services.</span></span>
 
-- <span data-ttu-id="29989-141">Azure AD Premium サービスへの接続の検証。</span><span class="sxs-lookup"><span data-stu-id="29989-141">Validating connectivity to Azure AD Premium services.</span></span>
+- <span data-ttu-id="5398b-141">Azure AD Premium サービスへの接続の検証。</span><span class="sxs-lookup"><span data-stu-id="5398b-141">Validating connectivity to Azure AD Premium services.</span></span>
 
-- <span data-ttu-id="29989-142">フォレスト環境が 1 つの場合:</span><span class="sxs-lookup"><span data-stu-id="29989-142">For a single-forest environment:</span></span>
+- <span data-ttu-id="5398b-142">フォレスト環境が 1 つの場合:</span><span class="sxs-lookup"><span data-stu-id="5398b-142">For a single-forest environment:</span></span>
 
-  -   <span data-ttu-id="29989-143">Active Directory Domain Services (AD DS) と Azure AD Connect との間へのディレクトリ同期の設置 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="29989-143">Installing a directory synchronization between your Active Directory Domain Services (AD DS) and Azure AD Connect, if required.</span></span>
+  -   <span data-ttu-id="5398b-143">Active Directory Domain Services (AD DS) と Azure AD Connect との間へのディレクトリ同期の設置 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="5398b-143">Installing a directory synchronization between your Active Directory Domain Services (AD DS) and Azure AD Connect, if required.</span></span>
 
-  -   <span data-ttu-id="29989-144">Azure AD Connect ツールを使用した、認証方法 (パスワード ハッシュの同期またはパススルー認証) の構成。</span><span class="sxs-lookup"><span data-stu-id="29989-144">Configuring an authentication method (Password Hash Sync or Pass-Through Authentication) with the Azure AD Connect tool.</span></span>
+  -   <span data-ttu-id="5398b-144">Azure AD Connect ツールを使用した、認証方法 (パスワード ハッシュの同期またはパススルー認証) の構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-144">Configuring an authentication method (Password Hash Sync or Pass-Through Authentication) with the Azure AD Connect tool.</span></span>
 
-- <span data-ttu-id="29989-145">フォレスト環境が複数の場合:</span><span class="sxs-lookup"><span data-stu-id="29989-145">For a multiple-forest environment:</span></span>
+- <span data-ttu-id="5398b-145">フォレスト環境が複数の場合:</span><span class="sxs-lookup"><span data-stu-id="5398b-145">For a multiple-forest environment:</span></span>
 
-  -   <span data-ttu-id="29989-146">Azure AD Connect の同期のインストール、複数のフォレスト シナリオ用の設定。</span><span class="sxs-lookup"><span data-stu-id="29989-146">Installing Azure AD Connect synchronization, set up for multiple forest scenarios.</span></span>
-- <span data-ttu-id="29989-147">単一フォレスト環境および複数フォレスト環境:</span><span class="sxs-lookup"><span data-stu-id="29989-147">For single- and multiple-forest environments:</span></span>
-  - <span data-ttu-id="29989-148">Azure Active Directory パススルー認証の構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="29989-148">Configuring Azure Active Directory Pass-through Authentication, if required.</span></span>
-  - <span data-ttu-id="29989-149">Azure Active Directory シームレス シングル サインオン (SSO) の構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="29989-149">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required.</span></span>
+  -   <span data-ttu-id="5398b-146">Azure AD Connect の同期のインストール、複数のフォレスト シナリオ用の設定。</span><span class="sxs-lookup"><span data-stu-id="5398b-146">Installing Azure AD Connect synchronization, set up for multiple forest scenarios.</span></span>
+- <span data-ttu-id="5398b-147">単一フォレスト環境および複数フォレスト環境:</span><span class="sxs-lookup"><span data-stu-id="5398b-147">For single- and multiple-forest environments:</span></span>
+  - <span data-ttu-id="5398b-148">Azure Active Directory パススルー認証の構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="5398b-148">Configuring Azure Active Directory Pass-through Authentication, if required.</span></span>
+  - <span data-ttu-id="5398b-149">Azure Active Directory シームレス シングル サインオン (SSO) の構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="5398b-149">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required.</span></span>
     > [!NOTE]
-    > <span data-ttu-id="29989-150">複数フォレスト環境の Azure Active Directory パススルー認証は、Active Directory フォレスト間にフォレストの信頼があり、名前サフィックスのルーティングが正しく構成されている場合にサポートされます。</span><span class="sxs-lookup"><span data-stu-id="29989-150">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured.</span></span> <span data-ttu-id="29989-151">追加のエージェントは、サインイン要求の高可用性を提供するために、複数のオンプレミスのサーバーにインストールできます。</span><span class="sxs-lookup"><span data-stu-id="29989-151">Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests.</span></span>
+    > <span data-ttu-id="5398b-150">複数フォレスト環境の Azure Active Directory パススルー認証は、Active Directory フォレスト間にフォレストの信頼があり、名前サフィックスのルーティングが正しく構成されている場合にサポートされます。</span><span class="sxs-lookup"><span data-stu-id="5398b-150">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured.</span></span> <span data-ttu-id="5398b-151">追加のエージェントは、サインイン要求の高可用性を提供するために、複数のオンプレミスのサーバーにインストールできます。</span><span class="sxs-lookup"><span data-stu-id="5398b-151">Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests.</span></span>
 
-  - <span data-ttu-id="29989-152">詳細については、「[Azure Active Directory パススルー認証:クイック スタート](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites)」および「[Azure Active Directory シームレス シングル サインオン:クイック スタート](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="29989-152">For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).</span></span>
-  - <span data-ttu-id="29989-153">パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証: 現在の制限事項](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="29989-153">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).</span></span>
-  - <span data-ttu-id="29989-154">SSO の問題の詳細については、「[Azure Active Directory シームレス シングル サインオンのトラブルシューティングを行う](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="29989-154">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).</span></span>
+  - <span data-ttu-id="5398b-152">詳細については、「[Azure Active Directory パススルー認証:クイック スタート](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites)」および「[Azure Active Directory シームレス シングル サインオン:クイック スタート](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="5398b-152">For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).</span></span>
+  - <span data-ttu-id="5398b-153">パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証: 現在の制限事項](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="5398b-153">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).</span></span>
+  - <span data-ttu-id="5398b-154">SSO の問題の詳細については、「[Azure Active Directory シームレス シングル サインオンのトラブルシューティングを行う](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="5398b-154">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).</span></span>
 
       > [!NOTE]
-      > <span data-ttu-id="29989-155">パスワード ハッシュの同期およびパスワード ライトバックは複数のフォレストをサポートします。</span><span class="sxs-lookup"><span data-stu-id="29989-155">Password hash sync and password writeback support multiple forests.</span></span> <span data-ttu-id="29989-156">ただし、その他のライトバックのシナリオはサポートされていません。</span><span class="sxs-lookup"><span data-stu-id="29989-156">However, other writeback scenarios aren't supported.</span></span>
+      > <span data-ttu-id="5398b-155">パスワード ハッシュの同期およびパスワード ライトバックは複数のフォレストをサポートします。</span><span class="sxs-lookup"><span data-stu-id="5398b-155">Password hash sync and password writeback support multiple forests.</span></span> <span data-ttu-id="5398b-156">ただし、その他のライトバックのシナリオはサポートされていません。</span><span class="sxs-lookup"><span data-stu-id="5398b-156">However, other writeback scenarios aren't supported.</span></span>
 
-  - <span data-ttu-id="29989-157">オンプレミスの Active Directory フォレストと Microsoft Azure Active Directory Premium ディレクトリ (Azure Active Directory) との間の同期の構成。</span><span class="sxs-lookup"><span data-stu-id="29989-157">Configuring synchronization between on-premises Active Directory forests and Microsoft Azure Active Directory Premium directory (Azure Active Directory).</span></span>
+  - <span data-ttu-id="5398b-157">オンプレミスの Active Directory フォレストと Microsoft Azure Active Directory Premium ディレクトリ (Azure Active Directory) との間の同期の構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-157">Configuring synchronization between on-premises Active Directory forests and Microsoft Azure Active Directory Premium directory (Azure Active Directory).</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="29989-158">カスタム ルール拡張機能の開発と実装は対象外です。</span><span class="sxs-lookup"><span data-stu-id="29989-158">Development and implementation for custom rules extensions are out of scope.</span></span>
+    > <span data-ttu-id="5398b-158">カスタム ルール拡張機能の開発と実装は対象外です。</span><span class="sxs-lookup"><span data-stu-id="5398b-158">Development and implementation for custom rules extensions are out of scope.</span></span>
 
-- <span data-ttu-id="29989-159">フォレストが 1 つで、対象がフェデレーション ID の場合:</span><span class="sxs-lookup"><span data-stu-id="29989-159">For a single forest when the target is federated identities:</span></span>
+- <span data-ttu-id="5398b-159">フォレストが 1 つで、対象がフェデレーション ID の場合:</span><span class="sxs-lookup"><span data-stu-id="5398b-159">For a single forest when the target is federated identities:</span></span>
 
-  -   <span data-ttu-id="29989-160">1 つのサイトのフォールト トレラント構成における、 Azure AD Premium を使用した、ローカル ドメイン認証用の AD FS のインストールと構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="29989-160">Installing and configuring AD FS for local domain authentication with Azure AD Premium in a single-site, fault-tolerant configuration (if required).</span></span>
+  -   <span data-ttu-id="5398b-160">1 つのサイトのフォールト トレラント構成における、 Azure AD Premium を使用した、ローカル ドメイン認証用の AD FS のインストールと構成 (必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="5398b-160">Installing and configuring AD FS for local domain authentication with Azure AD Premium in a single-site, fault-tolerant configuration (if required).</span></span>
 
   > [!NOTE]
-  > <span data-ttu-id="29989-161">フォレストが複数あるすべての構成において、ADFS の展開は対象外です。</span><span class="sxs-lookup"><span data-stu-id="29989-161">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
+  > <span data-ttu-id="5398b-161">フォレストが複数あるすべての構成において、ADFS の展開は対象外です。</span><span class="sxs-lookup"><span data-stu-id="5398b-161">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
 
-- <span data-ttu-id="29989-162">SSO 機能のテスト (展開されている場合)。</span><span class="sxs-lookup"><span data-stu-id="29989-162">Testing SSO functionality (if deployed).</span></span>
+- <span data-ttu-id="5398b-162">SSO 機能のテスト (展開されている場合)。</span><span class="sxs-lookup"><span data-stu-id="5398b-162">Testing SSO functionality (if deployed).</span></span>
 
-### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a><span data-ttu-id="29989-163">有効化フェーズ - Azure Ad Connect - Azure AD Connect および AD FS を使用</span><span class="sxs-lookup"><span data-stu-id="29989-163">Enable phase - Azure AD Premium - with Azure AD Connect and AD FS</span></span>
+### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a><span data-ttu-id="5398b-163">有効化フェーズ - Azure Ad Connect - Azure AD Connect および AD FS を使用</span><span class="sxs-lookup"><span data-stu-id="5398b-163">Enable phase - Azure AD Premium - with Azure AD Connect and AD FS</span></span>
 
-<span data-ttu-id="29989-164">セットアップに関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="29989-164">Provide guidance about setting up:</span></span>
+<span data-ttu-id="5398b-164">セットアップに関するガイダンスを行います。</span><span class="sxs-lookup"><span data-stu-id="5398b-164">Provide guidance about setting up:</span></span>
 
-- <span data-ttu-id="29989-165">ライセンス認証を含むユーザー プロビジョニング。</span><span class="sxs-lookup"><span data-stu-id="29989-165">User provisioning, including licensing.</span></span>
+- <span data-ttu-id="5398b-165">ライセンス認証を含むユーザー プロビジョニング。</span><span class="sxs-lookup"><span data-stu-id="5398b-165">User provisioning, including licensing.</span></span>
 
-- <span data-ttu-id="29989-166">Azure AD Connect ディレクトリ同期 (パスワード ライトバックおよびパスワード ハッシュ同期を使用)。</span><span class="sxs-lookup"><span data-stu-id="29989-166">Azure AD Connect directory synchronization (with password writeback and password hash sync).</span></span>
+- <span data-ttu-id="5398b-166">Azure AD Connect ディレクトリ同期 (パスワード ライトバックおよびパスワード ハッシュ同期を使用)。</span><span class="sxs-lookup"><span data-stu-id="5398b-166">Azure AD Connect directory synchronization (with password writeback and password hash sync).</span></span>
 
-  - <span data-ttu-id="29989-167">Azure Active Directory セルフサービスによるパスワードのリセット (SSPR)。</span><span class="sxs-lookup"><span data-stu-id="29989-167">Azure Active Directory Self Service Password Reset (SSPR).</span></span>
+  - <span data-ttu-id="5398b-167">Azure Active Directory セルフサービスによるパスワードのリセット (SSPR)。</span><span class="sxs-lookup"><span data-stu-id="5398b-167">Azure Active Directory Self Service Password Reset (SSPR).</span></span>
 
-  - <span data-ttu-id="29989-168">Azure Multi-Factor Authentication。</span><span class="sxs-lookup"><span data-stu-id="29989-168">Azure Multi-Factor Authentication.</span></span>
+  - <span data-ttu-id="5398b-168">Azure Multi-Factor Authentication。</span><span class="sxs-lookup"><span data-stu-id="5398b-168">Azure Multi-Factor Authentication.</span></span>
 
-  - <span data-ttu-id="29989-169">最大 3 つ (またはそれ以上) のサービスとしてのソフトウェア (SaaS) アプリケーションの、[Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/) からのシングル サインオン (SSO) との統合。</span><span class="sxs-lookup"><span data-stu-id="29989-169">Up to three (3) or more Software as a Service (SaaS) application integrations with Single Sign-On (SSO) from the [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).</span></span>
+  - <span data-ttu-id="5398b-169">最大 3 つ (またはそれ以上) のサービスとしてのソフトウェア (SaaS) アプリケーションの、[Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/) からのシングル サインオン (SSO) との統合。</span><span class="sxs-lookup"><span data-stu-id="5398b-169">Up to three (3) or more Software as a Service (SaaS) application integrations with Single Sign-On (SSO) from the [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).</span></span>
 
-  - <span data-ttu-id="29989-170">「[アプリ統合に関するチュートリアルのリスト](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)」に記載される、事前統合された SaaS アプリケーションでの自動ユーザープロビジョニン (外向きプロビジョニングのみに制限されています)。</span><span class="sxs-lookup"><span data-stu-id="29989-170">Automatic user provisioning for pre-integrated SaaS applications as listed in the [App integration tutorial list](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list), limited to outbound provisioning only.</span></span>
+  - <span data-ttu-id="5398b-170">「[アプリ統合に関するチュートリアルのリスト](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)」に記載される、事前統合された SaaS アプリケーションでの自動ユーザープロビジョニン (外向きプロビジョニングのみに制限されています)。</span><span class="sxs-lookup"><span data-stu-id="5398b-170">Automatic user provisioning for pre-integrated SaaS applications as listed in the [App integration tutorial list](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list), limited to outbound provisioning only.</span></span>
 
-  - <span data-ttu-id="29989-171">ロゴ、テキスト、画像などを含む、カスタマイズされたログオン画面。</span><span class="sxs-lookup"><span data-stu-id="29989-171">Customized logon screen, including logo, text, and images.</span></span>
+  - <span data-ttu-id="5398b-171">ロゴ、テキスト、画像などを含む、カスタマイズされたログオン画面。</span><span class="sxs-lookup"><span data-stu-id="5398b-171">Customized logon screen, including logo, text, and images.</span></span>
 
-  - <span data-ttu-id="29989-172">セルフサービスと動的グループ (グループ)。</span><span class="sxs-lookup"><span data-stu-id="29989-172">Self-Service and Dynamic Groups (Groups).</span></span>
+  - <span data-ttu-id="5398b-172">セルフサービスと動的グループ (グループ)。</span><span class="sxs-lookup"><span data-stu-id="5398b-172">Self-Service and Dynamic Groups (Groups).</span></span>
 
-  - <span data-ttu-id="29989-173">Azure Active Directory アプリケーション プロキシ。</span><span class="sxs-lookup"><span data-stu-id="29989-173">Azure Active Directory Application Proxy.</span></span>
+  - <span data-ttu-id="5398b-173">Azure Active Directory アプリケーション プロキシ。</span><span class="sxs-lookup"><span data-stu-id="5398b-173">Azure Active Directory Application Proxy.</span></span>
 
-  - <span data-ttu-id="29989-174">Azure Active Directory Connect Health。</span><span class="sxs-lookup"><span data-stu-id="29989-174">Azure Active Directory Connect Health.</span></span>
+  - <span data-ttu-id="5398b-174">Azure Active Directory Connect Health。</span><span class="sxs-lookup"><span data-stu-id="5398b-174">Azure Active Directory Connect Health.</span></span>
 
-  - <span data-ttu-id="29989-175">Azure Active Directory の条件付きアクセス。</span><span class="sxs-lookup"><span data-stu-id="29989-175">Azure Active Directory Conditional Access.</span></span>
+  - <span data-ttu-id="5398b-175">Azure Active Directory の条件付きアクセス。</span><span class="sxs-lookup"><span data-stu-id="5398b-175">Azure Active Directory Conditional Access.</span></span>
 
-  - <span data-ttu-id="29989-176">Azure Active Directory の利用規約。</span><span class="sxs-lookup"><span data-stu-id="29989-176">Azure Active Directory Terms of Use.</span></span>
+  - <span data-ttu-id="5398b-176">Azure Active Directory の利用規約。</span><span class="sxs-lookup"><span data-stu-id="5398b-176">Azure Active Directory Terms of Use.</span></span>
 
-  - <span data-ttu-id="29989-177">Azure Active Directory Identity Protection。</span><span class="sxs-lookup"><span data-stu-id="29989-177">Azure Active Directory Identity Protection.</span></span>
+  - <span data-ttu-id="5398b-177">Azure Active Directory Identity Protection。</span><span class="sxs-lookup"><span data-stu-id="5398b-177">Azure Active Directory Identity Protection.</span></span>
 
-  - <span data-ttu-id="29989-178">Azure Active Directory Privileged Identity Management。</span><span class="sxs-lookup"><span data-stu-id="29989-178">Azure Active Directory Privileged Identity Management.</span></span>
+  - <span data-ttu-id="5398b-178">Azure Active Directory Privileged Identity Management。</span><span class="sxs-lookup"><span data-stu-id="5398b-178">Azure Active Directory Privileged Identity Management.</span></span>
 
-  - <span data-ttu-id="29989-179">Azure Active Directory アクセス レビュー。</span><span class="sxs-lookup"><span data-stu-id="29989-179">Azure Active Directory Access Reviews.</span></span>
+  - <span data-ttu-id="5398b-179">Azure Active Directory アクセス レビュー。</span><span class="sxs-lookup"><span data-stu-id="5398b-179">Azure Active Directory Access Reviews.</span></span>
 
-  -   <span data-ttu-id="29989-180">Azure Active Directory のパスワード保護。</span><span class="sxs-lookup"><span data-stu-id="29989-180">Azure Active Directory Password Protection.</span></span>
+  -   <span data-ttu-id="5398b-180">Azure Active Directory のパスワード保護。</span><span class="sxs-lookup"><span data-stu-id="5398b-180">Azure Active Directory Password Protection.</span></span>
 
-  -   <span data-ttu-id="29989-181">Azure Active Directory B2B。</span><span class="sxs-lookup"><span data-stu-id="29989-181">Azure Active Directory B2B.</span></span>
+  -   <span data-ttu-id="5398b-181">Azure Active Directory B2B。</span><span class="sxs-lookup"><span data-stu-id="5398b-181">Azure Active Directory B2B.</span></span>
 
-### <a name="enable-phase---intune"></a><span data-ttu-id="29989-182">有効化フェーズ - Intune</span><span class="sxs-lookup"><span data-stu-id="29989-182">Enable phase - Intune</span></span>
+### <a name="enable-phase---intune"></a><span data-ttu-id="5398b-182">有効化フェーズ - Intune</span><span class="sxs-lookup"><span data-stu-id="5398b-182">Enable phase - Intune</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="29989-183">FastTrack では、Intune を使用した Windows 10 の従来の PC 管理をサポートしていません。</span><span class="sxs-lookup"><span data-stu-id="29989-183">FastTrack does not support Windows 10 classic PC management with Intune.</span></span> <span data-ttu-id="29989-184">FastTrack では、Intune モバイル デバイス管理 (MDM) を経由する Windows 10 の管理のみがサポートされます。</span><span class="sxs-lookup"><span data-stu-id="29989-184">FastTrack only supports Windows 10 management through Intune mobile device management (MDM).</span></span>
+> <span data-ttu-id="5398b-183">FastTrack では、Intune を使用した Windows 10 の従来の PC 管理をサポートしていません。</span><span class="sxs-lookup"><span data-stu-id="5398b-183">FastTrack does not support Windows 10 classic PC management with Intune.</span></span> <span data-ttu-id="5398b-184">FastTrack では、Intune モバイル デバイス管理 (MDM) を経由する Windows 10 の管理のみがサポートされます。</span><span class="sxs-lookup"><span data-stu-id="5398b-184">FastTrack only supports Windows 10 management through Intune mobile device management (MDM).</span></span>
 
-<span data-ttu-id="29989-185">次のような内容のガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="29989-185">Provide guidance on:</span></span>
+<span data-ttu-id="5398b-185">次のような内容のガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="5398b-185">Provide guidance on:</span></span>
 
--   <span data-ttu-id="29989-186">オンプレミスの Active Directory またはクラウド ID (Azure Active Directory) を利用した、Intune で使用する ID の構成。</span><span class="sxs-lookup"><span data-stu-id="29989-186">Configuring identities to be used by Intune, by either leveraging your on-premises Active Directory or cloud identities (Azure Active Directory).</span></span>
+-   <span data-ttu-id="5398b-186">オンプレミスの Active Directory またはクラウド ID (Azure Active Directory) を利用した、Intune で使用する ID の構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-186">Configuring identities to be used by Intune, by either leveraging your on-premises Active Directory or cloud identities (Azure Active Directory).</span></span>
 
--   <span data-ttu-id="29989-187">エンド ユーザーのライセンス認証。</span><span class="sxs-lookup"><span data-stu-id="29989-187">Licensing your end users.</span></span>
+-   <span data-ttu-id="5398b-187">エンド ユーザーのライセンス認証。</span><span class="sxs-lookup"><span data-stu-id="5398b-187">Licensing your end users.</span></span>
 
--   <span data-ttu-id="29989-188">Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成。</span><span class="sxs-lookup"><span data-stu-id="29989-188">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
+-   <span data-ttu-id="5398b-188">Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成。</span><span class="sxs-lookup"><span data-stu-id="5398b-188">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
 
--   <span data-ttu-id="29989-189">管理ニーズに応じた、以下を含むモバイル デバイス管理 (MDM) 機関の構成。</span><span class="sxs-lookup"><span data-stu-id="29989-189">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
+-   <span data-ttu-id="5398b-189">管理ニーズに応じた、以下を含むモバイル デバイス管理 (MDM) 機関の構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-189">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
 
-    -   <span data-ttu-id="29989-190">Intune を MDM 機関として設定。</span><span class="sxs-lookup"><span data-stu-id="29989-190">Setting Intune as your MDM authority.</span></span>
+    -   <span data-ttu-id="5398b-190">Intune を MDM 機関として設定。</span><span class="sxs-lookup"><span data-stu-id="5398b-190">Setting Intune as your MDM authority.</span></span>
 
-    -   <span data-ttu-id="29989-191">MDM 管理ポリシーの検証に使用するテストグループの構成。</span><span class="sxs-lookup"><span data-stu-id="29989-191">Configuring tests groups to be used to validate MDM management policies.</span></span>
+    -   <span data-ttu-id="5398b-191">MDM 管理ポリシーの検証に使用するテストグループの構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-191">Configuring tests groups to be used to validate MDM management policies.</span></span>
 
-    -   <span data-ttu-id="29989-192">ユーザーとデバイスに関する情報を見つけるための、Intune 管理 ポータル内の移動。</span><span class="sxs-lookup"><span data-stu-id="29989-192">Navigating the Intune admin portal to locate information on users and devices.</span></span>
+    -   <span data-ttu-id="5398b-192">ユーザーとデバイスに関する情報を見つけるための、Intune 管理 ポータル内の移動。</span><span class="sxs-lookup"><span data-stu-id="5398b-192">Navigating the Intune admin portal to locate information on users and devices.</span></span>
 
-    -   <span data-ttu-id="29989-193">Intune の役割 (ヘルプ デスク オペレーター、管理者など) のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="29989-193">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
+    -   <span data-ttu-id="5398b-193">Intune の役割 (ヘルプ デスク オペレーター、管理者など) のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="5398b-193">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
 
-    -   <span data-ttu-id="29989-194">以下のような、MDM 管理ポリシーとサービスの構成:</span><span class="sxs-lookup"><span data-stu-id="29989-194">Configuring MDM management policies and services like:</span></span>
+    -   <span data-ttu-id="5398b-194">以下のような、MDM 管理ポリシーとサービスの構成:</span><span class="sxs-lookup"><span data-stu-id="5398b-194">Configuring MDM management policies and services like:</span></span>
 
-        -   <span data-ttu-id="29989-195">Web リンク、MSI、および/またはディープ リンクを介した、サポートされている各プラットフォームでのアプリの展開。</span><span class="sxs-lookup"><span data-stu-id="29989-195">App deployment for each supported platform through web links, MSI and/or deep links.</span></span>
+        -   <span data-ttu-id="5398b-195">Web リンク、MSI、および/またはディープ リンクを介した、サポートされている各プラットフォームでのアプリの展開。</span><span class="sxs-lookup"><span data-stu-id="5398b-195">App deployment for each supported platform through web links, MSI and/or deep links.</span></span>
 
-        -   <span data-ttu-id="29989-196">Windows 10 デバイス上での Office ProPlus の展開。</span><span class="sxs-lookup"><span data-stu-id="29989-196">Deploying Office ProPlus onto Windows 10 devices.</span></span>
+        -   <span data-ttu-id="5398b-196">Windows 10 デバイス上での Office ProPlus の展開。</span><span class="sxs-lookup"><span data-stu-id="5398b-196">Deploying Office ProPlus onto Windows 10 devices.</span></span>
 
-        -   <span data-ttu-id="29989-197">アプリ展開用のボリューム購入プログラム (Apple の VPP、企業向け Windows ストア、Google の Play for Work ストアなどを含む)。</span><span class="sxs-lookup"><span data-stu-id="29989-197">Volume purchase programs for app deployment, including Apple's VPP, Windows Store for Business, and Google's Play for Work Store.</span></span>
+        -   <span data-ttu-id="5398b-197">アプリ展開用のボリューム購入プログラム (Apple の VPP、企業向け Windows ストア、Google の Play for Work ストアなどを含む)。</span><span class="sxs-lookup"><span data-stu-id="5398b-197">Volume purchase programs for app deployment, including Apple's VPP, Windows Store for Business, and Google's Play for Work Store.</span></span>
 
-        -   <span data-ttu-id="29989-198">組織に既存の証明機関や Wi-Fi または VPN インフラストラクチャがある場合の、メール、ワイヤレス ネットワーク、および VPN プロファイルの展開。</span><span class="sxs-lookup"><span data-stu-id="29989-198">Deployment of e-mail, wireless networks, and VPN profiles if you have an existing certificate authority, Wi-Fi or VPN infrastructure in your organization.</span></span>
+        -   <span data-ttu-id="5398b-198">組織に既存の証明機関や Wi-Fi または VPN インフラストラクチャがある場合の、メール、ワイヤレス ネットワーク、および VPN プロファイルの展開。</span><span class="sxs-lookup"><span data-stu-id="5398b-198">Deployment of e-mail, wireless networks, and VPN profiles if you have an existing certificate authority, Wi-Fi or VPN infrastructure in your organization.</span></span>
 
-        -   <span data-ttu-id="29989-199">Microsoft Intune Exchange Connector のセットアップ (該当する場合)。</span><span class="sxs-lookup"><span data-stu-id="29989-199">Setting up the Microsoft Intune Exchange Connector (when applicable).</span></span>
+        -   <span data-ttu-id="5398b-199">Microsoft Intune Exchange Connector のセットアップ (該当する場合)。</span><span class="sxs-lookup"><span data-stu-id="5398b-199">Setting up the Microsoft Intune Exchange Connector (when applicable).</span></span>
 
-        -   <span data-ttu-id="29989-200">サポートされているデバイス プラットフォームでのデバイス構成プロファイル。</span><span class="sxs-lookup"><span data-stu-id="29989-200">Device configuration profiles for supported device platforms.</span></span>
+        -   <span data-ttu-id="5398b-200">サポートされているデバイス プラットフォームでのデバイス構成プロファイル。</span><span class="sxs-lookup"><span data-stu-id="5398b-200">Device configuration profiles for supported device platforms.</span></span>
 
-    -   <span data-ttu-id="29989-201">条件付きアクセス ポリシーのセットアップ。</span><span class="sxs-lookup"><span data-stu-id="29989-201">Setting up conditional access policies.</span></span>
+    -   <span data-ttu-id="5398b-201">条件付きアクセス ポリシーのセットアップ。</span><span class="sxs-lookup"><span data-stu-id="5398b-201">Setting up conditional access policies.</span></span>
 
-    -   <span data-ttu-id="29989-202">サポートされている各プラットフォームでの Intune アプリ保護ポリシーの構成および展開。</span><span class="sxs-lookup"><span data-stu-id="29989-202">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
+    -   <span data-ttu-id="5398b-202">サポートされている各プラットフォームでの Intune アプリ保護ポリシーの構成および展開。</span><span class="sxs-lookup"><span data-stu-id="5398b-202">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
 
-    -   <span data-ttu-id="29989-203">Intune アプリ保護ポリシー用の基幹業務 (LOB) アプリの準備、および利用可能なオプションについてのガイダンス。</span><span class="sxs-lookup"><span data-stu-id="29989-203">Preparing line-of-business (LOB) apps for Intune app protection policies, with guidance on available options.</span></span>
+    -   <span data-ttu-id="5398b-203">Intune アプリ保護ポリシー用の基幹業務 (LOB) アプリの準備、および利用可能なオプションについてのガイダンス。</span><span class="sxs-lookup"><span data-stu-id="5398b-203">Preparing line-of-business (LOB) apps for Intune app protection policies, with guidance on available options.</span></span>
 
-    -   <span data-ttu-id="29989-204">Microsoft Intune サービスを使用した、サポートされている各プラットフォームのデバイスの Intune または Configuration Manager への登録。</span><span class="sxs-lookup"><span data-stu-id="29989-204">Enrolling devices of each supported platform to your Intune or Configuration Manager with Microsoft Intune service.</span></span>
+    -   <span data-ttu-id="5398b-204">Microsoft Intune サービスを使用した、サポートされている各プラットフォームのデバイスの Intune または Configuration Manager への登録。</span><span class="sxs-lookup"><span data-stu-id="5398b-204">Enrolling devices of each supported platform to your Intune or Configuration Manager with Microsoft Intune service.</span></span>
 
-    -   <span data-ttu-id="29989-205">Intune データ ウェアハウスへの接続。</span><span class="sxs-lookup"><span data-stu-id="29989-205">Connecting to Intune Data Warehouse.</span></span>
+    -   <span data-ttu-id="5398b-205">Intune データ ウェアハウスへの接続。</span><span class="sxs-lookup"><span data-stu-id="5398b-205">Connecting to Intune Data Warehouse.</span></span>
 
-    -   <span data-ttu-id="29989-206">以下との Intune の統合:</span><span class="sxs-lookup"><span data-stu-id="29989-206">Integrating Intune with:</span></span>
-        -   <span data-ttu-id="29989-207">リモート アシスタンス用の Team Viewer (Team Viewer のサブスクリプションが必要です)。</span><span class="sxs-lookup"><span data-stu-id="29989-207">Team Viewer for remote assistance (Team Viewer subscription is required).</span></span>
+    -   <span data-ttu-id="5398b-206">以下との Intune の統合:</span><span class="sxs-lookup"><span data-stu-id="5398b-206">Integrating Intune with:</span></span>
+        -   <span data-ttu-id="5398b-207">リモート アシスタンス用の Team Viewer (Team Viewer のサブスクリプションが必要です)。</span><span class="sxs-lookup"><span data-stu-id="5398b-207">Team Viewer for remote assistance (Team Viewer subscription is required).</span></span>
 
-        -   <span data-ttu-id="29989-208">Mobile Threat Defense パートナー ソリューション (Mobile Threat Defense パートナー ソリューションのサブスクリプションが必要です)。</span><span class="sxs-lookup"><span data-stu-id="29989-208">Mobile Threat Defense partner solutions (Mobile Threat Defense partner solution subscription is required).</span></span>
+        -   <span data-ttu-id="5398b-208">Mobile Threat Defense パートナー ソリューション (Mobile Threat Defense パートナー ソリューションのサブスクリプションが必要です)。</span><span class="sxs-lookup"><span data-stu-id="5398b-208">Mobile Threat Defense partner solutions (Mobile Threat Defense partner solution subscription is required).</span></span>
 
-        -   <span data-ttu-id="29989-209">通信経費の管理ソリューション (通信経費の管理ソリューションのサブスクリプションが必要です)。</span><span class="sxs-lookup"><span data-stu-id="29989-209">Telecom expense management solutions (Telecom expense management solution subscription is required).</span></span>
+        -   <span data-ttu-id="5398b-209">通信経費の管理ソリューション (通信経費の管理ソリューションのサブスクリプションが必要です)。</span><span class="sxs-lookup"><span data-stu-id="5398b-209">Telecom expense management solutions (Telecom expense management solution subscription is required).</span></span>
 
-        -   <span data-ttu-id="29989-210">Microsoft Defender Advanced Threat Protection (Windows E5 または Microsoft 365 E5 ライセンスが必要です)。</span><span class="sxs-lookup"><span data-stu-id="29989-210">Microsoft Defender Advanced Threat Protection (Windows E5 or Microsoft 365 E5 licenses are required).</span></span>
+        -   <span data-ttu-id="5398b-210">Microsoft Defender Advanced Threat Protection (Windows E5 または Microsoft 365 E5 ライセンスが必要です)。</span><span class="sxs-lookup"><span data-stu-id="5398b-210">Microsoft Defender Advanced Threat Protection (Windows E5 or Microsoft 365 E5 licenses are required).</span></span>
 
-    -   <span data-ttu-id="29989-211">該当するサポート対象プラットフォームでのソフトウェア更新プログラムの構成。</span><span class="sxs-lookup"><span data-stu-id="29989-211">Configuring Software updates for applicable supported platforms.</span></span>
+    -   <span data-ttu-id="5398b-211">該当するサポート対象プラットフォームでのソフトウェア更新プログラムの構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-211">Configuring Software updates for applicable supported platforms.</span></span>
 
-    -   <span data-ttu-id="29989-212">ユーザー導入計画のリソース。</span><span class="sxs-lookup"><span data-stu-id="29989-212">Resources for user adoption planning.</span></span>
+    -   <span data-ttu-id="5398b-212">ユーザー導入計画のリソース。</span><span class="sxs-lookup"><span data-stu-id="5398b-212">Resources for user adoption planning.</span></span>
 
-- <span data-ttu-id="29989-213">Windows Autopilot のセットアップ:</span><span class="sxs-lookup"><span data-stu-id="29989-213">Setting up Windows Autopilot:</span></span>
+- <span data-ttu-id="5398b-213">Windows Autopilot のセットアップ:</span><span class="sxs-lookup"><span data-stu-id="5398b-213">Setting up Windows Autopilot:</span></span>
 
-    - <span data-ttu-id="29989-214">Windows Autopilot での Microsoft Intune のセットアップおよび構成。</span><span class="sxs-lookup"><span data-stu-id="29989-214">Configure and setup Microsoft Intune for Windows Autopilot.</span></span>
+    - <span data-ttu-id="5398b-214">Windows Autopilot での Microsoft Intune のセットアップおよび構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-214">Configure and setup Microsoft Intune for Windows Autopilot.</span></span>
 
-    - <span data-ttu-id="29989-215">Azure AD の動的グループの構成</span><span class="sxs-lookup"><span data-stu-id="29989-215">Configure Azure AD dynamic groups</span></span>
+    - <span data-ttu-id="5398b-215">Azure AD の動的グループの構成</span><span class="sxs-lookup"><span data-stu-id="5398b-215">Configure Azure AD dynamic groups</span></span>
 
-    - <span data-ttu-id="29989-216">Azure AD への会社のブランドの追加。</span><span class="sxs-lookup"><span data-stu-id="29989-216">Add your Company branding into Azure AD.</span></span>
+    - <span data-ttu-id="5398b-216">Azure AD への会社のブランドの追加。</span><span class="sxs-lookup"><span data-stu-id="5398b-216">Add your Company branding into Azure AD.</span></span>
 
-    - <span data-ttu-id="29989-217">Windows Autopilot プロファイルでのデバイスの作成と割り当て (例: ローカル管理者アカウントの作成を制限する Windows Autopilot プロファイル)。</span><span class="sxs-lookup"><span data-stu-id="29989-217">Create and assign devices to Windows Autopilot profiles (e.g a Windows Autopilot profile that restricts Local Administrator account creation).</span></span>
+    - <span data-ttu-id="5398b-217">Windows Autopilot プロファイルでのデバイスの作成と割り当て (例: ローカル管理者アカウントの作成を制限する Windows Autopilot プロファイル)。</span><span class="sxs-lookup"><span data-stu-id="5398b-217">Create and assign devices to Windows Autopilot profiles (e.g a Windows Autopilot profile that restricts Local Administrator account creation).</span></span>
 
-    - <span data-ttu-id="29989-218">組織の要件に準拠するための、Out-of-box-experience (OOBE) のカスタマイズ。</span><span class="sxs-lookup"><span data-stu-id="29989-218">Customize the Out-of-box-experience (OOBE) to comply with organization's requirements.</span></span>
+    - <span data-ttu-id="5398b-218">組織の要件に準拠するための、Out-of-box-experience (OOBE) のカスタマイズ。</span><span class="sxs-lookup"><span data-stu-id="5398b-218">Customize the Out-of-box-experience (OOBE) to comply with organization's requirements.</span></span>
 
-    - <span data-ttu-id="29989-219">Azure AD および Intune での MDM 自動登録の構成。</span><span class="sxs-lookup"><span data-stu-id="29989-219">Configuring MDM Auto-enrollment in Azure AD and Intune.</span></span>
+    - <span data-ttu-id="5398b-219">Azure AD および Intune での MDM 自動登録の構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-219">Configuring MDM Auto-enrollment in Azure AD and Intune.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="29989-220">Intune 以外での Windows Autopilot のセットアップは、FastTrack 特典の対象外です。</span><span class="sxs-lookup"><span data-stu-id="29989-220">Setting up Windows Autopilot outside Intune is out of scope for the FastTrack benefit.</span></span>
+    > <span data-ttu-id="5398b-220">Intune 以外での Windows Autopilot のセットアップは、FastTrack 特典の対象外です。</span><span class="sxs-lookup"><span data-stu-id="5398b-220">Setting up Windows Autopilot outside Intune is out of scope for the FastTrack benefit.</span></span>
 
-### <a name="enable-phase---cloud-attach"></a><span data-ttu-id="29989-221">有効化フェーズ - クラウドの接続</span><span class="sxs-lookup"><span data-stu-id="29989-221">Enable phase - Cloud-attach</span></span>
+### <a name="enable-phase---cloud-attach"></a><span data-ttu-id="5398b-221">有効化フェーズ - クラウドの接続</span><span class="sxs-lookup"><span data-stu-id="5398b-221">Enable phase - Cloud-attach</span></span>
 
-<span data-ttu-id="29989-222">次のような内容のガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="29989-222">Provide guidance on:</span></span>
+<span data-ttu-id="5398b-222">次のような内容のガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="5398b-222">Provide guidance on:</span></span>
 
--   <span data-ttu-id="29989-223">エンド ユーザーのライセンス認証。</span><span class="sxs-lookup"><span data-stu-id="29989-223">Licensing your end users.</span></span>
+-   <span data-ttu-id="5398b-223">エンド ユーザーのライセンス認証。</span><span class="sxs-lookup"><span data-stu-id="5398b-223">Licensing your end users.</span></span>
 
--   <span data-ttu-id="29989-224">Configuration Manager コンソールでのクラウド接続の実装。</span><span class="sxs-lookup"><span data-stu-id="29989-224">Implementing cloud-attach in Configuration Manager console.</span></span>
+-   <span data-ttu-id="5398b-224">Configuration Manager コンソールでのクラウド接続の実装。</span><span class="sxs-lookup"><span data-stu-id="5398b-224">Implementing cloud-attach in Configuration Manager console.</span></span>
 
--   <span data-ttu-id="29989-225">Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成 (Intune がインストールされていない場合)。</span><span class="sxs-lookup"><span data-stu-id="29989-225">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups (if Intune isn't installed).</span></span>
+-   <span data-ttu-id="5398b-225">Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成 (Intune がインストールされていない場合)。</span><span class="sxs-lookup"><span data-stu-id="5398b-225">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups (if Intune isn't installed).</span></span>
 
--   <span data-ttu-id="29989-226">ハイブリッド Azure Active Directory 参加のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="29989-226">Setting up hybrid Azure Active Directory Join.</span></span>
+-   <span data-ttu-id="5398b-226">ハイブリッド Azure Active Directory 参加のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="5398b-226">Setting up hybrid Azure Active Directory Join.</span></span>
 
--   <span data-ttu-id="29989-227">MDM 自動登録のための Azure Active Directory のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="29989-227">Setting up Azure Active Directory for MDM auto-enrollment.</span></span>
+-   <span data-ttu-id="5398b-227">MDM 自動登録のための Azure Active Directory のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="5398b-227">Setting up Azure Active Directory for MDM auto-enrollment.</span></span>
 
--   <span data-ttu-id="29989-228">クラウド管理ゲートウェイのセットアップ。</span><span class="sxs-lookup"><span data-stu-id="29989-228">Setting up Cloud Management Gateway.</span></span>
+-   <span data-ttu-id="5398b-228">クラウド管理ゲートウェイのセットアップ。</span><span class="sxs-lookup"><span data-stu-id="5398b-228">Setting up Cloud Management Gateway.</span></span>
 
--   <span data-ttu-id="29989-229">Intune サブスクリプションへのユーザーの追加、IT 管理者のロールの定義、ユーザーおよびデバイス グループの作成。</span><span class="sxs-lookup"><span data-stu-id="29989-229">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
+-   <span data-ttu-id="5398b-229">Intune サブスクリプションへのユーザーの追加、IT 管理者のロールの定義、ユーザーおよびデバイス グループの作成。</span><span class="sxs-lookup"><span data-stu-id="5398b-229">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
 
--   <span data-ttu-id="29989-230">デバイス管理のための Intune サービスの準備。</span><span class="sxs-lookup"><span data-stu-id="29989-230">Preparing the Intune service for device management.</span></span>
+-   <span data-ttu-id="5398b-230">デバイス管理のための Intune サービスの準備。</span><span class="sxs-lookup"><span data-stu-id="5398b-230">Preparing the Intune service for device management.</span></span>
 
--   <span data-ttu-id="29989-231">Intune へのモバイル デバイスの管理 (MDM) の権限の設定。</span><span class="sxs-lookup"><span data-stu-id="29989-231">Setting mobile device management (MDM) authority to Intune.</span></span>
+-   <span data-ttu-id="5398b-231">Intune へのモバイル デバイスの管理 (MDM) の権限の設定。</span><span class="sxs-lookup"><span data-stu-id="5398b-231">Setting mobile device management (MDM) authority to Intune.</span></span>
 
--   <span data-ttu-id="29989-232">MDM 管理ポリシーの検証に使用するテストグループの構成。</span><span class="sxs-lookup"><span data-stu-id="29989-232">Configuring tests groups to be used to validate MDM management policies.</span></span>
+-   <span data-ttu-id="5398b-232">MDM 管理ポリシーの検証に使用するテストグループの構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-232">Configuring tests groups to be used to validate MDM management policies.</span></span>
 
--   <span data-ttu-id="29989-233">ユーザーとデバイスに関する情報を見つけるための、Intune 管理 ポータル内の移動。</span><span class="sxs-lookup"><span data-stu-id="29989-233">Navigating the Intune admin portal to locate information on users and devices.</span></span>
+-   <span data-ttu-id="5398b-233">ユーザーとデバイスに関する情報を見つけるための、Intune 管理 ポータル内の移動。</span><span class="sxs-lookup"><span data-stu-id="5398b-233">Navigating the Intune admin portal to locate information on users and devices.</span></span>
 
--   <span data-ttu-id="29989-234">Intune の役割 (ヘルプデスク オペレーター、管理者など) のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="29989-234">Setting up Intune roles (helpdesk operator, admins, and so on).</span></span>
+-   <span data-ttu-id="5398b-234">Intune の役割 (ヘルプデスク オペレーター、管理者など) のセットアップ。</span><span class="sxs-lookup"><span data-stu-id="5398b-234">Setting up Intune roles (helpdesk operator, admins, and so on).</span></span>
 
--   <span data-ttu-id="29989-235">Windows 10 デバイスの Intune への登録。</span><span class="sxs-lookup"><span data-stu-id="29989-235">Enrolling Windows 10 devices to Intune.</span></span>
+-   <span data-ttu-id="5398b-235">Windows 10 デバイスの Intune への登録。</span><span class="sxs-lookup"><span data-stu-id="5398b-235">Enrolling Windows 10 devices to Intune.</span></span>
 
--   <span data-ttu-id="29989-236">必要に応じた、Intune による管理のワークロードの切り替え。</span><span class="sxs-lookup"><span data-stu-id="29989-236">Switching workloads for management by Intune as desired.</span></span>
+-   <span data-ttu-id="5398b-236">必要に応じた、Intune による管理のワークロードの切り替え。</span><span class="sxs-lookup"><span data-stu-id="5398b-236">Switching workloads for management by Intune as desired.</span></span>
 
-### <a name="enable-phase--azure-information-protection"></a><span data-ttu-id="29989-237">有効化フェーズ - Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="29989-237">Enable phase – Azure Information Protection</span></span>
+### <a name="enable-phase--azure-information-protection"></a><span data-ttu-id="5398b-237">有効化フェーズ - Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="5398b-237">Enable phase – Azure Information Protection</span></span>
 
-<span data-ttu-id="29989-238">以下に関するガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="29989-238">Provided guidance on:</span></span> 
+<span data-ttu-id="5398b-238">以下に関するガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="5398b-238">Provided guidance on:</span></span> 
 
-- <span data-ttu-id="29989-239">顧客テナントのアクティブ化と構成。</span><span class="sxs-lookup"><span data-stu-id="29989-239">Activating and configuring the customer tenant.</span></span>
+- <span data-ttu-id="5398b-239">顧客テナントのアクティブ化と構成。</span><span class="sxs-lookup"><span data-stu-id="5398b-239">Activating and configuring the customer tenant.</span></span>
 
-- <span data-ttu-id="29989-240">ラベルおよびポリシーの作成と設定。</span><span class="sxs-lookup"><span data-stu-id="29989-240">Creating and setting up labels and policies.</span></span>
+- <span data-ttu-id="5398b-240">ラベルおよびポリシーの作成と設定。</span><span class="sxs-lookup"><span data-stu-id="5398b-240">Creating and setting up labels and policies.</span></span>
 
-- <span data-ttu-id="29989-241">ドキュメントへの情報保護の適用。</span><span class="sxs-lookup"><span data-stu-id="29989-241">Applying information protection to documents.</span></span> 
+- <span data-ttu-id="5398b-241">ドキュメントへの情報保護の適用。</span><span class="sxs-lookup"><span data-stu-id="5398b-241">Applying information protection to documents.</span></span> 
 
-- <span data-ttu-id="29989-242">Windows で実行されている、Azure Information Protection クライアントを使用する Office アプリ (Word、PowerPoint、Excel、Outlook など) の自動分類およびラベル付け。</span><span class="sxs-lookup"><span data-stu-id="29989-242">Automatically classifying and labeling information in Office apps (like Word, PowerPoint, Excel, and Outlook) running on Windows and using the Azure Information Protection client.</span></span>
+- <span data-ttu-id="5398b-242">Windows で実行されている、Azure Information Protection クライアントを使用する Office アプリ (Word、PowerPoint、Excel、Outlook など) の自動分類およびラベル付け。</span><span class="sxs-lookup"><span data-stu-id="5398b-242">Automatically classifying and labeling information in Office apps (like Word, PowerPoint, Excel, and Outlook) running on Windows and using the Azure Information Protection client.</span></span>
 
-- <span data-ttu-id="29989-243">Azure Information Protection スキャナーを使用した、保管中ファイルの使用。</span><span class="sxs-lookup"><span data-stu-id="29989-243">Using files at rest with the Azure Information Protection scanner.</span></span>
+- <span data-ttu-id="5398b-243">Azure Information Protection スキャナーを使用した、保管中ファイルの使用。</span><span class="sxs-lookup"><span data-stu-id="5398b-243">Using files at rest with the Azure Information Protection scanner.</span></span>
 
-- <span data-ttu-id="29989-244">Exchange Online のメール フロー ルールを使用した、転送中メールの監視。</span><span class="sxs-lookup"><span data-stu-id="29989-244">Monitoring emails in transit using Exchange Online mail flow rules.</span></span>
+- <span data-ttu-id="5398b-244">Exchange Online のメール フロー ルールを使用した、転送中メールの監視。</span><span class="sxs-lookup"><span data-stu-id="5398b-244">Monitoring emails in transit using Exchange Online mail flow rules.</span></span>
 
-<span data-ttu-id="29989-245">Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encryption (OME)、およびデータ損失防止 (DLP) を使用して保護を適用するお客様にもガイダンスを提供いたします。</span><span class="sxs-lookup"><span data-stu-id="29989-245">Guidance is also provided to customers who want to apply protection using Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME), and data loss prevention (DLP).</span></span>
+<span data-ttu-id="5398b-245">Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encryption (OME)、およびデータ損失防止 (DLP) を使用して保護を適用するお客様にもガイダンスを提供いたします。</span><span class="sxs-lookup"><span data-stu-id="5398b-245">Guidance is also provided to customers who want to apply protection using Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME), and data loss prevention (DLP).</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="29989-246">**詳細な情報をご希望の場合は**、[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility) をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="29989-246">**Want to learn more?** see [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span></span>
+> <span data-ttu-id="5398b-246">**詳細な情報をご希望の場合は**、[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility) をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="5398b-246">**Want to learn more?** see [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="29989-247">次の手順</span><span class="sxs-lookup"><span data-stu-id="29989-247">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="5398b-247">次の手順</span><span class="sxs-lookup"><span data-stu-id="5398b-247">Next steps</span></span>
 
-[<span data-ttu-id="29989-248">EMS 向けの FastTrack 特典 - ユーザーの責任範囲</span><span class="sxs-lookup"><span data-stu-id="29989-248">FastTrack benefit for EMS - Your responsibilities</span></span>](EMS-your-responsibilities.md)
+[<span data-ttu-id="5398b-248">EMS 向けの FastTrack 特典 - ユーザーの責任範囲</span><span class="sxs-lookup"><span data-stu-id="5398b-248">FastTrack benefit for EMS - Your responsibilities</span></span>](EMS-your-responsibilities.md)
 
