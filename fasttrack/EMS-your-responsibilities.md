@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 5b0c4efb12e37ed49bd98eea0e6a4f2baf6d0873
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: a67fee0fae8260b8ef53386f35d83eed3c1872b8
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471518"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011251"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 

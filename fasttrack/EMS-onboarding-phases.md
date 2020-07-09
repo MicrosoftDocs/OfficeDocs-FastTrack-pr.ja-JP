@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: ed37297c1d085c1b4140e229d35e9de0d138b9a9
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: e7347b884f2226923ecbd81db5051328b5d30916
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471830"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45010963"
 ---
 # <a name="onboarding-phases"></a>オンボーディング フェーズ
 
@@ -82,7 +82,7 @@ Microsoft パートナーは顧客の代理として、[FastTrack サイト](htt
 
 ![オンボーディング有効化フェーズ - コア機能](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
-> WAP は、Web アプリケーション プロキシ (Web Application Proxy) を略したものです。SSL は、Secure Sockets Layer を略したものです。SDS は、School Data Sync を略したものです。SDS の詳細については、「[Microsoft School Data Sync へようこそ](https://go.microsoft.com/fwlink/?linkid=871480)」を参照してください。
+> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
 
 > [!NOTE]
 > 管理認証方法にはパスワード ハッシュ同期が含まれていますが、これに限定されません。 ID 統合は 1 回限りのアクティビティで、管理認証方法やフェデレーション認証方法などの既存の認証方法の移行や使用停止は含まれません。

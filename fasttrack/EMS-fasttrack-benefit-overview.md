@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 70a37263e374bc29c3a4828c2843c77de5f119f8
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 825306014da6e7b6af793aa49eb7b2c7e3a0dc08
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471566"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45010975"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack センター特典の概要
 
