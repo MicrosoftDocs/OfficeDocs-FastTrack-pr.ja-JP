@@ -1,24 +1,24 @@
 ---
-title: 付録 BFastTrack センターの付加的な利点
+title: 付録 A - FastTrack センターのその他の利点
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-description: FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「対象となるサービスとプラン」を参照してください。
-ms.openlocfilehash: 9b16a13f4bf658d68c43720ecad04f3ec7191cf0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+description: Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See Eligible Services and Plans for more details.
+ms.openlocfilehash: 619ba9bf27116a94a40e74b38a4f4bbdd4d6c99d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999100"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45010987"
 ---
-# <a name="appendix-b---fasttrack-center-additional-benefit"></a>付録 B - FastTrack Center の付加的な利点
+# <a name="appendix-a---fasttrack-center-additional-benefit"></a>付録 A - FastTrack センターのその他の利点
 
-FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「[対象となるサービスとプラン](M365-eligible-services-and-plans.md)」を参照してください。 
+Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See [Eligible Services and Plans](M365-eligible-services-and-plans.md) for more details. 
   
 ## <a name="onboarding-and-migration-phases"></a>オンボーディングと移行のフェーズ
 
@@ -48,7 +48,7 @@ Microsoft 365 アプリに関しては、次に示すガイダンスを提供し
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
-FastTrack スペシャリストには、オンボーディング中に以下の責任があります。これらは、[FastTrack の責任範囲](O365-fasttrack-responsibilities.md)で定義されているアクティビティに追加あるいは置換されることがあります。
+FastTrack Specialists have the following responsibilities during onboarding. These may be in addition to or replace the activities defined in [FastTrack Responsibilities](O365-fasttrack-responsibilities.md).
   
 ## <a name="general"></a>全般
 
@@ -64,7 +64,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 
 ### <a name="geo-redundant-ad-fs-guidance"></a>地理冗長 AD FS のガイダンス
 
-- 2 つのデータ センターにわたる地域冗長 AD FS トポロジに、標準的な参照アーキテクチャの設計を提供します。標準的なアーキテクチャの対象を次に示します。
+- Provide standard reference architecture design for a geo-redundant AD FS topology spanning two (2) data centers. The standard architecture provides for:
   - FastTrack Center 特典に含まれるサービスのフェデレーション認証。 
   - 単一サイトの復元。  
   - 高可用性とフェールオーバー。  
@@ -79,7 +79,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 ### <a name="ad-fs-client-access-policy-guidance"></a>AD FS クライアント アクセスのポリシーのガイダンス
 
 - セキュリティで保護された Office 365 リソースに必要なポリシーと構成を確認します。  
-- サポートされているシナリオの範囲内で識別されたクライアント アクセス シナリオについて AD FS クライアント アクセス ポリシーを構成するためのガイダンスと支援を提供します。詳細については、「[クライアントの場所に基づいて Office 365 サービスへのアクセスを制限する](https://go.microsoft.com/fwlink/?LinkID=525689)」を参照してください。 
+- Provide guidance and assistance with configuring the AD FS client access policy for identified client access scenarios within the boundaries of supported scenarios. For more information, see [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689). 
 - 更新されたクライアント アクセス ポリシーを使用して、最大 10 ユーザーの構成を持つ、認識されたアクセス シナリオのフェデレーション認証機能を検証します。
     
 ## <a name="exchange-online"></a>Exchange Online
@@ -96,7 +96,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
   - ユーザーを Exchange Online にリダイレクトするための UM の自動応答の連絡先と Outlook 音声メール。 
   - フェデレーションの必要に応じて Service Location (SRV) レコードの作成をサポートします。
 > [!NOTE]
-> サポートされた UM IP ゲートウェイとセッション ボーダー コントローラー (SBC) で UM を構成できます。詳細については、「[電話システムの UM との統合](https://go.microsoft.com/fwlink/?LinkID=809293)」を参照してください。 
+> UM can be configured with supported UM IP gateways and session border controllers (SBCs). For more information, see [Telephone system integration with UM](https://go.microsoft.com/fwlink/?LinkID=809293). 
   
 ### <a name="public-folder-coexistence-guidance"></a>パブリック フォルダーの共存のガイダンス
 
@@ -135,7 +135,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
   
 ## <a name="your-responsibilities"></a>お客様の責任
 
-お客様には、オンボーディング中に以下の責任があります。これらは「[お客様の責任](O365-your-responsibilities.md)」セクションで定義されている責任に追加されるものです。 
+You have the following responsibilities during onboarding. These are in addition to the responsibilities defined in the [Your Responsibilities](O365-your-responsibilities.md) section. 
   
 - プロジェクト計画に従いリソースを割り当て、管理する。  
 - リスクを緩和し、顧客、パートナーのプロジェクト マネージャー、FastTrack マネージャーから発生した問題を解決するため、適宜対応する。   

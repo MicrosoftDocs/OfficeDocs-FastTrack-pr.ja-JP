@@ -3,19 +3,19 @@ title: 対象となるサービスとプラン
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: 9b6c7272d1b8083acd3d5765687ce841e08d086a
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999833"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011227"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
@@ -33,7 +33,7 @@ Microsoft 365 サービスのいずれかを購入すると、FastTrack スペ�
 2.    ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
 3.    [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。
   
-パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
 2.    **[顧客]** を選択します。
 3.    顧客を検索するか、顧客リストから選択します。
@@ -54,6 +54,8 @@ FastTrack Center は、次のサービスのサポートを提供します。
 - Exchange Online 
 - Microsoft 365 アプリ
 - Microsoft Defender Advanced Threat Protection
+- Microsoft 情報ガバナンス
+- Microsoft 情報保護
 - Microsoft Intune
 - Microsoft Teams
 - Office 365 Advanced Threat Protection
@@ -75,6 +77,10 @@ FastTrack Center は、次のサービスのサポートを提供します。
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Security\*
+- Microsoft 365 E5 コンプライアンス\*
+- Microsoft 365 E5 eDiscovery & 監査\*
+- Microsoft 365 E5 情報保護およびガバナンス\*
+- Microsoft 365 E5 インサイダー リスク管理\*
 - Microsoft 365 F1\*
 - Microsoft 365 Business\*
 - Microsoft 365 Apps for enterprise\*
@@ -91,6 +97,10 @@ FastTrack Center は、次のサービスのサポートを提供します。
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 Security\*
+- Microsoft 365 A5 コンプライアンス\*
+- Microsoft 365 A5 eDiscovery & 監査\*
+- Microsoft 365 A5 情報保護 & ガバナンス\*
+- Microsoft 365 A5 インサイダー リスク管理\*
 - Microsoft 365 Apps for Education (デバイス)\*
  
 ## <a name="eligible-office-365-plans"></a>対象となる Office 365 プラン
@@ -227,5 +237,5 @@ FastTrack サービスの対象ではないプランには以下が含まれま�
   
 ## <a name="fasttrack-center-additional-benefit-eligibility"></a>FastTrack Center の追加支援の対象
 
-FastTrack Center の追加サービスは、Office 365 テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象になります。詳細については、「[付録 B - FastTrack Center のその他の利点](O365-fasttrack-additional-benefits.md)」を参照してください。
+FastTrack センター の追加サービスは、Office 365 テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象になります。 詳細については、「[付録 A: FastTrack センターの付加的な利点](O365-fasttrack-additional-benefits.md)」を参照してください。
   
