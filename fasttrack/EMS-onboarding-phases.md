@@ -82,7 +82,7 @@ Microsoft パートナーは顧客の代理として、[FastTrack サイト](htt
 
 ![オンボーディング有効化フェーズ - コア機能](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
+> WAP は、Web アプリケーション プロキシ (Web Application Proxy) を略したものです。SSL は、Secure Sockets Layer を略したものです。SDS は、School Data Sync を略したものです。SDS の詳細については、「[Microsoft School Data Sync へようこそ](https://go.microsoft.com/fwlink/?linkid=871480)」を参照してください。
 
 > [!NOTE]
 > 管理認証方法にはパスワード ハッシュ同期が含まれていますが、これに限定されません。 ID 統合は 1 回限りのアクティビティで、管理認証方法やフェデレーション認証方法などの既存の認証方法の移行や使用停止は含まれません。

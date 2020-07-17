@@ -9,7 +9,7 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: FastTrack Specialists provide guidance on steps for data migration to Office 365. This is available for all eligible customers with Office 365 services for Exchange Online, OneDrive for Business, and SharePoint Online.
+description: FastTrack スペシャリストは、Office 365 へのデータ移行の手順に関するガイダンスを提供します。Office 365 サービス (Exchange Online、OneDrive for Business、SharePoint Online 用) のすべての対象ユーザーが利用できます。
 ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -25,10 +25,10 @@ Office 365 に移行するデータがソース環境に含まれていること
 
 **500以上のライセンスを使用している Office 365 テナントの場合\*:** Exchange Online、SharePoint Online、OneDrive for Business では、データ移行サービスを利用できます。 FastTrack 特典には、ソース環境の統合およびデータの移行に関するガイダンスの提供が含まれます。
   
-\*If you purchased or renewed a commercial plan prior to 9/1/2017, 150 seats is the minimum seat requirement throughout your current subscription period in order to receive the migration benefit. For education plans, only paid faculty and staff licenses are eligible for migration services. 
+\*2017 年 9 月 1 日までに商用プランを購入または更新した場合、移行特典を受けるためのシート数の最小要件は、現在のサブスクリプション期間中に 150 シートとなります。教育機関向けのプランでは、有料の教職員ライセンスのみ移行サービスの対象となります。 
   
 > [!NOTE]
-> Data migrated through the FastTrack services may be transferred to, stored, and processed anywhere that Microsoft maintains facilities (except as otherwise provided for your particular FastTrack engagement). The FastTrack services aren't designed or intended for data subject to special legal or regulatory requirements. 
+> (お客様によって FastTrack 作業に関する特定の指示がない限りは) FastTrack サービスを経由して移行されるデータは、Microsoft が施設を保有する任意の場所に転送され、そこで保存され、処理される場合があります。FastTrack サービスは、特別な法律や規制要件の対象となるデータのために設計または意図されてはいません。 
   
 > [!NOTE]
 > (ソース環境での読み取り不可または破損した項目を含め、またそれに限らず) 予期しない問題のために、いくつかの項目は移行できない場合があります。 
@@ -47,7 +47,7 @@ Office 365 に移行するデータがソース環境に含まれていること
 
 |**アクティビティ**|**ソース環境要件**|
 |:-----|:-----|
-|**Exchange Online への移行**  <br/> | Microsoft migrates any combination of the source environments listed below, each one at a time. We can migrate the onboarded messaging system using the FastTrack Center or if it's passed the FastTrack Center checks. This includes:  <br/>  1 つまたは複数の Exchange 組織を持つ 1 つまたは複数のActive Directory フォレスト (Exchange 2010 ベースのハイブリッド以降が各組織に実装されていて、Exchange メール システムが 2003 以降の場合)。  <br/>  1 つの IMAP 対応のメール環境。  <br/>  G Suite 環境 (Gmail、連絡先、カレンダーのみ)。 <br/> <br/> **メモ** *Exchange Online オンボーディングは、移行の前に行う必要があります。* <br/> <br/> **メモ** *FastTrack は、アクティブな Office 365 メールボックスへの移行のみ行います。* <br/> <br/> **メモ** *オンプレミスの Exchange の依存関係については、「[ハイブリッド展開の前提条件](https://go.microsoft.com/fwlink/?LinkId=787528)」を参照してください。* <br/><br/> **メモ** *複数のソース メッセージング環境 (複数の Exchange 組織と複数の Domino ドメインなど) を移行する場合、こうした移行が順次行われます。*| 
+|**Exchange Online への移行**  <br/> | Microsoft は、次に示すソース環境の全ての組み合わせを一度に 1 つずつ移行します。FastTrack センターを使う場合や FastTrack センターのチェックを通過した場合、オンボーディング済みの メッセージング システムを移行できます。これには以下が含まれます。  <br/>  1 つまたは複数の Exchange 組織を持つ 1 つまたは複数のActive Directory フォレスト (Exchange 2010 ベースのハイブリッド以降が各組織に実装されていて、Exchange メール システムが 2003 以降の場合)。  <br/>  1 つの IMAP 対応のメール環境。  <br/>  G Suite 環境 (Gmail、連絡先、カレンダーのみ)。 <br/> <br/> **メモ** *Exchange Online オンボーディングは、移行の前に行う必要があります。* <br/> <br/> **メモ** *FastTrack は、アクティブな Office 365 メールボックスへの移行のみ行います。* <br/> <br/> **メモ** *オンプレミスの Exchange の依存関係については、「[ハイブリッド展開の前提条件](https://go.microsoft.com/fwlink/?LinkId=787528)」を参照してください。* <br/><br/> **メモ** *複数のソース メッセージング環境 (複数の Exchange 組織と複数の Domino ドメインなど) を移行する場合、こうした移行が順次行われます。*| 
 |**SharePoint Online への移行**  <br/> | ファイル共有 (SMB 2.0 以降をサポートするデバイスでのサーバー メッセージ ブロック (SMB) ファイルの共有)。 <br/> 単一の G Suite 環境 (Google ドライブのみ)。<br/>  Box (Starter、Business、Enterprise)。  <br/> Dropbox for Teams (スタンダードと アドバンスド用)。<br/> |
 |**OneDrive for Business への移行**  <br/> | ファイル共有 (SMB 2.0 以降をサポートするデバイスでの SMB ファイルの共有)。  <br/>  単一の G Suite 環境 (Google ドライブのみ)。  <br/>  Box (Starter、Business、Enterprise)。 <br/> Dropbox for Teams (スタンダードと アドバンスド用)。<br/><br/> **メモ** *FastTrack は、アクティブな Office 365 ドライブへの移行のみ行います。*|
    
@@ -65,11 +65,11 @@ Microsoft を使用してメールを移行する場合、移行のために Exc
 
 #### <a name="commercial-and-uk-government"></a>商用および英国政府機関
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+定義済みの移行時間帯に、標準化されて事前にスケジュールされた 1 日 24 時間、週 7 営業日 (24 x 7) 体制で移行が行われます。移行日あたり 3 つの移行バッチがあります。
 
 #### <a name="us-governmentdod"></a>米国政府機関/DOD
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+定義済みの移行時間帯に、標準化されて事前にスケジュールされた 1 日 24 時間、週 5 営業日 (24 x 5) 体制で移行が行われます。移行日あたり 3 つの移行バッチがあります。月曜日の午前 2 時 (協定世界時、UTC) から金曜日深夜 24 時 (UTC) までの平日には、移行日が 5 日あります。つまり、最後のスケジュールされた移行は金曜日の午後 8 時 (UTC) となります。
     
  ### <a name="end-state"></a>最終的な状態
   
@@ -82,7 +82,7 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 - 移行されるデータの種類は、次の表で説明するように、ソース環境に依存しています。
     
 > [!NOTE]
-> All source environments need to be on the latest service packs (SP) and rollup (RU)/cumulative update (CU) level for the respective product in the source environment at the end of the Enable phase. Data migration services are subject to external factors beyond Microsoft's control, like changes to third-party application programming interfaces (APIs), which could result in changes to, delays in, or suspension of these services. For the duration of the FastTrack services, data you make available to Microsoft is accessible from and stored anywhere that Microsoft and its suppliers maintain facilities. 
+> すべてのソース環境は、有効化フェーズの終了時にはソース環境でそれぞれの製品の最新のサービス パック (SP) とロールアップ (RU)/累積的な更新プログラム (CU) レベルにあることが必要です。データ移行サービスは、サード パーティ製アプリケーション プログラミング インターフェイス (API) の変更など、Microsoft の管理外の外部要因に左右されます。サード パーティ製 API の変更は、これらのサービスの変更、遅延、中断につながる場合があります。FastTrack サービスの間、お客様が Microsoft に提供するデータは、Microsoft とそのサプライヤーが施設を保有する任意の場所からアクセス可能になり、そこに格納されます。 
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -94,7 +94,7 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 |**IMAP4 ソース (Domino、GroupWise、Zimbra など)** |ネイティブの IMAP4 ツールを使用した移行| メール | ルール <br/> デリゲート <br/> 配布リスト <br/> 外部の連絡先 <br/> メールが有効なユーザー <br/> ブロックされたユーザーまたは非アクティブなユーザー <br/> メールボックスの連絡先 <br/> 予定表 <br/> 署名 <br/> タスク <br/> メッセージのサイズ制限を超えている電子メール <br/> アーカイブ データ <br/> 暗号化された電子メール <br/> 破損アイテム <br/> 非アクティブなメールボックス |
    
 > [!NOTE]
-> If distribution lists (MailEnabledGroup objects) and external contacts (MailEnabledContact objects) are in the on-premises Active Directory, they can be synchronized using Azure AD Connect. However, they aren't a part of mailbox data migration. For more information, see the **Identity integration** example in [Core](O365-onboarding-and-migration.md#core). 
+> 配布リスト (MailEnabledGroup オブジェクト) と外部連絡先 (MailEnabledContact オブジェクト) がオンプレミスの Active Directory 内にある場合、Azure AD Connect を使用して同期することができます。ただし、これらはメールボックス データ移行の一部ではありません。詳細については、**コア**の「 [ID の統合](O365-onboarding-and-migration.md#core) 」の例を参照してください。 
   
 FastTrack スペシャリストは、移行中に以下のことを行います。
 - メールボックスの移行スケジュールのために標準テンプレートを提供します。
@@ -104,7 +104,7 @@ FastTrack スペシャリストは、移行中に以下のことを行います�
 - Exchange と IMAP4 ベースの移行元の環境では、ユーザー メールボックス容量の上限の最大 85% までメールボックスのコンテンツが移行されます (たとえば、メールボックス容量の上限が 50 GB の場合、Microsoft によって 50 GB 容量の上限の最大 85% まで移行が行われます)。 
 - カット オーバー移行を使用している場合を除き、ソース メッセージング環境と Office 365 Exchange Online の間で SMTP メール ルーティングの共存を有効にします。
 - 移行後のレポートを提供します。
-- Provide post-migration assistance for critical issues. The following issues are considered critical:
+- 重大な問題には、移行後に支援を提供します。重大な問題と見なされる事柄は次のとおりです。
   - 移行中のデータ損失。
   - 移行中に使用不可になるソース環境。
   - ソース環境における問題の原因となる移行作業。
@@ -127,32 +127,32 @@ FastTrack スペシャリストは、移行中に以下のことを行います�
 |\>10000  <br/> |1500  <br/> |
    
    > [!NOTE]
-   > These numbers are based on best practice. However, the number of mailboxes that migrate per day will vary based on environment, readiness, and business constraints. Microsoft can't guarantee the speed of mailbox migration. 
+   > これらの数はベスト プラクティスに基づきますが、1 日あたりに移行するメールボックス数は、環境、前提条件、ビジネスの制約によって異なります。Microsoft は、メールボックスの移行速度を保証することはできません。 
   
 - 移行バッチに少なくとも 35 のメールボックスをスケジュールします。 
 - 移行前エラーを修正します (該当する場合)。  
 - 移行アクティビティを実行するために、FastTrack スペシャリストに移行元の環境へのアクセスとアクセス許可を与えます。 
 - 移行アクティビティを実行するために、Office 365 のライセンス済みの管理者アカウントを調達または提供、あるいはその両方を行います (必要に応じて)。 
 - クライアント側の移行に関する問題を支援し、必要に応じて移行後の操作を実行します。 
-- Migrate client-side data if desired. This includes, but is not limited to, local address books, data in local PST files, Outlook rules, and local Outlook settings.   
+- 必要な場合は、クライアント側のデータを移行します。これにはローカルのアドレス帳、ローカルの PST ファイル内のデータ、Outlook ルール、ローカルの Outlook 設定も含まれますが、これらに限定されません。   
 - 対象の Office 365 メールボックス制限の 85% 未満になるようにメールボックスのサイズを小さくします (該当する場合)。   
 - 移動されなかったメールボックスを含め、移行後レポートの操作を行います。  
 - 移行後のエラーを修正し、メールボックスを再スケジュールします (該当する場合)。   
-- Engage in post-migration assistance for critical issues. The following issues are considered critical:
+- 重大な問題には、移行後の支援に関与します。重大な問題と見なされる事柄は次のとおりです。
   - 移行中のデータ損失。
   - 移行中に使用不可になるソース環境。
   - ソース環境における問題の原因となる移行作業。
     
-You need to follow the standard migration process and engage with Microsoft appropriately. This includes providing access and permissions to source and Office 365 environments, providing migration schedules, correcting any causes for migration errors, and so on. You also need to engage with end users for communications, mailbox migration schedule, and handling end user migration-related issues.
+標準的な移行のプロセスを実行し、Microsoft と一緒に作業にあたる必要があります。これには、移行元と Office 365 環境に対するアクセスとアクセス許可を与え、移行スケジュールを指定し、移行エラーの原因を修正するなどの作業が含まれます。また、通信、メールボックスの移行スケジュールに関してエンド ユーザーと一緒に作業を行い、エンド ユーザーの移行関連の問題を処理する必要もあります。
   
 > [!NOTE]
-> Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+> 移行には、オンボーディング中に定義されたセキュリティ要件に準拠しているアカウントのみを使用します。そのようなアカウントを使用しない場合、移行の遅延が発生する可能性があります。 
   
 ## <a name="migration-to-sharepoint-online"></a>SharePoint Online への移行
 
 ### <a name="enable-to-migrate"></a>移行の有効化
   
-If you use Microsoft to migrate your data, we provide guidance to enable both SharePoint Online and the source environment for migration. Depending on the source, we may perform various Enable steps. We provide guidance for you by using a combination of tools and documentation and by performing configuration tasks where applicable and feasible.
+Microsoft によってデータを移行する場合、弊社は移行のために SharePoint Online と移行元の環境の両方を有効にするためのガイダンスを行います。移行元に応じて、さまざまな有効化手順を実行することがあります。ツール、ドキュメントを組み合わせて使ったり、可能な場合には構成タスクを実行したりするなどしてガイダンスを提供します。
   
 一部の作業を実行するために、適切なアクセスとアクセス許可を Microsoft に提供していただく必要があります。
   
@@ -163,11 +163,11 @@ If you use Microsoft to migrate your data, we provide guidance to enable both Sh
 
 #### <a name="commercial-and-uk-government"></a>商用および英国政府機関
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+定義済みの移行時間帯に、標準化されて事前にスケジュールされた 1 日 24 時間、週 7 営業日 (24 x 7) 体制で移行が行われます。移行日あたり 3 つの移行バッチがあります。
 
 #### <a name="us-governmentdod"></a>米国政府機関/DOD
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+定義済みの移行時間帯に、標準化されて事前にスケジュールされた 1 日 24 時間、週 5 営業日 (24 x 5) 体制で移行が行われます。移行日あたり 3 つの移行バッチがあります。月曜日の午前 2 時 (協定世界時、UTC) から金曜日深夜 24 時 (UTC) までの平日には、移行日が 5 日あります。つまり、最後のスケジュールされた移行は金曜日の午後 8 時 (UTC) となります。
 
 - すべての移行は、「[SharePoint Online と OneDrive for Business ソフトウェアの境界と制限](https://go.microsoft.com/fwlink/?LinkID=616612)」に記載されている SharePoint Online クォータの対象になります。   
 - 移行後のデータの全体量は、使用できる SharePoint Online ストレージ クォータの全体の 75% (個別に購入した追加のストレージを含む) にバインドされます。
@@ -208,14 +208,14 @@ FastTrack スペシャリストは、移行中に以下のことを行います�
 - ユーザー受け入れテストの間、移行完了後最大 5 日間まで、移行後の支援を提供します。
     
 お客様は、移行中に以下のことを行います。 
-- Provide project resources recommended for assessment and migration activities. These include: 
+- 評価と移行のアクティビティに推奨するプロジェクト リソースを提供します。これらには以下が含まれます。 
   - プロジェクトの管理。 
   - ユーザー受け入れテスト (UAT)。  
   - 移行元と移行先のコンテンツ プラットフォームを担当する管理者。  
 - 評価と移行アクティビティのためにインフラストラクチャの前提条件を提供します (必要な場合)。  
 - 移行アクティビティを実行するために、FastTrack スペシャリストに移行元と移行先の環境へのアクセスとアクセス許可を与えます (必要な場合)。
     > [!NOTE]
-    > Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+    > 移行には、オンボーディング中に定義されたセキュリティ要件に準拠しているアカウントのみを使用します。そのようなアカウントを使用しない場合、移行の遅延が発生する可能性があります。 
 - 評価と移行のサポートに必要な前提条件を提示してアクティビティを実行します。   
 - FastTrack に用意されている評価ツールをインストールし、評価データの収集アクティビティを完了します (該当する場合)。   
 - FastTrack に用意されているオンプレミスの移行ソフトウェアをインストールします (該当する場合)。   
@@ -234,9 +234,9 @@ FastTrack スペシャリストは、移行中に以下のことを行います�
 
  ### <a name="enable-to-migrate"></a>移行の有効化
   
-If you use Microsoft to migrate your data, we provide guidance to enable both OneDrive for Business and the source environment for migration. Depending on the source, we may perform various Enable steps. We help you with some activities by using a combination of tools, documentation, and guidance, and by performing configuration tasks where applicable and feasible.
+Microsoft によってデータを移行する場合、弊社は移行のために OneDrive for Business と移行元の環境の両方を有効にするためのガイダンスを行います。移行元に応じて、さまざまな有効化手順を実行することがあります。ツール、ドキュメント、ガイダンスを組み合わせて使ったり、可能な場合には構成タスクを実行したりするなどしてサポートします。
   
-You may need to provide appropriate access and permissions to Microsoft to perform some activities. If you don't provide access and/or permissions, you need to perform certain defined tasks yourself with guidance from Microsoft. 
+特定のアクティビティを実行するために、Microsoft に対して適切なアクセスとアクセス許可を提供することが必要になる場合があります。アクセスやアクセス許可を提供しない場合には、Microsoft からのガイダンスに基づいて、規定された特定のタスクをご自分で実行する必要があります。 
   
 ### <a name="migration-policy-and-steps"></a>移行ポリシーと手順
   
@@ -245,11 +245,11 @@ You may need to provide appropriate access and permissions to Microsoft to perfo
 
 #### <a name="commercial-and-uk-government"></a>商用および英国政府機関
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+定義済みの移行時間帯に、標準化されて事前にスケジュールされた 1 日 24 時間、週 7 営業日 (24 x 7) 体制で移行が行われます。移行日あたり 3 つの移行バッチがあります。
 
 #### <a name="us-governmentdod"></a>米国政府機関/DOD
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+定義済みの移行時間帯に、標準化されて事前にスケジュールされた 1 日 24 時間、週 5 営業日 (24 x 5) 体制で移行が行われます。移行日あたり 3 つの移行バッチがあります。月曜日の午前 2 時 (協定世界時、UTC) から金曜日深夜 24 時 (UTC) までの平日には、移行日が 5 日あります。つまり、最後のスケジュールされた移行は金曜日の午後 8 時 (UTC) となります。
     
 - すべての移行には、ソース環境に対する適切なアクセスとアクセス許可が必要です。   
 - すべての移行は、「[SharePoint Online と OneDrive for Business のソフトウェアの境界と制限](https://go.microsoft.com/fwlink/?LinkId=698855)」に記載されている OneDrive for Business クォータの対象になります。
@@ -290,20 +290,20 @@ FastTrack スペシャリストは、移行中に以下のことを行います�
 - ユーザー受け入れテストの間、移行完了後最大 5 日間まで、移行後の支援を提供します。
    
 お客様は、移行中に以下のことを行います。
-- Provide project resources recommended for assessment and migration activities. These include:
+- 評価と移行のアクティビティに推奨するプロジェクト リソースを提供します。これらには以下が含まれます。
   - プロジェクトの管理。
   - UAT。
   - 移行元と移行先のコンテンツ プラットフォームを担当する管理者。
 - 評価と移行アクティビティのためにインフラストラクチャの前提条件を提供します (必要な場合)。   
 - 移行アクティビティを実行するために、FastTrack スペシャリストに移行元と移行先の環境へのアクセスとアクセス許可を与えます (必要な場合)。  
     > [!NOTE]
-    > Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+    > 移行には、オンボーディング中に定義されたセキュリティ要件に準拠しているアカウントのみを使用します。そのようなアカウントを使用しない場合、移行の遅延が発生する可能性があります。 
 - FastTrack に用意されている評価ツールをインストールし、評価データの収集アクティビティを完了します (該当する場合)。
 - FastTrack に用意されているオンプレミスの移行ソフトウェアをインストールします (該当する場合)。  
 - FastTrack に用意されている修復レポートに記載の修復アクティビティを完了します (該当する場合)。   
 - FastTrack のテンプレートとガイダンスを使用して、移行スケジュールを提供します。 
 - 定義された方法で設定したスケジュールと、移行する特定のユーザー データの一覧を各移行イベントごとに提供します。
-- Drop user data from the schedule until 24 hours in advance of the migration batch. This should correspond to the final migration batch.
+- 移行バッチの 24 時間前までに、スケジュールからユーザー データを削除します。これが最終の移行バッチとなります。
 - 移行品質保証とユーザー受け入れのテストを実施します。   
 - 移行後の移行修復フェーズを実施します (必要な場合)。  
 - 変更の管理とエンド ユーザーとの通信を計画し、実装します (該当する場合)。  

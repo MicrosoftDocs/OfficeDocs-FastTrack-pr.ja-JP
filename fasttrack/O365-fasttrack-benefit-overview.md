@@ -11,7 +11,7 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization. To learn more about eligibility, see FastTrack Center Benefit for Office 365.
+description: Office 365 用 FastTrack Center 特典では、FastTrack スペシャリストとリモートで作業して、組織内で Office 365 環境を使い始められるように準備を行い、ロールアウトと使用法を計画することができます。資格について詳しくは、「Office 365 用 FastTrack Center 特典」を参照してください。
 ms.openlocfilehash: 3537f6effa5bd2c65f542496ea42ab70075621ce
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -21,7 +21,7 @@ ms.locfileid: "45011335"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack Center の特典の概要
 
-With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization. To learn more about eligibility, see [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md).
+Office 365 用 FastTrack Center 特典では、FastTrack スペシャリストとリモートで作業して、組織内で Office 365 環境を使い始められるように準備を行い、ロールアウトと使用法を計画することができます。資格について詳しくは、「[Office 365 用 FastTrack Center 特典](O365-fasttrack-benefit-for-office-365.md)」を参照してください。
   
 以下のトピックについて説明します。
 - [FastTrack プロセス](O365-fasttrack-process.md) 
@@ -34,11 +34,11 @@ With FastTrack Center Benefit for Office 365, you work remotely with FastTrack S
 - [付録 B: FastTrack Center HIPAA ビジネス アソシエイト契約](O365-hipaa-business-associate-agreement.md)
 - [付録 C: Office 365 US Government 向け FastTrack Center の特典の概要](US-Gov-appendix-overview.md)
     
-Your Office 365 tenant is created at the completion of onboarding. Licensed users can access Office 365 by using one of the following identity options:
+オンボーディングが完了すると、Office 365 テナントが作成されます。ライセンスを持つユーザーが、以下のいずれかの ID オプションを使って Office 365 にアクセスできます。
 - 固有の Office 365 アカウントを持つクラウド ID。
-- Synchronized Identities with Office 365 accounts synchronized from your on-premises Active Directory with Azure Active Directory Connect (Password Hash Sync or Pass-through Authentication). These are for customers with:
+- Azure Active Directory Connect (パスワード ハッシュ同期またはパススルー認証) を使って、オンプレミスの Active Directory から同期した Office 365 アカウントを持つ同期した ID。これは、次のお客様を対象としています。
   - 1 つの Active Directory フォレスト環境を使っている。
-  - Supported multi-forests Active Directory topology. For supported topologies, see [Source Environment Expectations](O365-source-environment-expectations.md).
+  - サポートされる複数フォレストの Active Directory トポロジを使っている。サポートされるトポロジについては、「[ソース環境要件](O365-source-environment-expectations.md)」をご覧ください。
 - 次の Office 365 アカウントを持つフェデレーション ID:
   - Azure Active Directory Connect ツールを使用して Active Directory から同期されている、次のお客様が対象です。
       - 1 つの Active Directory フォレスト構成を使っている。

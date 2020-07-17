@@ -33,7 +33,7 @@ Microsoft 365 サービスのいずれかを購入すると、FastTrack スペ�
 2.    ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
 3.    [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。
   
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
 1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
 2.    **[顧客]** を選択します。
 3.    顧客を検索するか、顧客リストから選択します。

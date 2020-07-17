@@ -23,13 +23,13 @@ FastTrack プロセスでは、オンボーディングと、ユーザー採用�
   
 オンボーディングは、次のもので構成されます。
   
-- *Core onboarding* — These are tasks required for tenant configuration and integration with Azure Active Directory (Azure AD) if needed. Core onboarding also provides the baseline for onboarding other eligible services. 
-- *Service onboarding and migration* — Service onboarding tasks enable scenarios in your tenant. Data migration (including email and files) is covered in [Data Migration](O365-data-migration.md). 
+- *コア オンボーディング* — これらのタスクは、必要に応じてテナント構成と Azure Active Directory (Azure AD) の統合に必要です。コア オンボーディングは、他の対象のサービスのオンボーディングのベースラインも提供します。 
+- *サービス オンボーディングと移行* — サービス オンボーディング タスクはテナントのシナリオを有効にします。[データ移行](O365-data-migration.md)では、データ移行 (電子メールとファイルを含む) をカバーしています。 
     
-User adoption services are comprised of tasks that provide guidance for you to ensure your users are aware of the eligible services and can use them to drive business value. This assistance occurs in parallel to onboarding activities.
+ユーザー採用サービスは、ユーザーが使用できるサービスを認識し、そのサービスを使用してビジネス価値を高めることができるようにするガイダンスを提供するタスクで構成されています。この支援は、オンボーディング アクティビティと並行して行われます。
   
 > [!NOTE]
-> FastTrack provides customers with a recommended approach, guidance, and best practices engineered to deliver quick and predictable outcomes. If you choose to deploy outside of this guidance, your onboarding experience and usage of the service may be impacted. Guidance is defined as a combination of verbal and written assistance. When FastTrack Specialists provide guidance, FastTrack personnel cannot act on your behalf. You can use FastTrack services to onboard and adopt any qualifying product workload as long as your subscription is current. 
+> FastTrack はお客様に、推奨されるアプローチ、ガイダンス、迅速かつ予測可能な結果を設計するためのベスト プラクティスを提供します。このガイダンス以外の方法での展開を考えている場合は、オンボーディング エクスペリエンスとサービスの使用法に影響が生じる可能性があります。ガイダンスは、口頭および書面のサポートの組み合わせと定義されています。FastTrack のスペシャリストがガイダンスを提供する際に、FastTrack の担当者がお客様の代わりに操作することはできません。サブスクリプションが最新の状態になっていれば、FastTrack サービスを使用して、条件を満たすあらゆる製品ワークロードのオンボーディングと採用を行えます。 
   
 ## <a name="the-onboarding-process"></a>オンボーディング プロセス
 
@@ -50,7 +50,7 @@ User adoption services are comprised of tasks that provide guidance for you to e
     
  オンボーディング支援を開始すると、オンライン会議のスケジュールが決まります。
     
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
 1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
 2.    **[顧客]** を選択します。
 3.    顧客を検索するか、顧客リストから選択します。
