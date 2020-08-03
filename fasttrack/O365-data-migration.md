@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack スペシャリストは、Office 365 へのデータ移行の手順に関するガイダンスを提供します。Office 365 サービス (Exchange Online、OneDrive for Business、SharePoint Online 用) のすべての対象ユーザーが利用できます。
-ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 2befdc8e1eb2464b1c9831528849fb39671cfff2
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011311"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534050"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -38,9 +38,6 @@ Office 365 に移行するデータがソース環境に含まれていること
   
 > [!NOTE]
 > 統合が必要な場合、お使いのソース環境が対象のアプリケーションに必要な最低要件を満たしている必要があります。 
-  
-> [!NOTE]
-> お客様が COVID-19 発生への対応を図る中、Microsoft では 6 か月無料の [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) および [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) の試用版ライセンスを 2020 年 3 月より新たに提供し、リモートでの勤務や学習を支援します。 例外として、FastTrack では 2020 年 3 月から 2020 年 8 月 まで、これらの試用版の 500 以上のライセンスを持つテナント、および学生向けの [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) でデータ移行サービスを利用できるようにしています。 この支援サービスは、予告なしに中止、変更、または一時停止する場合がございます。
 
 次の表に、既存のソース環境の移行に必要な要件を示します。
   

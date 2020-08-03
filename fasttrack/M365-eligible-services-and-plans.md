@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bdd1ce3f98a807d6c07002741b5092390463bf86
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011227"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534038"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 
 Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
 
 > [!IMPORTANT]
-> FastTrack サービスを受けるには、対象となるプランのリストから*少なくとも* 150 のライセンスを購入する必要があります。 お客様が COVID-19 発生への対応を図る中、Microsoft では 6 か月無料の [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) および [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) の試用版ライセンスを 2020 年 3 月より新たに提供し、リモートでの勤務や学習を支援します。 2020 年 3 月から 2020 年 8 月までは例外的に、これらの無料の試用版ライセンスおよび学生向け [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) へのオンボーディングに対して、FastTrack によるサポートが提供されます。 この支援サービスは、予告なしに中止、変更、または一時停止する場合がございます。   
+> FastTrack サービスを受けるには、対象となるプランのリストから*少なくとも* 150 のライセンスを購入する必要があります。  
   
 [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)または [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 
 
