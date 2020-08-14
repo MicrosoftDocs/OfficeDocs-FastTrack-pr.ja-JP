@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack では、Windows 10 の展開のガイダンスを提供することで、ユーザーが Windows 7 Professional および Windows 8.1 Professional から Windows 10 Enterprise にアップグレードするお手伝いをします。
-ms.openlocfilehash: 0aa98b787af20c12f851033b0524d450fd0fcb87
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
-ms.translationtype: MT
+ms.openlocfilehash: da069420434a8087c661f77400edd9239f56c366
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011515"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634171"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -41,14 +41,13 @@ FastTrack では、Windows 10 の展開のガイダンスを提供すること�
 
 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
 1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.    ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
-3.    [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。
+2.    ランディング ページの上部にある **[クイック アクション]** から **[Microsoft 365 サポート要求]** を選択します。
+3.    **Microsoft 365 サポート要求**フォームに必要事項を記入します。
   
 パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
 1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.    **[顧客]** を選択します。
-3.    顧客を検索するか、顧客リストから選択します。
-4.    **[サービス]** を選択します。
-5.    [**Microsoft 365 のサポートを依頼する**] フォームを選択します。
-6.    Windows 10 の製品オプションを選択し、フォームに記入します。
+2.    ランディング ページの上部にある **[クイック アクション]** から **[Microsoft 365 サポート要求]** を選択します。
+3.    顧客名、ドメイン、または TPID を入力して顧客を検索します。
+4.    検索結果から顧客を選択します。
+5.    **Microsoft 365 サポート要求**フォームに必要事項を記入します。
  

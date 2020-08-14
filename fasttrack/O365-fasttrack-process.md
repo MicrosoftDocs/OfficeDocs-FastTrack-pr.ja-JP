@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack プロセスでは、オンボーディングと、ユーザー採用サービスが提供されます。
-ms.openlocfilehash: 271a78c8d203c90e2bb49a7569283a748b66f443
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: e1fad1717e905b9f224dbfd2bc03ca2c41ce62f7
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011371"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634207"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack プロセス
 
@@ -43,19 +43,19 @@ FastTrack プロセスでは、オンボーディングと、ユーザー採用�
 
 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
 1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.    ランディング ページの上部にある**クイック操作**から [**Microsoft 365 のサポートを依頼する**] を選択するか、展開カードの [**Microsoft 365 のサポートを依頼する**] を選択します。
-3.    [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。 
+2.    ランディング ページの上部にある **[クイック アクション]** から **[Microsoft 365 サポート要求]** を選択します。
+3.    **Microsoft 365 サポート要求**フォームに必要事項を記入します。
+  
+パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
+1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
+2.    ランディング ページの上部にある **[クイック アクション]** から **[Microsoft 365 サポート要求]** を選択します。
+3.    顧客名、ドメイン、または TPID を入力して顧客を検索します。
+4.    検索結果から顧客を選択します。
+5.    **Microsoft 365 サポート要求**フォームに必要事項を記入します。
   
  テナントが利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) から FastTrack センター サポートを依頼することもできます。 
     
  オンボーディング支援を開始すると、オンライン会議のスケジュールが決まります。
-    
-パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
-1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
-2.    **[顧客]** を選択します。
-3.    顧客を検索するか、顧客リストから選択します。
-4.    **[サービス]** を選択します。
-5.    [**Microsoft 365 のサポートを依頼する**] フォームに必要事項を記入します。 
 
 次の表は、プロセスでの役割と責任を一覧にしたものです。
     
