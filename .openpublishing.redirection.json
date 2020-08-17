@@ -1,74 +1,149 @@
 {
   "redirections": [ 
     {
-      "source_path": "fasttrack/data-migration.md", 
-      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-data-migration",
-      "redirect_document_id": true
+      "source_path": "EMS-fasttrack-benefit-for-EMS.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/introduction",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/O365-eligible-services-and-plans.md", 
-      "redirect_url": "https://docs.microsoft.com/fasttrack/M365-eligible-services-and-plans",
-      "redirect_document_id": true
+      "source_path": "EMS-fasttrack-benefit-overview.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/introduction",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/fasttrack-additional-benefits.md",
-      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-fasttrack-additional-benefits",
-      "redirect_document_id": true
+      "source_path": "EMS-fasttrack-process.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/process-and-expectations",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/fasttrack-benefit-for-office-365.md",
-      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365",
-      "redirect_document_id": true
+      "source_path": "EMS-fasttrack-responsibilities.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/process-and-expectations",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/fasttrack-benefit-overview.md",
-      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-overview",
-      "redirect_document_id": true
+      "source_path": "EMS-onboarding-phases.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/products-and-capabilities",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/fasttrack-process.md", 
-      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-fasttrack-process",
-      "redirect_document_id": true
+      "source_path": "EMS-source-environment-expectations.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/products-and-capabilities",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/fasttrack-responsibilities.md",
-      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-fasttrack-responsibilities",
-      "redirect_document_id": true
+      "source_path": "EMS-your-responsibilities.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/process-and-expectations",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/from-ibm-domino-to-exchange-online.md", 
-      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-from-ibm-domino-to-exchange-online",
-      "redirect_document_id": true
+      "source_path": "M365-eligible-services-and-plans.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/eligiblity",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/hipaa-business-associate-agreement.md", 
-      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-hipaa-business-associate-agreement",
-      "redirect_document_id": true
+      "source_path": "M365-fasttrack-benefit-overview.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/introduction",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/onboarding-and-migration.md", 
-      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-onboarding-and-migration",
-      "redirect_document_id": true
+      "source_path": "O365-data-migration.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/data-migration",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/source-environment-expectations.md", 
-      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-source-environment-expectations",
-      "redirect_document_id": true
+      "source_path": "O365-fasttrack-benefit-for-office-365.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/introduction",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/your-responsibilities.md", 
-      "redirect_url": "https://docs.microsoft.com/fasttrack/O365-your-responsibilities",
-      "redirect_document_id": true
+      "source_path": "O365-fasttrack-benefit-overview.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/introduction",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/win-10-desktop-app-assure.md", 
-      "redirect_url": "https://docs.microsoft.com/en-us/fasttrack/win-10-app-assure",
-      "redirect_document_id": true
+      "source_path": "O365-fasttrack-process.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/process-and-expectations",
+      "redirect_document_id": false
     },
     {
-      "source_path": "fasttrack/Win-10-daa-assistance-offered.md", 
-      "redirect_url": "https://docs.microsoft.com/en-us/fasttrack/win-10-app-assure-assistance-offered",
-      "redirect_document_id": true
+      "source_path": "O365-fasttrack-responsibilities.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/process-and-expectations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "O365-onboarding-and-migration.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/products-and-capabilities",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "O365-source-environment-expectations.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/products-and-capabilities",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "O365-your-responsibilities.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/process-and-expectations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Win-10-app-assure.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/introduction",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Win-10-app-assure-assistance-offered.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/process-and-expectations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Win-10-fasttrack-benefit-for-Windows-10.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/introduction",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Win-10-microsoft-defender-atp.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/introduction",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Win-10-microsoft-defender-atp-assistance-offered.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/process-and-expectations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Win-10-microsoft-edge.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/introduction",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Win-10-microsoft-edge-assistance-offered.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/process-and-expectations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Win-10-onboarding-phases.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/products-and-capabilities",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Win-10-source-environment-expectations.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/products-and-capabilities",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Win-10-windows-10.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/introduction",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Win-10-your-responsibilities.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/process-and-expectations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "O365-fasttrack-additional-benefits.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/introduction",
+      "redirect_document_id": false
     }
   ]
 }
