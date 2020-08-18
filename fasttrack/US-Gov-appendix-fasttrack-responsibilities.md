@@ -3,19 +3,19 @@ title: Office 365 US Government の FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: fdd8970a88b70a8746200a8dc66e20562c9b9b19
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bc8c0e76a11f9e159303b7f4140e3f9fd9144ce2
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011623"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776479"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US Government の FastTrack 責任
 
@@ -102,7 +102,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - 1 つのオンプレミスの Exchange 組織と Office 365 の間、*または*複数のオンプレミスの Exchange 組織と Office 365 の間におけるハイブリッド セットアップの構成。 
 - Exchange Online でのユニファイドメッセージング (UM) のセットアップ (UM は、GCC DoD プランでは使用できません)。 
     
-データ移行の責任について詳しくは、「[データ移行](O365-data-migration.md)」を参照してください。
+データ移行の責任について詳しくは、「[データ移行](data-migration.md)」を参照してください。
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
