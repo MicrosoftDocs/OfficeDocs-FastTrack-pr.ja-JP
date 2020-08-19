@@ -72,12 +72,12 @@
     },
     {
       "source_path": "fasttrack/M365-eligible-services-and-plans.md", 
-      "redirect_url": "https://docs.microsoft.com/fasttrack/eligiblity",
+      "redirect_url": "https://docs.microsoft.com/fasttrack/eligibility",
       "redirect_document_id": false
     },
     {
       "source_path": "fasttrack/M365-eligible-services-and-plans-prior.md", 
-      "redirect_url": "https://docs.microsoft.com/fasttrack/eligiblity",
+      "redirect_url": "https://docs.microsoft.com/fasttrack/eligibility",
       "redirect_document_id": false
     },
     {
