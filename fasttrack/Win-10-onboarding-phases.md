@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。
-ms.openlocfilehash: 5781c71ee9748579097adc1a0ea103e7dc64945d
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: a7047bbec148fa6bbe49d8bb84f8a73f2a132e0d
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800681"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817558"
 ---
 # <a name="onboarding-phases"></a>オンボーディング フェーズ
 
 > [!CAUTION]
-> このコンテンツは最新ではなく、削除がスケジュールされています。 現在のコンテンツの左側のナビゲーションにある目次を使用します。
+> このコンテンツは現在は使用されていないため、削除する予定です。 現在のコンテンツに対して左側のナビゲーション内の目次を使用します。
 
 Windows 10 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。
 

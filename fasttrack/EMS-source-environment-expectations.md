@@ -9,21 +9,21 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: d0318abb0f38d23cc23a713e90facde5af842627
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 7d9921daf56aa14589a6a050e736f94676b10143
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800429"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817522"
 ---
 # <a name="source-environment-expectations"></a>ソース環境要件
 > [!CAUTION]
-> このコンテンツは最新ではなく、削除がスケジュールされています。 現在のコンテンツの左側のナビゲーションにある目次を使用します。
+> このコンテンツは現在は使用されていないため、削除する予定です。 現在のコンテンツに対して左側のナビゲーション内の目次を使用します。
 
 Microsoft Azure Active Directory Premium、Microsoft Intune、および Azure Information Protection の使用に向けた準備で [Enterprise Mobility + Security (EMS) 向け FastTrack センターの特典](EMS-fasttrack-benefit-for-EMS.md)を使用する場合、お客様の環境が次のセクションで説明する要件を満たしている必要があります。
 

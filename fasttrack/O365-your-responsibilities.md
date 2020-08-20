@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 0659b5f11d953c4b9d7e019ebc85f8f9b17e11b6
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: e2cc171dde9e0d9ddde0847d7ee53f6e6f201285
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800777"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817366"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 
 > [!CAUTION]
-> このコンテンツは最新ではなく、削除がスケジュールされています。 現在のコンテンツの左側のナビゲーションにある目次を使用します。
+> このコンテンツは現在は使用されていないため、削除する予定です。 現在のコンテンツに対して左側のナビゲーション内の目次を使用します。
 
 お客様には、オンボーディング中に以下の責任があります。\*
   

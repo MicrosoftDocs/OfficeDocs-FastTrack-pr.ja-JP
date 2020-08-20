@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 のいずれかのサービスを購入した場合は、FastTrack スペシャリストによってエンドポイントのセキュリティを強化するためのリモート展開ガイダンスが提供されます。 Microsoft のサービスは、お客様の環境とニーズに合わせて調整されます。
-ms.openlocfilehash: 05b466e1136344294da3e277c9a0e60370e42588
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: bf488a2cbe1c61083425171de6942b5db59e58ad
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800717"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817654"
 ---
 # <a name="assistance-offered"></a>提供されているサポート  
 
 > [!CAUTION]
-> このコンテンツは最新ではなく、削除がスケジュールされています。 現在のコンテンツの左側のナビゲーションにある目次を使用します。
+> このコンテンツは現在は使用されていないため、削除する予定です。 現在のコンテンツに対して左側のナビゲーション内の目次を使用します。
 
 Windows 10 または Microsoft 365 のいずれかのサービス (詳細は「[対象サービスとプラン](M365-eligible-services-and-plans.md)」に記載) を購入した場合は、FastTrack スペシャリストによってエンドポイントのセキュリティを強化するためのリモート展開ガイダンスが提供されます。 Microsoft のサービスは、お客様の環境とニーズに合わせて調整されます。 FastTrack スペシャリストは次のことを行います。
 - OS のバージョンとデバイス管理 (Microsoft Intune、Microsoft Endpoint Configuration Manager、グループ ポリシー オブジェクト (GPO)、サード パーティの構成など) を評価します。
@@ -54,7 +54,7 @@ FastTrack サービスには含まれません:
    - Windows Server
    - macOS
    - Linux
-   - モバイルデバイス (Android および iOS)
+   - モバイル デバイス (Android および iOS)
 - 次の攻撃面の縮小機能の構成:
     - ハードウェア ベースの分離。
     - アプリケーション制御。
@@ -64,4 +64,4 @@ FastTrack サービスには含まれません:
 - API またはセキュリティ情報およびイベント管理 (SIEM) 接続を確認する構成やトレーニング。
 - Microsoft 脅威保護 (MTP) の登録または構成。
 - 高度な検出に関するトレーニングまたはガイダンス。
-- Kusto クエリの使用または作成をカバーするトレーニングまたはガイダンス。
+- Kusto クエリの使用または作成について説明するトレーニングまたはガイダンスです。

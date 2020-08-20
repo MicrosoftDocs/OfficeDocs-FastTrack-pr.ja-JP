@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 のサービスを購入すると、Windows 10 や Microsoft 365 アプリを展開し、最新の状態を保つための FastTrack スペシャリストによるアドバイスと修復ガイダンスが (対象のサブスクリプションでは) 無償で提供されます。
-ms.openlocfilehash: c291ddb37146b6a2f4151be971570dbba806fe2e
-ms.sourcegitcommit: a293da96a47a7e1d97d09e1665fdb17ea0506944
+ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46795086"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817690"
 ---
 # <a name="assistance-offered"></a>提供されているサポート  
 
-Windows 10 サービスまたは Microsoft 365 サービスのいずれか (「 [適格性](eligibility.md)」の詳細) を購入すると、「サポートされている microsoft 製品」に記載 [され](#supported-microsoft-products)ているように新しい Microsoft 製品を展開しているときにアプリの互換性の問題が発生した場合に、fasttrack スペシャリストがアドバイスと修復のガイダンスを提供します。
+Windows 10 または Microsoft 365 のサービス ( [詳細については、Eligibility の詳細を参照)](eligibility.md)を購入すると、サポート対象の Microsoft 製品の説明に示されている新しい Microsoft 製品を展開する際に、アプリの互換性に関する問題が発生した場合、FastTrack スペシャリストによるアドバ [イスと修復ガイダンスが提供されます](#supported-microsoft-products)。
 
 ヘルプを表示するには、[App Assure のサービス要求](https://go.microsoft.com/fwlink/?linkid=2022721)を実行します。
 

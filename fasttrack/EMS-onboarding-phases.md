@@ -9,19 +9,19 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
-ms.openlocfilehash: f763358a44878f025d588a10eb97fcd20a5ed984
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: e919acc1a1982de5c023b0cdf84d4ac955b2ec9d
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800477"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817511"
 ---
 # <a name="onboarding-phases"></a>オンボーディング フェーズ
 
 > [!CAUTION]
-> このコンテンツは最新ではなく、削除がスケジュールされています。 現在のコンテンツの左側のナビゲーションにある目次を使用します。
+> このコンテンツは現在は使用されていないため、削除する予定です。 現在のコンテンツに対して左側のナビゲーション内の目次を使用します。
 
 [対象のサービスとプラン](M365-eligible-services-and-plans.md)を使用して、Microsoft Azure Active Directory Premium、Microsoft Intune、および Azure Information Protection の使用準備を行う場合、このプロセスには複数のフェーズがあります。 以下のセクションでは、オンボーディング プロセスの各フェーズについて説明します。
 

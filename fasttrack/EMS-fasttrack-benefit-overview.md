@@ -9,22 +9,22 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3a675401e1517ae56885863197315fb31cce4d8c
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 0623391ccd8d5125c1a8dfeed798b174718f6a7f
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800513"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817246"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack センター特典の概要
 
 > [!CAUTION]
-> このコンテンツは最新ではなく、削除がスケジュールされています。 現在のコンテンツの左側のナビゲーションにある目次を使用します。
+> このコンテンツは現在は使用されていないため、削除する予定です。 現在のコンテンツに対して左側のナビゲーション内の目次を使用します。
 
 Microsoft Azure Active Directory Premium、Microsoft Intune、および Azure Information Protection 向けの FastTrack センター 特典を使用すると、FastTrack スペシャリストとリモートで作業して運用のための環境の準備を進め、組織内でのロールアウトと利用を計画できます。 利用資格の詳細については、「[Enterprise Mobility + Security (EMS) 向け FastTrack センター特典プロセス](EMS-fasttrack-process.md)」を参照してください。
 

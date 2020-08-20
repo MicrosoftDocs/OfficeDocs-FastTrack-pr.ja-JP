@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 サービス (「対象となるサービスとプラン」の詳細を参照) を購入すると、Internet Explorer または Google Chrome で動作する Web アプリまたはサイトがある場合に、FastTrack スペシャリストがリモート配置ガイダンスと互換性の支援を提供します。
-ms.openlocfilehash: 23cd4ea46bb13255acf975ee2ee727dd307a59b0
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 7dbbe81784e208898ee35e8036a7ac7403cfe5c3
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800705"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817630"
 ---
 # <a name="assistance-offered"></a>提供されているサポート
 
-対象となる Windows 10 サービスまたは Microsoft 365 サービスのいずれか (「 [適格性](eligibility.md)」に記載されている) を購入すると、Fasttrack スペシャリストは、Internet Explorer または Google Chrome と連携する web アプリまたはサイトを使用している場合に、リモート展開のガイダンスと互換性のサポートを提供します。 
+対象となる Windows 10 または Microsoft 365 のサービス ( [詳細については「対象となる」を参照) を購入すると](eligibility.md)、Internet Explorer または Google Chrome で動作する Web アプリまたはサイトがある場合に、FastTrack スペシャリストがリモート展開のガイダンスと互換性支援を提供します。 
 
 ## <a name="assistance"></a>Assistance
 

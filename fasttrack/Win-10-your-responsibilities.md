@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: お客様には、Windows 10 のオンボーディング中に以下の責任があります。
-ms.openlocfilehash: eca0ba1edac777ce5a3d17c303cc14bcec312781
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: f86a889f1819afa8a8dceefb45ab9dc1ab439535
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800585"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817150"
 ---
 # <a name="your-responsibilities"></a>お客様の責任
 > [!CAUTION]
-> このコンテンツは最新ではなく、削除がスケジュールされています。 現在のコンテンツの左側のナビゲーションにある目次を使用します。
+> このコンテンツは現在は使用されていないため、削除する予定です。 現在のコンテンツに対して左側のナビゲーション内の目次を使用します。
 
 お客様には、オンボーディング中に以下の責任があります。
 
