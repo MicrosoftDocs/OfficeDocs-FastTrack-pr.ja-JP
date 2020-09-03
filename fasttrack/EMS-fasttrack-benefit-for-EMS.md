@@ -9,22 +9,22 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: cd14af0915c7b0b023ae160a9d81d0f7f37ee1ad
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 26956e322088e5886d3ff525455cef8ae7a5d848
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817282"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338415"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>Enterprise Mobility + Security (EMS) 向け FastTrack センターの特典
 
 > [!CAUTION]
-> このコンテンツは現在は使用されていないため、削除する予定です。 現在のコンテンツに対して左側のナビゲーション内の目次を使用します。
+> このコンテンツは最新ではなくなったため、削除される予定です。 最新のコンテンツについては、左側のナビゲーションにある目次を使用してください。
 
 
 EMS または対象となるプランの EMS 提供のクラウドサービス向けに 150 以上のライセンスを購入するときに、Enterprise Mobility + Security (EMS) FastTrack センターの特典を使用します。 　 You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. これらのスペシャリストは、移行のガイダンスも提供します。 

@@ -9,15 +9,15 @@ ms.topic: overview
 f1_keywords:
 - office-365-onboarding-benefit-process
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: None
 ms.collection: FastTrack
 description: Office 365 用 FastTrack Center 特典では、FastTrack スペシャリストとリモートで作業して、組織内で Office 365 環境を使い始められるように準備を行い、ロールアウトと使用法を計画することができます。資格について詳しくは、「Office 365 用 FastTrack Center 特典」を参照してください。
-ms.openlocfilehash: 40d49036d4aba6655a51c950efd0e29384a45f5c
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: HT
+ms.openlocfilehash: 30d428cb5cc4e4fb8c9a267029a52618678c5ee1
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800897"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338223"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack センター特典の概要
 

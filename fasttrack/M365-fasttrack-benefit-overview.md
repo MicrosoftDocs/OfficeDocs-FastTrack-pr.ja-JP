@@ -9,15 +9,15 @@ ms.topic: overview
 f1_keywords:
 - microsoft-365-onboarding-benefit
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: None
 ms.collection: FastTrack
 description: Microsoft 365 用 FastTrack Center では、Microsoft のエンジニアリング専門知識、ベスト プラクティス、ツール、リソースにアクセスできるなど、計画、展開、導入の手引きが提供されます。Microsoft 365 用 FastTrack Center を利用することで、組織とそのパートナーは短期間で展開したり、Office 365、Windows 10、Enterprise Mobility + Security をエンドユーザーに導入してもらったりすることができます。
-ms.openlocfilehash: 2e0c429de0a3557260e9c9689514d8f1728e639e
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: HT
+ms.openlocfilehash: caaac70314d1c93405da5d0f0c3587d58b8343f6
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800945"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338427"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Microsoft 365 用 FastTrack Center 特典
 

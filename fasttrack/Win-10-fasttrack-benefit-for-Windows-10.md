@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: 対象となるサービスやプランについて*少なくとも* 150 ライセンスを購入する場合は、Windows 10 用 FastTrack Center 特典を利用できます。
-ms.openlocfilehash: 6616b967bac16402f732c56d763dc67accf19f70
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 3293ff9212224774cd101171a20e18972e51f8c4
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817666"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338535"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Windows 10 用 FastTrack Center 特典
 
 > [!CAUTION]
-> このコンテンツは現在は使用されていないため、削除する予定です。 現在のコンテンツに対して左側のナビゲーション内の目次を使用します。
+> このコンテンツは最新ではなくなったため、削除される予定です。 最新のコンテンツについては、左側のナビゲーションにある目次を使用してください。
 
 対象となるサービスやプランについて、少なくとも 150 ライセンスを購入する場合は、Windows 10 の FastTrack Center 特典を利用できます。 次に、FastTrack のスペシャリストと協力して、Windows 10、新しい Microsoft Edge、または Microsoft Defender Advanced Thread Protection を評価、修復、展開して、Microsoft 365 アプリに関する FastTrack Center の特典を統合します。 
 

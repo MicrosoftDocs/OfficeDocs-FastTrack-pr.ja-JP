@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: None
 ms.collection: FastTrack
 description: Microsoft 365 サービスのいずれかを購入すると、FastTrack スペシャリストは、Microsoft 365 にオンボーディングしてそれを活用する方法に関するガイダンスをユーザーに提供します。
-ms.openlocfilehash: 8b538abb0ffd5efc6ca2fbc6813c6535cae39ff8
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: HT
+ms.openlocfilehash: 0a8549399ea73b2e509696a16783aa7e94b4cf0b
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800957"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338283"
 ---
 # <a name="eligible-services-and-plans"></a>対象となるサービスとプラン
 

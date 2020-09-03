@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: FastTrack センター特典では、Windows 10 の展開に使用するソース環境との統合レベルを設定するためのガイダンスをユーザーに提供します。
-ms.openlocfilehash: 84f026176cd93892272917ac5aa91fff62e6c37a
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e9289f534ec0686655e58c12c5e12379b1849b33
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817270"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338163"
 ---
 # <a name="source-environment-expectations"></a>ソース環境要件
 
 > [!CAUTION]
-> このコンテンツは現在は使用されていないため、削除する予定です。 現在のコンテンツに対して左側のナビゲーション内の目次を使用します。
+> このコンテンツは最新ではなくなったため、削除される予定です。 最新のコンテンツについては、左側のナビゲーションにある目次を使用してください。
 
 FastTrack センター特典では、ソース環境との統合レベルを設定するためのガイダンスをユーザーに提供します。
   

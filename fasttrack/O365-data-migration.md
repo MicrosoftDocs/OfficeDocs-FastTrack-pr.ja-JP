@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストは、Office 365 へのデータ移行の手順に関するガイダンスを提供します。Office 365 サービス (Exchange Online、OneDrive for Business、SharePoint Online 用) のすべての対象ユーザーが利用できます。
-ms.openlocfilehash: cafbad6e17814d0a8961c22389c5870cfd82ec81
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: HT
+ms.openlocfilehash: c7878e96557650a6dd340a08fb6348e2d60ab302
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800933"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338595"
 ---
 # <a name="data-migration"></a>データ移行
 > [!CAUTION]

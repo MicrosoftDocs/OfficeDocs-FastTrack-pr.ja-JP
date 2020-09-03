@@ -7,21 +7,21 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: None
 description: FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上ご購入いただいたお客様が対象です。詳細については、「対象となるサービスとプラン」を参照してください。
-ms.openlocfilehash: 48559090e5fe55cf0001a5e11793dec75a12dfaf
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 7b98f341bf645b83a91e11eec1a1f2347380d97a
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817546"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338439"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>付録 A - FastTrack センターのその他の利点
 
 > [!CAUTION]
-> このコンテンツは現在は使用されていないため、削除する予定です。 現在のコンテンツに対して左側のナビゲーション内の目次を使用します。
+> このコンテンツは最新ではなくなったため、削除される予定です。 最新のコンテンツについては、左側のナビゲーションにある目次を使用してください。
 
-FastTrack Center の追加サービスは、Exchange Online テナントのライセンスを 20,000 以上購入したお客様が対象です。 詳細 [については、「Eligibility](eligibility.md) (対象)」を参照してください。 
+Exchange Online テナントに対して少なくとも2万のライセンスを購入したお客様は、FastTrack センターのその他のサービスの対象となります。 詳細については「 [適格性](eligibility.md) 」を参照してください。 
   
 ## <a name="onboarding-and-migration-phases"></a>オンボーディングと移行のフェーズ
 
@@ -51,11 +51,11 @@ Microsoft 365 アプリに関しては、次に示すガイダンスを提供し
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
-FastTrack スペシャリストには、オンボーディング中に以下の責任があります。 これらは、プロセスと期待されるアクティビティに追加または置換 [することができます](process-and-expectations.md)。
+FastTrack スペシャリストには、オンボーディング中に以下の責任があります。 このような操作は、「 [処理」と「予測](process-and-expectations.md)」で定義されているアクティビティに加えて、または置換することができます。
   
 ## <a name="general"></a>全般
 
-- 成立計画の開発と実装、必要な構成アクティビティに関するリモート サポート アシスタンスを提供します。製品と機能の詳細については [、「製品と機能」で説明しています](products-and-capabilities.md)。
+- [製品と機能](products-and-capabilities.md)の詳細に従って、開発、実装、必要な構成作業をサポートするための支援をリモートサポートに提供します。
     
 ## <a name="assess-phase"></a>評価フェーズ
 
@@ -138,7 +138,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
   
 ## <a name="your-responsibilities"></a>お客様の責任
 
-お客様には、オンボーディング中に以下の責任があります。 これらは、プロセスと期待で定義された責任 [に追加されるものです](process-and-expectations.md)。 
+お客様には、オンボーディング中に以下の責任があります。 これらは、「 [処理」と「予測](process-and-expectations.md)」で定義されている責任に加えています。 
   
 - プロジェクト計画に従いリソースを割り当て、管理する。  
 - リスクを緩和し、顧客、パートナーのプロジェクト マネージャー、FastTrack マネージャーから発生した問題を解決するため、適宜対応する。   

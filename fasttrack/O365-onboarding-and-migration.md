@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 0b87d47bb38a55de95a38b09239eff638ee247b2
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 69b77911afc351ff48f6198049204822e5dd0d3c
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817354"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338259"
 ---
 # <a name="onboarding-and-migration-phases"></a>オンボーディングと移行のフェーズ
 
 > [!CAUTION]
-> このコンテンツは現在は使用されていないため、削除する予定です。 現在のコンテンツに対して左側のナビゲーション内の目次を使用します。
+> このコンテンツは最新ではなくなったため、削除される予定です。 最新のコンテンツについては、左側のナビゲーションにある目次を使用してください。
 
 Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
   

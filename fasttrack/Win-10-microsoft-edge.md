@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 用 FastTrack 特典では、接続クライアントが 150 以上の Windows 10 Enterprise のお客様向けに、新しい Microsoft Edge の配置ガイダンスを提供します。
-ms.openlocfilehash: b0a0523749cfa834d0ade55c72e29ae9b0c2506e
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 521249edbcca687432074792b1cdf86f4298b263
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817618"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338487"
 ---
 # <a name="the-new-microsoft-edge"></a>新しい Microsoft Edge
 
@@ -23,4 +23,4 @@ Windows 10 用 FastTrack 特典では、接続クライアントが 150 以上�
 
 FastTrack のスペシャリストがお客様と協力して、Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager または Microsoft Intune) を使用して、Windows 10 Enterprise に Microsoft Edge を展開します。
 
-
+FastTrack の利点の詳細については、「 [Microsoft 365 の Fasttrack センターの特典](introduction.md)」を参照してください。
