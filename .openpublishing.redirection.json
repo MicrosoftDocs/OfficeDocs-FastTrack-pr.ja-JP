@@ -134,6 +134,26 @@
       "source_path": "fasttrack/win-10-desktop-app-assurewindows-10.md", 
       "redirect_url": "https://docs.microsoft.com/fasttrack/products-and-capabilities#windows-10",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "fasttrack/Win-10-app-assure.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/products-and-capabilities#app-assure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "fasttrack/Win-10-app-assure-assistance-offered.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/products-and-capabilities#app-assure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "fasttrack/Win-10-microsoft-edge.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/products-and-capabilities#the-new-microsoft-edge",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "fasttrack/Win-10-microsoft-edge-assistance-offered.md", 
+      "redirect_url": "https://docs.microsoft.com/fasttrack/products-and-capabilities#the-new-microsoft-edge",
+      "redirect_document_id": false
     }
   ]
 }
