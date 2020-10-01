@@ -3,19 +3,19 @@ title: 対象
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、リモートで受信する対象となる要件の概要を説明します。Microsoft 365 ライセンス購入に含まれている FastTrack スペシャリストによるプラン支援や、対象となる特定の製品と機能の詳細について説明します。
-ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817570"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320021"
 ---
 # <a name="eligibility"></a>対象
 
@@ -46,8 +46,8 @@ FastTrack スペシャリストは、お客様の購入製品に含まれるプ�
   - Power BI
   - Project Online
   - SharePoint Online
-  - Skype for Business Online
   - Windows 10
+  - Windows Virtual Desktop
   - Yammer Enterprise
 
 ## <a name="eligible-plans"></a>対象となるプラン
@@ -65,6 +65,7 @@ FastTrack の対象下にあるプランの 1 つで少なくともテナント�
   - Microsoft 365 E5 eDiscovery & 監査\*
   - Microsoft 365 E5 情報保護およびガバナンス\*
   - Microsoft 365 E5 インサイダー リスク管理\*
+  - Microsoft 365 F1\*
   - Microsoft 365 F3\*
   - Microsoft 365 Business\*
   - Microsoft 365 Apps for Enterprise\*
@@ -115,6 +116,19 @@ FastTrack の対象下にあるプランの 1 つで少なくともテナント�
   - Exchange Online Protection
   - Office 365 Advanced Threat Protection
 
+#### <a name="microsoft-teams"></a>Microsoft Teams
+
+  - 電話システム
+  - 通話プラン
+  - 電話会議
+  - Microsoft Teams ルーム
+
+#### <a name="onedrive-for-business"></a>OneDrive for Business
+
+  - OneDrive for Business with Office
+  - OneDrive for Business プラン 1
+  - OneDrive for Business (プラン 2)
+
 #### <a name="project-online"></a>Project Online
 
   - Project Online Essentials
@@ -126,32 +140,16 @@ FastTrack の対象下にあるプランの 1 つで少なくともテナント�
   - SharePoint Online プラン 1
   - SharePoint Online プラン 2
 
-#### <a name="onedrive-for-business"></a>OneDrive for Business
-
-  - OneDrive for Business with Office
-  - OneDrive for Business プラン 1
-  - OneDrive for Business (プラン 2)
-
-#### <a name="skype-for-business-online"></a>Skype for Business Online
-
-  - 電話システム\*\*\*
-  - 通話プラン\*\*\*
-  - 電話会議\*\*\*
-  - Skype for Business Online プラン 1
-  - Skype for Business Online プラン 2
-
 #### <a name="yammer"></a>Yammer
 
   - Yammer Enterprise
-
 
 <br>
 
 \*この特典の説明で述べられている、FastTrack の対象となるクラウド サービスと機能でのみ利用可能です。  
       
 \*\*米国政府機関向けの FastTrack の特典の詳細については、「[Office 365 US Government](https://aka.ms/aboutgovcloud)」を参照してください。  
-      
-\*\*\*Skype for Business Online と Teams の両方のライセンスを付与済みのユーザーに使用できます。 Skype for Business または Teams を購入する資格を与える必要があります。  
+       
       
 ### <a name="enterprise-mobility--security-plans"></a>Enterprise Mobility + Security プラン  
       

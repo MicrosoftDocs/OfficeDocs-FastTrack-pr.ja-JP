@@ -3,19 +3,19 @@ title: プロセスと期待
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、FastTrack に支援を要請する方法、支援の提供方法、正常な操作環境のためのヒントを提案し、FastTrack とお客様の会社双方の主な責任について説明します。
-ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817582"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319937"
 ---
 # <a name="process-and-expectations"></a>プロセスと期待
 
@@ -43,6 +43,8 @@ FastTrack サイトを通じて直接サポートを要求するには:
 3.  顧客名、ドメイン、または TPID を入力して顧客を検索します。
 4.  検索結果から顧客を選択します。
 5.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。
+
+アプリの確認を要求するには、 [アプリでサービスの要求](https://go.microsoft.com/fwlink/?linkid=2022721)を完了してください。
 
 ## <a name="fasttrack-expectations"></a>FastTrack の期待
 
