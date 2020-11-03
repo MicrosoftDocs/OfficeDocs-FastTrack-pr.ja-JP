@@ -1,7 +1,7 @@
 ---
 title: 提供されているサポート
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 のいずれかのサービスを購入した場合は、FastTrack スペシャリストによってエンドポイントのセキュリティを強化するためのリモート展開ガイダンスが提供されます。 Microsoft のサービスは、お客様の環境とニーズに合わせて調整されます。
-ms.openlocfilehash: a649f5a5959d877b75ad1f08edfbb18a015ba5bb
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: ecd4ff51b7db85ffab0f0e2887040621b6ea5e7d
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338558"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827281"
 ---
 # <a name="assistance-offered"></a>提供されているサポート  
 

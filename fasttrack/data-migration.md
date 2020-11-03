@@ -1,21 +1,21 @@
 ---
 title: データ移行
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack は、ソース環境のメールとファイル データを Office 365 (Exchange Online、SharePoint Online、および OneDrive for Business) に移行するのに役立ちます。 提供するサポートの種類は、Office 365 ライセンスの数によって異なります。
-ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319949"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827659"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -23,8 +23,8 @@ FastTrack は、ソース環境のメールとファイル データを Office 3
 
 提供するサポートの種類は、Office 365 ライセンスの数によって異なります。
 
-  - **ライセンスの数が 150 - 499 個の Office 365 テナントの場合**: FastTrack は移行ガイダンスのみを提供します。お客様はデータ移行を行う責任があります。 セルフ サービスの移行を実行するための無料ツールの計画と使用に役立つドキュメントをご案内します。
-  - **ライセンスの数が 500 個以上の Office 365 テナントの場合**: FastTrack は、移行ガイダンスとデータ移行サービスを提供します。 移行の計画、ソース環境と Office 365 テナントの構成、およびデータ移行サービスを利用したデータの移行に役立つガイダンスを提供します。 移行イベントを作成してスケジュールします。 お客様のスケジュールに従って移行イベントを開始し、その進捗状況を監視し、状態レポートを提供します。
+  - **ライセンスの数が 150 - 499 個の Office 365 テナントの場合** : FastTrack は移行ガイダンスのみを提供します。お客様はデータ移行を行う責任があります。 セルフ サービスの移行を実行するための無料ツールの計画と使用に役立つドキュメントをご案内します。
+  - **ライセンスの数が 500 個以上の Office 365 テナントの場合** : FastTrack は、移行ガイダンスとデータ移行サービスを提供します。 移行の計画、ソース環境と Office 365 テナントの構成、およびデータ移行サービスを利用したデータの移行に役立つガイダンスを提供します。 移行イベントを作成してスケジュールします。 お客様のスケジュールに従って移行イベントを開始し、その進捗状況を監視し、状態レポートを提供します。
 
 > [!NOTE]
 > 2017 年 9 月 1 日より前に商用プランを購入または更新した場合、データ移行サービスの対象となるのに必要なライセンスの数は 150 個のみです。 教育機関向けプランの場合、有料の教職員のライセンスのみがデータ移行サービスの対象となります。
@@ -54,7 +54,7 @@ FastTrack を使用してメールを Exchange Online に移行することを�
   - FastTrack は、アクティブな Office 365 メールボックスへの移行のみ行います。
   - オンプレミスの Exchange 環境から移行する場合は、特定の要件を満たす必要があります。 詳細については、「[ハイブリッド展開の前提条件](https://go.microsoft.com/fwlink/?LinkId=787528)」を参照してください。
   - 各ソース環境は、ソース環境でそれぞれの製品の最新のサービス パック (SP) とロールアップ (RU)/累積的な更新プログラム (CU) レベルにあることが必要です。
-  - オンプレミスの Active Directory に存在する配布リスト (*MailEnabledGroup* オブジェクト) と外部の連絡先 (*MailEnabledContact* オブジェクト) は、メールボックス データの移行の一部ではありません。 ただし、Azure Active Directory (Azure AD) Connect を使用して同期できます。 
+  - オンプレミスの Active Directory に存在する配布リスト ( *MailEnabledGroup* オブジェクト) と外部の連絡先 ( *MailEnabledContact* オブジェクト) は、メールボックス データの移行の一部ではありません。 ただし、Azure Active Directory (Azure AD) Connect を使用して同期できます。 
 
 ## <a name="source-environments"></a>ソース環境
 
@@ -79,7 +79,7 @@ FastTrack を使用してメールを Exchange Online に移行することを�
 <tr class="odd">
 <td><strong>Exchange 2010、Exchange 2013、Exchange 2016、Exchange 2019</strong><br />
 <br />
-<strong>メモ:</strong>  オンプレミスの Exchange の依存関係については、「 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">ハイブリッド展開の前提条件</span></a>」を参照してください。</td>
+<strong>注:</strong> オンプレミスの Exchange の依存関係については、「 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">ハイブリッド展開の前提条件</span></a>」を参照してください。</td>
 <td>ハイブリッド展開での移行</td>
 <td><ul>
 <li>メール</li>
@@ -107,7 +107,7 @@ FastTrack を使用してメールを Exchange Online に移行することを�
 <tr class="even">
 <td><strong>G Suite 環境 (Gmail、連絡先、カレンダーのみ)</strong><br />
 <br />
-<strong>注:</strong>  G Suite 環境は、「<a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">G Suite の移行を実行する</a>」で説明されている前提条件を満たす必要があります。</td>
+<strong>注:</strong> G Suite 環境は、「 <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">g suite 移行を実行</a>する」で説明されている前提条件を満たしている必要があります。</td>
 <td>カット オーバーまたは段階的</td>
 <td><ul>
 <li> メール </li>
@@ -242,7 +242,7 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 <li> アクセスできない、または破損しているドキュメント </li>
 <li> 非表示の共有 </li>
 <li> 共有 (共有のレベルに与えられるアクセス許可など) </li>
-<li> 現在の  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限事項と制約事項</span></a> から逸脱するファイルまたはフォルダー</li>
+<li> 現在の<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online の制限と制限を</span>超えるファイルまたはフォルダー</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -282,7 +282,7 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Google ドライブ管理レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
 <li> 共有ドライブのメンバー権限 (<strong>注</strong>: Google ドライブ管理レポートを使用して、共有ドライブのメンバーを識別します。 移行前に、対象に対してこれらのメンバーシップ設定を構成するようにエンド ユーザーに指示してください。) </li>
 <li> 制限付きとしてマークされている、またはコピーできないファイル </li>
-<li> 現在の  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限事項と制約事項</span></a> から逸脱するファイルまたはフォルダー</li>
+<li> 現在の<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online の制限と制限を</span>超えるファイルまたはフォルダー</a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -317,7 +317,7 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 <li> Box のアプリ、ブックマーク、お気に入り、およびワークフロー </li>
 <li> 移行された Box アカウントが所有していないコンテンツ </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Box レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
-<li> 現在の  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限事項と制約事項</span></a> から逸脱するファイルまたはフォルダー</li>
+<li> 現在の<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online の制限と制限を</span>超えるファイルまたはフォルダー</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -355,7 +355,7 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 <li> Dropbox アプリとお気に入り (Pin/スター) </li>
 <li> 移行された Dropbox アカウントが所有していないコンテンツ </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Dropbox レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
-<li> 現在の  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限事項と制約事項</span></a> から逸脱するファイルまたはフォルダー</li>
+<li> 現在の<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online の制限と制限を</span>超えるファイルまたはフォルダー</a> </li>
 </ul></td>
 </tr>
 </tbody>
@@ -435,7 +435,7 @@ FastTrack を使用してファイルを OneDrive for Business に移行する�
 <li> アクセスできない、または破損しているドキュメント </li>
 <li> 非表示の共有 </li>
 <li> 共有 (共有のレベルに与えられるアクセス許可など) </li>
-<li> 現在の  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限事項と制約事項</span></a> から逸脱するファイルまたはフォルダー</li>
+<li> 現在の<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online の制限と制限を</span>超えるファイルまたはフォルダー</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -474,7 +474,7 @@ FastTrack を使用してファイルを OneDrive for Business に移行する�
 <li> Google Drive アカウントが所有していないコンテンツの移行 </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Google ドライブ管理レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
 <li> 共有ドライブのメンバー権限 (<strong>注</strong>: Google ドライブ管理レポートを使用して、共有ドライブのメンバーを識別します。 移行前に、対象に対してこれらのメンバーシップ設定を構成するようにエンド ユーザーに指示してください。) </li>
-<li> 現在の  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限事項と制約事項</span></a> から逸脱するファイルまたはフォルダー</li>
+<li> 現在の<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online の制限と制限を</span>超えるファイルまたはフォルダー</a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -509,7 +509,7 @@ FastTrack を使用してファイルを OneDrive for Business に移行する�
 <li> Box のアプリ、ブックマーク、お気に入り、およびワークフロー </li>
 <li> 移行された Box アカウントが所有していないコンテンツ </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Box レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
-<li> 現在の  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限事項と制約事項</span></a> から逸脱するファイルまたはフォルダー</li>
+<li> 現在の<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online の制限と制限を</span>超えるファイルまたはフォルダー</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -547,7 +547,7 @@ FastTrack を使用してファイルを OneDrive for Business に移行する�
 <li> Dropbox アプリとお気に入り (Pin/スター) </li>
 <li> 移行された Dropbox アカウントが所有していないコンテンツ </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Dropbox レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
-<li> 現在の  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限事項と制約事項</span></a> から逸脱するファイルまたはフォルダー</li>
+<li> 現在の<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online の制限と制限を</span>超えるファイルまたはフォルダー</a> </li>
 </ul></td>
 </tr>
 </tbody>

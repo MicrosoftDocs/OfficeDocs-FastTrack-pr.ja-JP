@@ -1,7 +1,7 @@
 ---
 title: FastTrack プロセス
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com-msft
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack プロセスでは、オンボーディングと、ユーザー採用サービスが提供されます。
-ms.openlocfilehash: 48469fb79fd093b1b9a9a299cd807b8dfa440843
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 6d13e6fc9247196c9a2e6cf7692abf3fa75152dc
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338547"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827047"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack プロセス
 
@@ -27,7 +27,7 @@ FastTrack プロセスでは、オンボーディングと、ユーザー採用�
 オンボーディングは、次のもので構成されます。
   
 - *コア オンボーディング* — これらのタスクは、必要に応じてテナント構成と Azure Active Directory (Azure AD) の統合に必要です。コア オンボーディングは、他の対象のサービスのオンボーディングのベースラインも提供します。 
-- *サービス オンボーディングと移行* — サービス オンボーディング タスクはテナントのシナリオを有効にします。[データ移行](O365-data-migration.md)では、データ移行 (電子メールとファイルを含む) をカバーしています。 
+- *サービス オンボーディングと移行* — サービス オンボーディング タスクはテナントのシナリオを有効にします。 [データ移行](O365-data-migration.md)では、データ移行 (電子メールとファイルを含む) をカバーしています。 
     
 ユーザー採用サービスは、ユーザーが使用できるサービスを認識し、そのサービスを使用してビジネス価値を高めることができるようにするガイダンスを提供するタスクで構成されています。この支援は、オンボーディング アクティビティと並行して行われます。
   
@@ -42,19 +42,19 @@ FastTrack プロセスでは、オンボーディングと、ユーザー採用�
   
 [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)または [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 
 
-[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)からヘルプを取得するには、管理者は管理センターにサインインして、**[サポートを依頼する]** をクリックします。 
+[Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)からヘルプを取得するには、管理者は管理センターにサインインして、 **[サポートを依頼する]** をクリックします。 
 
 [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得するには、次の手順を実行します。 
 1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
 2.    ランディング ページの上部にある **[クイック アクション]** から **[Microsoft 365 サポート要求]** を選択します。
-3.    **Microsoft 365 サポート要求**フォームに必要事項を記入します。
+3.    **Microsoft 365 サポート要求** フォームに必要事項を記入します。
   
 パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。次の手順を実行します。
 1.    [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。 
 2.    ランディング ページの上部にある **[クイック アクション]** から **[Microsoft 365 サポート要求]** を選択します。
 3.    顧客名、ドメイン、または TPID を入力して顧客を検索します。
 4.    検索結果から顧客を選択します。
-5.    **Microsoft 365 サポート要求**フォームに必要事項を記入します。
+5.    **Microsoft 365 サポート要求** フォームに必要事項を記入します。
   
  テナントが利用できるサービスの一覧にある [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698) から FastTrack センター サポートを依頼することもできます。 
     

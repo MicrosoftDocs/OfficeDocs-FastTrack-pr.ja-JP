@@ -1,7 +1,7 @@
 ---
 title: 提供されているサポート
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 のサービスを購入すると、Windows 10 や Microsoft 365 アプリを展開し、最新の状態を保つための FastTrack スペシャリストによるアドバイスと修復ガイダンスが (対象のサブスクリプションでは) 無償で提供されます。
-ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
-ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
+ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48206254"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827419"
 ---
 # <a name="assistance-offered"></a>提供されているサポート  
 
@@ -23,7 +23,7 @@ Windows 10 サービスまたは Microsoft 365 サービスのいずれか (「 
 
 ヘルプを表示するには、[App Assure のサービス要求](https://go.microsoft.com/fwlink/?linkid=2022721)を実行します。
 
-パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 そのために、パートナーはサイトにサインインして、顧客レコードを選択します。[**サービス**] をクリックし、[**App Assure のサポートを要求する**] フォームを完成させます。
+パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 そのために、パートナーはサイトにサインインして、顧客レコードを選択します。[ **サービス** ] をクリックし、[ **App Assure のサポートを要求する** ] フォームを完成させます。
 
 > [!NOTE]
 > サポートが提供されているのは、繁体字中国語と簡体字中国語 (リソースは標準中国語のみ)、英語、フランス語、ドイツ語、イタリア語、日本語、韓国語、ポルトガル語 (ブラジル)、スペイン語です。 

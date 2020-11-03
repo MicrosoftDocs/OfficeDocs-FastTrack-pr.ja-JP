@@ -1,7 +1,7 @@
 ---
 title: データ移行
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストは、Office 365 へのデータ移行の手順に関するガイダンスを提供します。Office 365 サービス (Exchange Online、OneDrive for Business、SharePoint Online 用) のすべての対象ユーザーが利用できます。
-ms.openlocfilehash: c7878e96557650a6dd340a08fb6348e2d60ab302
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 82a8bcbd39091a5cfaa024538cb64b25d5d35717
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338595"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827311"
 ---
 # <a name="data-migration"></a>データ移行
 > [!CAUTION]
@@ -46,7 +46,7 @@ Office 365 に移行するデータがソース環境に含まれていること
 
 |**アクティビティ**|**ソース環境要件**|
 |:-----|:-----|
-|**Exchange Online への移行**  <br/> | Microsoft は、次に示すソース環境の全ての組み合わせを一度に 1 つずつ移行します。FastTrack センターを使う場合や FastTrack センターのチェックを通過した場合、オンボーディング済みの メッセージング システムを移行できます。これには以下が含まれます。  <br/>  1 つまたは複数の Exchange 組織を持つ 1 つまたは複数のActive Directory フォレスト (Exchange 2010 ベースのハイブリッド以降が各組織に実装されていて、Exchange メール システムが 2003 以降の場合)。  <br/>  1 つの IMAP 対応のメール環境。  <br/>  G Suite 環境 (Gmail、連絡先、カレンダーのみ)。 <br/> <br/> **メモ** *Exchange Online オンボーディングは、移行の前に行う必要があります。* <br/> <br/> **メモ** *FastTrack は、アクティブな Office 365 メールボックスへの移行のみ行います。* <br/> <br/> **メモ** *オンプレミスの Exchange の依存関係については、「[ハイブリッド展開の前提条件](https://go.microsoft.com/fwlink/?LinkId=787528)」を参照してください。* <br/><br/> **メモ** *複数のソース メッセージング環境 (複数の Exchange 組織と複数の Domino ドメインなど) を移行する場合、こうした移行が順次行われます。*| 
+|**Exchange Online への移行**  <br/> | Microsoft は、次に示すソース環境の全ての組み合わせを一度に 1 つずつ移行します。FastTrack センターを使う場合や FastTrack センターのチェックを通過した場合、オンボーディング済みの メッセージング システムを移行できます。これには以下が含まれます。  <br/>  1 つまたは複数の Exchange 組織を持つ 1 つまたは複数のActive Directory フォレスト (Exchange 2010 ベースのハイブリッド以降が各組織に実装されていて、Exchange メール システムが 2003 以降の場合)。  <br/>  1 つの IMAP 対応のメール環境。  <br/>  G Suite 環境 (Gmail、連絡先、カレンダーのみ)。 <br/> <br/> **メモ** *Exchange Online オンボーディングは、移行の前に行う必要があります。* <br/> <br/> **メモ** *FastTrack は、アクティブな Office 365 メールボックスへの移行のみ行います。* <br/> <br/> **メモ** *オンプレミスの Exchange の依存関係については、「 [ハイブリッド展開の前提条件](https://go.microsoft.com/fwlink/?LinkId=787528)」を参照してください。* <br/><br/> **メモ** *複数のソース メッセージング環境 (複数の Exchange 組織と複数の Domino ドメインなど) を移行する場合、こうした移行が順次行われます。*| 
 |**SharePoint Online への移行**  <br/> | ファイル共有 (SMB 2.0 以降をサポートするデバイスでのサーバー メッセージ ブロック (SMB) ファイルの共有)。 <br/> 単一の G Suite 環境 (Google ドライブのみ)。<br/>  Box (Starter、Business、Enterprise)。  <br/> Dropbox for Teams (スタンダードと アドバンスド用)。<br/> |
 |**OneDrive for Business への移行**  <br/> | ファイル共有 (SMB 2.0 以降をサポートするデバイスでの SMB ファイルの共有)。  <br/>  単一の G Suite 環境 (Google ドライブのみ)。  <br/>  Box (Starter、Business、Enterprise)。 <br/> Dropbox for Teams (スタンダードと アドバンスド用)。<br/><br/> **メモ** *FastTrack は、アクティブな Office 365 ドライブへの移行のみ行います。*|
    
@@ -88,12 +88,12 @@ Microsoft を使用してメールを移行する場合、移行のために Exc
 |**ソース環境**|**移行の種類**|**ソース メールボックスから移行される内容**|**移行対象ではない**|
 |**Exchange 2003 以降**|一括| メール <br/> メールボックスのルール <br/> デリゲート <br/> メールボックスの連絡先 <br/> 予定表 <br/> タスク <br/> 権限が管理されたメール <br/> 暗号化されたメール| パブリック フォルダー <br/> 個人用連絡先 <br/> メールが有効なユーザー <br/> ブロックされたユーザーまたは非アクティブなユーザー <br/> 署名 <br/> メールボックス収集 <br/>  メッセージのサイズ制限を超えている電子メール <br/> アーカイブ データ <br/> 破損アイテム <br/>  非アクティブなメールボックス |
 |**Exchange 2003 および Exchange 2007**|段階的| メール <br/> メールボックスのルール <br/> デリゲート <br/> メールボックスの連絡先 <br/> 予定表 <br/> タスク <br/> 権限が管理されたメール <br/> 暗号化されたメール| パブリック フォルダー <br/> 個人用連絡先 <br/> メールが有効なユーザー <br/> ブロックされたユーザーまたは非アクティブなユーザー <br/> 署名 <br/> メールボックス収集 <br/> メッセージのサイズ制限を超えている電子メール <br/> アーカイブ データ <br/> 破損アイテム <br/> 非アクティブなメールボックス |
-|**Exchange 2010、Exchange 2013、Exchange 2016、Exchange 2019** <br/><br/> **メモ** *オンプレミスの Exchange の依存関係については、「[ハイブリッド展開の前提条件](https://go.microsoft.com/fwlink/?LinkId=787528)」を参照してください。*           |ハイブリッド展開での移行| メール <br/> メールボックスのルール <br/> デリゲート <br/> メールボックスの連絡先 <br/> 予定表 <br/> タスク <br/> 署名 <br/> ユーザーのメールボックスと一緒に移行された個人用アーカイブ <br/> 回復可能なアイテム <br/> 権限が管理されたメール <br/> 暗号化されたメール| パブリック フォルダー <br/> メッセージのサイズ制限を超えている電子メール <br/> ジャーナリング アーカイブやサード パーティ製アーカイブ ソリューション <br/> ブロックされたユーザーまたは非アクティブなユーザー <br/> パーソナル ストレージ テーブル (PST) ファイルのアーカイブ データ <br/> 破損アイテム <br/> 非アクティブなメールボックス |
+|**Exchange 2010、Exchange 2013、Exchange 2016、Exchange 2019** <br/><br/> **メモ** *オンプレミスの Exchange の依存関係については、「 [ハイブリッド展開の前提条件](https://go.microsoft.com/fwlink/?LinkId=787528)」を参照してください。*           |ハイブリッド展開での移行| メール <br/> メールボックスのルール <br/> デリゲート <br/> メールボックスの連絡先 <br/> 予定表 <br/> タスク <br/> 署名 <br/> ユーザーのメールボックスと一緒に移行された個人用アーカイブ <br/> 回復可能なアイテム <br/> 権限が管理されたメール <br/> 暗号化されたメール| パブリック フォルダー <br/> メッセージのサイズ制限を超えている電子メール <br/> ジャーナリング アーカイブやサード パーティ製アーカイブ ソリューション <br/> ブロックされたユーザーまたは非アクティブなユーザー <br/> パーソナル ストレージ テーブル (PST) ファイルのアーカイブ データ <br/> 破損アイテム <br/> 非アクティブなメールボックス |
 |**G Suite 環境 (Gmail、連絡先、カレンダーのみ)** <br/> <br/> **メモ** *G Suite 環境では、機能拡張のために Google API と Google Admin SDK を有効にする必要があります。* <br/>          |カット オーバーまたは段階的| メール <br/> メールボックスの連絡先\*  <br/> 予定表 <br/> ラベル <br/> \*連絡先ごとに最大 3 つのメール アドレスが移行される| ルール <br/> デリゲート <br/> 署名 <br/> タスク <br/> メッセージのサイズ制限を超えている電子メールまたは添付ファイル <br/> ブロックされたユーザーまたは非アクティブなユーザー <br/> PST ファイルまたはサード パーティのアーカイブ ソリューション (たとえば、Google Vault) のアーカイブ データ <br/> 権限が管理された、または暗号化された電子メール <br/> 破損アイテム <br/> Google ハングアウト\*\* <br/> Google グループ <br/> リソース メールボックス <br/> 非アクティブなメールボックス <br/> 休暇の設定および自動応答の設定 <br/> 共有の予定表、クラウド添付ファイル、Google ハングアウトのリンク、イベントの色 <br/>\*\*ラベルとして保存されたハングアウトの会話が移行される |
 |**IMAP4 ソース (Domino、GroupWise、Zimbra など)** |ネイティブの IMAP4 ツールを使用した移行| メール | ルール <br/> デリゲート <br/> 配布リスト <br/> 外部の連絡先 <br/> メールが有効なユーザー <br/> ブロックされたユーザーまたは非アクティブなユーザー <br/> メールボックスの連絡先 <br/> 予定表 <br/> 署名 <br/> タスク <br/> メッセージのサイズ制限を超えている電子メール <br/> アーカイブ データ <br/> 暗号化された電子メール <br/> 破損アイテム <br/> 非アクティブなメールボックス |
    
 > [!NOTE]
-> 配布リスト (MailEnabledGroup オブジェクト) と外部連絡先 (MailEnabledContact オブジェクト) がオンプレミスの Active Directory 内にある場合、Azure AD Connect を使用して同期することができます。ただし、これらはメールボックス データ移行の一部ではありません。詳細については、**コア**の「 [ID の統合](O365-onboarding-and-migration.md#core) 」の例を参照してください。 
+> 配布リスト (MailEnabledGroup オブジェクト) と外部連絡先 (MailEnabledContact オブジェクト) がオンプレミスの Active Directory 内にある場合、Azure AD Connect を使用して同期することができます。ただし、これらはメールボックス データ移行の一部ではありません。詳細については、 **コア** の「 [ID の統合](O365-onboarding-and-migration.md#core) 」の例を参照してください。 
   
 FastTrack スペシャリストは、移行中に以下のことを行います。
 - メールボックスの移行スケジュールのために標準テンプレートを提供します。

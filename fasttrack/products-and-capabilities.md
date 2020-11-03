@@ -1,21 +1,21 @@
 ---
 title: 製品と機能
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックには、FastTrack でサポートされているワークロードシナリオの詳細と、開始する前に必要なソース環境の要件が記載されています。 現在の設定に基づいて、お客様と協力して、ソース環境を正常にオンボードにするための最小要件を実現する修復計画を作成します。
-ms.openlocfilehash: a3477be6958dea88874bbc042445bbc693c10ffb
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48320033"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827107"
 ---
 # <a name="products-and-capabilities"></a>製品と機能
 
@@ -34,7 +34,7 @@ FastTrack は、最初にコア機能 (すべての Microsoft Online サービ�
   - [新しい Microsoft Edge](#the-new-microsoft-edge)
 
 > [!NOTE]
-> Office 365 US Government のソース環境の要件の詳細については、「 [office 365 Us government のソース環境の要件](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations)」を参照してください。
+> Office 365 US Government のソース環境要件については、「[Office 365 US Government のソース環境要件](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations)」を参照してください。
  
 ## <a name="general"></a>全般
 
@@ -78,7 +78,7 @@ FastTrack は、最初にコア機能 (すべての Microsoft Online サービ�
 <li>  複数の Active Directory アカウント フォレストとリソース フォレスト (Exchange と、Lync 2010、Lync 2013、Skype for Business のいずれかとの組み合わせ。あるいは 4 つのうちいずれか 1 つ) のトポロジ。    </li>
 <li>  複数の Active Directory アカウント フォレストで、そのうちの 1 つが一元化された Active Directory アカウント フォレスト (Exchange と、Lync 2010、Lync 2013、Skype for Business のいずれかとの組み合わせか、4 つのうちいずれか 1 つが含まれる)。  </li>
 <li>  複数の Active Directory アカウント フォレストで、それぞれに独自の Exchange 組織が含まれるフォレスト。  </li>
-<li>  必要に応じて、テナントの構成と Azure Active Directory との統合に必要なタスク。   </li>
+<li>  必要に応じて、テナントの構成と Azure Active Directory との統合に必要なタスク。   </li>
 </ul>
   <strong>大事な：</strong>  <ul>
 <li>  複数フォレストの Active Directory シナリオの場合、Lync 2010、Lync 2013、または Skype for Business が展開されている場合は、Exchange と同じ Active Directory フォレストに展開する必要があります。  </li>
@@ -101,7 +101,7 @@ FastTrack は、最初にコア機能 (すべての Microsoft Online サービ�
   また、以前のバージョンの Office で作業したマクロまたはアドインがあり、互換性の問題が発生した場合は、アプリの保証プログラムを通じて追加費用なしで互換性の問題を修復するためのガイダンスを提供します。 詳細については、「 <strong>アプリ</strong> で <a href="#windows-10">Windows 10</a> の一部を確認する」を参照してください。 </li>
 </ul></td>
 <td><ul>
-<li>  オンラインクライアントソフトウェアは、「 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 および Office のシステム要件</a>」で定義されている最低限のレベルである必要があります。  </li>
+<li>  オンラインクライアントソフトウェアは、「 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 および Office のシステム要件</a>」で定義されている最低限のレベルである必要があります。  </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -149,7 +149,7 @@ FastTrack は、最初にコア機能 (すべての Microsoft Online サービ�
 <li>  メールボックス クライアント (Outlook for Windows、Outlook on the web、iOS および Android 用の Outlook) の構成。  </li>
 </ul>
   <strong>データ移行</strong>  <br>
-Office 365 へのデータ移行に FastTrack の利点を使用する方法については、「 <a href="https://review.docs.microsoft.com/fasttrack/data-migration">データ移行</a>」を参照してください。   
+Office 365 へのデータ移行に FastTrack の利点を使用する方法については、「 <a href="https://docs.microsoft.com/fasttrack/data-migration">データ移行</a>」を参照してください。   
 <td>  ソース環境には、次の最低レベルのいずれかが必要です。
 <ul>
 <li>  Exchange Server 2003 以降を導入している 1 つまたは複数の Exchange 組織。  </li>
@@ -157,7 +157,7 @@ Office 365 へのデータ移行に FastTrack の利点を使用する方法に�
 <li>  単一の G Suite 環境 (Gmail、連絡先、カレンダーのみ)。  </li>
 <li>  複数地域機能の詳細については、「 <a href="https://go.microsoft.com/fwlink/?linkid=872776">Exchange Online の複数地域機能</a>」を参照してください。  </li>
 </ul>
-Project for Office 365、Outlook for Windows、Outlook for iOS および Android 用の outlook、OneDrive for Business 同期クライアント、Power BI Desktop、Skype for business などのオンラインクライアントソフトウェアは、「 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office のシステム要件</a>」で定義されている最低レベルである必要があります。  </td>
+Project for Office 365、Outlook for Windows、Outlook for iOS および Android 用の outlook、OneDrive for Business 同期クライアント、Power BI Desktop、Skype for business などのオンラインクライアントソフトウェアは、「 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office のシステム要件</a>」で定義されている最低レベルである必要があります。  </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft 情報ガバナンス</strong></td>
@@ -186,6 +186,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS および Android
 <li>  コンテンツ エクスプローラーとアクティビティ エクスプローラーを使用してデータを把握する。  </li>
 <li>  ポリシーを使用したラベルの発行 (手動および自動)。  </li>
 <li>  Microsoft Teams のチャットとチャネルのデータ損失防止 (DLP) ポリシーの作成。  </li>
+<li>  Microsoft エンドポイントマネージャーで管理されるデバイスの DLP ポリシーを作成します。  </li>
 </ul></td>
 <td><a href="#general">一般</a>の<strong>コアのオンボード</strong>部分とは別に、最小限のシステム要件はありません。</td>
 </tr>
@@ -211,7 +212,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS および Android
 <ul>
 <li>  Microsoft Teams のルームデバイス:  </li>
 <ul>
-<li>   <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams デバイスカタログ</a>にリストされている、サポートされているテレフォニーおよび会議室デバイスに必要なオンラインアカウントの作成。  </li>
+<li>  <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams デバイス カタログ</a>に一覧表示されている、サポート対象のテレフォニー デバイスと会議室デバイスに必要なオンライン アカウントの作成。  </li>
 <li>  認定された Microsoft Teams ルームデバイスのサービス側の構成を使用したリモートアシスタンス。  </li>
 <li>  電話会議を有効にする:  </li>
 <li>  会議ブリッジの既定の設定のための組織のセットアップ。  </li>
@@ -249,9 +250,9 @@ Project for Office 365、Outlook for Windows、Outlook for iOS および Android
 <li>  Exchange メールボックスが存在する (Exchange ハイブリッド構成でオンラインおよびオンプレミス)。  </li>
 <li>  Office 365 グループに対して有効になっている。  </li>
 </ul>
-  <strong>注:</strong>  ユーザーが SharePoint Online のライセンスで割り当てられて有効になっていない場合は、Office 365 の OneDrive for Business ストレージはありません。 ファイル共有はチャネル内でも引き続き機能しますが、Office 365 の OneDrive for business ストレージを使用せずに、ユーザーはチャットでファイルを共有できません。 Teams は、オンプレミスの SharePoint をサポートしていません。  <br>
-  <strong>注:</strong>  理想的な状態は、すべてのユーザーが Exchange Online 上にメールボックスを配置することです。 オンプレミスのメールボックスを持つユーザーは、Azure AD Connect を使用して、Office 365 ディレクトリにその id を同期する必要があります。 これらの Exchange ハイブリッドユーザーの場合、ユーザーのメールボックスがオンプレミスの場合、ユーザーはコネクタを追加または構成することはできません。  
-  Microsoft Teams Windows および Mac デスクトップクライアントのインストーラーは、からダウンロードでき  <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> ます。  </td>
+  <strong>注:</strong> ユーザーが SharePoint Online のライセンスで割り当てられて有効になっていない場合は、Office 365 の OneDrive for Business ストレージはありません。 ファイル共有はチャネル内でも引き続き機能しますが、Office 365 の OneDrive for business ストレージを使用せずに、ユーザーはチャットでファイルを共有できません。 Teams は、オンプレミスの SharePoint をサポートしていません。  <br>
+  <strong>注:</strong> 理想的な状態は、すべてのユーザーが Exchange Online 上にメールボックスを配置することです。 オンプレミスのメールボックスを持つユーザーは、Azure AD Connect を使用して、Office 365 ディレクトリにその id を同期する必要があります。 これらの Exchange ハイブリッドユーザーの場合、ユーザーのメールボックスがオンプレミスの場合、ユーザーはコネクタを追加または構成することはできません。  
+  Microsoft Teams Windows と Mac デスクトップ クライアントのインストーラーは、<a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> からダウンロードできます。  </td>
 </tr>
 <tr class="odd">
 <td><strong>Office 365 Advanced Threat Protection (ATP)</strong></td>
@@ -284,7 +285,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS および Android
 <li>  Power BI ライセンスの割り当て。  </li>
 <li>  Power BI Desktop アプリの展開。  </li>
 </ul></td>
-<td>Power BI Desktop のようなオンラインクライアントソフトウェアは、「 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 および Office のシステム要件</a>」で定義されている最低レベルである必要があります。</td>
+<td>Power BI Desktop のようなオンラインクライアントソフトウェアは、「 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 および Office のシステム要件</a>」で定義されている最低レベルである必要があります。</td>
 </tr>
 <tr class="even">
 <td><strong>Project Online</strong></td>
@@ -295,7 +296,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS および Android
 <li>  エンタープライズ リソース共有元 (ERP) のセットアップ。  </li>
 <li>  最初のプロジェクトの作成。  </li>
 </ul></td>
-<td>「Project for Office 365」のようなオンラインクライアントソフトウェアは、「 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 および Office のシステム要件</a>」で定義されている最低限のレベルである必要があります。</td>
+<td>「Project for Office 365」のようなオンラインクライアントソフトウェアは、「 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 および Office のシステム要件</a>」で定義されている最低限のレベルである必要があります。</td>
 </tr>
 <tr class="odd">
 <td><strong>Project Online Professional および Premium</strong></td>
@@ -308,7 +309,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS および Android
 <li>  Office 365 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Project Online デスクトップ クライアント用の 1 つのオンサイト配布サーバーのセットアップ。  </li>
 <li>  Project Online デスクトップ クライアントの Project Online Professional または Project Online Premium への接続。  </li>
 </ul></td>
-<td>「Project for Office 365」のようなオンラインクライアントソフトウェアは、「 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 および Office のシステム要件</a>」で定義されている最低限のレベルである必要があります。</td>
+<td>「Project for Office 365」のようなオンラインクライアントソフトウェアは、「 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 および Office のシステム要件</a>」で定義されている最低限のレベルである必要があります。</td>
 </tr>
 <tr class="even">
 <td><strong>Sharepoint Online と OneDrive for Business</strong></td>
@@ -334,7 +335,7 @@ SharePoint のバージョンによっては、次のように、OneDrive for Bu
 <li>  OneDrive for Business クライアントの同期を展開します。  </li>
 </ul>
   <strong>データ移行</strong>  <br>
-Office 365 へのデータ移行に FastTrack の利点を使用する方法については、「 <a href="https://review.docs.microsoft.com/fasttrack/data-migration">データ移行</a>」を参照してください。
+Office 365 へのデータ移行に FastTrack の利点を使用する方法については、「 <a href="https://docs.microsoft.com/fasttrack/data-migration">データ移行</a>」を参照してください。
 </ul></td>
 <td><br><strong>SharePoint ハイブリッドの場合:</strong>  
 <ul>
@@ -344,15 +345,15 @@ Office 365 へのデータ移行に FastTrack の利点を使用する方法に�
 <ul>
 <li>  SharePoint ハイブリッドを有効にするには、次のオンプレミスの SharePoint Server 環境のうちの1つが必要です。2013、2016、または2019。  </li>
 </ul>
-  <strong>注:</strong> オンプレミスの SharePoint 環境の SharePoint Server へのアップグレードは、スコープ内にありません。 詳細については、 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft パートナー</a> にお問い合わせください。 詳細については、「 <a href="https://go.microsoft.com/fwlink/?linkid=853548">SharePoint ハイブリッド機能の最小パブリック更新プログラムレベル</a>」を参照してください<em>。</em>  <br>
-  <strong>注:</strong>複数地域機能の詳細については、「 <a href="https://go.microsoft.com/fwlink/?linkid=831056">Office 365 の「OneDrive および SharePoint Online の複数地域機能</a>」を参照してください<em>。</em>  </td>
+  <strong>注:</strong> オンプレミスの SharePoint 環境の SharePoint Server へのアップグレードは、スコープ内にありません。 詳細については、 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft パートナー</a> にお問い合わせください。 詳細については、「 <a href="https://go.microsoft.com/fwlink/?linkid=853548">SharePoint ハイブリッド機能の最小パブリック更新プログラムレベル</a>」を参照してください<em>。</em>  <br>
+  <strong>注:</strong>複数地域機能の詳細については、「 <a href="https://go.microsoft.com/fwlink/?linkid=831056">Office 365 の「OneDrive および SharePoint Online の複数地域機能</a>」を参照してください<em>。</em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
 <td><ul>
 Yammer Enterprise service を有効にするためのリモートガイダンスを提供します。  
 </ul></td>
-<td>オンラインクライアントソフトウェアは、「 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 および Office のシステム要件</a>」で定義されている最低限のレベルである必要があります。</td>
+<td>オンラインクライアントソフトウェアは、「 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 および Office のシステム要件</a>」で定義されている最低限のレベルである必要があります。</td>
 </tr>
 </tbody>
 </table>
@@ -402,7 +403,7 @@ Yammer Enterprise service を有効にするためのリモートガイダンス
   Azure AD の使用条件を確認します。  
   </li>
 <li>  
-  Azure AD 特権 Id 管理を使用して、特権のある管理者アカウントへのアクセスを管理および管理します。  
+  Azure AD 特権 Id 管理を使用して、特権のある管理者アカウントへのアクセスを管理および制御します。  
   </li>
 </ul>
   
@@ -597,7 +598,7 @@ Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encr
 インフラストラクチャのアップグレードの場合には、次の要件を満たす必要があります。
 <ul>
 <li>  Microsoft エンドポイント構成マネージャー。  </li>
-<li>  構成マネージャーのバージョンは、Windows 10 のターゲットのバージョンでサポートされている必要があります。 詳細については、「configuration <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">manager での Windows 10 のサポート</a>」の構成マネージャーサポートの表を参照してください。  </li>
+<li>  構成マネージャーのバージョンは、Windows 10 のターゲットのバージョンでサポートされている必要があります。 詳細については、「<a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Configuration Manager での Windows 10 のサポート</a>」で Configuration Manager のサポート テーブルを参照してください。  </li>
 </ul>
 
 <tr class="odd">
@@ -651,7 +652,7 @@ Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encr
   Windows Server 2019 Core Edition。  
   </li>
 <li>  
-  Windows Server 半期チャネル (SAC) バージョン1803。  
+  Windows Server Semi-Annual Channel (SAC) バージョン1803。  
   </li>
 <li>  
   macOS バージョン10.13、10.14、および10.15。  
@@ -786,7 +787,7 @@ Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encr
 <li>Linux シナリオ。</li>
 <li>ユーザープロファイルの変換または移行。</li>
 </ul>
-これらのサービスについては、 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft パートナー</a>にお問い合わせください   。</td>
+これらのサービスについては、 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft パートナー</a> にお問い合わせください。</td>
 <td>既に次のものがあるはずです。
 <ul>
 <li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Windows 仮想デスクトップのライセンス要件</a>。</li>

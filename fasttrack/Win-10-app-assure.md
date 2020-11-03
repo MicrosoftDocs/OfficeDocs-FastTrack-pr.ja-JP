@@ -1,7 +1,7 @@
 ---
 title: App Assure
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 用 FastTrack Center 特典では、Windows 10 と Microsoft 365 アプリのアプリ互換性の問題に対応するために設計されたサービスである App Assure へのアクセスを提供します。
-ms.openlocfilehash: b568b1c2a0a9473318404f50c37bbbc739018b41
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: fabf275f2a1af2f7ae13e049fb87f221f7fa82ac
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817678"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827371"
 ---
 # <a name="app-assure"></a>App Assure
 
@@ -26,4 +26,4 @@ Windows 10 用 FastTrack Center 特典では、Windows 10 と Microsoft 365 ア�
   > [!NOTE]
 > これは FastTrack が提供するサービスであり、ソフトウェア パッケージではありません。
 
-FastTrack 特典の詳細については [、「Microsoft 365 用 FastTrack Center 特典」を参照してください](introduction.md)。
+FastTrack の利点の詳細については、「 [Microsoft 365 の Fasttrack センターの特典](introduction.md)」を参照してください。

@@ -1,7 +1,7 @@
 ---
 title: FastTrack の責任範囲
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 9300f7e15d77de5a87218482ea811085c989ef12
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: b0387ee7c525469e999f52f8f1994c8f41fb20fe
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338211"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827167"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
 
@@ -104,7 +104,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - DNS レコードの作成または更新。 
 - ソース メッセージング システムと Office 365 環境との間での電子メール ルーティングの有効化。 
 - Exchange Online Protection、データ損失防止 (DLP)、Office 365 Message Encryption (OME)、Office 365 Advanced Threat Protection (ATP) (サブスクリプションで利用できる場合) を構成して、メールが有効な検証済みのすべてのドメインで MX レコードが Office 365 をポイントしていることを確認します。
-- 1 つのオンプレミスの Exchange 組織と Office 365 の間、*または*複数のオンプレミスの Exchange 組織と Office 365 の間におけるハイブリッド セットアップの構成。 
+- 1 つのオンプレミスの Exchange 組織と Office 365 の間、 *または* 複数のオンプレミスの Exchange 組織と Office 365 の間におけるハイブリッド セットアップの構成。 
 - メールボックス クライアント (Outlook for Windows、Outlook on the web、iOS および Android 用の Outlook) の構成。
 - Office 365 ATP の自動化、調査、応答を構成する (サブスクリプションで使用可能な場合)。
     

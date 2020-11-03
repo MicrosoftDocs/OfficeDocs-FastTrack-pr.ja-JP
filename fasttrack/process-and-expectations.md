@@ -1,21 +1,21 @@
 ---
 title: プロセスと期待
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、FastTrack に支援を要請する方法、支援の提供方法、正常な操作環境のためのヒントを提案し、FastTrack とお客様の会社双方の主な責任について説明します。
-ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319937"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827653"
 ---
 # <a name="process-and-expectations"></a>プロセスと期待
 
@@ -27,14 +27,14 @@ FastTrack スペシャリストの支援を受ける
   
 FastTrack スペシャリストの支援を受けるには、次の 2 つの方法があります。
 
-  - Microsoft 管理センターを通じてテナント管理者が Microsoft 管理センターにサインインし、[**ヘルプが必要ですか?**] ウィジェットをクリックして、要求プロセスを案内します。
+  - Microsoft 管理センターを通じてテナント管理者が Microsoft 管理センターにサインインし、[ **ヘルプが必要ですか?** ] ウィジェットをクリックして、要求プロセスを案内します。
   - FastTrack サイトを通じてお客様またはパートナーのいずれかが FastTrack サイトを通じて会社への支援を要求します。
 
 FastTrack サイトを通じて直接サポートを要求するには:
 
 1.  [FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)にサインインします。
 2.  ランディング ページの上部にある **[クイック アクション]** から **[Microsoft 365 サポート要求]** を選択します。
-3.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。
+3.  **Microsoft 365 サポート要求** フォームに必要事項を記入します。
 
 パートナーが FastTrack·サイトを通じてお客様に代わって支援を要請するには、パートナーに次のことを依頼します。
 
@@ -42,7 +42,7 @@ FastTrack サイトを通じて直接サポートを要求するには:
 2.  ランディング ページの上部にある **[クイック アクション]** から **[Microsoft 365 サポート要求]** を選択します。
 3.  顧客名、ドメイン、または TPID を入力して顧客を検索します。
 4.  検索結果から顧客を選択します。
-5.  **Microsoft 365 サポート要求**フォームに必要事項を記入します。
+5.  **Microsoft 365 サポート要求** フォームに必要事項を記入します。
 
 アプリの確認を要求するには、 [アプリでサービスの要求](https://go.microsoft.com/fwlink/?linkid=2022721)を完了してください。
 
@@ -55,7 +55,7 @@ FastTrack は、Microsoft 365 への移行と使用に関するエンド ツー 
 技術的な話し合い、ワークショップ、チェックポイント会議を通じて、FastTrack スペシャリストとリモートで連携します。
 
   - **テクニカル トークとワークショップ:** これらは、Microsoft 365 サービスの展開を加速するための主題の詳細とベスト プラクティスを提供します。 これらの会議では、利用可能なドキュメント、ソフトウェア ツール、および管理コンソールの概要が提供されることがよくあります。 標準時間: 60 分。
-  - **チェックポイントの会議:**  毎週または隔週のタッチポイントで、展開が進行していることを確認します。 標準時間: 30 分。
+  - **チェックポイント会議:** 展開が進行していることを確認する毎週または隔週の touchpoints。 標準時間: 30 分。
 
 ### <a name="expected-outcomes-and-key-milestones"></a>期待される成果と主要なマイルストーン 
 
