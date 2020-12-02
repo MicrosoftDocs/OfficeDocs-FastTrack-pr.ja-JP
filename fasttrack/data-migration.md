@@ -3,19 +3,19 @@ title: データ移行
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack は、ソース環境のメールとファイル データを Office 365 (Exchange Online、SharePoint Online、および OneDrive for Business) に移行するのに役立ちます。 提供するサポートの種類は、Office 365 ライセンスの数によって異なります。
-ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 5a64bcbecffa3fd78f54b9a5e0f3f07e76d0b316
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827659"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525361"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -23,8 +23,8 @@ FastTrack は、ソース環境のメールとファイル データを Office 3
 
 提供するサポートの種類は、Office 365 ライセンスの数によって異なります。
 
-  - **ライセンスの数が 150 - 499 個の Office 365 テナントの場合** : FastTrack は移行ガイダンスのみを提供します。お客様はデータ移行を行う責任があります。 セルフ サービスの移行を実行するための無料ツールの計画と使用に役立つドキュメントをご案内します。
-  - **ライセンスの数が 500 個以上の Office 365 テナントの場合** : FastTrack は、移行ガイダンスとデータ移行サービスを提供します。 移行の計画、ソース環境と Office 365 テナントの構成、およびデータ移行サービスを利用したデータの移行に役立つガイダンスを提供します。 移行イベントを作成してスケジュールします。 お客様のスケジュールに従って移行イベントを開始し、その進捗状況を監視し、状態レポートを提供します。
+  - **ライセンスの数が 150 - 499 個の Office 365 テナントの場合**: FastTrack は移行ガイダンスのみを提供します。お客様はデータ移行を行う責任があります。 セルフ サービスの移行を実行するための無料ツールの計画と使用に役立つドキュメントをご案内します。
+  - **ライセンスの数が 500 個以上の Office 365 テナントの場合**: FastTrack は、移行ガイダンスとデータ移行サービスを提供します。 移行の計画、ソース環境と Office 365 テナントの構成、およびデータ移行サービスを利用したデータの移行に役立つガイダンスを提供します。 移行イベントを作成してスケジュールします。 お客様のスケジュールに従って移行イベントを開始し、その進捗状況を監視し、状態レポートを提供します。
 
 > [!NOTE]
 > 2017 年 9 月 1 日より前に商用プランを購入または更新した場合、データ移行サービスの対象となるのに必要なライセンスの数は 150 個のみです。 教育機関向けプランの場合、有料の教職員のライセンスのみがデータ移行サービスの対象となります。
@@ -54,7 +54,7 @@ FastTrack を使用してメールを Exchange Online に移行することを�
   - FastTrack は、アクティブな Office 365 メールボックスへの移行のみ行います。
   - オンプレミスの Exchange 環境から移行する場合は、特定の要件を満たす必要があります。 詳細については、「[ハイブリッド展開の前提条件](https://go.microsoft.com/fwlink/?LinkId=787528)」を参照してください。
   - 各ソース環境は、ソース環境でそれぞれの製品の最新のサービス パック (SP) とロールアップ (RU)/累積的な更新プログラム (CU) レベルにあることが必要です。
-  - オンプレミスの Active Directory に存在する配布リスト ( *MailEnabledGroup* オブジェクト) と外部の連絡先 ( *MailEnabledContact* オブジェクト) は、メールボックス データの移行の一部ではありません。 ただし、Azure Active Directory (Azure AD) Connect を使用して同期できます。 
+  - オンプレミスの Active Directory に存在する配布リスト (*MailEnabledGroup* オブジェクト) と外部の連絡先 (*MailEnabledContact* オブジェクト) は、メールボックス データの移行の一部ではありません。 ただし、Azure Active Directory (Azure AD) Connect を使用して同期できます。 
 
 ## <a name="source-environments"></a>ソース環境
 
@@ -302,6 +302,7 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 <li> 最終更新者 </li>
 </ul></li>
 <li> 移行される Box アカウントが所有する共有コンテンツ </li>
+<li> ボックスメモ (Word 文書形式に変換) </li>
 </ul></td>
 <td><ul>
 <li> 所有権の履歴、以前のバージョン、コメント </li>

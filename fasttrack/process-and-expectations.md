@@ -3,19 +3,19 @@ title: プロセスと期待
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、FastTrack に支援を要請する方法、支援の提供方法、正常な操作環境のためのヒントを提案し、FastTrack とお客様の会社双方の主な責任について説明します。
-ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 0cd9d4cb727915357f0dd6460ac46ef862ee9797
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827653"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525349"
 ---
 # <a name="process-and-expectations"></a>プロセスと期待
 
@@ -27,7 +27,7 @@ FastTrack スペシャリストの支援を受ける
   
 FastTrack スペシャリストの支援を受けるには、次の 2 つの方法があります。
 
-  - Microsoft 管理センターを通じてテナント管理者が Microsoft 管理センターにサインインし、[ **ヘルプが必要ですか?** ] ウィジェットをクリックして、要求プロセスを案内します。
+  - Microsoft 管理センターを通じてテナント管理者が Microsoft 管理センターにサインインし、[**ヘルプが必要ですか?**] ウィジェットをクリックして、要求プロセスを案内します。
   - FastTrack サイトを通じてお客様またはパートナーのいずれかが FastTrack サイトを通じて会社への支援を要求します。
 
 FastTrack サイトを通じて直接サポートを要求するには:

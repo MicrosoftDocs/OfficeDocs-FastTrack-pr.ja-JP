@@ -3,19 +3,19 @@ title: Office 365 US Government の FastTrack 責任
 ms.author: v-bermic@microsoft.com
 author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 1f381e6b7ee58316c952362c7b7f85cc2ebcda02
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 6fc21be1bd1bc5e4cb5842403b5978fb72587f15
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827179"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525360"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US Government の FastTrack 責任
 
@@ -99,7 +99,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - DNS レコードの作成または更新。    
 - ソース メッセージング システムと Office 365 環境との間での電子メール ルーティングの有効化。    
 - Exchange Online Protection 機能 (サブスクリプションで利用できる場合は Exchange Online Advanced Threat Protection も含む) を構成して、メールが有効な検証済みのすべてのドメインで MX レコードがOffice 365 をポイントしていることを確認します。   
-- 1 つのオンプレミスの Exchange 組織と Office 365 の間、 *または* 複数のオンプレミスの Exchange 組織と Office 365 の間におけるハイブリッド セットアップの構成。 
+- 1 つのオンプレミスの Exchange 組織と Office 365 の間、*または* 複数のオンプレミスの Exchange 組織と Office 365 の間におけるハイブリッド セットアップの構成。 
 - Exchange Online でのユニファイドメッセージング (UM) のセットアップ (UM は、GCC DoD プランでは使用できません)。 
     
 データ移行の責任について詳しくは、「[データ移行](data-migration.md)」を参照してください。

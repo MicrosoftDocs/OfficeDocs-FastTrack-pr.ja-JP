@@ -3,19 +3,19 @@ title: 製品と機能
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックには、FastTrack でサポートされているワークロードシナリオの詳細と、開始する前に必要なソース環境の要件が記載されています。 現在の設定に基づいて、お客様と協力して、ソース環境を正常にオンボードにするための最小要件を実現する修復計画を作成します。
-ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 3fdd57f1d0e8bf53b68f0bc54fda4665ca85f513
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827107"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525462"
 ---
 # <a name="products-and-capabilities"></a>製品と機能
 
@@ -27,7 +27,7 @@ FastTrack は、最初にコア機能 (すべての Microsoft Online サービ�
 
   - [全般](#general)
   - [Office 365](#office-365)
-  - [エンタープライズモビリティ & のセキュリティ](#enterprise-mobility--security)
+  - [Enterprise Mobility + Security](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
   - [Windows Virtual Desktop](#windows-virtual-desktop)
   - [App Assure](#app-assure)
@@ -163,14 +163,23 @@ Project for Office 365、Outlook for Windows、Outlook for iOS および Android
 <td><strong>Microsoft 情報ガバナンス</strong></td>
 <td>  次のためのリモートガイダンスを提供します。
 <ul>
-<li>  情報ガバナンス。  </li>
 <li>  保持ラベルとポリシー。  </li>
 <li>  レコード管理。  </li>
 <li>  削除ポリシー。  </li>
 <li>  通信コンプライアンス。  </li>
 <li>  インサイダー リスクの管理。  </li>
 <li>  Advanced eDiscovery。  </li>
-</ul></td>
+</ul>
+
+  <strong>次の範囲外です </strong>  
+<ul>
+<li> レコード管理ファイルプランの開発。</li>
+<li> データコネクタ。</li>
+<li> 情報の障壁。</li>
+<li> 特権アクセス管理。</li>
+<li> SharePoint での情報アーキテクチャの開発。</li>
+<li> カスタムスクリプトとコーディング。</li>
+</td>
 <td><a href="#general">一般</a>の<strong>コアのオンボード</strong>部分とは別に、最小限のシステム要件はありません。</td>
 </tr>
 <tr class="odd">
@@ -180,14 +189,26 @@ Project for Office 365、Outlook for Windows、Outlook for iOS および Android
 <li>  データの分類。  </li>
 <li>  機密情報の種類。  </li>
 <li>  秘密度ラベルの作成。  </li>
-<li>  秘密度ラベルの適用。  </li>
+<li>  機密ラベルを適用する。  </li>
 <li>  統合されたラベル付け。  </li>
 <li>  トレーニング可能な分類子。  </li>
 <li>  コンテンツ エクスプローラーとアクティビティ エクスプローラーを使用してデータを把握する。  </li>
 <li>  ポリシーを使用したラベルの発行 (手動および自動)。  </li>
 <li>  Microsoft Teams のチャットとチャネルのデータ損失防止 (DLP) ポリシーの作成。  </li>
-<li>  Microsoft エンドポイントマネージャーで管理されるデバイスの DLP ポリシーを作成します。  </li>
-</ul></td>
+<li>  Windows 10 デバイスのエンドポイント DLP ポリシーを作成します。  </li>
+</ul>
+
+<strong>次の範囲外です </strong>  
+<ul>
+<li>顧客キー。</li>
+<li>機密情報の種類に対するカスタム正規表現 (RegEx) の開発。</li>
+<li>キーワード辞書の作成または変更。</li>
+<li>カスタムスクリプトとコーディング。</li>
+</ul>
+<strong>注:</strong>詳細については、「 <a href="#enterprise-mobility--security">Enterprise Mobility + Security</a>での<strong>Azure information Protection</strong> 」を参照してください。
+<ul>
+
+</td>
 <td><a href="#general">一般</a>の<strong>コアのオンボード</strong>部分とは別に、最小限のシステム要件はありません。</td>
 </tr>
 <tr class="even">
@@ -358,7 +379,7 @@ Yammer Enterprise service を有効にするためのリモートガイダンス
 </tbody>
 </table>
 
-## <a name="enterprise-mobility--security"></a>エンタープライズモビリティ & のセキュリティ
+## <a name="enterprise-mobility--security"></a>Enterprise Mobility + Security
 
 <table>
 <thead>
@@ -420,40 +441,36 @@ Yammer Enterprise service を有効にするためのリモートガイダンス
 <td>オンプレミスの Active Directory とその環境は Azure ad Premium 用に準備されています。これには、Azure AD および Azure AD Premium 機能との統合を妨げる特定の問題の修復が含まれています。</td>
 </tr>
 <tr class="odd">
-<td><strong>Azure Information Protection (P2 または EMS E5)</strong></td>
+<td><strong>Azure Information Protection </strong></td>
 <td>  次の方法についてのガイダンスを提供します。
 <ul>
 <li>  テナントのアクティブ化と構成を行います。  </li>
 <li>  ラベルおよびポリシーの作成および設定。  </li>
 <li>  情報保護のドキュメントへの適用。  </li>
 <li>  Windows で実行され、Azure Information Protection クライアントを使用する Office アプリ (Word、PowerPoint、Excel、Outlook など) での自動分類およびラベル付け。  </li>
-<li>  Azure Information Protection スキャナーを使用した、保管中ファイルの使用。  </li>
+<li>  Azure Information Protection スキャナーを使用して、ファイルを検索して保存します。  </li>
 <li>  Exchange Online のメール フロー ルールを使用した、転送中メールの監視。  </li>
 </ul>
 Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encryption (OME)、データ損失防止 (DLP) を使用して保護を適用する場合も、ガイダンスを提供します。  </td>
-<td>  既に次のことを行う必要があります。
+<td>  お客様に必要な責任は次のとおりです。
 <ul>
-<li>  Azure AD を使用します。  </li>
-<li>  Windows または iOS のどちらか (他のオペレーティングシステムがスコープ外) を使用します。  
+<li>  スキャンするファイル共有の場所のリスト。  </li>
+<li>  承認された分類分類。 </li>
+<li> キー管理に関する規制または要件の理解。  </li>
+<li>  Azure AD と同期されたオンプレミスの Active Directory に対して作成されたサービスアカウント。 </li>
+<li>  分類と保護用に構成されているラベル。 </li>
+<li> Azure Information Protection スキャナーのすべての前提条件が設定されています。 詳細については、「 <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Azure Information Protection の統合ラベル付けされたスキャナーをインストールして展開するための前提条件</a>」を参照してください。 </li>
+<li>  ユーザーデバイスでサポートされているオペレーティングシステムが実行されており、必要な前提条件がインストールされていることを確認します。 詳細については、以下を参照してください。</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">管理者ガイド: ユーザーに対して Azure Information Protection の統一されたラベルクライアントをインストールする</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">IOS または Android 用の Azure Information Protection アプリとは</a>  </li>
+</ul>
+<li> ハイブリッドサポートのための Active Directory RMS (AD RMS) コネクタを含む Azure RMS コネクタおよびサーバーのインストールと構成。  </li>
+<li> 独自のキーを設定および構成する (BYOK)、キー暗号化 (DKE) を二重にする (統合されたラベルクライアントのみ)、または独自のキー (HYOK) (クラシッククライアントのみ) を使用する場合は、展開にこれらのオプションのいずれかが必要です。  </li>
   </ul>
-<strong>注</strong>: コンピューターとモバイルデバイスは、Azure Information Protection をサポートする <a href="https://docs.microsoft.com/azure/information-protection/requirements#client-devices">オペレーティングシステム</a> で実行する必要があります。  
-<li>  メインファイル共有場所を用意します。  </li>
-<strong>注</strong>: ハイブリッドサポートには、AD RMS コネクタが必要です。 
-<li>  分類の分類が承認されている。  </li>
-<li>  保護されたキーの管理に関する規制の制限について説明します。  </li>
 </ul>
   
-<strong>Azure Information Protection スキャナー</strong>  
-  
-既に次のことを行う必要があります。  
-<ul>
-<li>  Windows Server 2012 R2 または Windows Server 2016 を使用します。  </li>
-<li>  インターネットに接続されている。  </li>
-<li>  ローカルまたはリモートのインスタンスで Microsoft SQL Server 2012 以降が必要です。  </li>
-<li>  オンプレミスの Active Directory に対してサービスアカウントを作成し、Azure AD と同期させます。  </li>
-<li>  AzInfoProtection.exe をダウンロードしました。  </li>
-<li>  自動分類/保護に対してラベルを構成します。  </li>
-</ul></td>
+</td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
@@ -473,7 +490,7 @@ Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encr
 <ul>
 <li>  Web リンクまたはディープリンクを介した、サポートされている各プラットフォームのアプリの展開。  </li>
 <li>  条件付きアクセスポリシー。  </li>
-<li>  組織内に既存の証明機関、ワイヤレスネットワーク、または VPN インフラストラクチャがある場合に、電子メール、ワイヤレスネットワーク、および VPN プロファイルを展開します。  </li>
+<li>  組織内に既存の証明機関、ワイヤレスネットワーク、または VPN インフラストラクチャがある場合、電子メール、ワイヤレスネットワーク、および VPN プロファイルを展開します。  </li>
 <li>  Intune データウェアハウスに接続します。  </li>
 <li>  以下との Intune の統合:
 <ul>
@@ -540,11 +557,7 @@ Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encr
  
   IT 管理者は、管理者自身または管理者の代理としてハードウェアの製造元がハードウェア ID を Windows Autopilot サービスにアップロードすることにより、デバイスを組織に登録する責任があります。  
   
-<strong>IOS および Android 用の Outlook を、Intune を使用して安全に展開する </strong>  
-<ul>
-<li>  Office 365 の Azure AD で有効になっているユーザー id。  </li>
-<li>  ユーザーライセンスが割り当てられている exchange Online またはハイブリッド Exchange。  </li>
-</ul></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -865,19 +878,17 @@ Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encr
 <strong>ARM 版 Windows 10</strong>
 <ul>
 <li>  
-Windows 7、Office 2010、またはそれ以降のバージョンで動作していたアプリは、ARM64 デバイス上の Windows 10 および Microsoft 365 アプリで動作します。 
+Windows 7、Office 2010、またはそれ以降のバージョンで動作していたアプリは、ARM64 デバイス上の Windows 10 および Microsoft 365 アプリでも動作します。 
   </li>
 </ul>
-  <strong>注:</strong> ARM の除外と制限については、次の Windows 10 をご用意しています。
+  <strong>こと</strong> 
 <ul>
+<li> x64 (64 ビット) エミュレーションは、 <a href="https://insider.windows.com/">Windows Insider program</a>に参加しているお客様のためにプレビューで利用できます。  </li>
 <li>  
- ARM に対応していないソフトウェアドライバーに依存しているアプリ。  
+ Windows 10 バージョン2004以降の Windows Insider を使用していないお客様の場合、ARM64 Photoshop は <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenCL および OpenGL 互換機能パック</a>を使用してサポートされます。 
   </li>
 <li>  
-  OpenGL または OpenCL を使用するアプリ。   
-  </li>
-<li>  
-  アプリは64ビット (x64) でのみ使用できます。  
+  Windows Insider プログラムのお客様は、追加アプリで使用するために、Insider バージョンの OpenCL および OpenGL 互換機能パックをダウンロードできます。    
   </li>
 </ul>
 <strong>新しい Microsoft Edge</strong>
