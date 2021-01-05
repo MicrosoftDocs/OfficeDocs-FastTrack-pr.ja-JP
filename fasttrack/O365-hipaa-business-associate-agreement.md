@@ -1,20 +1,20 @@
 ---
 title: '付録 A: FastTrack Center HIPAA ビジネス アソシエイト契約'
-ms.author: v-bermic@microsoft.com
-author: rberg-steyer@microsoft.com
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 description: FastTrack サービス向けの Microsoft との HIPAA 関係機関の契約 (BAA) がある場合、FastTrack Center Benefit for Office 365 に表示されているすべてのサービスが、その BAA に含まれます。ただし、以下は除きます。
-ms.openlocfilehash: 9347e6f21acb5ed46773d8234654d280602a0ba7
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 5c9f9581c4b8c589f4fa6f041e335acd321b1ffa
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525372"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750068"
 ---
 # <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a>付録 A: FastTrack Center HIPAA ビジネス アソシエイト契約
 

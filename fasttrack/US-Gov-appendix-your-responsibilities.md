@@ -1,23 +1,23 @@
 ---
-title: Office 365 US Government の責任
-ms.author: v-bermic@microsoft.com
-author: rberg-steyer@microsoft.com
+title: 米国政府機関 365 Officeに対するお客様の責任
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: f650785fc7bbd1338ac0316f50c4ed25433518a7
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 541e26088bac9c13679a78906b9abac23077c36c
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525438"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750116"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 US Government の責任
+# <a name="your-responsibilities-for-office-365-us-government"></a>米国政府機関 365 Officeに対するお客様の責任
 
 お客様には、オンボーディング中に以下の責任があります。
   
@@ -41,8 +41,8 @@ ms.locfileid: "49525438"
 - セキュリティ ポリシーの管理、構成、および適用。    
 - モバイル デバイスのアクティブ化。    
 - ネットワーク構成、分析、帯域幅検証、テスト、およびモニターの用意。 
-- Office 365 services で使用される特定の Url と IP アドレスの範囲をサポートするようにファイアウォールの規則を変更します (必要な場合)。
-- オンプレミスのリバースプロキシエンドポイントを Microsoft に提供します (必要な場合)。     
+- 365 サービスで使用される特定の URL と IP アドレス範囲をサポートOfficeファイアウォール規則を変更します (必要な場合)。
+- オンプレミスのリバース プロキシ エンドポイントを Microsoft に提供します (必要な場合)。     
 - Skype for Business Online サービスに必要な帯域幅を提供するためのネットワークの変更。   
 - 技術的な変更管理承認プロセスの管理およびサポート用資料の作成。    
 - ユーザー、ワークステーション、およびサーバー管理のためのグループ ポリシーの規定と定義。    
@@ -58,7 +58,7 @@ ms.locfileid: "49525438"
     
 ## <a name="initiate-phase"></a>開始フェーズ
 
-- オンボードパートナーシップのための共同作業用の Microsoft Teams スペースを設定し、FastTrack Center チームメンバーを招待します (GCC High または DoD プランでは利用できません)。   
+- オンボーディング パートナーシップ用に共同作業用の Microsoft Teams スペースをセットアップし、FastTrack センター のチーム メンバーを招待します (GCC High または DoD プランでは利用できません)。   
 - FastTrack のスペシャリストと連携して対象のサービスのオンボーディングを開始します。    
 - 初回打ち合わせへの参加、組織からの参加者のとりまとめと先導、修復のタイムラインの確定。    
 - Office 365 サービス (SharePoint Online、Exchange Online、Microsoft Teams、Microsoft 365 アプリなど) の目的と組織の目標の用意。

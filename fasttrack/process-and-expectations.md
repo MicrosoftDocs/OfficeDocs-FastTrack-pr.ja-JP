@@ -3,19 +3,19 @@ title: プロセスと期待
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、FastTrack に支援を要請する方法、支援の提供方法、正常な操作環境のためのヒントを提案し、FastTrack とお客様の会社双方の主な責任について説明します。
-ms.openlocfilehash: 0cd9d4cb727915357f0dd6460ac46ef862ee9797
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 8bf3ffc97a08f4a89807e6d7dcedbeacc148db60
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525349"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49749984"
 ---
 # <a name="process-and-expectations"></a>プロセスと期待
 
@@ -44,7 +44,7 @@ FastTrack サイトを通じて直接サポートを要求するには:
 4.  検索結果から顧客を選択します。
 5.  **Microsoft 365 サポート要求** フォームに必要事項を記入します。
 
-アプリの確認を要求するには、 [アプリでサービスの要求](https://go.microsoft.com/fwlink/?linkid=2022721)を完了してください。
+App Assure のサポートを要求するには [、App Assure サービス要求を完了します](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
 ## <a name="fasttrack-expectations"></a>FastTrack の期待
 
@@ -55,7 +55,7 @@ FastTrack は、Microsoft 365 への移行と使用に関するエンド ツー 
 技術的な話し合い、ワークショップ、チェックポイント会議を通じて、FastTrack スペシャリストとリモートで連携します。
 
   - **テクニカル トークとワークショップ:** これらは、Microsoft 365 サービスの展開を加速するための主題の詳細とベスト プラクティスを提供します。 これらの会議では、利用可能なドキュメント、ソフトウェア ツール、および管理コンソールの概要が提供されることがよくあります。 標準時間: 60 分。
-  - **チェックポイント会議:** 展開が進行していることを確認する毎週または隔週の touchpoints。 標準時間: 30 分。
+  - **チェックポイント会議:** 展開が確実に進行している場合は、毎週または隔週タッチポイントを使用します。 標準時間: 30 分。
 
 ### <a name="expected-outcomes-and-key-milestones"></a>期待される成果と主要なマイルストーン 
 

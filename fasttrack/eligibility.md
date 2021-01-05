@@ -3,19 +3,19 @@ title: 対象
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、リモートで受信する対象となる要件の概要を説明します。Microsoft 365 ライセンス購入に含まれている FastTrack スペシャリストによるプラン支援や、対象となる特定の製品と機能の詳細について説明します。
-ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525390"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750020"
 ---
 # <a name="eligibility"></a>対象
 
@@ -35,7 +35,10 @@ FastTrack スペシャリストは、お客様の購入製品に含まれるプ�
 > [!NOTE]
 > Office 365 ProPlus は Microsoft 365 アプリに名称変更されました。 場合によっては、以前の名称が使用されていることもあります。 この変更が適用される時期の詳細については、「[Office 365 ProPlus の名称変更](https://docs.microsoft.com/deployoffice/name-change)」をご覧ください。
 
+  - Microsoft 365 Defender
+  - Microsoft Cloud App Security
   - Microsoft Defender Advanced Threat Protection (ATP)
+  - Microsoft Defender for Identity 
   - Microsoft Edge
   - Microsoft 情報ガバナンス
   - Microsoft 情報保護
@@ -121,7 +124,7 @@ FastTrack の対象下にあるプランの 1 つで少なくともテナント�
   - 電話システム
   - 通話プラン
   - 電話会議
-  - Microsoft Teams ルーム
+  - Microsoft Teams Room
 
 #### <a name="onedrive-for-business"></a>OneDrive for Business
 

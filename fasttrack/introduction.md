@@ -3,21 +3,21 @@ title: Microsoft 365 用 FastTrack Center 特典
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
 - microsoft-365-onboarding-benefit
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack は、Microsoft 365を追加料金なしで展開するのに役立つ特典です (対象のサブスクリプションに含まれています)。 FastTrack サービスは、新規または既存のサブスクリプションで条件を満たすと使用できます。
-ms.openlocfilehash: 21ae744242eecb581913b697e5be09d1541d014c
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 58de2974475829100adbc2b9546c8d437279c094
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525414"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49749996"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Microsoft 365 用 FastTrack Center 特典
 
