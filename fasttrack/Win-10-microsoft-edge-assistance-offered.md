@@ -10,21 +10,21 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 サービス (「対象となるサービスとプラン」の詳細を参照) を購入すると、Internet Explorer または Google Chrome で動作する Web アプリまたはサイトがある場合に、FastTrack スペシャリストがリモート配置ガイダンスと互換性の支援を提供します。
-ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: c63a5eaac44eae8006ed8cb3d9285d57808c141c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827323"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016617"
 ---
 # <a name="assistance-offered"></a>提供されているサポート
 
-対象となる Windows 10 サービスまたは Microsoft 365 サービスのいずれか (「 [適格性](eligibility.md)」に記載されている) を購入すると、Fasttrack スペシャリストは、Internet Explorer または Google Chrome と連携する web アプリまたはサイトを使用している場合に、リモート展開のガイダンスと互換性のサポートを提供します。 
+対象となる Windows 10 または Microsoft 365 サービス (「適格性[](eligibility.md)」で詳しく説明) を購入すると、Internet Explorer または Google Chrome で動作する Web アプリまたはサイトがある場合、FastTrack スペシャリストはリモート展開のガイダンスと互換性のサポートを提供します。 
 
 ## <a name="assistance"></a>Assistance
 
 FastTrack は、以下に関するリモート ガイダンスを提供します。
-- Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager または Microsoft Intune) を使用して、Windows 10 Enterprise に新しい Microsoft Edge を配置するためのガイダンス。
+- Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager または Microsoft Intune) を使用して Windows 10 Enterprise に Microsoft Edge を展開する方法について説明します。
 - Microsoft Edge 構成ガイダンス (グループ ポリシーまたは Intune アプリ構成とアプリ ポリシーを使用)。
 - Internet Explorer モードで使用する必要がある可能性のあるサイトのリストをインベントリするためのガイダンス。
 - 既存の Enterprise Site List で Internet Explorer モードを有効にするためのガイダンス。
@@ -45,7 +45,7 @@ Microsoft Edge の配置ガイダンスを要求する場合、[Microsoft 365 �
  
 アプリの互換性のヘルプを取得するには、[[App Assure サービス要求]](https://go.microsoft.com/fwlink/?linkid=2022721) に必要事項を記入します。
 
-パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 そのために、パートナーはサイトにサインインして、顧客レコードを選択します。[ **サービス** ] をクリックし、[ **App Assure のサポートを要求する** ] フォームを完成させます。
+パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 そのために、パートナーはサイトにサインインして、顧客レコードを選択します。[**サービス**] をクリックし、[**App Assure のサポートを要求する**] フォームを完成させます。
 
 ## <a name="out-of-scope"></a>対象外
 

@@ -3,19 +3,19 @@ title: Office 365 US Government の FastTrack の責任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 42ad4053ef169470abd5de96cd59329704d1b224
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: a7860d56652de3aba80e77b7f9b054e8a80be6f4
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750080"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016677"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US Government の FastTrack の責任
 
@@ -79,8 +79,8 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
   - Active Directory ドメイン サービス (AD DS) と Office 365 との間のディレクトリ同期サーバーの設置 (必要な場合)。   
   - Azure Active Directory Connect ツールを使用した Office 365 (Azure Active Directory) へのパスワードの同期 (パスワード ハッシュ) の構成 (必要な場合)。  
   - 単一フォレスト環境および複数フォレスト環境:
-      - Azure Active Directory パススルー認証 (必要な場合) の構成 (GCC High プランまたは DoD プランでは使用できません)。
-      - Azure Active Directory シームレス シングル Sign-On (SSO) を必要に応じて構成します (GCC High プランまたは DoD プランでは使用できません)。
+      - 必要に応じて Azure Active Directory パススルー認証を構成します (GCC High プランまたは DoD プランでは使用できません)。
+      - Azure Active Directory シームレス シングル Sign-On (SSO) を必要に応じて構成します (GCC High または DoD プランでは使用できません)。
     > [!NOTE]
     > 複数フォレスト環境の Azure Active Directory パススルー認証は、Active Directory フォレスト間にフォレストの信頼があり、名前サフィックスのルーティングが正しく構成されている場合にサポートされます。追加のエージェントは、サインイン要求の高可用性を提供するために、複数のオンプレミスのサーバーにインストールできます。詳細については、「[Azure Active Directory パススルー認証:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860094)」および「[Azure Active Directory シームレス シングル サインオン:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860095)」を参照してください。[!NOTE]
     > パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証: 現在の制限事項](https://go.microsoft.com/fwlink/?linkid=860356)」を参照してください。[!NOTE]
@@ -93,6 +93,13 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - SSO 機能のテスト (展開されている場合)。   
 - サービス導入と価値実現の促進。
     
+## <a name="compliance"></a>コンプライアンス
+
+次の点に関するガイダンスを行います。
+- Microsoft 情報ガバナンスに **関するリモート アシスタンス** (「セキュリティ [とコンプライアンス」を参照](products-and-capabilities.md#security-and-compliance))。
+- Microsoft 情報保護の **リモート アシスタンス** (「セキュリティとコンプライアンス [」を参照](products-and-capabilities.md#security-and-compliance))。
+- Azure Information Protection の **リモート アシスタンス** (「セキュリティとコンプライアンス [」をご覧ください](products-and-capabilities.md#security-and-compliance))。
+
 ## <a name="exchange-online"></a>Exchange Online
 
 次の点に関するガイダンスを行います。 
@@ -100,7 +107,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - ソース メッセージング システムと Office 365 環境との間での電子メール ルーティングの有効化。    
 - Exchange Online Protection 機能 (サブスクリプションで利用できる場合は Exchange Online Advanced Threat Protection も含む) を構成して、メールが有効な検証済みのすべてのドメインで MX レコードがOffice 365 をポイントしていることを確認します。   
 - 1 つのオンプレミスの Exchange 組織と Office 365 の間、*または* 複数のオンプレミスの Exchange 組織と Office 365 の間におけるハイブリッド セットアップの構成。 
-- Exchange Online でのユニファイド メッセージング (UM) の設定 (UM は GCC DoD プランでは使用できません)。 
+- Exchange Online でのユニファイド メッセージング (UM) のセットアップ (UM は GCC DoD プランでは使用できません)。 
     
 データ移行の責任について詳しくは、「[データ移行](data-migration.md)」を参照してください。
   

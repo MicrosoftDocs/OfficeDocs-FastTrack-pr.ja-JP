@@ -3,19 +3,19 @@ title: 対象
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、リモートで受信する対象となる要件の概要を説明します。Microsoft 365 ライセンス購入に含まれている FastTrack スペシャリストによるプラン支援や、対象となる特定の製品と機能の詳細について説明します。
-ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750020"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016461"
 ---
 # <a name="eligibility"></a>対象
 
@@ -168,7 +168,7 @@ FastTrack の対象下にあるプランの 1 つで少なくともテナント�
 
 #### <a name="azure-information-protection"></a>Azure Information Protection
 
-  - Azure Information Protection プラン 2\*\*\*\*\*
+  - Azure Information Protection
 
 #### <a name="microsoft-intune"></a>Microsoft Intune
 
@@ -184,10 +184,7 @@ FastTrack の対象下にあるプランの 1 つで少なくともテナント�
       
 <br>
 
-\*\*\*\*FastTrack 特典の対象となるクラウド サービスで利用できます。 それ以外の場合は、FastTrack スペシャリスト宛、またはパートナーの紹介に向けてルーティングされます。  
-      
-\*\*\*\*\*E5 の一部として、または単体プランとして、P2 で利用できます。 FastTrack 特典の対象となるクラウド サービスで利用できます。 クラウド サービス P1 については、FastTrack が自己展開ガイドを共有しています。  
-      
+\*\*\*\*FastTrack 特典の対象となるクラウド サービスで利用できます。 それ以外の場合は、FastTrack スペシャリスト宛、またはパートナーの紹介に向けてルーティングされます。    
 
 ### <a name="windows-10-plans"></a>Windows 10 プラン
 

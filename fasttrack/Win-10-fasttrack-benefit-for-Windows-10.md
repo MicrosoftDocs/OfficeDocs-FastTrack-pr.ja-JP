@@ -10,19 +10,19 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 対象となるサービスやプランについて *少なくとも* 150 ライセンスを購入する場合は、Windows 10 用 FastTrack Center 特典を利用できます。
-ms.openlocfilehash: 851f774dda5d6ea93890f7eb3e6d85f766d9fdd8
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: d60c422ae958ffe70e92979b74ae8eed8e736034
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827347"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016437"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Windows 10 用 FastTrack Center 特典
 
 > [!CAUTION]
 > このコンテンツは最新ではなくなったため、削除される予定です。 最新のコンテンツについては、左側のナビゲーションにある目次を使用してください。
 
-対象となるサービスやプランについて、少なくとも 150 ライセンスを購入する場合は、Windows 10 の FastTrack Center 特典を利用できます。 次に、FastTrack のスペシャリストと協力して、Windows 10、新しい Microsoft Edge、または Microsoft Defender Advanced Thread Protection を評価、修復、展開して、Microsoft 365 アプリに関する FastTrack Center の特典を統合します。 
+対象となるサービスやプランについて、少なくとも 150 ライセンスを購入する場合は、Windows 10 の FastTrack Center 特典を利用できます。 その後、FastTrack スペシャリストと一緒に、Windows 10、Microsoft Edge、または Microsoft Defender Advanced Thread Protection を評価、修復、展開し、Microsoft 365 アプリ向け FastTrack センターの特典を調整します。 
 
 Windows 10 用 FastTrack Center 特典では、App Assure サービスも提供します。 このサービスを使用すると、アプリの互換性の問題が発生した場合に、FastTrack のスペシャリストが助言と修復のガイダンスを提供します。 
 

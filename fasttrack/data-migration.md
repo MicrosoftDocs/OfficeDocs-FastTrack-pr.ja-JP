@@ -3,19 +3,19 @@ title: データ移行
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack は、ソース環境のメールとファイル データを Office 365 (Exchange Online、SharePoint Online、および OneDrive for Business) に移行するのに役立ちます。 提供するサポートの種類は、Office 365 ライセンスの数によって異なります。
-ms.openlocfilehash: ec7bc5cf9c25ef1e386c7fae42a5fd8e1716dee5
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 0ecfdfab7c7f7ae8879ea6374c3560dcaeb2f283
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750044"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016473"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -83,7 +83,7 @@ FastTrack を使用してメールを Exchange Online に移行することを�
 <td>ハイブリッド展開での移行</td>
 <td><ul>
 <li>メール</li>
-<li>メールボックスのルール</li>
+<li>サーバー側のメールボックス ルール</li>
 <li>デリゲート</li>
 <li>メールボックスの連絡先 </li>
 <li> 予定表 </li>
@@ -102,6 +102,7 @@ FastTrack を使用してメールを Exchange Online に移行することを�
 <li> パーソナル ストレージ テーブル (PST) ファイルのアーカイブ データ </li>
 <li> 破損アイテム </li>
 <li> 非アクティブなメールボックス </li>
+<li> クライアント側のメールボックス ルール</li>
 </ul></td>
 </tr>
 <tr class="even">

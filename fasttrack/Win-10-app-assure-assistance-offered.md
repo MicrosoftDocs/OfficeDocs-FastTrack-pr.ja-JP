@@ -10,20 +10,20 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 または Microsoft 365 のサービスを購入すると、Windows 10 や Microsoft 365 アプリを展開し、最新の状態を保つための FastTrack スペシャリストによるアドバイスと修復ガイダンスが (対象のサブスクリプションでは) 無償で提供されます。
-ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 4cd513a4e0c1edda3598a6650bdea91d90f5584f
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827419"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016423"
 ---
 # <a name="assistance-offered"></a>提供されているサポート  
 
-Windows 10 サービスまたは Microsoft 365 サービスのいずれか (「 [適格性](eligibility.md)」の詳細) を購入すると、「サポートされている microsoft 製品」に記載 [され](#supported-microsoft-products)ているように新しい Microsoft 製品を展開しているときにアプリの互換性の問題が発生した場合に、fasttrack スペシャリストがアドバイスと修復のガイダンスを提供します。
+Windows 10 または Microsoft 365 サービス (「適格性」[](eligibility.md)で詳しく説明) を購入すると、FastTrack スペシャリストは、サポートされている[Microsoft](#supported-microsoft-products)製品に概要を示す新しい Microsoft 製品を展開する際に、アプリの互換性の問題が発生した場合のアドバイザリと修復ガイダンスを提供します。
 
 ヘルプを表示するには、[App Assure のサービス要求](https://go.microsoft.com/fwlink/?linkid=2022721)を実行します。
 
-パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 そのために、パートナーはサイトにサインインして、顧客レコードを選択します。[ **サービス** ] をクリックし、[ **App Assure のサポートを要求する** ] フォームを完成させます。
+パートナーも顧客の代理として、[FastTrack サイト](https://go.microsoft.com/fwlink/?linkid=780698)からヘルプを取得することができます。 そのために、パートナーはサイトにサインインして、顧客レコードを選択します。[**サービス**] をクリックし、[**App Assure のサポートを要求する**] フォームを完成させます。
 
 > [!NOTE]
 > サポートが提供されているのは、繁体字中国語と簡体字中国語 (リソースは標準中国語のみ)、英語、フランス語、ドイツ語、イタリア語、日本語、韓国語、ポルトガル語 (ブラジル)、スペイン語です。 
@@ -36,23 +36,23 @@ FastTrack は、次の Microsoft 製品に展開されたアプリの修復支�
 
 - Windows 7、Windows 8.1、Office 2010、Office 2013 で動作するアプリは、Windows 10 および Microsoft 365 アプリでも動作します。
 
-### <a name="windows-10-on-arm"></a>ARM 版 Windows 10
+### <a name="windows-10-on-arm"></a>Windows 10 on ARM
 
-- Windows 7、Office 2010、またはそれ以降のバージョンで動作していたアプリは、ARM64 デバイス上の Windows 10 および Microsoft 365 アプリで動作します。
+- Windows 7、Office 2010 以降のバージョンで動作したアプリは、ARM64 デバイス上の Windows 10 および Microsoft 365 アプリで動作します。
 
 > [!NOTE]
-> ARM に準拠していないソフトウェアドライバーに依存しているか、OpenGL または OpenCL を使用しているか、または64ビット (x64) でのみ使用可能であることを示す、Windows 10 での Windows 10 の除外と制限事項があります。
+> windows 10 on ARM exclusions and limitations include apps that rely on software drivers that aren't compatible in ARM, use OpenGL or OpenCL, or are only available in 64-bit (x64).
 
-### <a name="the-new-microsoft-edge"></a>新しい Microsoft Edge
+### <a name="microsoft-edge"></a>Microsoft Edge
 
-- Web アプリまたはサイトが Internet Explorer 11、サポート対象バージョンの Google Chrome、または Microsoft Edge のいずれかのバージョンで動作する場合、それらは新しい Microsoft Edge でも動作します。
+- Web アプリまたはサイトが Internet Explorer 11、Google Chrome のサポートされているバージョン、または Microsoft Edge の任意のバージョンで動作する場合は、Microsoft Edge でも動作します。
 
 Microsoft Edge の展開に関するガイダンスについては、「[Microsoft Edge チャネルの概要](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels)」を参照してください。 Web は常に進化しているため、既知の [Microsoft Edge のサイト互換性に影響を与える変更](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes)のリストを公開しています。
 
 ### <a name="windows-virtual-desktop"></a>Windows Virtual Desktop に移動します。
 
 - Windows Server リモート デスクトップ セッション ホスト (RDSH) で実行される仮想アプリは、Windows Virtual Desktop の一部として Windows 10 Enterprise マルチセッションでも実行されます。
-- Windows 7 または Windows 10 の仮想デスクトップインフラストラクチャ (VDI) 環境で実行されているアプリは、windows 7 Enterprise および windows 10 Enterprise で Windows 仮想デスクトップの一部としても実行されます。
+- Windows 7 または Windows 10 仮想デスクトップ インフラストラクチャ (VDI) 環境で実行されるアプリは、Windows Virtual Desktop の一部として Windows 7 Enterprise と Windows 10 Enterprise でも実行されます。
 - Windows 7 または Windows 10 クライアント デバイスで実行されているアプリは、Windows Virtual Desktop の一部として Windows 7 Enterprise および Windows 10 Enterprise でも実行されます。
 
 > [!NOTE]

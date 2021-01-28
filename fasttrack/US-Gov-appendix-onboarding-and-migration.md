@@ -3,19 +3,19 @@ title: Office 365 US Government のオンボーディングと移行のフェー
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 US Government の Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 82f6b9add76ca5aecbc7e0d210cb32aec0a5e05c
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 8a16d48099cb2899e966fa61857c216c59350cb5
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750140"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016569"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US Government のオンボーディングと移行のフェーズ
 
@@ -133,7 +133,7 @@ Skype for Business Online では、次の作業のガイダンスを提供しま
 - ルーム システム デバイスのアカウントの作成。    
 - サポートされる Skype for Business Online クライアントの展開。   
 - オンプレミスの Lync 2010、Lync 2013、または Skype for Business 2015 サーバー環境と Skype for Business Online テナントの間に分割ドメイン サーバー構成を確立します (該当する場合)。
-- 通話プラン、Skype 会議ブロードキャスト、電話システムと通話プランを有効にする (利用可能な市場では、GCC High または DoD プランでは利用できません)。 
+- 通話プラン、Skype 会議ブロードキャスト、電話システムと通話プランの有効化 (利用可能な市場 - GCC High プランまたは DoD プランでは利用できません)。 
     
 ![有効化フェーズ中の Lync オンボーディング ステップ_1](media/O365-Onboarding-Enable-Lync.png)
   
