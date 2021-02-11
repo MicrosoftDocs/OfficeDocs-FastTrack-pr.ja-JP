@@ -14,7 +14,8 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "common/**"
         ]
       }
     ],
@@ -44,7 +45,16 @@
       "hide_comments": true,
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-FastTrack",
       "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack/issues",
-      "bilingual_type": "hover over"
+      "bilingual_type": "hover over",
+      "contributors_to_exclude": [ 
+        "rjagiewich", 
+        "traya1", 
+        "rmca14", 
+        "claydetels19", 
+        "jborsecnik",
+        "tiburd",
+        "garycentric"
+      ]
     },
     "fileMetadata": {},
     "template": [],
