@@ -3,19 +3,19 @@ title: データ移行
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack は、ソース環境のメールとファイル データを Office 365 (Exchange Online、SharePoint Online、および OneDrive for Business) に移行するのに役立ちます。 提供するサポートの種類は、Office 365 ライセンスの数によって異なります。
-ms.openlocfilehash: 0ecfdfab7c7f7ae8879ea6374c3560dcaeb2f283
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: b02c7c863cdc689fab4a6545ac1acc84f6b03fc2
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016473"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416614"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -79,7 +79,7 @@ FastTrack を使用してメールを Exchange Online に移行することを�
 <tr class="odd">
 <td><strong>Exchange 2010、Exchange 2013、Exchange 2016、Exchange 2019</strong><br />
 <br />
-<strong>注:</strong> オンプレミスの Exchange の依存関係については、「ハイブリッド展開の前提条件 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">」を参照してください</span></a>。</td>
+<strong>注:</strong> オンプレミスの Exchange 依存関係については、「ハイブリッド展開の前提条件 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">」を参照してください</span></a>。</td>
 <td>ハイブリッド展開での移行</td>
 <td><ul>
 <li>メール</li>
@@ -303,7 +303,7 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 <li> 最終更新者 </li>
 </ul></li>
 <li> 移行される Box アカウントが所有する共有コンテンツ </li>
-<li> Box Notes (Word 文書形式に変換) </li>
+<li> Box Notes (Word ドキュメント形式に変換) </li>
 </ul></td>
 <td><ul>
 <li> 所有権の履歴、以前のバージョン、コメント </li>

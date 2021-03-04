@@ -1,23 +1,23 @@
 ---
-title: Office 365 US Government の FastTrack の責任
+title: FastTrack 365 us Government Officeの責任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: a7860d56652de3aba80e77b7f9b054e8a80be6f4
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: d75d5f7c541d0800e82d08f1b060b89bfa82ee88
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016677"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416533"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US Government の FastTrack の責任
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 365 us Government Officeの責任
 
 FastTrack スペシャリストには、オンボーディング中に以下の責任があります。  
   
@@ -80,7 +80,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
   - Azure Active Directory Connect ツールを使用した Office 365 (Azure Active Directory) へのパスワードの同期 (パスワード ハッシュ) の構成 (必要な場合)。  
   - 単一フォレスト環境および複数フォレスト環境:
       - 必要に応じて Azure Active Directory パススルー認証を構成します (GCC High プランまたは DoD プランでは使用できません)。
-      - Azure Active Directory シームレス シングル Sign-On (SSO) を必要に応じて構成します (GCC High または DoD プランでは使用できません)。
+      - 必要に応じて Azure Active Directory シームレス シングル Sign-On (SSO) を構成します (GCC High プランまたは DoD プランでは使用できません)。
     > [!NOTE]
     > 複数フォレスト環境の Azure Active Directory パススルー認証は、Active Directory フォレスト間にフォレストの信頼があり、名前サフィックスのルーティングが正しく構成されている場合にサポートされます。追加のエージェントは、サインイン要求の高可用性を提供するために、複数のオンプレミスのサーバーにインストールできます。詳細については、「[Azure Active Directory パススルー認証:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860094)」および「[Azure Active Directory シームレス シングル サインオン:クイック スタート](https://go.microsoft.com/fwlink/?linkid=860095)」を参照してください。[!NOTE]
     > パススルー認証の制限の詳細については、「[Azure Active Directory パススルー認証: 現在の制限事項](https://go.microsoft.com/fwlink/?linkid=860356)」を参照してください。[!NOTE]
@@ -96,9 +96,9 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 ## <a name="compliance"></a>コンプライアンス
 
 次の点に関するガイダンスを行います。
-- Microsoft 情報ガバナンスに **関するリモート アシスタンス** (「セキュリティ [とコンプライアンス」を参照](products-and-capabilities.md#security-and-compliance))。
-- Microsoft 情報保護の **リモート アシスタンス** (「セキュリティとコンプライアンス [」を参照](products-and-capabilities.md#security-and-compliance))。
-- Azure Information Protection の **リモート アシスタンス** (「セキュリティとコンプライアンス [」をご覧ください](products-and-capabilities.md#security-and-compliance))。
+- Microsoft Information Governance の **リモート アシスタンス (「**[セキュリティとコンプライアンス」を参照](products-and-capabilities.md#security-and-compliance))。
+- Microsoft Information Protection の **リモート アシスタンス (「**[セキュリティとコンプライアンス」を参照](products-and-capabilities.md#security-and-compliance))。
+- Azure Information Protection の **リモート アシスタンス (「**[セキュリティとコンプライアンス」を参照](products-and-capabilities.md#security-and-compliance))。
 
 ## <a name="exchange-online"></a>Exchange Online
 
@@ -159,7 +159,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
   - ライセンスを持つユーザーへの番号の割り当て。  
   - UI を通じた 999 件までの電話番号の移植ガイダンス。  
   - 999 件を超える電話番号の移植 SR サポート。  
-- Skype for Business 会議ブロードキャストの有効化 (GCC High プランまたは DoD プランでは使用できません):  
+- Skype for Business Meeting Broadcast を有効にする (GCC High プランまたは DoD プランでは使用できません)。  
   - Skype for Business 会議メディアのオンボーディング ガイダンスを有効にする。  
   - 会議メディア サービスとのフェデレーションのための組織のセットアップ。
     
@@ -197,7 +197,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 単一の Yammer ベーシック ネットワークから単一の Yammer エンタープライズ ネットワークへの変換に関するガイダンスを行います。
 
 > [!NOTE]
-> Yammer Enterprise は Office 365 US Government のコンポーネントではないが、GCC で Office 365 のライセンスを取得する各ユーザーのスタンドアロン オファーとして無料で取得できます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer GCC High プランまたは DoD プランでは利用できません。
+> Yammer Enterprise は Office 365 US Government のコンポーネントではないが、GCC の Office 365 のライセンスを持つ各ユーザーのスタンドアロン オファーとして無料で取得できます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer GCC High プランまたは DoD プランでは使用できません。
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 アプリ
 
@@ -207,5 +207,5 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - クイック実行を使用した Office 365 ポータルからの Microsoft 365 アプリのインストール。   
 - iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 2016 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。   
-- Office 365 展開ツールで使用する configuration.xml ファイルの作成のサポートを含む、Microsoft 365 Apps 用の単一のオンサイト配布サーバーのセットアップ。   
+- microsoft 365 Apps 用の単一のオンサイト配布サーバーをセットアップします。configuration.xml ファイルの作成に関するサポートを含め、Office 365 展開ツールで使用できます。   
 - Microsoft Endpoint Configuration Manager パッケージの作成サポートを含む、Microsoft Endpoint Configuration Manager を使用した展開。

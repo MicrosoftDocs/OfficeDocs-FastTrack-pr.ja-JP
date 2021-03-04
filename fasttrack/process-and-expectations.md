@@ -3,19 +3,19 @@ title: プロセスと期待
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、FastTrack に支援を要請する方法、支援の提供方法、正常な操作環境のためのヒントを提案し、FastTrack とお客様の会社双方の主な責任について説明します。
-ms.openlocfilehash: bfbe95787d598dc229a03ee643f5e37e6b6f224c
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: 99b21f0fa76cf5c392d47dcb53d78710130327bd
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016509"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416590"
 ---
 # <a name="process-and-expectations"></a>プロセスと期待
 
@@ -55,7 +55,7 @@ FastTrack は、Microsoft 365 への移行と使用に関するエンド ツー 
 技術的な話し合い、ワークショップ、チェックポイント会議を通じて、FastTrack スペシャリストとリモートで連携します。
 
   - **テクニカル トークとワークショップ:** これらは、Microsoft 365 サービスの展開を加速するための主題の詳細とベスト プラクティスを提供します。 これらの会議では、利用可能なドキュメント、ソフトウェア ツール、および管理コンソールの概要が提供されることがよくあります。 標準時間: 60 分。
-  - **チェックポイント会議:** 展開が確実に進行している場合は、毎週または隔週タッチポイントを使用します。 標準時間: 30 分。
+  - **チェックポイント会議:** 毎週または隔週のタッチポイントを使用して、展開が進行中の状況を確認します。 標準時間: 30 分。
 
 ### <a name="expected-outcomes-and-key-milestones"></a>期待される成果と主要なマイルストーン 
 

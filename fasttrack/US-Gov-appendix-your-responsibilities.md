@@ -1,23 +1,23 @@
 ---
-title: 米国政府機関 365 Officeに対するお客様の責任
+title: 365 米国Officeに対する責任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: b2889b0b589c6bdb470dedc81f50e428143edc0c
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: df3481b18ae675f85add83ba969fce78f24eaf6b
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016641"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416508"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>米国政府機関 365 Officeに対するお客様の責任
+# <a name="your-responsibilities-for-office-365-us-government"></a>365 米国Officeに対する責任
 
 お客様には、オンボーディング中に以下の責任があります。
   
@@ -41,7 +41,7 @@ ms.locfileid: "50016641"
 - セキュリティ ポリシーの管理、構成、および適用。    
 - モバイル デバイスのアクティブ化。    
 - ネットワーク構成、分析、帯域幅検証、テスト、およびモニターの用意。 
-- 365 サービスで使用される特定の URL と IP アドレス範囲をサポートOfficeファイアウォール 規則を変更します (必要な場合)。
+- ファイアウォール ルールを変更して、365 サービスで使用される特定の URL と IP Officeをサポートします (必要な場合)。
 - オンプレミスのリバース プロキシ エンドポイントを Microsoft に提供します (必要な場合)。     
 - Skype for Business Online サービスに必要な帯域幅を提供するためのネットワークの変更。   
 - 技術的な変更管理承認プロセスの管理およびサポート用資料の作成。    
@@ -58,7 +58,7 @@ ms.locfileid: "50016641"
     
 ## <a name="initiate-phase"></a>開始フェーズ
 
-- オンボーディング パートナーシップ用に共同作業用の Microsoft Teams スペースをセットアップし、FastTrack センター のチーム メンバーを招待します (GCC High または DoD プランでは利用できません)。   
+- 提携をオンボーディングし、FastTrack Center チーム メンバーを招待する共同作業用の Microsoft Teams スペースをセットアップします (GCC High プランまたは DoD プランでは利用できません)。   
 - FastTrack のスペシャリストと連携して対象のサービスのオンボーディングを開始します。    
 - 初回打ち合わせへの参加、組織からの参加者のとりまとめと先導、修復のタイムラインの確定。    
 - Office 365 サービス (SharePoint Online、Exchange Online、Microsoft Teams、Microsoft 365 アプリなど) の目的と組織の目標の用意。

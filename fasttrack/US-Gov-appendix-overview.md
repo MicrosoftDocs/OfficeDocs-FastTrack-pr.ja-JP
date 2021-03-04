@@ -3,33 +3,33 @@ title: '付録 B: Office 365 US Government 向け FastTrack Center の特典の�
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
-description: Office 365 用 FastTrack Center 特典では、FastTrack スペシャリストとリモートで作業して、Office 365 環境を使用する準備を整え、組織内でのロールアウトと使用を計画します。
-ms.openlocfilehash: 752a13500ff1338cb350dba500e5b2235940464a
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+description: fastTrack Center Benefit for Office 365 では、FastTrack スペシャリストとリモートで作業して、Office 365 環境を使用できる状態にし、組織内でのロールアウトと使用状況を計画します。
+ms.openlocfilehash: 95e0c4f9e672e70ae9d76212b7611e664db5f3f9
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016653"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416543"
 ---
 # <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>付録 B: Office 365 US Government 向け FastTrack Center の特典の概要
 
-Office 365 用 FastTrack Center 特典では、FastTrack スペシャリストとリモートで作業して、Office 365 環境を使用する準備を整え、組織内でのロールアウトと使用を計画します。 
+fastTrack Center Benefit for Office 365 では、FastTrack スペシャリストとリモートで作業して、Office 365 環境を使用できる状態にし、組織内でのロールアウトと使用状況を計画します。 
   
-ほとんどの製品と機能は Office 365 Suite と Office 365 U.S. Government の間で同じですが、すべての機能が現在すべてのプランで利用できるではありません。 最新のOfficeについては、米国政府機関向け [365](https://aka.ms/aboutgovcloud) のサービスの説明を参照してください。
+ほとんどの製品と機能は Office 365 Suite と Office 365 米国政府機関の間で同じですが、すべての機能が現在すべてのプランで利用できる場合ではありません。 最新の [Officeリストについては、「365 US Government Service](https://aka.ms/aboutgovcloud) の説明」を参照してください。
 
 > [!NOTE]
-> FastTrack サービスを受け取る場合は [、FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) サイトにアクセスしてサポートを依頼してください。  
+> FastTrack サービスを受信するには [、FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) サイトに移動し、サポートを要求します。  
 
 以下のトピックについて説明します。
 - [プロセスと期待](process-and-expectations.md) 
-- [Office 365 US Government のソース環境に関する期待](US-Gov-appendix-source-environment-expectations.md)   
-- [Office 365 US Government のオンボーディングと移行のフェーズ](US-Gov-appendix-onboarding-and-migration.md)
+- [ソース環境 365 us Government Office期待](US-Gov-appendix-source-environment-expectations.md)   
+- [米国政府機関向けオンボーディングOffice移行フェーズ](US-Gov-appendix-onboarding-and-migration.md)
 - [データ移行](data-migration.md)    
-- [Office 365 US Government の FastTrack の責任](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [米国政府機関 365 Officeに対するお客様の責任](US-Gov-appendix-your-responsibilities.md)    
+- [FastTrack 365 us Government Officeの責任](US-Gov-appendix-fasttrack-responsibilities.md)   
+- [365 米国Officeに対する責任](US-Gov-appendix-your-responsibilities.md)    
 
