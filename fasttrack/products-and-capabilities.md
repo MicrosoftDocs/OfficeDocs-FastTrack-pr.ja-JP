@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、FastTrack でサポートされるワークロード シナリオの詳細と、開始する前に必要なソース環境の期待について説明します。 現在のセットアップに基づいて、お客様と一緒に修復計画を作成し、オンボーディングを成功するための最小要件までソース環境を提供します。
-ms.openlocfilehash: 05936adee3f21e6078933a686dfa8dc24c33d1be
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
+ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416566"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50464209"
 ---
 # <a name="products-and-capabilities"></a>製品と機能
 
@@ -208,7 +208,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 
 <strong>高度な監査</strong> (E5 でのみサポート)
 
-次のリモート ガイダンスを提供します。 
+次のリモート ガイダンスを提供します。  
 <ul>
 <li> 高度な監査を有効にする。</li>
 <li> 検索監査ログ UI と基本的な監査 PowerShell コマンドの実行。</li>
