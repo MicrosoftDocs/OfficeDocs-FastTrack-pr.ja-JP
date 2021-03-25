@@ -3,19 +3,19 @@ title: 製品と機能
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、FastTrack でサポートされるワークロード シナリオの詳細と、開始する前に必要なソース環境の期待について説明します。 現在のセットアップに基づいて、お客様と一緒に修復計画を作成し、オンボーディングを成功するための最小要件までソース環境を提供します。
-ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
-ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
+ms.openlocfilehash: 2bfca103fd9c58d95d9ba4a750e446a6e93b5719
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464209"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188106"
 ---
 # <a name="products-and-capabilities"></a>製品と機能
 
@@ -62,6 +62,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li>Azure AD Connect (単一フォレストまたは複数フォレスト) とライセンス (グループ ベースのライセンスを含む) のインストールと構成を含む、Azure Active Directory (Azure AD) への同期のためのオンプレミスの Active Directory ID の準備。</li>
 <li>グループ ベースのライセンスの使用を含む、一括インポートとライセンスを含むクラウド ID の作成。</li>
 <li>クラウドジャーニー、パスワード ハッシュ同期、パススルー認証、または Active Directory フェデレーション サービス (FS) の正しい認証方法を選択して有効ADします。</li>
+<li> パスワードレス認証 (Fast Identity Online (FIDO)2 または Microsoft Authenticator App) を使用して、ユーザーの認証エクスペリエンスを選択して有効にします。</li>
 <li>Azure AD接続ツールと同期された単一の Active Directory フォレストと ID を持つユーザーの FS AD有効にします。 これには、R2 active Directory フェデレーション Windows Server 2012 2.0 以上が必要です。</li>
 <li>パスワード ハッシュ同期またはパススルー ADを使用AD FS から Azure への認証の移行。</li>
 <li>シングル サインオン (SSO) 用に、AD FS から Azure AD に事前統合されたアプリ (Azure AD ギャラリー のサービスとしてのソフトウェア (SaaS) アプリなど) を移行します。</li>
@@ -140,6 +141,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <strong>セキュリティで保護された基盤インフラストラクチャ</strong>  </ul>
 <ul>
 <li>  Azure 多要素認証 (MFA) (クラウドのみ) による保護、Microsoft Authenticator アプリ、Azure MFA とセルフサービス パスワード リセット (SSPR) の組み合わせ登録など、ID に対する強力な認証の構成と有効化。  </li>
+<li> FIDO2 または Microsoft Authenticator アプリの展開。 </li>
 <li>  Azure 以外のプレミアム ユーザー AD、セキュリティの既定値を使用して ID をセキュリティで保護するためのガイダンスが提供されます。  </li>
 <li>  Azure のプレミアム AD、条件付きアクセスを使用して ID をセキュリティで保護するためのガイダンスが提供されます。  </li>
 <li>  Azure パスワード保護を使用して脆弱なパスワードの使用を検出ADブロックします。  </li>
@@ -194,16 +196,21 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
   </td>
 <td>  
   <tr class="odd">
-<td><strong>検出&応答</strong></td>
+<td><strong>応答&を検出する</strong></td>
 <td>  
 
-<strong>高度な電子情報開示</strong>
+<strong>Advanced eDiscovery</strong>
   
+次のリモート ガイダンスを提供します。 
 <ul>
-<li>  安全なリンク、安全な添付ファイル、フィッシング詐欺対策の有効化。  </li>
-<li>  自動化、調査、応答の構成。  </li>
-<li>  攻撃シミュレータの使用。  </li>
-<li>  レポート作成と脅威分析。  </li>
+<li>  新しいケースの作成。   </li>
+<li>  保管担当者を保留に設定する。  </li>
+<li>  検索の実行。 </li>
+<li>  検索結果をレビュー セットに追加する。 </li>
+<li>  レビュー セットで分析を実行する。  </li>
+<li>  ドキュメントの確認とタグ付け。  </li>
+<li>  レビュー セットからデータをエクスポートする。 </li>
+<li>  365 以外のデータOfficeインポートします。 </li>
 </ul>
 
 <strong>高度な監査</strong> (E5 でのみサポート)
@@ -242,7 +249,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 </tr>
 
 <tr class="odd">
-<td><strong>Insider Threat Management</strong></td>
+<td><strong>Insider リスク管理</strong></td>
 
 <td>  次のリモート ガイダンスを提供します。
 <ul>
@@ -366,8 +373,8 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 
 
 <tr class="even">
-<td><strong>Microsoft Defender Advanced Threat Protection (ATP)</strong></td>
-<td>  Microsoft Defender Advanced Threat Protection (ATP) は、エンタープライズ ネットワークで高度な脅威を回避、検出、調査、対策する際に役立つように設計されたプラットフォームです。  
+<td><strong>Microsoft Defender for Endpoint</strong></td>
+<td>  Microsoft Defender for Endpoint は、エンタープライズ ネットワークによる高度な脅威の防止、検出、調査、および応答を支援するために設計されたプラットフォームです。  
   次のリモート ガイダンスを提供します。
 <ul>
 <li>  エンドポイントをセキュリティで保護するためのテクノロジの展開。  </li>
@@ -375,7 +382,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li>  OS のバージョンとデバイス管理 (Intune、Microsoft Endpoint Configuration Manager、グループ ポリシー オブジェクト (GPO)、サードパーティの構成を含む) と、Windows Defender AV サービスまたは他のエンドポイント セキュリティ ソフトウェアの状態を評価します。  </li>
 <li>  Windows AV サービスまたは他のエンドポイント セキュリティ ソフトウェアの状態を評価します。  </li>
 <li>  ネットワーク トラフィックを制限するプロキシとファイアウォールの評価。  </li>
-<li>  オンボード エンドポイントを使用して ATP エージェント プロファイルを展開する方法を説明して、Microsoft Defender ATP サービスを有効にする。  </li>
+<li>  オンボード エンドポイントを使用して Defender for Endpoint エージェント プロファイルを展開する方法を説明して、Microsoft Defender for Endpoint サービスを有効にする。  </li>
 <li>  展開のガイダンス、構成の支援、および次の教育を行います。
 <ul>
 <li>  
@@ -399,7 +406,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 </ul></li>
 <li>  シミュレーションとチュートリアルを確認する (プラクティス シナリオ、偽のマルウェア、自動調査など)。  </li>
 <li>  レポート機能と脅威分析機能の概要。  </li>
-<li>  Office 365 の ATP と Microsoft Defender ATP の統合。  </li>
+<li>  Microsoft Defender for Office 365 と Microsoft Defender for Endpoint の統合。  </li>
 <li>  Microsoft Defender セキュリティ センター ポータルのチュートリアルを実行します。  </li>
 <li>  次のオペレーティング システム。
 <ul>
@@ -434,7 +441,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li>  お客様の修復アクティビティのプロジェクト管理。  </li>
 <li>  オンサイト サポート。  </li>
 <li>  継続的な管理と脅威の対処。  </li>
-<li>  次の Microsoft Defender ATP エージェントのオンボーディングまたは設定:
+<li>  次の Microsoft Defender for Endpoint エージェントのオンボーディングまたは構成。
 <ul>
 <li>  
   Windows Server 2008。  
@@ -590,6 +597,19 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 </ul>
 </ul></td>
 </tr>
+
+<tr class="odd">
+<td><strong>Microsoft Defender for Office 365</strong></td>
+<td>  次のリモート ガイダンスを提供します。
+<ul>
+<li>  安全なリンク、安全な添付ファイル、フィッシング詐欺対策の有効化。  </li>
+<li>  自動化、調査、応答の構成。  </li>
+<li>  攻撃シミュレータの使用。  </li>
+<li>  レポート作成と脅威分析。  </li>
+</ul></td>
+<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="#general">に、最小</a>システム要件はありません。</td>
+</tr>
+
 
 <tr class="even">
 <td><strong>Microsoft 情報ガバナンス</strong></td>
@@ -786,9 +806,9 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
  
   <strong>注</strong>: FastTrack サービス特典には、Configuration Manager サイト サーバーまたは Configuration Manager クライアントのクラウド接続をサポートするために必要な最小要件への設定またはアップグレードの支援は含まれていません。 このサポート <a href="https://go.microsoft.com/fwlink/?linkid=2080150">については、Microsoft パートナー</a> にお問い合わせください。
 
-  <strong>Intune と Microsoft Defender Advanced Threat Protection (ATP) の統合</strong> 
+  <strong>エンドポイント用 Microsoft Defender と統合された Intune</strong> 
  
-  <strong>注</strong>: Intune と Microsoft Defender ATP の統合と、Windows 10 のリスク レベル評価に基づくデバイス コンプライアンス ポリシーの作成に関するサポートを提供しています。 購入、ライセンス認証、またはライセンス認証に関するサポートは提供しない。 このサポート <a href="https://go.microsoft.com/fwlink/?linkid=2080150">については、Microsoft パートナー</a> にお問い合わせください。  
+  <strong>注</strong>: Intune と Microsoft Defender for Endpoint を統合し、Windows 10 のリスク レベル評価に基づいてデバイス コンプライアンス ポリシーを作成する際のサポートを提供します。 購入、ライセンス認証、またはライセンス認証に関するサポートは提供しない。 このサポート <a href="https://go.microsoft.com/fwlink/?linkid=2080150">については、Microsoft パートナー</a> にお問い合わせください。  
   
 <strong>Windows Autopilot</strong> 
  
@@ -797,17 +817,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 </td>
 </tr>
 
-<tr class="odd">
-<td><strong>Office 365 Advanced Threat Protection (ATP)</strong></td>
-<td>  次のリモート ガイダンスを提供します。
-<ul>
-<li>  安全なリンク、安全な添付ファイル、フィッシング詐欺対策の有効化。  </li>
-<li>  自動化、調査、応答の構成。  </li>
-<li>  攻撃シミュレータの使用。  </li>
-<li>  レポート作成と脅威分析。  </li>
-</ul></td>
-<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="#general">に、最小</a>システム要件はありません。</td>
-</tr>
+
 </tbody>
 </table>
 
@@ -829,7 +839,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <ul>
 <li>  Office 365 で検証される、メールが有効なすべてのドメインの Exchange Online Protection (EOP) 機能の設定。  </li>
 <li>  メール交換 (MX) レコードを 365 Officeします。  </li>
-<li>  サブスクリプション サービスのOffice 365 ATP 機能をセットアップします。 詳細については、この表の <strong>「Office 365 Advanced Threat Protection」</strong> の部分を参照してください。  </li>
+<li>  サブスクリプション サービスの一部である場合Office 365 機能用に Microsoft Defender をセットアップします。 詳細については、この表の <strong>「Microsoft Defender for Office 365」</strong> を参照してください。  </li>
 <li>  サブスクリプション サービスの一部として、Office 365 で検証済みのすべてのメールが有効なドメインに、データ損失防止 (DLP) 機能を設定します。この設定は、MX レコードが Office 365 をポイントすると実行されます。</li>
 <li>  サブスクリプション サービスの一部として、Office 365 で検証済みのすべてのメールが有効なドメインに、Office 365 Message Encryption (OME) を設定します。この設定は、MX レコードが Office 365 をポイントすると実行されます。</li>
 </ul>
@@ -852,119 +862,28 @@ FastTrack 特典を使用してデータを 365 に移行する方法につい�
 </ul>
 Project for Office 365、Outlook for Windows、Outlook for iOS、Android、OneDrive for Business 同期クライアント、Power BI Desktop、Skype for Business などのオンライン クライアント ソフトウェアは <a href="https://go.microsoft.com/fwlink/?LinkID=723597">、Microsoft 365</a>Office のシステム要件で定義されている最小レベルである必要があります。  </td>
 </tr>
+
+<td><strong>Microsoft Defender for Office 365</strong></td>
+<td>  詳細については<strong>、「Microsoft Defender for Office 365」</strong><a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">を参照してください</a>。  
+</td>
+<td></td>
+</tr>
+
+
 <tr class="even">
 <td><strong>Microsoft 情報ガバナンス</strong></td>
-<td>  次のリモート ガイダンスを提供します。
-<ul>
-<li>  保持ラベルとポリシーの作成と発行 (E5 でのみサポート)。  
-</li>
-<li>  レコード管理 (E5 でのみサポート)。  </li>
-<ul><li>  ファイル 計画の作成を確認する。 </li>
-<li>  レコードの作成と管理 (イベント ベースのレコードを含む)。  </li>
-<li>  廃棄の確認。 </ul> </li>
-</ul>
-
-<strong> コンプライアンス マネージャー</strong>
-
-次のリモート ガイダンスを提供します。  
-
-<ul> <li>役割の種類を確認する。  </li>
-<li> 評価の追加と構成。</li>
-<li> 改善アクションを実装し、コンプライアンス スコアに与える影響を判断して、コンプライアンスを評価します。</li>
-<li> 組み込みのコントロール マッピングを確認し、コントロールを評価します。</li>
-<li> 評価内でレポートを生成する。</li>
-</ul>
-
-  <strong>以下はスコープ外です </strong>  
-<ul>
-<li> レコード管理ファイル計画の開発。</li>
-<li> データ コネクタ。</li>
-<li> SharePoint での情報アーキテクチャの開発。</li>
-<li> カスタム スクリプトとコーディング。</li>
-<li> デザイン、アーキテクト、サードパーティ製のドキュメント レビュー。</li>
-<li> E3 のサポート。</li>
-<li> 業界および地域の規制および要件への準拠。</li>
-<li> コンプライアンス マネージャーでの評価に対する推奨される改善アクションの実践的な実装。</li>
-</ul>
-
+<td>  詳細については <strong> 、「Microsoft Information Governance in Security</strong> and <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Compliance」を参照してください</a>。 
 
 </td>
-<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="#general">に、最小</a>システム要件はありません。</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><strong>Microsoft 情報保護</strong></td>
-<td>  次のリモート ガイダンスを提供します。
-<ul>
-<li>  データ分類 (E3 および E5 でサポート)。  </li>
-<li>  機密情報の種類 (E3 および E5 でサポート)。  </li>
-<li>  感度ラベルの作成 (E3 および E5 でサポート)。  </li>
-<li>  感度ラベルの適用 (E3 および E5 でサポート)。  </li>
-<li>  トレーニング可能な分類子 (E5 でサポート)。  </li>
-<li>  コンテンツ エクスプローラーとアクティビティ エクスプローラーでデータを知る (E5 でサポート)。  </li>
-<li>  ポリシー (手動および自動) を使用してラベルを発行する (E5 でサポート)。  </li>
-<li>  Windows 10 デバイス用のエンドポイント データ損失防止 (DLP) ポリシーの作成 (E5 でサポート)。  </li>
-<li>  Microsoft Teams のチャットとチャネルの DLP ポリシーを作成する。  </li>
-</ul>
-
-<strong> コンプライアンス マネージャー</strong>
-
-次のリモート ガイダンスを提供します。  
-
-<ul> <li>役割の種類を確認する。  </li>
-<li> 評価の追加と構成。</li>
-<li> 改善アクションを実装し、コンプライアンス スコアに与える影響を判断して、コンプライアンスを評価します。</li>
-<li> 組み込みのコントロール マッピングを確認し、コントロールを評価します。</li>
-<li> 評価内でレポートを生成する。</li>
-</ul>
-
-<strong> Azure 情報保護</strong>
-
-次のリモート ガイダンスを提供します。  
-<ul>
-<li>  テナントのアクティブ化と構成。  </li>
-<li>  ラベルとポリシーの作成と設定 (P1 と P2 でサポート)。  </li>
-<li>  ドキュメントへの情報保護の適用 (P1 および P2 でサポート)。  </li>
-<li>  Windows で実行されている Office アプリ (Word、PowerPoint、Excel、Outlook など) で情報を自動的に分類およびラベル付けし、Azure Information Protection クライアント (P2 でサポート) を使用します。  </li>
-<li>  Azure Information Protection スキャナー (P1 および P2 でサポート) を使用して、保存中のファイルの検出とラベル付け。  </li>
-<li>  Exchange Online のメール フロー ルールを使用した、転送中メールの監視。  </li>
-</ul>
-  
-Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encryption (OME)、およびデータ損失防止 (DLP) を使用して保護を適用する場合のガイダンスも提供します。
-
-<strong>以下はスコープ外です </strong>  
-<ul>
-<li>顧客キー。</li>
-<li>機密情報の種類のカスタム正規表現 (RegEx) の開発。</li>
-<li>キーワード ディクショナリの作成または変更。</li>
-<li>カスタム スクリプトとコーディング。</li>
-<li> Azure Purview。</li>
-<li> デザイン、アーキテクト、サードパーティ製のドキュメント レビュー。</li>
-<li> 業界および地域の規制および要件への準拠。</li>
-<li> コンプライアンス マネージャーでの評価に対する推奨される改善アクションの実践的な実装。</li>
-</ul>
+<td>  
+詳細については <strong>、「Microsoft Information Protection in Security </strong> and <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Compliance」を参照してください</a>。
 
 </td>
-<td>General の<strong>コア オンボーディング部分</strong>以外に、Azure Information Protection を除く最小システム要件はありません。 <a href="#general"></a>
-
-<strong>Azure Information Protection</strong>
-
-お客様の前提条件の責任は次のとおりです。  
-<ul>
-<li>  スキャンするファイル共有の場所の一覧。  </li>
-<li>  承認済みの分類分類。 </li>
-<li> キー管理に関する規制上の制限または要件について理解する。  </li>
-<li>  Azure サーバーと同期されたオンプレミスの Active Directory 用に作成されたサービス AD。 </li>
-<li>  分類と保護用に構成されたラベル。 </li>
-<li> Azure Information Protection スキャナーのすべての前提条件が満たされています。 詳細については、「Azure Information Protection 統合ラベル スキャナーをインストールして展開するための前提条件」 <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">を参照してください</a>。 </li>
-<li>  ユーザー デバイスがサポートされているオペレーティング システムを実行し、必要な前提条件がインストールされていることを確認します。 詳細については、以下を参照してください。</li>
-<ul>
-<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">管理者ガイド: ユーザー向け Azure Information Protection 統合ラベル 付けクライアントをインストールする</a>   </li>
-<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">iOS または Android 用の Azure Information Protection アプリとは</a>  </li>
-</ul>
-<li> ハイブリッド サポート用の Active Directory RMS (AD RMS) コネクタを含む Azure RMS コネクタとサーバーのインストールと構成。  </li>
-<li> 展開に次のいずれかのオプションが必要な場合は、Bring Your Own Key (BYOK)、ダブル キー暗号化 (DKE) (統合ラベル 付けクライアントのみ)、または Hold Your Own Key (HYOK) (クラシック クライアントのみ) のセットアップと構成を行います。  </li>
-  </ul>
-</ul>.
+<td>
 
 </td>
 </tr>
@@ -1032,17 +951,7 @@ Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encr
   <strong>注:</strong> 理想的な状態は、すべてのユーザーが自分のメールボックスを Exchange Online にホームに設定する場合です。 オンプレミスに存在するメールボックスを持つユーザーは、Azure Office Connect を介して id を Office 365 ディレクトリAD必要があります。 これらの Exchange ハイブリッド顧客の場合、ユーザーのメールボックスがオンプレミスの場合、ユーザーはコネクタを追加または構成できません。  
   Microsoft Teams Windows と Mac デスクトップ クライアントのインストーラーは、<a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> からダウンロードできます。  </td>
 </tr>
-<tr class="odd">
-<td><strong>Office 365 Advanced Threat Protection (ATP)</strong></td>
-<td>  次のリモート ガイダンスを提供します。
-<ul>
-<li>  安全なリンク、安全な添付ファイル、フィッシング詐欺対策の有効化。  </li>
-<li>  自動化、調査、応答の構成。  </li>
-<li>  攻撃シミュレータの使用。  </li>
-<li>  レポート作成と脅威分析。  </li>
-</ul></td>
-<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="#general">に、最小</a>システム要件はありません。</td>
-</tr>
+
 <tr class="even">
 <td><strong>iOS 版および Android 版 Outlook</strong></td>
 <td>  次のリモート ガイダンスを提供します。
@@ -1128,15 +1037,15 @@ FastTrack 特典を使用してデータを 365 に移行する方法につい�
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
-<td><ul>
+<td>
 エンタープライズ サービスを有効にするためのリモート ガイダンスYammer提供します。  
-</ul></td>
+</td>
 <td>オンライン クライアント ソフトウェアは <a href="https://go.microsoft.com/fwlink/?LinkID=723597">、Microsoft 365</a>および Microsoft 365 のシステム要件で定義されている最小レベルOffice。</td>
 </tr>
 </tbody>
 </table>
 
-## <a name="enterprise-mobility--security"></a>Enterprise Mobility + Security
+## <a name="enterprise-mobility--security"></a>Enterprise Mobility + Security 
 
 <table>
 <thead>
@@ -1149,59 +1058,8 @@ FastTrack 特典を使用してデータを 365 に移行する方法につい�
 <tbody>
 <tr class="even">
 <td><strong>Azure Active Directory (Azure AD) と Azure AD Premium</strong></td>
-<td>  クラウド ID をセキュリティで保護するためのリモート ガイダンスは、次のシナリオで提供されます。  
-
- <br/>
-
-<strong>セキュリティで保護された基盤インフラストラクチャ</strong>  </ul>
-<ul>
-<li>  Azure 多要素認証 (MFA) (クラウドのみ) による保護、Microsoft Authenticator アプリ、Azure MFA とセルフサービス パスワード リセット (SSPR) の組み合わせ登録など、ID に対する強力な認証の構成と有効化。  </li>
-<li>  Azure 以外のプレミアム ユーザー AD、セキュリティの既定値を使用して ID をセキュリティで保護するためのガイダンスが提供されます。  </li>
-<li>  Azure のプレミアム AD、条件付きアクセスを使用して ID をセキュリティで保護するためのガイダンスが提供されます。  </li>
-<li>  Azure パスワード保護を使用して脆弱なパスワードの使用を検出ADブロックします。  </li>
-<li>  Azure アプリケーション プロキシを使用してオンプレミス Web アプリへのリモート アクセスAD保護します。  </li>
-<li>  Azure Identity Protection を使用してリスクベースの検出と修復を有効にします。  </li>
-<li>  カスタム ブランド化を使用して、ロゴ、テキスト、画像などのカスタマイズされたサインイン画面を有効にする。  </li>
-<li>  Azure AD B2B を使用して、アプリとサービスをゲスト ユーザーと安全に共有します。  </li>
-<li>  役割ベースのアクセス制御 (RBAC) 組み込みの管理役割を使用して、Office 365 管理者のアクセスを管理し、特権管理者アカウントの数を減らします。  </li>
-<li>  ハイブリッド Azure AD構成します。  </li>
-<li>  Azure AD構成します。  </li>
-</ul>
-  
-<strong>監視とレポート</strong>  
-<ul>
-<li>  
-  Azure AD 接続正常性を使用AD FS、Azure AD AD 接続、およびドメイン コントローラーのリモート監視を有効にします。  
-  </li>
-</ul>
-  
-<strong>ガバナンス</strong>  
-<ul>
-<li>  
-  Azure の資格管理ADを使用して、Azure の ID とアクセス のライフサイクルをAD管理します。
-  </li>
-<li>  
-  Azure グループ のAD、エンタープライズ アプリ アクセス、およびロールの割り当てを Azure アクセス レビュー AD管理します。  
-  </li>
-<li>  
-  Azure AD利用規約を確認します。  
-  </li>
-<li>  
-  Azure の特権 ID 管理を使用して、特権管理者アカウントへのアクセスAD制御します。  
-  </li>
-</ul>
-  
-<strong>オートメーションと効率 </strong>  
-<ul>
-<li>  
-  Azure AD SSPR を有効にする。  
-  </li>
-<li>  ユーザーが独自のクラウド セキュリティまたは 365 グループを作成および管理Office、Azure ADグループ管理を使用できます。  </li>
-<li>  Azure または委任されたグループ管理を使用して、エンタープライズ アプリADアクセスを管理します。  </li>
-<li>  動的グループAD Azure を有効にする。  </li>
-<li>  コレクションを使用して My Apps ポータルでアプリを整理する。  </li>
-</ul></td>
-<td>オンプレミスの Active Directory とその環境は、Azure AD Premium 用に準備されています。Azure AD および Azure AD Premium 機能との統合を妨げる特定の問題の修復も含まれます。</td>
+<td>  詳細については <strong> 、「Azure Active Directory (Azure AD)</strong> と Azure AD Premium in Security and <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Compliance」を参照してください</a>。</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><strong>Azure 情報保護 </strong></td>
@@ -1212,85 +1070,9 @@ FastTrack 特典を使用してデータを 365 に移行する方法につい�
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  アプリとデバイスのクラウドベースのモバイル デバイス管理 (MDM) プロバイダーおよびモバイル アプリ管理 (MAM) プロバイダーとして Intune を使用する準備に関するリモート ガイダンスを提供します。 具体的な手順は、使用しているソース環境やモバイル デバイスとモバイル アプリの管理ニーズに依存します。 以下の手順が含まれる可能性があります:
-<ul>
-<li>  エンド ユーザーのライセンス認証。  </li>
-<li>  オンプレミスの Active Directory またはクラウド ID (Azure AD) を活用して、Intune で使用される ID を構成します。  </li>
-<li>  Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成。  </li>
-<li>  次の管理ニーズに基づいて MDM 機関を構成します。
-<ul>
-<li>  Intune が MDM ソリューションでしかない場合、MDM 機関として Intune を設定します。  </li>
-</ul></li>
-<li>  以下の MDM ガイダンスの提供:
-<ul>
-<li>  MDM 管理ポリシーの検証に使用するテストグループの構成。  </li>
-<li>  以下のような、MDM 管理ポリシーとサービスの構成:
-<ul>
-<li>  Web リンクまたはディープ リンクを介したサポートされている各プラットフォームのアプリの展開。  </li>
-<li>  条件付きアクセス ポリシー。  </li>
-<li>  組織に既存の証明機関、ワイヤレス ネットワーク、VPN インフラストラクチャがある場合は、電子メール、ワイヤレス ネットワーク、VPN プロファイルを展開します。  </li>
-<li>  Intune データ ウェアハウスへの接続。  </li>
-<li>  以下との Intune の統合:
-<ul>
-<li>  リモート アシスタンス用のチーム ビューアー (チーム ビューアーサブスクリプションが必要です)。  </li>
-<li>  モバイル脅威防御 (MTD) パートナー ソリューション (MTD サブスクリプションが必要です)。  </li>
-<li>  通信経費管理ソリューション (通信経費管理ソリューションのサブスクリプションが必要です)。  </li>
-</ul></li>
-<li>  サポートされている各プラットフォームのデバイスの Intune への登録。  </li>
-</ul></li>
-</ul></li>
-<li>  アプリ保護に関するガイダンスを提供する:
-<ul>
-<li>  サポートされている各プラットフォームでのアプリ保護ポリシーの構成。  </li>
-<li>  管理アプリの条件付きアクセス ポリシーを構成する。  </li>
-<li>  前述の MAM ポリシーを使用して適切なユーザー グループをターゲットに設定します。  </li>
-<li>  管理アプリの使用状況レポートを使用する。  </li>
-</ul></li>
-<li>  従来の PC 管理から Intune MDM への移行ガイダンスを提供します。  </li>
-</ul>
-  
-</li>
-</ul>
-  
-<strong>クラウド接続</strong>  
-
-  Intune を使用して既存の Configuration Manager 環境をクラウド接続する準備について説明します。 具体的な手順はソース環境によって異なります。 手順には以下が含まれます。  
-<ul>
-<li>  エンド ユーザーのライセンス認証。  </li>
-<li>  オンプレミスの Active Directory またはクラウド ID を利用した、Intune で使用する ID の構成。  </li>
-<li>  Intune サブスクリプションへのユーザーの追加、IT 管理者の役割の定義、ユーザーおよびデバイス グループの作成。  </li>
-<li>  ハイブリッド Azure グループへの参加をセットアップするAD提供します。  </li>
-<li>  MDM 自動登録用の Azure AD設定に関するガイダンスを提供します。  </li>
-<li>  リモート インターネット ベースのデバイス管理の共同管理のためのソリューションとして使用する場合のクラウド管理ゲートウェイのセットアップ方法に関するガイダンスを提供します。  </li>
-<li>  Intune に切り替えることを希望する、サポートされているワークロードの構成。  </li>
-<li>  Intune 登録済みデバイスへの Configuration Manager クライアントのインストール。  </li>
-</ul> 
-
-<strong>iOS および Android 用 Outlook モバイルを安全に展開する</strong> Outlook mobile for iOS および Android を組織に安全に展開し、ユーザーに必要なすべてのアプリがインストールされていることを確認するためのガイダンスを提供できます。  
-  Intune を使用して Outlook mobile for iOS および Android を安全に展開する手順は、ソース環境によって異なります。 次のものが含まれます。
-<ul>
-<li>  Apple App Store または Google Play ストアを使用して、Outlook for iOS および Android、Microsoft Authenticator、Intune ポータル サイト アプリをダウンロードします。  </li>
-<li>  セットアップに関するガイダンスを提供します。
-<ul>
-<li>  Outlook for iOS および Android、Microsoft Authenticator、Intune ポータル サイト アプリの Intune での展開。  </li>
-<li>  アプリ保護ポリシー。  </li>
-<li>  条件付きアクセス ポリシー。  </li>
-<li>  アプリ構成ポリシー。  </li>
-</ul></li>
-</ul>  
+<td>  詳細については <strong> 、「Microsoft Intune in Security</strong> and <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Compliance」を参照してください</a>。
   </td>
-<td>  IT 管理者は、Intune でのワイヤレス ネットワークと VPN プロファイルの展開を計画する際に、既存の証明機関、ワイヤレス ネットワーク、VPN インフラストラクチャを実稼働環境で既に機能している必要があります。  
-  <strong>注</strong>: FastTrack サービスの利点には、Intune の認証局、ワイヤレス ネットワーク、VPN インフラストラクチャ、または Apple MDM プッシュ証明書を設定または構成するための支援は含されません。  
- 
-  <strong>注</strong>: FastTrack サービス特典には、Configuration Manager サイト サーバーまたは Configuration Manager クライアントのクラウド接続をサポートするために必要な最小要件への設定またはアップグレードの支援は含まれていません。 このサポート <a href="https://go.microsoft.com/fwlink/?linkid=2080150">については、Microsoft パートナー</a> にお問い合わせください。
-
-  <strong>Intune と Microsoft Defender Advanced Threat Protection (ATP) の統合</strong> 
- 
-  <strong>注</strong>: Intune と Microsoft Defender ATP の統合と、Windows 10 のリスク レベル評価に基づくデバイス コンプライアンス ポリシーの作成に関するサポートを提供しています。 購入、ライセンス認証、またはライセンス認証に関するサポートは提供しない。 このサポート <a href="https://go.microsoft.com/fwlink/?linkid=2080150">については、Microsoft パートナー</a> にお問い合わせください。  
-  
-<strong>Windows Autopilot</strong> 
- 
-  IT 管理者は、管理者自身または管理者の代理としてハードウェアの製造元がハードウェア ID を Windows Autopilot サービスにアップロードすることにより、デバイスを組織に登録する責任があります。  
+<td>  
   
 </td>
 </tr>
@@ -1325,7 +1107,8 @@ FastTrack 特典を使用してデータを 365 に移行する方法につい�
 <li>  Windows 10 展開の一部として Configuration Manager を使用して Microsoft 365 アプリを展開する。   </li>
 <li>  既存の Configuration Manager 環境または Microsoft 365 を使用して、組織が Windows 10 Enterprise および Microsoft 365 Apps を最新の情報に更新するためのガイダンスを提供します。  </li>
 </ul>
-  <strong>以下はスコープ外です </strong>  
+  
+<strong>以下はスコープ外です </strong>  
 <ul>
 <li>  Configuration Manager の Current Branch へのアップグレード。  </li>
 <li>  Windows 10 展開用のカスタム画像の作成。  </li>
@@ -1350,153 +1133,8 @@ FastTrack 特典を使用してデータを 365 に移行する方法につい�
 </ul>
 
 <tr class="odd">
-<td><strong>Microsoft Defender Advanced Threat Protection (ATP)</strong></td>
-<td>  Microsoft Defender Advanced Threat Protection (ATP) は、エンタープライズ ネットワークで高度な脅威を回避、検出、調査、対策する際に役立つように設計されたプラットフォームです。  
-  次のリモート ガイダンスを提供します。
-<ul>
-<li>  エンドポイントをセキュリティで保護するためのテクノロジの展開。  </li>
-<li>  エンドポイント保護とデバイス制限プロファイルの構成。  </li>
-<li>  OS のバージョンとデバイス管理 (Intune、Microsoft Endpoint Configuration Manager、グループ ポリシー オブジェクト (GPO)、サードパーティの構成を含む) と、Windows Defender AV サービスまたは他のエンドポイント セキュリティ ソフトウェアの状態を評価します。  </li>
-<li>  Windows AV サービスまたは他のエンドポイント セキュリティ ソフトウェアの状態を評価します。  </li>
-<li>  ネットワーク トラフィックを制限するプロキシとファイアウォールの評価。  </li>
-<li>  オンボード エンドポイントを使用して ATP エージェント プロファイルを展開する方法を説明して、Microsoft Defender ATP サービスを有効にする。  </li>
-<li>  展開のガイダンス、構成の支援、および次の教育を行います。
-<ul>
-<li>  
-  脅威と脆弱性の管理。  
-  </li>
-<li>  
-  攻撃面の縮小。  
-  </li>
-<li>  
-  次世代の保護。  
-  </li>
-<li>  
-  エンドポイントの検出および応答。  
-  </li>
-<li>  
-  調査と修復の自動化。  
-  </li>
-<li> Microsoft Defender ATP (Windows E5 または Microsoft 365 E5 ライセンスが必要です)。  </li>
-<li>  
-  セキュア スコア。  
-  </li>
-</ul></li>
-<li>  シミュレーションとチュートリアルを確認する (プラクティス シナリオ、偽のマルウェア、自動調査など)。  </li>
-<li>  レポート機能と脅威分析機能の概要。  </li>
-<li>  Office 365 の ATP と Microsoft Defender ATP の統合。  </li>
-<li>  Microsoft Defender セキュリティ センター ポータルのチュートリアルを実行します。  </li>
-<li>  次のオペレーティング システム。
-<ul>
-<li>  
-  Windows 10。  
-  </li>
-<li>  
-  Windows Server 2016。  
-  </li>
-<li>  
-  Windows Server 2019。  
-  </li>
-<li>  
-  Windows Server 2019 Core Edition。  
-  </li>
-<li>  
-  Windows Server Semi-Annual チャネル (SAC) バージョン 1803。  
-  </li>
-<li>  
-  macOS バージョン 10.13、10.14、および 10.15。  
-  </li>
-</ul>
-</li>
-</ul>
-<strong>注:</strong> すべての Windows Server バージョンは、System Center Configuration Manager 2012 の最新バージョン (バージョン 1012 R2、1511、または 1602) または Microsoft Endpoint Configuration Manager (バージョン 2002 以上) によって管理する必要があります。 
-
-</li>
-</ul>
-
-<strong>以下はスコープ外です </strong>  
-<ul>
-<li>  お客様の修復アクティビティのプロジェクト管理。  </li>
-<li>  オンサイト サポート。  </li>
-<li>  継続的な管理と脅威の対処。  </li>
-<li>  次の Microsoft Defender ATP エージェントのオンボーディングまたは設定:
-<ul>
-<li>  
-  Windows Server 2008。  
-  </li>
-<li>  
-  Windows Server 2012。  
-  </li>
-<li>  
-  Linux。  
-  </li>
-<li>  
-  モバイル デバイス (Android と iOS)。  
-  </li>
-<li> 仮想デスクトップ インフラストラクチャ (VDI) (永続的または非永続的)。  </li>
-</ul></li>
-<li>  サーバーのオンボーディングと構成:
-<ul>
-<li>  
-  オフライン通信用にプロキシ サーバーを構成する。  
-  </li>
-<li>  
-  ダウンレベルの Configuration Manager インスタンスとバージョンで Configuration Manager 展開パッケージを構成する。  
-  </li>
-<li>  
-  サーバーを Azure セキュリティ センターにオンボーディングする。  
-  </li>
-<li>  
-  Configuration Manager によって管理されていないサーバー。  
-  </li>
-</ul></li>
-<li>  macOS のオンボーディングと構成:
-<ul>
-<li>  
-  Intune ベースの手動展開。  
-  </li>
-<li>  
-  JAMF ベースの展開。
-  </li>
-<li>  
-  その他のモバイル デバイス管理 (MDM) 製品ベースの展開。  
-  </li>
-<li>  
-  手動展開。  
-  </li>
-</ul></li>
-<li>  次の攻撃面の縮小機能の構成:
-<ul>
-<li>  
-  ハードウェア ベースの分離。  
-  </li>
-<li>  
-  アプリコントロール。  
-  </li>
-<li> デバイス制御。</li>
-<li>  
-  Exploit Protection。  
-  </li>
-<li>  
-  ネットワーク ファイアウォール。  
-  </li>
-
-<ul>
-<li> Windows Hello</li>
-<li> Credential Guard</li>
-</ul>
-
-</ul></li>
-<li> BitLocker の構成または管理。</li>
-<li>  Microsoft 脅威エキスパートの登録または構成。  </li>
-<li>  API またはセキュリティ情報とイベント管理 (SIEM) 接続を確認する構成またはトレーニング。  </li>
-<li>  Microsoft 脅威保護 (MTP) の登録または構成。  </li>
-<li>  高度な検出に関するトレーニングまたはガイダンス。  </li>
-<li>  Kusto クエリの使用または作成をカバーするトレーニングまたはガイダンス。</li>
-</li>
-</ul>
-これらのサービス <a href="https://go.microsoft.com/fwlink/?linkid=2080150">のサポートについては、Microsoft パートナー</a> にお問い合わせください。  
-</ul></td>
+<td><strong>Microsoft Defender for Endpoint</strong></td>
+<td>  詳細については <strong> 、「Microsoft Defender for Endpoint in Security and</strong> <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Compliance」を参照してください</a>。</td>
 <td></td>
 
 </tbody>

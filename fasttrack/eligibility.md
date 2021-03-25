@@ -3,19 +3,19 @@ title: 対象
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、リモートで受信する対象となる要件の概要を説明します。Microsoft 365 ライセンス購入に含まれている FastTrack スペシャリストによるプラン支援や、対象となる特定の製品と機能の詳細について説明します。
-ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416426"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187986"
 ---
 # <a name="eligibility"></a>対象
 
@@ -37,14 +37,14 @@ FastTrack スペシャリストは、お客様の購入製品に含まれるプ�
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security
-  - Microsoft Defender Advanced Threat Protection (ATP)
+  - Microsoft Defender for Endpoint
   - Microsoft Defender for Identity 
+  - Microsoft Defender for Office 365
   - Microsoft Edge
   - Microsoft 情報ガバナンス
   - Microsoft 情報保護
   - Microsoft Intune
   - Microsoft Teams
-  - Office 365 Advanced Threat Protection (ATP)
   - OneDrive for Business
   - Power BI
   - Project Online
@@ -117,7 +117,7 @@ FastTrack の対象下にあるプランの 1 つで少なくともテナント�
   - Exchange Online プラン 2
   - Exchange Online Kiosk
   - Exchange Online Protection
-  - Office 365 Advanced Threat Protection
+  - Microsoft Defender for Office 365
 
 #### <a name="microsoft-teams"></a>Microsoft Teams
 

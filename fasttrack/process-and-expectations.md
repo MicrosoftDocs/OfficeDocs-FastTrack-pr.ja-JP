@@ -3,19 +3,19 @@ title: プロセスと期待
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、FastTrack に支援を要請する方法、支援の提供方法、正常な操作環境のためのヒントを提案し、FastTrack とお客様の会社双方の主な責任について説明します。
-ms.openlocfilehash: 99b21f0fa76cf5c392d47dcb53d78710130327bd
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: f5e734bc51f4f32c65c395df5e62c7003b2f6049
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416590"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187974"
 ---
 # <a name="process-and-expectations"></a>プロセスと期待
 

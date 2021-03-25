@@ -3,19 +3,19 @@ title: データ移行
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack は、ソース環境のメールとファイル データを Office 365 (Exchange Online、SharePoint Online、および OneDrive for Business) に移行するのに役立ちます。 提供するサポートの種類は、Office 365 ライセンスの数によって異なります。
-ms.openlocfilehash: b02c7c863cdc689fab4a6545ac1acc84f6b03fc2
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: f518e8dbda9200318022bad2cc12d1ba68263df8
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416614"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188026"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -189,7 +189,7 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 
 ## <a name="considerations"></a>考慮事項
 
-  - すべての移行には SharePoint Online のクォータが適用されます。 詳細については、「[<span class="underline">SharePoint Online および OneDrive for Business ソフトウェアの境界と制限</span>](https://go.microsoft.com/fwlink/?LinkId=698855)」を参照してください。
+ - すべての移行には SharePoint Online のクォータが適用されます。 詳細については <a href="https://go.microsoft.com/fwlink/?LinkId=698855">、「SharePoint の制限」</a> を参照してください。 
   - 移行の全体量を、資格がある SharePoint Online のストレージ クォータ全体 (個別に購入した追加のストレージを含む) の 75% に制限することをお勧めします。
 
 ## <a name="source-environment-details"></a>ソース環境の詳細
@@ -381,7 +381,7 @@ FastTrack を使用してファイルを OneDrive for Business に移行する�
 
 ## <a name="considerations"></a>考慮事項
 
-  - すべての移行には OneDrive for Business のクォータが適用されます。 詳細については、「[<span class="underline">SharePoint Online および OneDrive for Business ソフトウェアの境界と制限</span>](https://go.microsoft.com/fwlink/?LinkId=698855)」を参照してください。
+  - すべての移行には SharePoint Online のクォータが適用されます。 詳細については <a href="https://go.microsoft.com/fwlink/?LinkId=698855"> 、「SharePoint の制限」</a> を参照してください。 
   - 移行するデータの全体量を、資格がある SharePoint Online のストレージ クォータ全体 (個別に購入した追加のストレージを含む) の 75% に制限することをお勧めします。
   - FastTrack は、アクティブな OneDrive for Business ドライブにのみ移行します。
 
@@ -566,3 +566,206 @@ FastTrack スペシャリストは、移行プロジェクト中に標準的な�
 また、OneDrive for Business の移行に対して固有の次のアクティビティも実行します。
 
   - 移行イベントの対象となるすべての OneDrive for Business サイトをプロビジョニングします。
+
+## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>Microsoft Teams および Microsoft 365 グループへの移行
+
+FastTrack を使用してファイルを Microsoft Teams および Microsoft 365 グループに移行する場合は、移行ガイダンスとデータ移行サービスを提供します。 移行を計画し、ソース環境と Teams と Microsoft 365 グループを構成し、データ移行サービスを活用してファイルを移行するのに役立つガイダンスを提供します。 移行イベントを作成してスケジュールします。 お客様のスケジュールに従って移行イベントを開始し、その進捗状況を監視し、状態レポートを提供します。 移行イベントが完了すると、ソース環境の適切にスケジュールされ、対象となるソースからのファイルが Teams および Microsoft 365 グループに移行される可能性があります。 Teams チャネルと Microsoft 365 グループは、これらの移行先の種類にデータを移行する前に、お客様が事前に準備する必要があります。 Teams と Microsoft 365 グループは、ファイルの送信先の場所に対するアクセス許可に影響します。 Teams と Microsoft 365 グループは、コラボレーションを可能にするために構築されています。 Teams チャネルまたは Microsoft 365 グループは、それらの宛先に移行するときに、それらのファイルにアクセスできるユーザーを決定します。 FastTrack は、移行中に Teams チャネルまたは Microsoft 365 グループのアクセス許可にエンド ユーザーまたはグループを追加しない。
+
+## <a name="considerations"></a>考慮事項
+
+- すべての移行には SharePoint Online のクォータが適用されます。 詳細については <a href="https://go.microsoft.com/fwlink/?LinkId=698855"> 、「SharePoint の制限」</a> を参照してください。 
+- 移行の全体量を、資格がある SharePoint Online のストレージ クォータ全体 (個別に購入した追加のストレージを含む) の 75% に制限することをお勧めします。 
+
+
+## <a name="source-environment-details"></a>ソース環境の詳細
+
+データ移行サービスは、次のソース環境からデータを移行します。 
+
+- ファイル共有 (SMB 2.0 以降をサポートするデバイスでのサーバー メッセージ ブロック (SMB) ファイルの共有)。
+-  単一の G Suite 環境 (Google ドライブのみ)。 
+- Box (Starter、Business、Enterprise)。 
+- Dropbox for Teams (スタンダードと アドバンスド用)。 
+
+次の表は、各ソース環境に固有の移行の詳細を示しています。
+
+<table>
+<thead>
+<tr class="header">
+ <th><strong>ソース環境</strong></th>
+ <th><strong>移行の種類</strong></th>
+ <th><strong>移行されるコンテンツ</strong></th>
+ <th><strong>移行されないコンテンツ</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>SMB 2.0 以降をサポートするファイル共有デバイス</strong></td>
+<td>単一または複数のパス</td>
+<td><ul>
+<li> ドキュメント </li>
+<li> ファイルとフォルダーの構造 </li>
+<li> ユーザー レベルのファイルとフォルダーのアクセス許可* </li>
+<li> グループ レベルのファイルとフォルダーのアクセス許可* </li>
+<li> 15 GB 未満のファイル </li>
+<li> 基本的なドキュメントとフォルダーのメタデータ:
+<ul>
+<li> 作成日 </li>
+<li> 更新日 </li>
+<li> 作成者 </li>
+<li> 最終更新者 </li>
+</ul></li>
+</ul>
+<br>
+*ディレクトリ同期の構成が必要。 エクスプローラーに公開されている NTFS アクセス許可のみが移行されます。 ファイル共有デバイスで直接管理されているアクセス許可は移行されません。 SMB 2.0 デバイスにデータを保存する場合、SMB プロトコルによって公開されている NTFS と同等のアクセス許可が移行されます。 アクセス許可は、Microsoft 365 グループまたは Microsoft Teams チャネルの影響を受えます。 移行先が Microsoft 365 グループまたは Microsoft Teams チャネルの場合、移行されたファイルに対する最終的なアクセス許可プロファイルがグループまたはチャネルによって決定されます。 Microsoft 365 グループまたは Microsoft Teams チャネルに移行するファイルに対するアクセス許可を移行することはお勧めしません。</td>
+<td><ul>
+<li> 所有権の履歴と以前のバージョン </li>
+<li> コンテンツ内に埋め込まれた URL の変換 </li>
+<li> 以前のバージョン </li>
+<li> Windows のファイルやフォルダーの属性 (読み取り専用、非表示など) </li>
+<li> Windows 以外の New Technology File System (NTFS) と NTFS の高度なアクセス許可と特別な設定 </li>
+<li> 明示的なアクセス許可の拒否 (移行後に削除、並列アクセス許可または親フォルダーのアクセス許可の対象となるコンテンツ) </li>
+<li> NTFS 監査の構成 </li>
+<li> ファイル分類インフラストラクチャ (FCI) で提供されている追加のファイルのメタデータ </li>
+<li> アクセスできない、または破損しているドキュメント </li>
+<li> 非表示の共有 </li>
+<li> 共有 (共有のレベルに与えられるアクセス許可など) </li>
+<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><strong>単一の G Suite 環境 (Google ドライブのみ)</strong></td>
+<td>単一または複数のパス</td>
+<td><ul>
+<li> Google ドキュメント、スプレッドシート、スライド (10 MB を超えるものを含むファイルは、対応する Office 形式に変換されます) </li>
+<li> ファイルとフォルダーの構造 </li>
+<li> ユーザー レベルのフォルダーのアクセス許可* </li>
+<li> グループ レベルのフォルダーのアクセス許可* </li>
+<li> 15 GB 未満のファイル </li>
+<li> 基本的なドキュメントとフォルダーのメタデータ:
+<ul>
+<li> 作成日 </li>
+<li> 更新日 </li>
+<li> 作成者 </li>
+<li> 最終更新者 </li>
+</ul></li>
+<li> 共有ドライブ (フォルダーとファイル) </li>
+<li> 移行中の Google ドライブ アカウントが所有する共有コンテンツ </li>
+</ul>
+<br>
+*アクセス許可は、Microsoft 365 グループまたは Microsoft Teams チャネルの影響を受します。 移行先が Microsoft 365 グループまたは Microsoft Teams チャネルの場合、移行されたファイルに対する最終的なアクセス許可プロファイルがグループまたはチャネルによって決定されます。 Microsoft 365 グループまたは Microsoft Teams チャネルに移行するファイルに対するアクセス許可を移行することはお勧めしません。 
+</td>
+<td><ul>
+<li> 所有権の履歴、以前のバージョン、コメント </li>
+<li> ファイルとフォルダーの説明、フォルダーの色 </li>
+<li> ユーザー レベルのファイルのアクセス許可 </li>
+<li> グループ レベルのファイルのアクセス許可 </li>
+<li> 高度なメタデータ </li>
+<li> ファイル ロックの属性 </li>
+<li> コンテンツ内に埋め込まれた URL の変換 </li>
+<li> ごみ箱に入れられたアイテム </li>
+<li> アクセスできない、または破損しているドキュメント </li>
+<li> ブロックされたユーザーまたは非アクティブなユーザー </li>
+<li> Google フォト、フォーム、マップとその他の接続されたアプリ </li>
+<li> Google 図形描画 </li>
+<li> 組織外との共有コンテンツ </li>
+<li> Google Drive アカウントが所有していないコンテンツの移行 </li>
+<li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Google ドライブ管理レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
+<li> 共有ドライブのメンバー権限 (<strong>注</strong>: Google ドライブ管理レポートを使用して、共有ドライブのメンバーを識別します。 移行前に、対象に対してこれらのメンバーシップ設定を構成するようにエンド ユーザーに指示してください。) </li>
+<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><strong>Box (Starter、Business、Enterprise)</strong></td>
+<td>単一または複数のパス</td>
+<td><ul>
+<li> ドキュメント </li>
+<li> ファイルとフォルダーの構造 </li>
+<li> ユーザー レベルのフォルダーのアクセス許可* </li>
+<li> グループ レベルのフォルダーのアクセス許可* </li>
+<li> 15 GB 未満のファイル </li>
+<li> 基本的なドキュメントとフォルダーのメタデータ:
+<ul>
+<li> 作成日 </li>
+<li> 更新日 </li>
+<li> 作成者 </li>
+<li> 最終更新者 </li>
+</ul></li>
+<li> 移行される Box アカウントが所有する共有コンテンツ </li>
+<li> Box Notes (Word ドキュメント形式に変換) </li>
+</ul>
+<br>
+*アクセス許可は、Microsoft 365 グループまたは Microsoft Teams チャネルの影響を受します。 移行先が Microsoft 365 グループまたは Microsoft Teams チャネルの場合、移行されたファイルに対する最終的なアクセス許可プロファイルがグループまたはチャネルによって決定されます。 Microsoft 365 グループまたは Microsoft Teams チャネルに移行するファイルに対するアクセス許可を移行することはお勧めしません。 </td>
+<td><ul>
+<li> 所有権の履歴、以前のバージョン、コメント </li>
+<li> ファイルとフォルダーの説明 </li>
+<li> ユーザー レベルのファイルのアクセス許可 </li>
+<li> グループ レベルのファイルのアクセス許可 </li>
+<li> Box のタグと高度なメタデータ </li>
+<li> ファイル ロックの属性 </li>
+<li> コンテンツ内に埋め込まれた URL の変換 </li>
+<li> ごみ箱に入れられたアイテム </li>
+<li> アクセスできない、または破損しているドキュメント </li>
+<li> ブロックされたユーザーまたは非アクティブなユーザー </li>
+<li> Box のアプリ、ブックマーク、お気に入り、およびワークフロー </li>
+<li> 移行された Box アカウントが所有していないコンテンツ </li>
+<li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Box レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
+<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><strong>Teams Dropbox for Teams (スタンダードと アドバンスド用)。</strong></td>
+<td>単一または複数のパス</td>
+<td><ul>
+<li> ドキュメント </li>
+<li> ファイルとフォルダーの構造 </li>
+<li> ユーザー レベルのフォルダーのアクセス許可* </li>
+<li> グループ レベルのフォルダーのアクセス許可* </li>
+<li> 15 GB 未満のファイル </li>
+<li> 基本的なドキュメントとフォルダーのメタデータ:
+<ul>
+<li> 作成日 </li>
+<li> 更新日 </li>
+<li> 作成者 </li>
+<li> 最終更新者 </li>
+</ul></li>
+<li> 共有チームのフォルダーとコンテンツ </li>
+<li> 移行される Dropbox アカウントが所有する共有コンテンツ </li>
+</ul>
+<br>
+*アクセス許可は、Microsoft 365 グループまたは Microsoft Teams チャネルの影響を受します。 移行先が Microsoft 365 グループまたは Microsoft Teams チャネルの場合、移行されたファイルに対する最終的なアクセス許可プロファイルがグループまたはチャネルによって決定されます。 Microsoft 365 グループまたは Microsoft Teams チャネルに移行するファイルに対するアクセス許可を移行することはお勧めしません。
+</td>
+<td><ul>
+<li> 所有権の履歴、以前のバージョン、コメント </li>
+<li> ファイルとフォルダーの説明 </li>
+<li> ユーザー レベルのファイルのアクセス許可 </li>
+<li> グループ レベルのファイルのアクセス許可 </li>
+<li> 高度なメタデータ </li>
+<li> ファイル ロックの属性 </li>
+<li> コンテンツ内に埋め込まれた URL の変換 </li>
+<li> ごみ箱に入れられたアイテム </li>
+<li> アクセスできない、または破損しているドキュメント </li>
+<li> マウントが解除された Dropbox フォルダー </li>
+<li> 削除または切断されたユーザー </li>
+<li> Dropbox の用紙、ショーケース、スペース </li>
+<li> Dropbox アプリとお気に入り (Pin/スター) </li>
+<li> 移行された Dropbox アカウントが所有していないコンテンツ </li>
+<li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Dropbox レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
+<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
+
+FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
+
+## <a name="your-responsibilities"></a>お客様の責任 
+
+移行プロジェクト中に標準のアクティビティを実行します。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
+また、Microsoft Teams および Microsoft 365 グループの移行に固有の次のアクティビティも実行します。 
+
+- 移行イベントの対象として、すべての Microsoft Teams チャネルと Microsoft 365 グループをプロビジョニングします。
+
+> [!NOTE]
+>FastTrack は、Microsoft Teams チャネルまたは Microsoft 365 グループを事前準備しない。 FastTrack は、Microsoft Teams チャネルまたは Microsoft 365 グループにエンド ユーザーまたはグループを追加しない。 これらの移行先にデータを移行する前に、すべての Microsoft Teams チャネルと Microsoft 365 グループにエンド ユーザーまたはグループを追加して、それらのエンド ユーザーが新しく移行されたドキュメントにアクセスできる必要があります。
