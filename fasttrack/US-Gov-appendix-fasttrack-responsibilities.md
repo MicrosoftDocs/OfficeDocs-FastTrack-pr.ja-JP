@@ -3,19 +3,19 @@ title: FastTrack 365 us Government Officeの責任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: dde74c9880072ad8e5ff6386d09f88967af0ab16
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+ms.openlocfilehash: adac2fee65878f2d593d3c249f4b7231cb7eb967
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51188070"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51926946"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 365 us Government Officeの責任
 
@@ -192,7 +192,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - ERP 同期を含む、Project Online へのユーザーの追加。  
 - プロジェクト作成による、基本的な Project Online 機能の検証。
     
-## <a name="yammer-enterprise"></a>Yammer エンタープライズ
+## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 単一の Yammer ベーシック ネットワークから単一の Yammer エンタープライズ ネットワークへの変換に関するガイダンスを行います。
 

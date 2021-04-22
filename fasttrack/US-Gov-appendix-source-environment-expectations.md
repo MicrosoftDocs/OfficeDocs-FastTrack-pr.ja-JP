@@ -3,19 +3,19 @@ title: ソース環境 365 us Government Office期待
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Center 特典は、ソース環境との統合のレベルを設定するためのガイダンスを提供します (たとえば、Office 365 に移動するソース環境内に既にサービスが含まれている場合)。
-ms.openlocfilehash: 41ec539f5a64a320839fe111045c55189c4b9234
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+ms.openlocfilehash: 15d88831679b91b0622d8588d02cc85c556cb109
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51188010"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51926915"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>ソース環境 365 us Government Office期待
 

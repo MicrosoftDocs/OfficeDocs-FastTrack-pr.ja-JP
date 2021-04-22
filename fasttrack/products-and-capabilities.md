@@ -3,19 +3,19 @@ title: 製品と機能
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、FastTrack でサポートされるワークロード シナリオの詳細と、開始する前に必要なソース環境の期待について説明します。 現在のセットアップに基づいて、お客様と一緒に修復計画を作成し、オンボーディングを成功するための最小要件までソース環境を提供します。
-ms.openlocfilehash: 2bfca103fd9c58d95d9ba4a750e446a6e93b5719
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+ms.openlocfilehash: 70e279268f33591884c6bebb8625688ca724480d
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51188106"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51927035"
 ---
 # <a name="products-and-capabilities"></a>製品と機能
 
