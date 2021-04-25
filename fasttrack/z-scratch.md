@@ -1,4 +1,23 @@
-## <a name="security-and-compliance"></a>セキュリティとコンプライアンス
+---
+title: セキュリティとコンプライアンス
+ms.author: v-bermic
+author: rberg-steyer
+manager: jimmuir
+ms.date: 7/01/2020
+audience: ITPro
+ms.topic: overview
+ms.service: O365-seccomp
+localization_priority: None
+ms.collection: FastTrack
+description: Microsoft サービスの FastTrack ガイダンスの詳細。
+ms.openlocfilehash: 000a81c51729deba8d3f5c4d88a0baa918dcd048
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996245"
+---
+# <a name="security-and-compliance"></a>セキュリティとコンプライアンス
 
 <table>
 <thead>
@@ -12,7 +31,7 @@
 <tr class="odd">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> Microsoft 365 Defender は、エンドポイント、ID、電子メール、アプリ間で検出、防止、調査、応答をネイティブに調整し、高度な攻撃に対する統合保護を提供する統合された侵害前および侵害後のエンタープライズ防御スイートです。 次のリモート ガイダンスを提供します。 </p> 
+<td> <p> Microsoft 365 Defender は、エンドポイント、ID、電子メール、アプリ間で検出、防止、調査、応答をネイティブに調整し、高度な攻撃に対する統合保護を提供する、侵害前および侵害後の統合エンタープライズ防御スイートです。 次のリモート ガイダンスを提供します。 </p> 
 <ul>
 <li>  Microsoft 365 セキュリティ センターの概要を説明します。  </li>
 <li>  製品間インシデントの確認(攻撃範囲全体、影響を受けたアセット、グループ化された自動修復アクションを確実に行い、重要な状況に集中するなど)。  </li>
@@ -320,7 +339,7 @@
 <li> SharePoint での情報アーキテクチャの開発。</li>
 <li> カスタム スクリプトとコーディング。</li>
 </td>
-<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="#general">に、最小</a>システム要件はありません。</td>
+<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="products-and-capabilities.md#general">に、最小</a>システム要件はありません。</td>
 </tr>
 <tr class="odd">
 <td><strong>Microsoft 情報保護</strong></td>
@@ -345,11 +364,11 @@
 <li>キーワード ディクショナリの作成または変更。</li>
 <li>カスタム スクリプトとコーディング。</li>
 </ul>
-<strong>注:</strong> 詳細については <strong> 、「Azure Information Protection </strong> in Enterprise <a href="#enterprise-mobility--security">Mobility + Security」を参照してください</a>。
+<strong>注:</strong> 詳細については <strong>、「Azure Information Protection</strong> in Enterprise <a href="products-and-capabilities.md#enterprise-mobility--security">Mobility + Security」を参照してください</a>。
 <ul>
 
 </td>
-<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="#general">に、最小</a>システム要件はありません。</td>
+<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="products-and-capabilities.md#general">に、最小</a>システム要件はありません。</td>
 </tr>
 
 <tr class="odd">
@@ -361,7 +380,7 @@
 <li>  攻撃シミュレータの使用。  </li>
 <li>  レポート作成と脅威分析。  </li>
 </ul></td>
-<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="#general">に、最小</a>システム要件はありません。</td>
+<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="products-and-capabilities.md#general">に、最小</a>システム要件はありません。</td>
 </tr>
 
 
@@ -410,7 +429,7 @@
 <li> コンプライアンス マネージャーでの評価に対する推奨される改善アクションの実践的な実装。</li>
 </ul>
 </td>
-<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="#general">に、最小</a>システム要件はありません。</td>
+<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="products-and-capabilities.md#general">に、最小</a>システム要件はありません。</td>
 </tr>
 <tr class="odd">
 <td><strong>Insider Threat Management</strong></td>
@@ -455,7 +474,7 @@
 <li> 業界および地域の規制および要件への準拠。</li>
 <li> コンプライアンス マネージャーでの評価に対する推奨される改善アクションの実践的な実装。</li>
 </ul></td>
-<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="#general">に、最小</a>システム要件はありません。</td>
+<td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="products-and-capabilities.md#general">に、最小</a>システム要件はありません。</td>
 </tr>
 
 

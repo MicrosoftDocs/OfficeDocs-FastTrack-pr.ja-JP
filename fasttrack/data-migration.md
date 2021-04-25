@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack は、ソース環境のメールとファイル データを Office 365 (Exchange Online、SharePoint Online、および OneDrive for Business) に移行するのに役立ちます。 提供するサポートの種類は、Office 365 ライセンスの数によって異なります。
-ms.openlocfilehash: 07165233711d4d4931f8adac4809b56138078f5a
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 8d74a288291907db22213f317ce8e89923590907
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926999"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996260"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -160,7 +160,7 @@ FastTrack を使用してメールを Exchange Online に移行することを�
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>Exchange Online の移行に関する FastTrack の責任
 
 FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
 
@@ -363,7 +363,7 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>SharePoint Online の移行に関する FastTrack の責任
 
 FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください
 
@@ -555,7 +555,7 @@ FastTrack を使用してファイルを OneDrive for Business に移行する�
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>OneDrive for Business 移行の FastTrack の責任
 
 FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
 
@@ -756,7 +756,7 @@ FastTrack を使用してファイルを Microsoft Teams および Microsoft 365
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack の責任範囲
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>Microsoft Teams と Microsoft 365 グループの移行に関する FastTrack の責任
 
 FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
 
