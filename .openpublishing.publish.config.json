@@ -37,18 +37,6 @@
       "branch_mapping": {}
     },
     {
-      "path_to_root": "FastTrack/common",
-      "url": "https://github.com/MicrosoftDocs/OfficeDocs-pr",
-      "branch": "live",
-      "branch_mapping": {}
-    },
-    {
-      "path_to_root": "_themes.pdf",
-      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
-      "branch": "master",
-      "branch_mapping": {}
-    },
-    {
       "path_to_root": "_repo.en-us",
       "url": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr",
       "branch": "live",
@@ -56,6 +44,19 @@
         "live": "live",
         "master": "master"
       }
+    },
+    {
+      "path_to_root": "FastTrack/common",
+      "url": "https://github.com/MicrosoftDocs/OfficeDocs-pr",
+      "branch": "live",
+      "branch_mapping": {},
+      "include_in_build": true
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ],
   "branch_target_mapping": {
@@ -68,9 +69,6 @@
   "targets": {
     "pdf": {
       "template_folder": "_themes.pdf"
-    },
-    "docs_build_engine": {
-      "name": "docfx_v3"
     }
   },
   "docs_build_engine": {
