@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、リモートで受信する対象となる要件の概要を説明します。Microsoft 365 ライセンス購入に含まれている FastTrack スペシャリストによるプラン支援や、対象となる特定の製品と機能の詳細について説明します。
-ms.openlocfilehash: 03d2b9f607ad72cc59a1d0c16c12401e8a437fe1
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: b4a7af935ee8223f94ac60eca2d18a0b6e53ace7
+ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51927011"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52283449"
 ---
 # <a name="eligibility"></a>対象
 
@@ -124,7 +124,7 @@ FastTrack の対象下にあるプランの 1 つで少なくともテナント�
   - 電話システム
   - 通話プラン
   - 電話会議
-  - Microsoft Teams Room
+  - Microsoft Teamsルーム
 
 #### <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -202,6 +202,9 @@ FastTrack の対象下にあるプランの 1 つで少なくともテナント�
       
 > [!NOTE]
 > 商業目的の独立系ソフトウェア ベンダー (ISV) が Windows 10 アプリを作成する際のライセンスの最小要件はありません。 すべてのアプリ要求は、メインストリーム サービス期間内の Windows 10 または Microsoft 365 アプリのバージョンを対象としている必要があります。
+
+> [!NOTE]
+> FastTrack Center 特典の対象かどうかは、前述の対象となるプランの有料ライセンスを購入したかどうかに基づきます。 例外として、FastTrack は、2021 年 5 月から 2021 年 6 月 30 日まで、インドおよびブラジルの対象となるお客様に対して、現在の COVID-19 の急増に対応するために、Office 365 E1 試用版ライセンスのオンボーディングを支援しています。 
 
 ### <a name="ineligible-plans"></a>対象外のプラン 
  FastTrack サービスの対象ではないプランには以下が含まれます (ただし、これらに限定されません)。
