@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack は、ソース環境のメールとファイル データを Office 365 (Exchange Online、SharePoint Online、および OneDrive for Business) に移行するのに役立ちます。 提供するサポートの種類は、Office 365 ライセンスの数によって異なります。
-ms.openlocfilehash: 8d74a288291907db22213f317ce8e89923590907
-ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+ms.openlocfilehash: 0e33e8a79ebc577188644dbc69cd78707a575838
+ms.sourcegitcommit: 69a30fee5e7e199bd6830fb0837af1ae4904ef3b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51996260"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312445"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -79,7 +79,7 @@ FastTrack を使用してメールを Exchange Online に移行することを�
 <tr class="odd">
 <td><strong>Exchange 2010、Exchange 2013、Exchange 2016、Exchange 2019</strong><br />
 <br />
-<strong>注:</strong> オンプレミスの Exchange 依存関係については、「ハイブリッド展開の前提条件 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">」を参照してください</span></a>。</td>
+<strong>注:</strong>オンプレミスの依存関係については、「ハイブリッドExchange前提条件<a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">」を参照してください</span></a>。</td>
 <td>ハイブリッド展開での移行</td>
 <td><ul>
 <li>メール</li>
@@ -160,7 +160,7 @@ FastTrack を使用してメールを Exchange Online に移行することを�
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>Exchange Online の移行に関する FastTrack の責任
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>移行に関する FastTrack Exchange Online責任
 
 FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
 
@@ -168,7 +168,7 @@ FastTrack スペシャリストは、Exchange の移行に対して固有の次�
 
   -  該当する場合、ソース環境と Exchange Online の間で SMTP メール ルーティングの共存を有効にするためのガイダンスを提供します。
 
-## <a name="your-responsibilities"></a>お客様の責任
+### <a name="your-responsibilities"></a>お客様の責任
 
 移行プロジェクト中に標準のアクティビティを実行します。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
 
@@ -187,12 +187,12 @@ FastTrack スペシャリストは、Exchange の移行に対して固有の次�
 
 FastTrack を使用してファイルを SharePoint Online に移行することを選択すると、移行ガイダンスとデータ移行サービスが提供されます。 移行の計画、ソース環境と SharePoint Online の構成、およびデータ移行サービスを利用したファイルの移行に役立つガイダンスを提供します。 移行イベントを作成してスケジュールします。 お客様のスケジュールに従って移行イベントを開始し、その進捗状況を監視し、状態レポートを提供します。 移行イベントが完了すると、ソース環境の適切にスケジュールされた対象となるソースからのファイルが SharePoint Online に移行されることが期待できます。
 
-## <a name="considerations"></a>考慮事項
+### <a name="considerations"></a>考慮事項
 
- - すべての移行には SharePoint Online のクォータが適用されます。 詳細については <a href="https://go.microsoft.com/fwlink/?LinkId=698855">、「SharePoint の制限」</a> を参照してください。 
+ - すべての移行には SharePoint Online のクォータが適用されます。 詳細については<a href="https://go.microsoft.com/fwlink/?LinkId=698855">、「SharePoint制限」</a>を参照してください。 
   - 移行の全体量を、資格がある SharePoint Online のストレージ クォータ全体 (個別に購入した追加のストレージを含む) の 75% に制限することをお勧めします。
 
-## <a name="source-environment-details"></a>ソース環境の詳細
+### <a name="source-environment-details"></a>ソース環境の詳細
 
 データ移行サービスは、次のソース環境からデータを移行します。
 
@@ -243,7 +243,7 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 <li> アクセスできない、または破損しているドキュメント </li>
 <li> 非表示の共有 </li>
 <li> 共有 (共有のレベルに与えられるアクセス許可など) </li>
-<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+<li> オンラインの制限と制限SharePointを超えるファイル<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">またはフォルダー</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -283,7 +283,7 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Google ドライブ管理レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
 <li> 共有ドライブのメンバー権限 (<strong>注</strong>: Google ドライブ管理レポートを使用して、共有ドライブのメンバーを識別します。 移行前に、対象に対してこれらのメンバーシップ設定を構成するようにエンド ユーザーに指示してください。) </li>
 <li> 制限付きまたはコピー不可としてマークされたファイル </li>
-<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+<li> オンラインの制限と制限SharePointを超えるファイル<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">またはフォルダー</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -319,7 +319,7 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 <li> Box のアプリ、ブックマーク、お気に入り、およびワークフロー </li>
 <li> 移行された Box アカウントが所有していないコンテンツ </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Box レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
-<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+<li> オンラインの制限と制限SharePointを超えるファイル<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">またはフォルダー</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -357,17 +357,17 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 <li> Dropbox アプリとお気に入り (Pin/スター) </li>
 <li> 移行された Dropbox アカウントが所有していないコンテンツ </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Dropbox レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
-<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+<li> オンラインの制限と制限SharePointを超えるファイル<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">またはフォルダー</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>SharePoint Online の移行に関する FastTrack の責任
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>FastTrack のオンライン移行SharePoint責任
 
 FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください
 
-## <a name="your-responsibilities"></a>お客様の責任
+### <a name="your-responsibilities"></a>お客様の責任
 
 移行プロジェクト中に標準のアクティビティを実行します。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください
 
@@ -379,13 +379,13 @@ FastTrack スペシャリストは、移行プロジェクト中に標準的な�
 
 FastTrack を使用してファイルを OneDrive for Business に移行することを選択すると、移行ガイダンスとデータ移行サービスが提供されます。 移行の計画、ソース環境と OneDrive for Business の構成、およびデータ移行サービスを利用したファイルの移行に役立つガイダンスを提供します。 移行イベントを作成してスケジュールします。 お客様のスケジュールに従って移行イベントを開始し、その進捗状況を監視し、状態レポートを提供します。 移行イベントが完了すると、ソース環境の適切にスケジュールされた対象となるソースからのファイルが OneDrive for Business に移行されることが期待できます。
 
-## <a name="considerations"></a>考慮事項
+### <a name="considerations"></a>考慮事項
 
-  - すべての移行には SharePoint Online のクォータが適用されます。 詳細については <a href="https://go.microsoft.com/fwlink/?LinkId=698855"> 、「SharePoint の制限」</a> を参照してください。 
+  - すべての移行には SharePoint Online のクォータが適用されます。 詳細については<a href="https://go.microsoft.com/fwlink/?LinkId=698855">、「SharePoint制限」</a>を参照してください。 
   - 移行するデータの全体量を、資格がある SharePoint Online のストレージ クォータ全体 (個別に購入した追加のストレージを含む) の 75% に制限することをお勧めします。
   - FastTrack は、アクティブな OneDrive for Business ドライブにのみ移行します。
 
-## <a name="source-environment-details"></a>ソース環境の詳細
+### <a name="source-environment-details"></a>ソース環境の詳細
 
 データ移行サービスは、次のソース環境からデータを移行します。
 
@@ -437,7 +437,7 @@ FastTrack を使用してファイルを OneDrive for Business に移行する�
 <li> アクセスできない、または破損しているドキュメント </li>
 <li> 非表示の共有 </li>
 <li> 共有 (共有のレベルに与えられるアクセス許可など) </li>
-<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+<li> オンラインの制限と制限SharePointを超えるファイル<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">またはフォルダー</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -476,7 +476,7 @@ FastTrack を使用してファイルを OneDrive for Business に移行する�
 <li> Google Drive アカウントが所有していないコンテンツの移行 </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Google ドライブ管理レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
 <li> 共有ドライブのメンバー権限 (<strong>注</strong>: Google ドライブ管理レポートを使用して、共有ドライブのメンバーを識別します。 移行前に、対象に対してこれらのメンバーシップ設定を構成するようにエンド ユーザーに指示してください。) </li>
-<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+<li> オンラインの制限と制限SharePointを超えるファイル<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">またはフォルダー</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -511,7 +511,7 @@ FastTrack を使用してファイルを OneDrive for Business に移行する�
 <li> Box のアプリ、ブックマーク、お気に入り、およびワークフロー </li>
 <li> 移行された Box アカウントが所有していないコンテンツ </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Box レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
-<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+<li> オンラインの制限と制限SharePointを超えるファイル<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">またはフォルダー</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -549,17 +549,17 @@ FastTrack を使用してファイルを OneDrive for Business に移行する�
 <li> Dropbox アプリとお気に入り (Pin/スター) </li>
 <li> 移行された Dropbox アカウントが所有していないコンテンツ </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Dropbox レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
-<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+<li> オンラインの制限と制限SharePointを超えるファイル<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">またはフォルダー</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>OneDrive for Business 移行の FastTrack の責任
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>FastTrack の移行に対するOneDrive for Business責任
 
 FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
 
-## <a name="your-responsibilities"></a>お客様の責任
+### <a name="your-responsibilities"></a>お客様の責任
 
 移行プロジェクト中に標準のアクティビティを実行します。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
 
@@ -567,17 +567,17 @@ FastTrack スペシャリストは、移行プロジェクト中に標準的な�
 
   - 移行イベントの対象となるすべての OneDrive for Business サイトをプロビジョニングします。
 
-## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>Microsoft Teams および Microsoft 365 グループへの移行
+## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>グループとMicrosoft TeamsグループMicrosoft 365移行
 
-FastTrack を使用してファイルを Microsoft Teams および Microsoft 365 グループに移行する場合は、移行ガイダンスとデータ移行サービスを提供します。 移行を計画し、ソース環境と Teams と Microsoft 365 グループを構成し、データ移行サービスを活用してファイルを移行するのに役立つガイダンスを提供します。 移行イベントを作成してスケジュールします。 お客様のスケジュールに従って移行イベントを開始し、その進捗状況を監視し、状態レポートを提供します。 移行イベントが完了すると、ソース環境の適切にスケジュールされ、対象となるソースからのファイルが Teams および Microsoft 365 グループに移行される可能性があります。 Teams チャネルと Microsoft 365 グループは、これらの移行先の種類にデータを移行する前に、お客様が事前に準備する必要があります。 Teams と Microsoft 365 グループは、ファイルの送信先の場所に対するアクセス許可に影響します。 Teams と Microsoft 365 グループは、コラボレーションを可能にするために構築されています。 Teams チャネルまたは Microsoft 365 グループは、それらの宛先に移行するときに、それらのファイルにアクセスできるユーザーを決定します。 FastTrack は、移行中に Teams チャネルまたは Microsoft 365 グループのアクセス許可にエンド ユーザーまたはグループを追加しない。
+FastTrack を使用してファイルを Microsoft Teams グループMicrosoft 365移行する場合は、移行ガイダンスとデータ移行サービスを提供します。 移行を計画し、ソース環境と Teams グループと Microsoft 365 グループを構成し、データ移行サービスを活用してファイルを移行するのに役立つガイダンスを提供します。 移行イベントを作成してスケジュールします。 お客様のスケジュールに従って移行イベントを開始し、その進捗状況を監視し、状態レポートを提供します。 移行イベントが完了すると、ソース環境の適切にスケジュールされた適格なソースからのファイルが Teams および Microsoft 365 グループに移行されたと予想できます。 Teamsおよび Microsoft 365グループは、これらの移行先の種類にデータを移行する前に、お客様が事前に準備する必要があります。 TeamsグループMicrosoft 365グループは、ファイルの保存先の場所に対するアクセス許可に影響します。 TeamsグループMicrosoft 365グループは、コラボレーションを可能にするために構築されています。 このTeamsまたはMicrosoft 365グループは、それらの宛先に移行するときに、それらのファイルにアクセスできるユーザーを決定します。 FastTrack は、移行中にエンド ユーザーまたはグループをTeamsグループMicrosoft 365アクセス許可に追加しない。
 
-## <a name="considerations"></a>考慮事項
+### <a name="considerations"></a>考慮事項
 
-- すべての移行には SharePoint Online のクォータが適用されます。 詳細については <a href="https://go.microsoft.com/fwlink/?LinkId=698855"> 、「SharePoint の制限」</a> を参照してください。 
+- すべての移行には SharePoint Online のクォータが適用されます。 詳細については<a href="https://go.microsoft.com/fwlink/?LinkId=698855">、「SharePoint制限」</a>を参照してください。 
 - 移行の全体量を、資格がある SharePoint Online のストレージ クォータ全体 (個別に購入した追加のストレージを含む) の 75% に制限することをお勧めします。 
 
 
-## <a name="source-environment-details"></a>ソース環境の詳細
+### <a name="source-environment-details"></a>ソース環境の詳細
 
 データ移行サービスは、次のソース環境からデータを移行します。 
 
@@ -616,7 +616,7 @@ FastTrack を使用してファイルを Microsoft Teams および Microsoft 365
 </ul></li>
 </ul>
 <br>
-*ディレクトリ同期の構成が必要。 エクスプローラーに公開されている NTFS アクセス許可のみが移行されます。 ファイル共有デバイスで直接管理されているアクセス許可は移行されません。 SMB 2.0 デバイスにデータを保存する場合、SMB プロトコルによって公開されている NTFS と同等のアクセス許可が移行されます。 アクセス許可は、Microsoft 365 グループまたは Microsoft Teams チャネルの影響を受えます。 移行先が Microsoft 365 グループまたは Microsoft Teams チャネルの場合、移行されたファイルに対する最終的なアクセス許可プロファイルがグループまたはチャネルによって決定されます。 Microsoft 365 グループまたは Microsoft Teams チャネルに移行するファイルに対するアクセス許可を移行することはお勧めしません。</td>
+*ディレクトリ同期の構成が必要。 エクスプローラーに公開されている NTFS アクセス許可のみが移行されます。 ファイル共有デバイスで直接管理されているアクセス許可は移行されません。 SMB 2.0 デバイスにデータを保存する場合、SMB プロトコルによって公開されている NTFS と同等のアクセス許可が移行されます。 アクセス許可は、グループまたはMicrosoft 365チャネルによってMicrosoft Teamsされます。 移行先がグループまたはMicrosoft 365チャネルMicrosoft Teams、移行されたファイルの最終的なアクセス許可プロファイルがグループまたはチャネルによって決定されます。 グループまたはグループ チャネルに移行するファイルに対するアクセス許可Microsoft 365移行Microsoft Teams勧めします。</td>
 <td><ul>
 <li> 所有権の履歴と以前のバージョン </li>
 <li> コンテンツ内に埋め込まれた URL の変換 </li>
@@ -629,7 +629,7 @@ FastTrack を使用してファイルを Microsoft Teams および Microsoft 365
 <li> アクセスできない、または破損しているドキュメント </li>
 <li> 非表示の共有 </li>
 <li> 共有 (共有のレベルに与えられるアクセス許可など) </li>
-<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+<li> オンラインの制限と制限SharePointを超えるファイル<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">またはフォルダー</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -652,7 +652,7 @@ FastTrack を使用してファイルを Microsoft Teams および Microsoft 365
 <li> 移行中の Google ドライブ アカウントが所有する共有コンテンツ </li>
 </ul>
 <br>
-*アクセス許可は、Microsoft 365 グループまたは Microsoft Teams チャネルの影響を受します。 移行先が Microsoft 365 グループまたは Microsoft Teams チャネルの場合、移行されたファイルに対する最終的なアクセス許可プロファイルがグループまたはチャネルによって決定されます。 Microsoft 365 グループまたは Microsoft Teams チャネルに移行するファイルに対するアクセス許可を移行することはお勧めしません。 
+*アクセス許可は、グループまたはMicrosoft 365チャネルによってMicrosoft Teamsされます。 移行先がグループまたはMicrosoft 365チャネルMicrosoft Teams、移行されたファイルの最終的なアクセス許可プロファイルがグループまたはチャネルによって決定されます。 グループまたはグループ チャネルに移行するファイルに対するアクセス許可Microsoft 365移行Microsoft Teams勧めします。 
 </td>
 <td><ul>
 <li> 所有権の履歴、以前のバージョン、コメント </li>
@@ -671,7 +671,7 @@ FastTrack を使用してファイルを Microsoft Teams および Microsoft 365
 <li> Google Drive アカウントが所有していないコンテンツの移行 </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Google ドライブ管理レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
 <li> 共有ドライブのメンバー権限 (<strong>注</strong>: Google ドライブ管理レポートを使用して、共有ドライブのメンバーを識別します。 移行前に、対象に対してこれらのメンバーシップ設定を構成するようにエンド ユーザーに指示してください。) </li>
-<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+<li> オンラインの制限と制限SharePointを超えるファイル<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">またはフォルダー</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -694,7 +694,7 @@ FastTrack を使用してファイルを Microsoft Teams および Microsoft 365
 <li> Box Notes (Word ドキュメント形式に変換) </li>
 </ul>
 <br>
-*アクセス許可は、Microsoft 365 グループまたは Microsoft Teams チャネルの影響を受します。 移行先が Microsoft 365 グループまたは Microsoft Teams チャネルの場合、移行されたファイルに対する最終的なアクセス許可プロファイルがグループまたはチャネルによって決定されます。 Microsoft 365 グループまたは Microsoft Teams チャネルに移行するファイルに対するアクセス許可を移行することはお勧めしません。 </td>
+*アクセス許可は、グループまたはMicrosoft 365チャネルによってMicrosoft Teamsされます。 移行先がグループまたはMicrosoft 365チャネルMicrosoft Teams、移行されたファイルの最終的なアクセス許可プロファイルがグループまたはチャネルによって決定されます。 グループまたはグループ チャネルに移行するファイルに対するアクセス許可Microsoft 365移行Microsoft Teams勧めします。 </td>
 <td><ul>
 <li> 所有権の履歴、以前のバージョン、コメント </li>
 <li> ファイルとフォルダーの説明 </li>
@@ -709,7 +709,7 @@ FastTrack を使用してファイルを Microsoft Teams および Microsoft 365
 <li> Box のアプリ、ブックマーク、お気に入り、およびワークフロー </li>
 <li> 移行された Box アカウントが所有していないコンテンツ </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Box レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
-<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+<li> オンラインの制限と制限SharePointを超えるファイル<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">またはフォルダー</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -732,7 +732,7 @@ FastTrack を使用してファイルを Microsoft Teams および Microsoft 365
 <li> 移行される Dropbox アカウントが所有する共有コンテンツ </li>
 </ul>
 <br>
-*アクセス許可は、Microsoft 365 グループまたは Microsoft Teams チャネルの影響を受します。 移行先が Microsoft 365 グループまたは Microsoft Teams チャネルの場合、移行されたファイルに対する最終的なアクセス許可プロファイルがグループまたはチャネルによって決定されます。 Microsoft 365 グループまたは Microsoft Teams チャネルに移行するファイルに対するアクセス許可を移行することはお勧めしません。
+*アクセス許可は、グループまたはMicrosoft 365チャネルによってMicrosoft Teamsされます。 移行先がグループまたはMicrosoft 365チャネルMicrosoft Teams、移行されたファイルの最終的なアクセス許可プロファイルがグループまたはチャネルによって決定されます。 グループまたはグループ チャネルに移行するファイルに対するアクセス許可Microsoft 365移行Microsoft Teams勧めします。
 </td>
 <td><ul>
 <li> 所有権の履歴、以前のバージョン、コメント </li>
@@ -750,22 +750,22 @@ FastTrack を使用してファイルを Microsoft Teams および Microsoft 365
 <li> Dropbox アプリとお気に入り (Pin/スター) </li>
 <li> 移行された Dropbox アカウントが所有していないコンテンツ </li>
 <li> 外部ユーザーの権限と基本メタデータ (<strong>注</strong>: Dropbox レポートを使用して、外部ユーザーと共有されているコンテンツを特定します。 移行後に外部ユーザーとコンテンツを再共有するようにエンド ユーザーに指示します。) </li>
-<li> 現在の <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online の制限と制限を超えるファイルまたはフォルダー</span></a> </li>
+<li> オンラインの制限と制限SharePointを超えるファイル<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">またはフォルダー</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>Microsoft Teams と Microsoft 365 グループの移行に関する FastTrack の責任
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>FastTrack のグループの移行Microsoft TeamsおよびMicrosoft 365の責任
 
 FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
 
-## <a name="your-responsibilities"></a>お客様の責任 
+### <a name="your-responsibilities"></a>お客様の責任 
 
 移行プロジェクト中に標準のアクティビティを実行します。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
-また、Microsoft Teams および Microsoft 365 グループの移行に固有の次のアクティビティも実行します。 
+また、グループの移行に固有のMicrosoft TeamsアクティビティMicrosoft 365実行します。 
 
-- 移行イベントの対象として、すべての Microsoft Teams チャネルと Microsoft 365 グループをプロビジョニングします。
+- 移行イベントMicrosoft Teams対象Microsoft 365、すべてのチャネルとグループをプロビジョニングします。
 
 > [!NOTE]
->FastTrack は、Microsoft Teams チャネルまたは Microsoft 365 グループを事前準備しない。 FastTrack は、Microsoft Teams チャネルまたは Microsoft 365 グループにエンド ユーザーまたはグループを追加しない。 これらの移行先にデータを移行する前に、すべての Microsoft Teams チャネルと Microsoft 365 グループにエンド ユーザーまたはグループを追加して、それらのエンド ユーザーが新しく移行されたドキュメントにアクセスできる必要があります。
+>FastTrack は、チャネルまたはグループのMicrosoft Teams準備Microsoft 365行わない。 FastTrack は、エンド ユーザーまたはグループをチャネルまたはグループMicrosoft Teams追加Microsoft 365行わない。 これらの移行先にデータを移行する前に、エンド ユーザーまたはグループをすべての Microsoft Teams チャネルと Microsoft 365 グループに追加して、それらのエンド ユーザーが新しく移行されたドキュメントにアクセスできる必要があります。
