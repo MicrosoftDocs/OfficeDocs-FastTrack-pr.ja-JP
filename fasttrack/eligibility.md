@@ -3,19 +3,19 @@ title: 対象
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、リモートで受信する対象となる要件の概要を説明します。Microsoft 365 ライセンス購入に含まれている FastTrack スペシャリストによるプラン支援や、対象となる特定の製品と機能の詳細について説明します。
-ms.openlocfilehash: b4a7af935ee8223f94ac60eca2d18a0b6e53ace7
-ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
+ms.openlocfilehash: eb3a73f7c1c58fe84cdc92d4ccd625330b4dcc82
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52283449"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570495"
 ---
 # <a name="eligibility"></a>対象
 
