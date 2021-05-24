@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack は、ソース環境のメールとファイル データを Office 365 (Exchange Online、SharePoint Online、および OneDrive for Business) に移行するのに役立ちます。 提供するサポートの種類は、Office 365 ライセンスの数によって異なります。
-ms.openlocfilehash: 916343d73c46410990785515ac5f32de24703acf
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 437da2c12375bfc2d9614c452b0685f18ad3d188
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570483"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592428"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -108,7 +108,7 @@ FastTrack を使用してメールを Exchange Online に移行することを�
 <tr class="even">
 <td><strong>G Suite 環境 (Gmail、連絡先、カレンダーのみ)</strong><br />
 <br />
-<strong>注:</strong> G Suite 環境は、「G Suite 移行の実行」で説明されている <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">前提条件を満たす必要があります</a>。</td>
+<strong>注:</strong> G Suite 環境は、「G Suite 移行の実行」で説明されている [前提条件を満たす必要があります](/Exchange/mailbox-migration/perform-g-suite-migration)。</td>
 <td>カット オーバーまたは段階的</td>
 <td><ul>
 <li> メール </li>

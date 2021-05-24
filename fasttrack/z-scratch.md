@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: O365-seccomp
 localization_priority: None
 ms.collection: FastTrack
-description: Microsoft サービスの FastTrack ガイダンスの詳細。
-ms.openlocfilehash: 000a81c51729deba8d3f5c4d88a0baa918dcd048
-ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+description: FastTrack ガイダンス の詳細 (Microsoft サービス)。
+ms.openlocfilehash: 67dd428de8a8f48e0d52e4f6c6daf85cbd27ec76
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51996245"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592399"
 ---
 # <a name="security-and-compliance"></a>セキュリティとコンプライアンス
 
@@ -31,11 +31,11 @@ ms.locfileid: "51996245"
 <tr class="odd">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> Microsoft 365 Defender は、エンドポイント、ID、電子メール、アプリ間で検出、防止、調査、応答をネイティブに調整し、高度な攻撃に対する統合保護を提供する、侵害前および侵害後の統合エンタープライズ防御スイートです。 次のリモート ガイダンスを提供します。 </p> 
+<td> <p> Microsoft 365Defender は、エンドポイント、ID、電子メール、およびアプリ間で検出、防止、調査、応答をネイティブに調整し、高度な攻撃に対する統合保護を提供する統合された侵害前および侵害後のエンタープライズ防御スイートです。 次のリモート ガイダンスを提供します。 </p> 
 <ul>
-<li>  Microsoft 365 セキュリティ センターの概要を説明します。  </li>
+<li>  セキュリティ センターの概要Microsoft 365提供します。  </li>
 <li>  製品間インシデントの確認(攻撃範囲全体、影響を受けたアセット、グループ化された自動修復アクションを確実に行い、重要な状況に集中するなど)。  </li>
-<li>  Microsoft 365 Defender が、自動自己修復によって侵害された可能性がある資産、ユーザー、デバイス、およびメールボックスの調査を調整する方法を示します。 </li>
+<li>  Defender がMicrosoft 365自己修復によって侵害された可能性がある資産、ユーザー、デバイス、メールボックスの調査を調整する方法を示します。 </li>
 <li>  複数のデータ セットにわたる電子メール、データ、デバイス、およびアカウントに影響を与える侵入の試みと侵害アクティビティを顧客が積極的に探し出す方法の例を説明し、提供します。   </li>
 <li> Microsoft Secure Score を使用して、セキュリティ態勢を全体的に確認して改善する方法を顧客に示します。</li>
 </ul>
@@ -55,7 +55,7 @@ ms.locfileid: "51996245"
 </tr>
 <tr class="even">
 <td><strong>Microsoft Cloud App Security</strong></td>
-<td>  Microsoft Cloud App Security は、Microsoft およびサード パーティのクラウド サービス全体でサイバー脅威を特定して対処するための、豊富な可視性、データ移動の制御、高度な分析を提供するクラウド アクセス セキュリティ ブローカー (CASB) です。 次のリモート ガイダンスを提供します。
+<td>  Microsoft Cloud App Securityは、Microsoft およびサード パーティのクラウド サービス全体でサイバー脅威を特定して対処するための、豊富な可視性、データ移動の制御、高度な分析を提供するクラウド アクセス セキュリティ ブローカー (CASB) です。 次のリモート ガイダンスを提供します。
 <ul>
 <li>  以下を含む、ポータルの構成。  </li>
 <ul>
@@ -71,15 +71,15 @@ ms.locfileid: "51996245"
 <li> Zscaler。</li>
 <li> iboss。</li>
 </ul>
-<li> アプリ コネクタ <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-gove">を使用して注目</a> のアプリを接続する。</li>
-<li> 条件付きアクセス ポータルとクラウド アプリ セキュリティ ポータルで条件付きアクセス アプリ制御を設定して、リアルタイム セッション コントロールを適用します。</li>
-<li> クラウド アプリセキュリティダッシュボードとクラウド探索ダッシュボードの展開。</li>
+<li> アプリ コネクタ [を使用して注目](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) のアプリを接続する。</li>
+<li> 条件付きアクセスとリアルタイム セッション コントロールを適用するCloud App Securityポータルで条件付きアクセス アプリ制御を設定します。</li>
+<li> クラウド 検出ダッシュボードCloud App Security展開する。</li>
 <li> 組織の優先順位に基づいてアプリのリスク スコアをカスタマイズする。</li>
 <li> アプリのタグとカテゴリの作成。</li>
 <li> アプリの制裁と認可解除。</li>
 <li> アクティビティログとファイル ログの使用。</li>
 <li> OAuth アプリの管理。</li>
-<li> Microsoft 365 Defender ポータルでのインシデントの相関関係について説明します。</li>
+<li> Defender ポータルでのインシデントのMicrosoft 365について。</li>
 <li> CASB の上位 <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20</a> の使用例 (最大 6 つのポリシーの作成または更新を含む) に対する構成支援を提供します。以下を除く。 </li>
 <ul>
 <li> サービスとしてのインターネットの構成の監査 (IaaS) 環境 (#18)。</li>
@@ -96,9 +96,9 @@ ms.locfileid: "51996245"
 <li> カスタム アプリの接続。</li>
 <li> サードパーティ ID プロバイダー (IsP) およびデータ損失防止 (DLP) プロバイダーとの統合。</li>
 <li> 高度な検出に関するトレーニングまたはガイダンス。</li>
-<li> Microsoft Power Automat プレイブックを含む自動調査と修復。</li>
+<li> Microsoft およびプレイブックを含むPower Automate修復。</li>
 <li> セキュリティ情報とイベント管理 (SIEM) または API 統合 (Azure Sentinel を含む)。</li>
-<li> 概念実証としてクラウド アプリ セキュリティを展開する。</li>
+<li> 概念Cloud App Securityとして展開する。</li>
 </ul></td>
 </tr>
 
@@ -111,10 +111,10 @@ ms.locfileid: "51996245"
 <ul>
 <li>  エンドポイントをセキュリティで保護するためのテクノロジの展開。  </li>
 <li>  エンドポイント保護とデバイス制限プロファイルの構成。  </li>
-<li>  OS のバージョンとデバイス管理 (Intune、Microsoft Endpoint Configuration Manager、グループ ポリシー オブジェクト (GPO)、サードパーティの構成を含む) と、Windows Defender AV サービスまたは他のエンドポイント セキュリティ ソフトウェアの状態を評価します。  </li>
-<li>  Windows AV サービスまたは他のエンドポイント セキュリティ ソフトウェアの状態を評価します。  </li>
+<li>  OS のバージョンとデバイスの管理 (Intune、Microsoft Endpoint Configuration Manager、グループ ポリシー オブジェクト (GPO)、サードパーティの構成を含む) と、Windows Defender AV サービスまたは他のエンドポイント セキュリティ ソフトウェアの状態を評価します。  </li>
+<li>  AV サービスまたは他のエンドポイント Windowsソフトウェアの状態を評価します。  </li>
 <li>  ネットワーク トラフィックを制限するプロキシとファイアウォールの評価。  </li>
-<li>  オンボード エンドポイントを使用して ATP エージェント プロファイルを展開する方法を説明して、Microsoft Defender ATP サービスを有効にする。  </li>
+<li>  オンボード エンドポイントをMicrosoft Defender ATP ATP エージェント プロファイルを展開する方法を説明して、サービスを有効にする。  </li>
 <li>  展開のガイダンス、構成の支援、および次の教育を行います。
 <ul>
 <li>  
@@ -149,13 +149,13 @@ ms.locfileid: "51996245"
   Windows Server 2016。  
   </li>
 <li>  
-  Windows Server 2019。  
+  Windowsサーバー 2019。  
   </li>
 <li>  
-  Windows Server 2019 Core Edition。  
+  WindowsServer 2019 Core Edition。  
   </li>
 <li>  
-  Windows Server Semi-Annual チャネル (SAC) バージョン 1803。  
+  Windowsサーバー Semi-Annual チャネル (SAC) バージョン 1803。  
   </li>
 <li>  
   macOS バージョン 10.13、10.14、および 10.15。  
@@ -163,7 +163,7 @@ ms.locfileid: "51996245"
 </ul>
 </li>
 </ul>
-<strong>注:</strong> すべての Windows Server バージョンは、System Center Configuration Manager 2012 の最新バージョン (バージョン 1012 R2、1511、または 1602) または Microsoft Endpoint Configuration Manager (バージョン 2002 以上) によって管理する必要があります。 
+<strong>注:</strong>Windows Server のすべてのバージョンは、最新バージョンの System Center Configuration Manager 2012 (バージョン 1012 R2、1511、または 1602) または Microsoft Endpoint Configuration Manager (バージョン 2002 以上) で管理する必要があります。 
 
 </li>
 </ul>
@@ -255,14 +255,14 @@ ms.locfileid: "51996245"
 <li>  リソース容量計画のサイジング ツールを実行する。 </li>
 <li>  監査ツールを実行して、ドメイン コントローラーとセンサーとの互換性を評価します。 </li>
 </ul>
-<li>  センサーを展開して、ネットワーク トラフィックと Windows イベントをドメイン コントローラーから直接キャプチャおよび解析します。次の内容を含む。 </li>
+<li>  センサーを展開して、ネットワーク トラフィックをキャプチャして解析し、Windowsイベントをドメイン コントローラーから直接取得します。次の内容を含む。 </li>
 <ul> 
 <li>  センサー パッケージをダウンロードします。 </li>
 <li>  センサーの構成。 </li>
 <li>  センサーをドメイン コントローラーにサイレント モードでインストールします。 </li>
 <li>  複数フォレスト環境へのセンサーの展開。 </li>
 </ul>
-<li>  Defender for Identity と Microsoft Cloud App Security の統合 (Cloud App Security のライセンスは必要ありません)。 </li>
+<li>  Defender for Identity と Microsoft Cloud App Security統合 (Cloud App Securityライセンスは必要ありません)。 </li>
 <li>  展開ガイダンス、構成支援、および次の教育を提供します。 </li>
 <ul>
 <li> "ノイズ" を低減するために環境を調整します。  </li>
@@ -309,11 +309,11 @@ ms.locfileid: "51996245"
 </ul>
 <li> 次のいずれかの方法で実行されているドメイン コントローラー。</li>
 <ul>
-<li> Windows Server 2008 R2 SP1。</li>
+<li> Windowsサーバー 2008 R2 SP1。</li>
 <li> Windows Server 2012。</li>
-<li> Windows Server 2012 R2.</li>
+<li> Windows Server 2012R2。</li>
 <li> Windows Server 2016。</li>
-<li> WINDOWS Server 2019 および KB4487044 (OS ビルド 17763.316)。</li>
+<li> WindowsKB4487044 のサーバー 2019 (OS ビルド 17763.316)。</li>
 </ul>
 </ul></td>
 </tr>
@@ -336,7 +336,7 @@ ms.locfileid: "51996245"
 <li> データ コネクタ。</li>
 <li> 情報バリア。</li>
 <li> 特権アクセス管理。</li>
-<li> SharePoint での情報アーキテクチャの開発。</li>
+<li> 情報アーキテクチャのSharePoint。</li>
 <li> カスタム スクリプトとコーディング。</li>
 </td>
 <td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="products-and-capabilities.md#general">に、最小</a>システム要件はありません。</td>
@@ -354,7 +354,7 @@ ms.locfileid: "51996245"
 <li>  コンテンツ エクスプローラーとアクティビティ エクスプローラーを使用してデータを把握する。  </li>
 <li>  ポリシーを使用したラベルの発行 (手動および自動)。  </li>
 <li>  Microsoft Teams のチャットとチャネルのデータ損失防止 (DLP) ポリシーの作成。  </li>
-<li>  Windows 10 デバイス用のエンドポイント DLP ポリシーの作成。  </li>
+<li>  デバイスのエンドポイント DLP ポリシー Windows 10します。  </li>
 </ul>
 
 <strong>以下はスコープ外です </strong>  
@@ -364,7 +364,7 @@ ms.locfileid: "51996245"
 <li>キーワード ディクショナリの作成または変更。</li>
 <li>カスタム スクリプトとコーディング。</li>
 </ul>
-<strong>注:</strong> 詳細については <strong>、「Azure Information Protection</strong> in Enterprise <a href="products-and-capabilities.md#enterprise-mobility--security">Mobility + Security」を参照してください</a>。
+<strong>注:</strong>詳細については<strong>、「Azure Information Protection in Enterprise Mobility + Security」</strong><a href="products-and-capabilities.md#enterprise-mobility--security">を参照してください</a>。
 <ul>
 
 </td>
@@ -388,7 +388,7 @@ ms.locfileid: "51996245"
 <td><strong>検出&応答</strong></td>
 <td>  
 
-<strong>高度な電子情報開示</strong>
+<strong>Advanced eDiscovery</strong>
   
 <ul>
 <li>  安全なリンク、安全な添付ファイル、フィッシング詐欺対策の有効化。  </li>
@@ -465,7 +465,7 @@ ms.locfileid: "51996245"
 
 <strong>以下はスコープ外です </strong> 
 <ul>
-<li> Power Automate フローの作成と管理。</li>
+<li> フローの作成Power Automate管理します。</li>
 <li> データ コネクタ (HR コネクタを超えて)。 </li>
 <li> カスタム正規表現 (RegEx) 構成。</li>
 <li> デザイン、アーキテクト、サードパーティ製のドキュメント レビュー。</li>

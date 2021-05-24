@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、リモートで受信する対象となる要件の概要を説明します。Microsoft 365 ライセンス購入に含まれている FastTrack スペシャリストによるプラン支援や、対象となる特定の製品と機能の詳細について説明します。
-ms.openlocfilehash: eb3a73f7c1c58fe84cdc92d4ccd625330b4dcc82
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570495"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592402"
 ---
 # <a name="eligibility"></a>対象
 
@@ -33,7 +33,7 @@ FastTrack スペシャリストは、お客様の購入製品に含まれるプ�
   - Microsoft 365 アプリ
 
 > [!NOTE]
-> Office 365 ProPlus は Microsoft 365 アプリに名称変更されました。 場合によっては、以前の名称が使用されていることもあります。 この変更が適用される時期の詳細については、「[Office 365 ProPlus の名称変更](https://docs.microsoft.com/deployoffice/name-change)」をご覧ください。
+> Office 365 ProPlus は Microsoft 365 アプリに名称変更されました。 場合によっては、以前の名称が使用されていることもあります。 この変更が適用される時期の詳細については、「[Office 365 ProPlus の名称変更](/deployoffice/name-change)」をご覧ください。
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security
