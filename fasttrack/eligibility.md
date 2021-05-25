@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、リモートで受信する対象となる要件の概要を説明します。Microsoft 365 ライセンス購入に含まれている FastTrack スペシャリストによるプラン支援や、対象となる特定の製品と機能の詳細について説明します。
-ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+ms.openlocfilehash: 54eb2d4156c1b74a63944942ff79de89d84bfe91
+ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592402"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626698"
 ---
 # <a name="eligibility"></a>対象
 
