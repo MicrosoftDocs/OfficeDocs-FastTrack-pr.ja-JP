@@ -43,6 +43,7 @@
       "searchScope": [
         "FastTrack"
       ],
+      "recommendations": true,
       "feedback_system": "None",
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-FastTrack",
       "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack/issues",
