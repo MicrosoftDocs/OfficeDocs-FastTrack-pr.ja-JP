@@ -22,7 +22,7 @@
   ],
   "sync_notification_subscribers": [],
   "branches_to_filter": [
-    "live",
+    "live-sxs",
     "master-sxs"
   ],
   "continue_with_document_error": true,
