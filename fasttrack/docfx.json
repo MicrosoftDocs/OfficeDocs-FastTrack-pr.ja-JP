@@ -38,6 +38,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "ocv-translation-feedback": true,
       "breadcrumb_path": "/FastTrack/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "searchScope": [
