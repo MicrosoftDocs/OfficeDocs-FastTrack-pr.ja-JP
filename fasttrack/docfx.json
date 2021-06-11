@@ -14,7 +14,8 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "common/**"
         ]
       }
     ],
@@ -37,13 +38,28 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "ocv-translation-feedback": true,
       "breadcrumb_path": "/FastTrack/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "searchScope": ["FastTrack"],
-      "feedback_system": "GitHub",
+      "searchScope": [
+        "FastTrack"
+      ],
+      "recommendations": true,
+      "feedback_system": "None",
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-FastTrack",
       "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack/issues",
-      "bilingual_type": "hover over"
+      "titleSuffix": "FastTrack – Microsoft 365",
+      "contributors_to_exclude": [
+        "rjagiewich",
+        "traya1",
+        "rmca14",
+        "claydetels19",
+        "jborsecnik",
+        "tiburd",
+        "garycentric"
+      ],
+      "bilingual_type": "hover over",
+      "hide_comments": true
     },
     "fileMetadata": {},
     "template": [],
