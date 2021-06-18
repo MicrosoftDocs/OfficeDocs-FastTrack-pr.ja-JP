@@ -3,19 +3,19 @@ title: 米国政府に対するOffice 365責任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: お客様には、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 771a28beda75e9d086d0627828a926c573472e94
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: b6ab10d86248252d38e60b038241f7e7ec5d08e0
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570579"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994890"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>米国政府に対するOffice 365責任
 
@@ -58,7 +58,7 @@ ms.locfileid: "52570579"
     
 ## <a name="initiate-phase"></a>開始フェーズ
 
-- オンボーディング パートナーシップMicrosoft Teams共同作業スペースを設定し、FastTrack Center チーム メンバーを招待します (GCC High プランまたは DoD プランでは使用できません)。   
+- オンボーディング パートナーシップのMicrosoft Teamsをセットアップし、FastTrack センター チーム メンバーを招待します (GCC High プランまたは DoD プランでは使用できません)。   
 - FastTrack のスペシャリストと連携して対象のサービスのオンボーディングを開始します。    
 - 初回打ち合わせへの参加、組織からの参加者のとりまとめと先導、修復のタイムラインの確定。    
 - Office 365 サービス (SharePoint Online、Exchange Online、Microsoft Teams、Microsoft 365 アプリなど) の目的と組織の目標の用意。

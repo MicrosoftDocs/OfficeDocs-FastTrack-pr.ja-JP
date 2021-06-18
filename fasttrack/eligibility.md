@@ -3,19 +3,19 @@ title: 対象
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: このトピックでは、リモートで受信する対象となる要件の概要を説明します。Microsoft 365 ライセンス購入に含まれている FastTrack スペシャリストによるプラン支援や、対象となる特定の製品と機能の詳細について説明します。
-ms.openlocfilehash: 54eb2d4156c1b74a63944942ff79de89d84bfe91
-ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
+ms.openlocfilehash: 28f1c2e8907e62b3431d759ed90307d7d4dfb527
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626698"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994878"
 ---
 # <a name="eligibility"></a>対象
 
@@ -55,7 +55,7 @@ FastTrack スペシャリストは、お客様の購入製品に含まれるプ�
 
 ## <a name="eligible-plans"></a>対象となるプラン
 
-FastTrack の対象下にあるプランの 1 つで少なくともテナントあたり 150 ライセンスを購入する必要があります。 このリストは製品ファミリ別にグループ化されており、お客様の会社で購入した特定のプランを簡単に見つけることができます。 Microsoft 365、Office 365、Enterprise Mobility & Security、および Windows 10。
+以下のいずれかのプランから少なくとも 150 のライセンスを購入して、FastTrack。 このリストは製品ファミリ別にグループ化されており、お客様の会社で購入した特定のプランを簡単に見つけることができます。 Microsoft 365、Office 365、Enterprise Mobility & Security、および Windows 10。
 
 ### <a name="microsoft-365-plans"></a>Microsoft 365 プラン
 
@@ -204,7 +204,7 @@ FastTrack の対象下にあるプランの 1 つで少なくともテナント�
 > 商業目的の独立系ソフトウェア ベンダー (ISV) が Windows 10 アプリを作成する際のライセンスの最小要件はありません。 すべてのアプリ要求は、メインストリーム サービス期間内の Windows 10 または Microsoft 365 アプリのバージョンを対象としている必要があります。
 
 > [!NOTE]
-> FastTrack Center 特典の対象かどうかは、前述の対象となるプランの有料ライセンスを購入したかどうかに基づきます。 例外として、FastTrack は、2021 年 5 月から 2021 年 6 月 30 日まで、インドおよびブラジルの対象となるお客様に対して、現在の COVID-19 の急増に対応するために、Office 365 E1 試用版ライセンスのオンボーディングを支援しています。 
+> FastTrack Center 特典の対象かどうかは、前述の対象となるプランの有料ライセンスを購入したかどうかに基づきます。 例外として、FastTrack は、2021 年 5 月から 2021 年 6 月 30 日まで、インドとブラジルの対象となるお客様が現在の COVID-19 の急増に対応するために、Office 365 E1 試用版ライセンスのオンボーディングを支援しています。 
 
 ### <a name="ineligible-plans"></a>対象外のプラン 
  FastTrack サービスの対象ではないプランには以下が含まれます (ただし、これらに限定されません)。

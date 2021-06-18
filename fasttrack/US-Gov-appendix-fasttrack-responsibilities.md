@@ -1,23 +1,23 @@
 ---
-title: FastTrack 米国政府Office 365責任
+title: FastTrack米国政府Office 365責任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack スペシャリストには、オンボーディング中に以下の責任があります。
-ms.openlocfilehash: 10b0895536be5d4ddd0026baa6f5e3e939a52fb5
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 57e1ba446304fba42e3c1b815351d3942c6b4e39
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570519"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994914"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 米国政府Office 365責任
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack米国政府Office 365責任
 
 FastTrack スペシャリストには、オンボーディング中に以下の責任があります。  
   
@@ -97,7 +97,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 
 次の点に関するガイダンスを行います。
 - Microsoft Information Governance の **リモート アシスタンス (「**[セキュリティとコンプライアンス」を参照](products-and-capabilities.md#security-and-compliance))。
-- Microsoft Information Protection の **リモート アシスタンス (「**[セキュリティとコンプライアンス」を参照](products-and-capabilities.md#security-and-compliance))。
+- ユーザーのリモート アシ **スタンス (Microsoft Information Protection** コンプライアンス [を参照](products-and-capabilities.md#security-and-compliance))。
 - Azure Information Protection の **リモート アシスタンス (「**[セキュリティとコンプライアンス」を参照](products-and-capabilities.md#security-and-compliance))。
 
 ## <a name="exchange-online"></a>Exchange Online
@@ -154,12 +154,12 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - 電話会議を有効にする:   
   - 会議ブリッジの既定の設定のための組織のセットアップ。   
   - ライセンスを持つユーザーへの会議ブリッジの割り当て。 
-- [電話システム有効にする (High プランGCC DoD プランでは使用できません)。  
+- 電話システムの有効化 (GCC High プランまたは DoD プランでは使用できません):  
   - 電話システムおよび通話プランのオンボーディングの有効化 (利用可能なマーケットのみ)。 
   - ライセンスを持つユーザーへの番号の割り当て。  
   - UI を通じた 999 件までの電話番号の移植ガイダンス。  
   - 999 件を超える電話番号の移植 SR サポート。  
-- 会議ブロードキャストSkype for Business有効にする (GCC DoD プランでは使用できません)。  
+- Skype for Business Meeting Broadcast を有効にする (GCC High プランまたは DoD プランでは使用できません)。  
   - Skype for Business 会議メディアのオンボーディング ガイダンスを有効にする。  
   - 会議メディア サービスとのフェデレーションのための組織のセットアップ。
     
@@ -197,7 +197,7 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 単一の Yammer ベーシック ネットワークから単一の Yammer エンタープライズ ネットワークへの変換に関するガイダンスを行います。
 
 > [!NOTE]
-> Yammer Enterpriseは Office 365 米国政府機関のコンポーネントではないが、GCC で Office 365 ライセンスを受け取った各ユーザーのスタンドアロン オファーとして無料でGCC。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer高プランまたは DoD プランではGCC使用できません。
+> Yammer Enterprise は Office 365 US Government のコンポーネントではないが、GCC の Office 365 のライセンスを持つ各ユーザーのスタンドアロン オファーとして無料で取得できます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer GCC High プランまたは DoD プランでは使用できません。
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 アプリ
 
@@ -207,5 +207,5 @@ FastTrack スペシャリストには、オンボーディング中に以下の�
 - クイック実行を使用した Office 365 ポータルからの Microsoft 365 アプリのインストール。   
 - iOS、Android、または Windows Mobile デバイスへの Office Mobile アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 2016 展開ツールまたはグループ ポリシー テンプレートを使用した更新設定の構成。   
-- Microsoft 365 Apps 展開ツールで使用する configuration.xml ファイルの作成の支援を含む、Office 365 用の単一のオンサイト配布サーバーをセットアップします。   
+- microsoft 365 Apps 用の単一のオンサイト配布サーバーをセットアップします。configuration.xml ファイルの作成に関するサポートを含め、Office 365 展開ツールで使用できます。   
 - Microsoft Endpoint Configuration Manager パッケージの作成サポートを含む、Microsoft Endpoint Configuration Manager を使用した展開。

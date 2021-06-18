@@ -3,27 +3,27 @@ title: 製品と機能
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
-description: このトピックでは、FastTrack でサポートされるワークロード シナリオの詳細と、開始する前に必要なソース環境の期待について説明します。 現在のセットアップに基づいて、お客様と一緒に修復計画を作成し、オンボーディングを成功するための最小要件までソース環境を提供します。
-ms.openlocfilehash: 9a4546b248a739ee980f1300b9575e780e383c1a
-ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
+description: このトピックでは、作業を開始する前に、FastTrackによってサポートされるワークロード シナリオと、ソース環境の期待に関する詳細について説明します。 現在のセットアップに基づいて、お客様と一緒に修復計画を作成し、オンボーディングを成功するための最小要件までソース環境を提供します。
+ms.openlocfilehash: 0d5272079471b7dafe40e45f6c72189f1dad4c12
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626686"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994870"
 ---
 # <a name="products-and-capabilities"></a>製品と機能
 
-## <a name="services-and-scenarios-supported-by-fasttrack"></a>FastTrack でサポートされるサービスとシナリオ 
+## <a name="services-and-scenarios-supported-by-fasttrack"></a>サービスとシナリオは、ユーザーがサポートFastTrack 
 
-このトピックでは、FastTrack でサポートされるワークロード シナリオの詳細と、開始する前に必要なソース環境の期待について説明します。 現在のセットアップに基づいて、お客様と一緒に修復計画を作成し、オンボーディングを成功するための最小要件までソース環境を提供します。
+このトピックでは、作業を開始する前に、FastTrackによってサポートされるワークロード シナリオと、ソース環境の期待に関する詳細について説明します。 現在のセットアップに基づいて、お客様と一緒に修復計画を作成し、オンボーディングを成功するための最小要件までソース環境を提供します。
 
-FastTrack では、最初にコア機能 (すべてのサービスで共通) を使用し、次Microsoft Online Services対象となる各サービスをオンボーディングする場合に役立つガイダンスを提供します。
+FastTrackは、最初にコア機能 (すべてのサービスで共通) を使用し、次にMicrosoft Online Services対象のサービスをオンボーディングする場合に役立つガイダンスを提供します。
 
   - [全般](#general)
   - [セキュリティと法令遵守](#security-and-compliance)
@@ -43,7 +43,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <thead>
 <tr class="header">
 <th><strong>サービス</strong></th>
-<th><strong>FastTrack ガイダンスの詳細</strong></th>
+<th><strong>FastTrackガイダンスの詳細</strong></th>
 <th><strong>ソース環境の期待</strong></th>
 </tr>
 </thead>
@@ -73,7 +73,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 </td>
 
 <td>  <strong>ネットワークの有効化 </strong>  
-  <br>FastTrack の利点の一部として、クラウド サービスに接続してパフォーマンスの最高レベルを確保するためのベスト プラクティスについてMicrosoft 365。  
+  <br>この利点の一FastTrack、クラウド サービスに接続するためのベスト プラクティスを提供し、クラウド サービスの最高レベルのパフォーマンスを確保Microsoft 365。  
   
 <strong>Active Directory フォレスト</strong>これらは、次のフォレスト構成を使用して、Windows Server 2003 以降の機能フォレスト レベルに設定されています。
 <ul>
@@ -113,9 +113,9 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <td>  お客様の環境から主要なネットワーク接続データを取得および解釈するリモート ガイダンスを提供し、組織のサイトが Microsoft のネットワーク接続の原則とどのように一致するかを <a href="/office365/enterprise/office-365-network-connectivity-principles">示します</a>。 これにより、移行速度、ユーザー エクスペリエンス、サービスパフォーマンス、および信頼性に直接影響するネットワーク スコアが強調表示されます。  
   また、ネットワーク スコアの向上に役立つ、このデータで強調表示されている修復手順について説明します。  </td>
 <td><ul>
-<li>  Microsoft 365管理センターへのアクセス。  </li>
+<li>  Microsoft 365 管理センター アクセス。  </li>
 <li>  最新のバージョンのアプリMicrosoft 365必要です。  </li>
-<li>  ネットワーク パフォーマンスに関する推奨事項に従って、Microsoft 365管理センター <a href="/Office365/Enterprise/office-365-network-mac-perf-overview">(プレビュー) で有効になっている場所サービス</a>。  </li>
+<li>  場所サービスは、ネットワーク パフォーマンスに関する推奨事項に従って、Microsoft 365 管理<a href="/Office365/Enterprise/office-365-network-mac-perf-overview">センター (プレビュー) で有効になっています</a>。  </li>
 </ul>
 <h3 id="section"></h3></td>
 </tr>
@@ -128,14 +128,14 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <thead>
 <tr class="header">
 <th><strong>サービス</strong></th>
-<th><strong>FastTrack ガイダンスの詳細</strong></th>
+<th><strong>FastTrackガイダンスの詳細</strong></th>
 <th><strong>ソース環境の期待</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd"> 
 
-<td><strong>Azure Active Directory (Azure AD) と Azure AD プレミアム</strong></td>
+<td><strong>Azure Active Directory (Azure AD) と Azure AD Premium</strong></td>
 <td>  クラウド ID をセキュリティで保護するためのリモート ガイダンスは、次のシナリオで提供されます。  
 
  <br/>
@@ -144,7 +144,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <ul>
 <li>  Azure 多要素認証 (MFA) (クラウドのみ) による保護、Microsoft Authenticator アプリ、Azure MFA とセルフサービス パスワード リセット (SSPR) の組み合わせ登録など、ID に対する強力な認証の構成と有効化。  </li>
 <li> FIDO2 またはアプリをMicrosoft Authenticatorします。 </li>
-<li>  Azure 以外のユーザー AD プレミアム、セキュリティの既定値を使用して ID をセキュリティで保護するためのガイダンスが提供されます。  </li>
+<li>  ユーザー以外のユーザー Azure AD Premium、セキュリティの既定値を使用して ID をセキュリティで保護するためのガイダンスが提供されます。  </li>
 <li>  Azure のプレミアム AD、条件付きアクセスを使用して ID をセキュリティで保護するためのガイダンスが提供されます。  </li>
 <li>  Azure パスワード保護を使用して脆弱なパスワードの使用を検出ADブロックします。  </li>
 <li>  Azure アプリケーション プロキシを使用してオンプレミス Web アプリへのリモート アクセスAD保護します。  </li>
@@ -189,11 +189,11 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li>  動的グループAD Azure を有効にする。  </li>
 <li>  コレクションを使用して My Apps ポータルでアプリを整理する。  </li>
 </ul></td>
-<td>オンプレミスの Active Directory とその環境は、Azure AD プレミアム 用に準備されています。Azure AD および Azure AD プレミアム 機能との統合を妨げる特定の問題の修復も含まれます。</td>
+<td>オンプレミスの Active Directory とその環境は、Azure AD および Azure AD Premium 機能との統合を妨げる特定の問題の修復など、Azure AD Premium 用に準備されています。</td>
 </tr>
 <tr class="odd">
 <td><strong>Azure 情報保護 </strong></td>
-<td>  Azure Information Protection の詳細については、この表の <strong>「Microsoft Information Protection」</strong> を参照してください。
+<td>  Azure Information Protection の詳細については、この表<strong>Microsoft Information Protection</strong>を参照してください。
 
   </td>
 <td>  
@@ -301,11 +301,11 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <tr class="even">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> Microsoft 365Defender は、エンドポイント、ID、電子メール、アプリ間で検出、防止、調査、応答をネイティブに調整し、高度な攻撃に対する統合保護を提供する統合された侵害前および侵害後のエンタープライズ防御スイートです。 次のリモート ガイダンスを提供します。 </p> 
+<td> <p> Microsoft 365 Defenderは、エンドポイント、ID、電子メール、アプリ全体の検出、防止、調査、応答をネイティブに調整し、高度な攻撃に対する統合保護を提供する統合された侵害前および侵害後のエンタープライズ防御スイートです。 次のリモート ガイダンスを提供します。 </p> 
 <ul>
 <li>  セキュリティ センターの概要Microsoft 365提供します。  </li>
 <li>  製品間インシデントの確認(攻撃範囲全体、影響を受けたアセット、グループ化された自動修復アクションを確実に行い、重要な状況に集中するなど)。  </li>
-<li>  Defender がMicrosoft 365自己修復によって侵害された可能性がある資産、ユーザー、デバイス、メールボックスの調査を調整する方法を示します。 </li>
+<li>  自動Microsoft 365 Defenderによって侵害された可能性があるアセット、ユーザー、デバイス、およびメールボックスの調査を、ユーザーがどのように調整できるのかについて説明します。 </li>
 <li>  複数のデータ セットにわたる電子メール、データ、デバイス、およびアカウントに影響を与える侵入の試みと侵害アクティビティを顧客が積極的に探し出す方法の例を説明し、提供します。   </li>
 <li> Microsoft Secure Score を使用して、セキュリティ態勢を全体的に確認して改善する方法を顧客に示します。</li>
 </ul>
@@ -320,6 +320,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li> カスタム脅威の検出。  </li>
 </ul>
 </li>
+<li> サポート<a href=" /fasttrack/us-gov-appendix-overview">GCC-HighまたはGCC-DoD (Office 365)</a>。</li>
 <li> セキュリティ情報とイベント管理 (SIEM) または API 統合。</li>
 </td>
 </tr>
@@ -332,43 +333,58 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li> ユーザー グループのインポート。</li>
 <li> 管理者のアクセスと設定を管理する。  </li>
 <li> 監視または監視から除外する特定のユーザー グループを選択する展開のスコープ。</li>
-<li> IP 範囲とタグの設定。</li>
+<li> IP 範囲とタグを設定する方法。</li>
 <li> ロゴとカスタム メッセージングを使用してエンド ユーザー エクスペリエンスをカスタマイズする。</li>
 </ul>
-<li> クラウド検出を設定して、次の方法でシャドウ IT を提供します。</li>
+<li> 次を含むファースト パーティ サービスの統合
+<ul>
+<li> Microsoft Defender for Endpoint。</li>
+<li> Microsoft Defender for Identity。</li>
+<li> Azure AD Identity Protection。</li>
+<li> Azure 情報保護。</li>
+</ul>
+<li> 次の方法を使用してクラウド検出を設定します。</li>
 <ul>
 <li> Microsoft Defender for Endpoints.</li>
 <li> Zscaler。</li>
 <li> iboss。</li>
 </ul>
-<li> アプリ コネクタ <a href="/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps"> を使用して注目</a> のアプリを接続する。</li>
-<li> 条件付きアクセスとリアルタイム セッション コントロールを適用するCloud App Securityポータルで条件付きアクセス アプリ制御を設定します。</li>
-<li> クラウド 検出ダッシュボードCloud App Security展開する。</li>
-<li> 組織の優先順位に基づいてアプリのリスク スコアをカスタマイズする。</li>
 <li> アプリのタグとカテゴリの作成。</li>
+<li> 組織の優先順位に基づいてアプリのリスク スコアをカスタマイズする。</li>
 <li> アプリの制裁と認可解除。</li>
+<li> Cloud App Security ダッシュボードと Cloud Discovery ダッシュボードを確認します。</li>
+<li> アプリ コネクタ <a href="/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps"> を使用して注目</a> のアプリを接続する。</li>
+<li> Azure AD および Cloud App Security ポータル内の条件付きアクセスアプリ制御を使用してアプリを保護します。</li>
+<li> おすすめアプリの条件付きアクセス アプリコントロールを展開する。</li>
 <li> アクティビティログとファイル ログの使用。</li>
 <li> OAuth アプリの管理。</li>
-<li> Defender ポータルでのインシデントのMicrosoft 365について。</li>
+<li> ポリシー テンプレートの確認と構成。</li>
 <li> CASB の上位 <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20</a> の使用例 (最大 6 つのポリシーの作成または更新を含む) に対する構成支援を提供します。以下を除く。 </li>
 <ul>
 <li> サービスとしてのインターネットの構成の監査 (IaaS) 環境 (#18)。</li>
 <li> IaaS 環境の脅威から保護するためのユーザー アクティビティの監視 (#19)。</li>
 </ul>
+<li> Microsoft 365 Defender ポータルでのインシデントの相関関係について説明します。</li>
 </ul>
 <p><strong>以下はスコープ外です</strong></p>
 <ul>
 <li> お客様の修復アクティビティのプロジェクト管理。</li>
 <li> 継続的な管理、脅威対応、修復。 </li>
-<li> Docker またはログ コレクターを使用した継続的なレポートの自動ログ アップロードのインフラストラクチャ、インストール、または展開をセットアップします。 詳細 <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">については、「CASB の上位 20 の</a> 使用例」を参照してください。</li>
+<li> Cloud App Security と他の CASB 製品を比較するディスカッション。</li>
+<li> 特定のコンプライアンス要件または規制要件を満たしたクラウド アプリ セキュリティの構成。</li>
+<li> テスト以外の実稼働環境へのサービスの展開。</li>
+<li> 概念実証としてクラウド アプリの検出を展開する。</li>
+<li> サポート <a href=" /fasttrack/us-gov-appendix-overview"> GCC-HighまたはGCC-DoD (Office 365 US Government)</a>。</li>
+<li> Docker またはログ コレクターを使用した継続的なレポートの自動ログ アップロードのインフラストラクチャ、インストール、または展開をセットアップします。 </li>
 <li> クラウド探索スナップショット レポートの作成。</li>
 <li> ブロック スクリプトを使用してアプリの使用状況をブロックする。</li>
 <li> カスタム アプリの接続。</li>
+<li> 非機能アプリの条件付きアクセス アプリ制御のオンボーディングと展開。</li>
 <li> サードパーティ ID プロバイダー (IsP) およびデータ損失防止 (DLP) プロバイダーとの統合。</li>
 <li> 高度な検出に関するトレーニングまたはガイダンス。</li>
-<li> Microsoft およびプレイブックを含むPower Automate修復。</li>
+<li> Microsoft Power Automat プレイブックを含む自動調査と修復。</li>
 <li> セキュリティ情報とイベント管理 (SIEM) または API 統合 (Azure Sentinel を含む)。</li>
-<li> 概念実証としてクラウド アプリの検出を展開する。</li>
+
 </ul></td>
 </tr>
 
@@ -381,8 +397,8 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <ul>
 <li>  エンドポイントをセキュリティで保護するためのテクノロジの展開。  </li>
 <li>  エンドポイント保護とデバイス制限プロファイルの構成。  </li>
-<li>  OS のバージョンとデバイスの管理 (Intune、Microsoft Endpoint Configuration Manager、グループ ポリシー オブジェクト (GPO)、サードパーティの構成を含む) と、Windows Defender AV サービスまたは他のエンドポイント セキュリティ ソフトウェアの状態を評価します。  </li>
-<li>  AV サービスまたは他のエンドポイント Windowsソフトウェアの状態を評価します。  </li>
+<li>  OS のバージョンとデバイス管理 (Intune、Microsoft Endpoint Configuration Manager、グループ ポリシー オブジェクト (GPO)、サードパーティの構成を含む) と、Windows Defender AV サービスまたは他のエンドポイント セキュリティ ソフトウェアの状態を評価します。  </li>
+<li>  Windows AV サービスまたは他のエンドポイント セキュリティ ソフトウェアの状態を評価します。  </li>
 <li>  ネットワーク トラフィックを制限するプロキシとファイアウォールの評価。  </li>
 <li>  オンボード エンドポイントを使用して Defender for Endpoint エージェント プロファイルを展開する方法を説明して、Microsoft Defender for Endpoint サービスを有効にする。  </li>
 <li>  展開のガイダンス、構成の支援、および次の教育を行います。
@@ -403,12 +419,14 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
   調査と修復の自動化。  
   </li>
 <li>  
-  セキュア スコア。  
+  デバイスのセキュリティで保護されたスコア。  
   </li>
+<li> Microsoft エンドポイント マネージャーを使用した Microsoft Defender SmartScreen 構成。</li>
+
 </ul></li>
 <li>  シミュレーションとチュートリアルを確認する (プラクティス シナリオ、偽のマルウェア、自動調査など)。  </li>
 <li>  レポート機能と脅威分析機能の概要。  </li>
-<li>  Microsoft Defender for Office 365 Microsoft Defender for Endpoint との統合。  </li>
+<li>  Microsoft Defender for Office 365 と Microsoft Defender for Endpoint の統合。  </li>
 <li>  Microsoft Defender セキュリティ センター ポータルのチュートリアルを実行します。  </li>
 <li>  次のオペレーティング システム。
 <ul>
@@ -419,13 +437,13 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
   Windows Server 2016。  
   </li>
 <li>  
-  Windowsサーバー 2019。  
+  Windows Server 2019。  
   </li>
 <li>  
-  WindowsServer 2019 Core Edition。  
+  Windows Server 2019 Core Edition。  
   </li>
 <li>  
-  Windowsサーバー Semi-Annual チャネル (SAC) バージョン 1803。  
+  Windows Server Semi-Annual チャネル (SAC) バージョン 1803。  
   </li>
 <li>  
   macOS バージョン 10.13、10.14、および 10.15。  
@@ -433,7 +451,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 </ul>
 </li>
 </ul>
-<strong>注:</strong>Windows Server のすべてのバージョンは、最新バージョンの System Center Configuration Manager 2012 (バージョン 1012 R2、1511、または 1602) または Microsoft Endpoint Configuration Manager (バージョン 2002 以上) で管理する必要があります。 
+<strong>注:</strong> すべての Windows Server バージョンは、System Center Configuration Manager 2012 の最新バージョン (バージョン 1012 R2、1511、または 1602) または Microsoft Endpoint Configuration Manager (バージョン 2002 以上) によって管理する必要があります。 
 
 </li>
 </ul>
@@ -441,6 +459,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <strong>以下はスコープ外です </strong>  
 <ul>
 <li>  お客様の修復アクティビティのプロジェクト管理。  </li>
+<li> サポート <a href=" /fasttrack/us-gov-appendix-overview"> GCC-HighまたはGCC-DoD (Office 365 US Government)</a>。</li>
 <li>  オンサイト サポート。  </li>
 <li>  継続的な管理と脅威の対処。  </li>
 <li>  次の Microsoft Defender for Endpoint エージェントのオンボーディングまたは構成。
@@ -514,12 +533,13 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li> Windows Hello</li>
 <li> Credential Guard</li>
 </ul>
-<li> サーバーの構成またはBitLocker。</li>
+<li> BitLocker の構成または管理。</li>
 <li>  Microsoft 脅威エキスパートの登録または構成。  </li>
 <li>  API またはセキュリティ情報とイベント管理 (SIEM) 接続を確認する構成またはトレーニング。  </li>
-<li>  Microsoft 脅威保護 (MTP) の登録または構成。  </li>
+<li>  Microsoft 365 Defender の登録または構成。  </li>
 <li>  高度な検出に関するトレーニングまたはガイダンス。  </li>
 <li>  Kusto クエリの使用または作成をカバーするトレーニングまたはガイダンス。</li>
+<li> グループ ポリシー オブジェクト (GPO)、グループ ポリシー オブジェクト、またはグループ ポリシー オブジェクトを使用した Defender SmartScreen 構成をWindows セキュリティまたはガイダンスMicrosoft Edge。</li>
 </li>
 </ul>
 これらのサービス <a href="https://go.microsoft.com/fwlink/?linkid=2080150">のサポートについては、Microsoft パートナー</a> にお問い合わせください。  
@@ -530,28 +550,32 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <td><strong>Microsoft Defender for Identity </strong></td>
 <td>  Microsoft Defender for Identity はクラウドベースのセキュリティ ソリューションであり、オンプレミスの Active Directory のシグナルを活用して、組織に対する高度な脅威、ID の漏えい、内部関係者の不正な行動を特定、検出、調査します。 次のリモート ガイダンスを提供します。
 <ul>
+<li>  リソース容量計画のサイジング ツールを実行する。 </li>
 <li>   Defender for Identity のインスタンスを作成します。 </li>
 <li>   Defender for Identity を Active Directory に接続する。 </li>
-<li>   ドメイン コントローラーに Defender for Identity センサーを展開するための環境の準備状況を評価します。</li>   
-<ul> 
-<li>  リソース容量計画のサイジング ツールを実行する。 </li>
-<li>  監査ツールを実行して、ドメイン コントローラーとセンサーとの互換性を評価します。 </li>
-</ul>
+
 <li>  センサーを展開して、ネットワーク トラフィックをキャプチャして解析し、Windowsイベントをドメイン コントローラーから直接取得します。次の内容を含む。 </li>
 <ul> 
 <li>  センサー パッケージをダウンロードします。 </li>
 <li>  センサーの構成。 </li>
 <li>  センサーをドメイン コントローラーにサイレント モードでインストールします。 </li>
 <li>  複数フォレスト環境へのセンサーの展開。 </li>
+<li> イベント コレクター Windows構成します。</li>
 </ul>
-<li>  Defender for Identity と Microsoft Cloud App Security統合 (Cloud App Securityライセンスは必要ありません)。 </li>
-<li>  展開ガイダンス、構成支援、および次の教育を提供します。 </li>
+<li>  以下を含む、ポータルの構成。 </li>
 <ul>
-<li> "ノイズ" を低減するために環境を調整します。  </li>
-<li>  ID セキュリティポスチャ評価レポートについて。 </li>
-<li>  ユーザーの調査の優先度スコアとユーザー調査のランク付けレポートについて。 </li>
-<li> 非アクティブなユーザー レポートについて。  </li>
-<li> 侵害されたアカウントに修復オプションを提供する。  </li>
+<li> Defender for Identity と Microsoft Cloud App Security統合 (Cloud App Securityライセンスは必要ありません)。 </li>
+<li> エンティティ タグの構成。</li>
+<li> 機密性の高いアカウントのタグ付け。 </li>
+<li> 正常性の問題とセキュリティアラートに関する電子メール通知の受信。 </li>
+<li> アラートの除外を構成する。  </li>
+</ul>
+<li> 展開ガイダンス、構成支援、および次の教育を提供します。</li>
+<ul>
+<li> Identity Security Posture Assessment レポートについて。</li>
+<li> ユーザー調査の優先度スコアとユーザー調査のランク付けレポートについて。</li>
+<li> 非アクティブなユーザー レポートについて。</li>
+<li> 侵害されたアカウントの修復オプションの説明。</li>
 </ul>
 <li>  Advanced Threat Analytics (ATA) から Defender for Identity への移行を促進します。 </li>
 </ul>
@@ -560,15 +584,22 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 
 <li> お客様の修復アクティビティのプロジェクト管理。 </li>
 <li> 継続的な管理、脅威対応、修復。  </li>
-<li> 以下を含む、Defender for Identity センサーの展開。 </li>
+<li> Defender for Identity を概念実証として展開する。</li>
+<li> サポート<a href=" /fasttrack/us-gov-appendix-overview">GCC-HighまたはGCC-DoD (Office 365)</a>。</li>
+<li> 次の Defender for Identity センサー アクティビティを展開または実行します。 </li>
 <ul>
 <li> 手動の容量計画。 </li>
-<li> スタンドアロン容量でのセンサーの展開。 </li>
+<li> 監査ツールの実行。 </li>
+<li> スタンドアロン センサーの展開。 </li>
+<li> Active Directory フェデレーション サービス (FS) AD展開します。
 <li> ネットワーク インターフェイス カード (NIC) チーリング アダプターを使用してセンサーを展開する。 </li>
 <li> サード パーティ製のツールを使用してセンサーを展開する。 </li>
 <li> Web プロキシ接続を介して Defender for Identity クラウド サービスに接続します。 </li>
 </ul>
+<li> Active Directory での Microsoft アカウント (MSA) の構成。
 <li> honeytokens の作成と管理。 </li>
+<li> ネットワーク名解決 (NNR) を有効にする。 </li>
+<li> 削除済みオブジェクト コンテナーの構成。</li>
 <li> 展開に関するガイダンスまたは教育: </li>
 <ul>
 <li> さまざまなアラートの種類と監視対象のアクティビティを修復または解釈します。  </li>
@@ -581,9 +612,9 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li> セキュリティ アカウント マネージャー リモート (SAMR) プロトコルを使用してクエリを実行して、特定のコンピューター上のローカル管理者を識別するための Defender for Identity の構成。 </li>
 <li> VPN 接続からユーザーのプロファイル ページに情報を追加するための VPN ソリューションの構成。  </li>
 <li> セキュリティ情報とイベント管理 (SIEM) または API 統合 (Azure Sentinel を含む)。 </li>
-<li> Defender for Identity センサーを概念実証として展開する。</li>
 </ul></td>
 <td><ul>
+<li> Id の <a href="/defender-for-identity/prerequisites"> 前提条件を Microsoft Defender に合わせて調整します</a>。 </li>
 <li>  Active Directory が展開されました。  </li>
 <li>  Defender for Identity センサーをインストールするドメイン コントローラーには、Defender for Identity クラウド サービスへのインターネット接続があります。  </li>
 <ul>
@@ -595,20 +626,44 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li> Windows Server 2012。</li>
 <li> Windows Server 2012R2。</li>
 <li> Windows Server 2016。</li>
-<li> WindowsKB4487044 のサーバー 2019 (OS ビルド 17763.316)。</li>
+<li> WindowsKB4487044 を含むサーバー 2019 (OS ビルド 17763.316 以降)。</li>
 </ul>
+<li> Microsoft .NET Framework 4.7 以降をサポートしています。</li>
+<li> 最低 5 GB のディスク領域が必要で、10 GB を推奨します。</li>
+<li> ドメイン コントローラーにインストールされている 2 つの (2) コアと 6 つの (6) GB の RAM。</li>
 </ul></td>
 </tr>
 
 <tr class="odd">
 <td><strong>Microsoft Defender for Office 365</strong></td>
-<td>  次のリモート ガイダンスを提供します。
+<td>  Microsoft Defender for Office 365 は、メール メッセージ、リンク (URL)、コラボレーション ツールによってもたらされる悪意のある脅威から組織を保護します。Defender for Office 365 には次のものが含まれます。<ul>
+<li> <a href="/microsoft-365/security/office-365-security/defender-for-office-365?view=o365-worldwide#configure-microsoft-defender-for-office-365-policies"> 脅威保護ポリシー</a>: 脅威保護ポリシーを定義して、組織に適切なレベルの保護を設定します。</li>
+<li> <a href="/microsoft-365/security/office-365-security/defender-for-office-365?view=o365-worldwide#view-microsoft-defender-for-office-365-reports">レポート</a>: リアルタイム レポートを表示して、組織内のパフォーマンスOffice 365 Defender を監視します。</li>
+<li> <a href="/microsoft-365/security/office-365-security/defender-for-office-365?view=o365-worldwide#use-threat-investigation-and-response-capabilities">脅威の調査および反応機能</a>: 最先端のツールを使用して、脅威を調査、把握、シミュレーション、および回避を行います。</li>
+<li> <a href="/microsoft-365/security/office-365-security/office-365-air?view=o365-worldwide">自動調査および対応機能</a>: 脅威の調査と軽減にかかる時間と労力を節約します。</li>
+</ul>
+
+次のリモート ガイダンスを提供します。  
 <ul>
 <li>  安全なリンク、安全な添付ファイル、フィッシング詐欺対策の有効化。  </li>
 <li>  自動化、調査、応答の構成。  </li>
 <li>  攻撃シミュレータの使用。  </li>
 <li>  レポート作成と脅威分析。  </li>
-</ul></td>
+<li>  ポータルでのインシデントの相関関係Microsoft 365 Defenderします。</li>
+</ul>
+<p><strong>以下はスコープ外です</strong></p>
+<ul>
+<li> お客様の修復アクティビティのプロジェクト管理。</li>
+<li> 継続的な管理、脅威対応、修復。</li>
+<li> サポート<a href=" /fasttrack/us-gov-appendix-overview">GCC-HighまたはGCC-DoD (Office 365)</a>。</li>
+<li> Defender for Office 365他のセキュリティ 製品とを比較するディスカッション。</li>
+<li> Defender for Office 365概念実証として展開します。</li>
+<li> カスタム アプリの接続。</li>
+<li> 高度な検出に関するトレーニングまたはガイダンス。</li>
+<li> Microsoft およびプレイブックを含むPower Automate修復。</li>
+<li> セキュリティ情報とイベント管理 (SIEM) または API 統合 (Azure Sentinel を含む)。</li>
+</ul>
+</td>
 <td>General の <strong>コア オンボーディング部分</strong> 以外 <a href="#general">に、最小</a>システム要件はありません。</td>
 </tr>
 
@@ -641,7 +696,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <ul>
 <li> レコード管理ファイル計画の開発。</li>
 <li> データ コネクタ。</li>
-<li> 情報アーキテクチャのSharePoint。</li>
+<li> SharePoint での情報アーキテクチャの開発。</li>
 <li> カスタム スクリプトとコーディング。</li>
 <li> デザイン、アーキテクト、サードパーティ製のドキュメント レビュー。</li>
 <li> E3 のサポート。</li>
@@ -663,8 +718,8 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li>  トレーニング可能な分類子 (E5 でサポート)。  </li>
 <li>  コンテンツ エクスプローラーとアクティビティ エクスプローラーでデータを知る (E5 でサポート)。  </li>
 <li>  ポリシー (手動および自動) を使用してラベルを発行する (E5 でサポート)。  </li>
-<li>  E5 でサポートされているデバイスのエンドポイント データ損失防止 (DLP) Windows 10ポリシーを作成します。  </li>
-<li>  チャットとチャネルに対Microsoft Teams DLP ポリシーを作成する。  </li>
+<li>  Windows 10 デバイス用のエンドポイント データ損失防止 (DLP) ポリシーの作成 (E5 でサポート)。  </li>
+<li>  Microsoft Teams のチャットとチャネルの DLP ポリシーを作成する。  </li>
 </ul>
 
 <strong> コンプライアンス マネージャー</strong>
@@ -690,7 +745,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li>  Exchange Online のメール フロー ルールを使用した、転送中メールの監視。  </li>
 </ul>
 
-  また、Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encryption (OME)、およびデータ損失防止 (DLP) を使用して保護を適用する場合のガイダンスも提供します。
+  Microsoft Azure Rights Management Services (Azure RMS)、Office 365 Message Encryption (OME)、およびデータ損失防止 (DLP) を使用して保護を適用する場合のガイダンスも提供します。
 
 <strong>以下はスコープ外です </strong>  
 <ul>
@@ -790,13 +845,13 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li>  Intune 登録済みデバイスへの Configuration Manager クライアントのインストール。  </li>
 </ul> 
 
-<strong>iOS Outlook Android 用モバイルを安全に展開する</strong>ユーザーが必要なすべてのアプリをインストールOutlook iOS と Android 用モバイルを安全に組織に展開するためのガイダンスを提供できます。  
-  Intune を使用して iOS および Android Outlookを安全に展開する手順は、ソース環境によって異なります。 次のものが含まれます。
+<strong>iOS および Android 用 Outlook モバイルを安全に展開する</strong> Outlook mobile for iOS および Android を組織に安全に展開し、ユーザーに必要なすべてのアプリがインストールされていることを確認するためのガイダンスを提供できます。  
+  Intune を使用して Outlook mobile for iOS および Android を安全に展開する手順は、ソース環境によって異なります。 次のものが含まれます。
 <ul>
-<li>  Apple App Store Outlook Google Play ストアを通じて、iOS と Android、Microsoft Authenticator、Intune ポータル サイトアプリ用のアプリをダウンロードします。  </li>
+<li>  Apple App Store または Google Play ストアを使用して、Outlook for iOS および Android、Microsoft Authenticator、Intune ポータル サイト アプリをダウンロードします。  </li>
 <li>  セットアップに関するガイダンスを提供します。
 <ul>
-<li>  iOS Outlook Android、Intune でのアプリMicrosoft Authenticator、Intune ポータル サイトの展開に関する情報です。  </li>
+<li>  Outlook for iOS および Android、Microsoft Authenticator、Intune ポータル サイト アプリの Intune での展開。  </li>
 <li>  アプリ保護ポリシー。  </li>
 <li>  条件付きアクセス ポリシー。  </li>
 <li>  アプリ構成ポリシー。  </li>
@@ -810,7 +865,7 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 
   <strong>エンドポイント用 Microsoft Defender と統合された Intune</strong> 
  
-  <strong>注</strong>: Intune と Microsoft Defender for Endpoint を統合し、そのリスク レベル評価に基づいてデバイス コンプライアンス ポリシー Windows 10提供しています。 購入、ライセンス認証、またはライセンス認証に関するサポートは提供しない。 このサポート <a href="https://go.microsoft.com/fwlink/?linkid=2080150">については、Microsoft パートナー</a> にお問い合わせください。  
+  <strong>注</strong>: Intune と Microsoft Defender for Endpoint を統合し、Windows 10 のリスク レベル評価に基づいてデバイス コンプライアンス ポリシーを作成する際のサポートを提供します。 購入、ライセンス認証、またはライセンス認証に関するサポートは提供しない。 このサポート <a href="https://go.microsoft.com/fwlink/?linkid=2080150">については、Microsoft パートナー</a> にお問い合わせください。  
   
 <strong>Windows Autopilot</strong> 
  
@@ -840,12 +895,12 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
   次のリモート ガイダンスを提供します。
 <ul>
 <li>  Office 365 で検証される、メールが有効なすべてのドメインの Exchange Online Protection (EOP) 機能の設定。  </li>
-<li>  メール交換 (MX) レコードをユーザーにOffice 365。  </li>
-<li>  サブスクリプション サービスの一部Office 365場合は、Microsoft Defender for Office 365機能をセットアップします。 詳細については、この表の一<strong>部Office 365</strong> Microsoft Defender を参照してください。  </li>
+<li>  メール交換 (MX) レコードを 365 Officeします。  </li>
+<li>  サブスクリプション サービスの一部である場合Office 365 機能用に Microsoft Defender をセットアップします。 詳細については、この表の <strong>「Microsoft Defender for Office 365」</strong> を参照してください。  </li>
 <li>  サブスクリプション サービスの一部として、Office 365 で検証済みのすべてのメールが有効なドメインに、データ損失防止 (DLP) 機能を設定します。この設定は、MX レコードが Office 365 をポイントすると実行されます。</li>
 <li>  サブスクリプション サービスの一部として、Office 365 で検証済みのすべてのメールが有効なドメインに、Office 365 Message Encryption (OME) を設定します。この設定は、MX レコードが Office 365 をポイントすると実行されます。</li>
 </ul>
-  <strong>注:</strong>メールボックス レプリケーション サービス (MRS) は、Information Rights Managed (IRM) メールをオンプレミスメールボックスから対応するメールボックスに移行Exchange Onlineします。 移行後に保護されたコンテンツを読み取る機能は、Active Directory Rights Managed サービス (AD RMS) テンプレートから Azure Rights Management サービス (Azure RMS) への、お客様によるマッピングとコピーに依存しています。  
+  <strong>注:</strong> メールボックス レプリケーション サービス (MRS) は、情報権利管理 (IRM) メールをオンプレミスメールボックスから対応する Exchange Online メールボックスに移行します。 移行後に保護されたコンテンツを読み取る機能は、Active Directory Rights Managed サービス (AD RMS) テンプレートから Azure Rights Management サービス (Azure RMS) への、お客様によるマッピングとコピーに依存しています。  
 <ul>
 <li>  ファイアウォール ポートの構成。  </li>
 <li>  必要な自動検出、送信者ポリシー フレームワーク (SPF)、DomainKeys 識別メール (DKIM)、ドメイン ベースのメッセージ認証、レポートと準拠 (DMARC)、MX レコード (必要に応じて) を含む DNS のセットアップ。  </li>
@@ -854,15 +909,15 @@ FastTrack では、最初にコア機能 (すべてのサービスで共通) を
 <li>  メールボックス クライアント (Outlook for Windows、Outlook on the web、iOS および Android 用の Outlook) の構成。  </li>
 </ul>
   <strong>データ移行</strong>  <br>
-FastTrack 特典を使用してデータを移行する方法については、「Office 365」<a href="/fasttrack/data-migration">を参照してください</a>。   
+FastTrack 特典を使用してデータを 365 に移行する方法については、「Office移行」 <a href="/fasttrack/data-migration">を参照してください</a>。   
 <td>  ソース環境には、次のいずれかの最小レベルが必要です。
 <ul>
 <li>  Exchange Server 2003 以降を導入している 1 つまたは複数の Exchange 組織。  </li>
 <li>  1 つのインターネット メッセージ アクセス プロトコル (IMAP) 対応のメール環境。  </li>
 <li>  単一の G Suite 環境 (Gmail、連絡先、カレンダーのみ)。  </li>
-<li>  複数地域の機能の詳細については、「複数地域の機能」を参照<a href="https://go.microsoft.com/fwlink/?linkid=872776">Exchange Online。</a>  </li>
+<li>  複数地域機能の詳細については <a href="https://go.microsoft.com/fwlink/?linkid=872776">、「Exchange Online の複数地域機能」を参照してください</a>。  </li>
 </ul>
-Project for Office 365、Outlook for Windows、Outlook for iOS、Android、OneDrive for Business 同期クライアント、Power BI Desktop、Skype for Business などのオンライン クライアント ソフトウェアは、Microsoft 365 Office の System requirements で定義されている最小レベルである<a href="https://go.microsoft.com/fwlink/?LinkID=723597">必要があります</a>。  </td>
+Project for Office 365、Outlook for Windows、Outlook for iOS、Android、OneDrive for Business 同期クライアント、Power BI Desktop、Skype for Business などのオンライン クライアント ソフトウェアは <a href="https://go.microsoft.com/fwlink/?LinkID=723597">、Microsoft 365</a>Office のシステム要件で定義されている最小レベルである必要があります。  </td>
 </tr>
 
 <td><strong>Microsoft Defender for Office 365</strong></td>
@@ -893,26 +948,26 @@ Project for Office 365、Outlook for Windows、Outlook for iOS、Android、OneDr
 <td><strong>Microsoft Teams</strong></td>
 <td>  次のリモート ガイダンスを提供します。
 <ul>
-<li>  オンライン、Exchange Online、SharePoint グループ、および Azure Office 365の最小要件を確認して、ADをサポートTeams。  </li>
+<li>  Exchange Online、SharePoint Online、Office 365 グループ、および Azure ADで Teams をサポートしていることを確認します。  </li>
 <li>  ファイアウォール ポートの構成。  </li>
 <li>  DNS の設定。  </li>
 <li>  Teams が Office 365 テナントで有効であることの確認。  </li>
 <li>  ユーザーのライセンスの有効化と無効化。  </li>
-<li>  ネットワーク評価のTeams:
+<li>  Teams のネットワーク評価:
 <ul>
 <li>  ポートとエンドポイントの確認。  </li>
 <li>  接続品質の確認。  </li>
 <li>  帯域幅の推定値。  </li>
 </ul>
 <ul>
-<li>  アプリ ポリシー Teams構成する (Teams Web アプリ、Teamsデスクトップ アプリ、iOS Teams Android アプリの場合)。  </li>
+<li>  Teams アプリ ポリシーの構成 (Teams Web アプリ、Teams デスクトップ アプリ、および Teams for iOS および Android アプリ)。  </li>
 </ul>
 該当する場合は、次のガイダンスも提供します。
 <ul>
-<li>  Microsoft Teamsルーム デバイス:  </li>
+<li>  Microsoft Teams ルーム デバイス:  </li>
 <ul>
 <li>  <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams デバイス カタログ</a>に一覧表示されている、サポート対象のテレフォニー デバイスと会議室デバイスに必要なオンライン アカウントの作成。  </li>
-<li>  認定デバイスのサービス側構成をリモートMicrosoft Teams ミーティングします。  </li>
+<li>  認定された Microsoft Teams Rooms デバイスのサービス側構成に関するリモート アシスタンス。  </li>
 <li>  電話会議を有効にする:  </li>
 <li>  会議ブリッジの既定の設定のための組織のセットアップ。  </li>
 <li>  ライセンスを持つユーザーへの会議ブリッジの割り当て。  </li>
@@ -941,16 +996,16 @@ Project for Office 365、Outlook for Windows、Outlook for iOS、Android、OneDr
 </ul></li>
 <li>  Teams ライブ イベントの有効化。  </li>
 <li>  組織のセットアップと Microsoft Stream への統合。  </li>
-<li>  移行をSkype for BusinessするTeamsガイダンス。  </li>
+<li>  Skype for Business から Teams への移行に関するガイダンス。  </li>
 </ul></td>
 <td><ul>
-<li>  Azure ADでOffice 365。  </li>
+<li>  Azure AD 365 でOffice ID。  </li>
 <li>  SharePoint Online に対してユーザーが有効になっている。  </li>
-<li>  Exchangeメールボックスが存在する (オンラインとオンプレミスのハイブリッド構成Exchange)。  </li>
+<li>  Exchange メールボックスが存在します (Exchange ハイブリッド構成ではオンラインとオンプレミス)。  </li>
 <li>  Office 365 グループに対して有効になっている。  </li>
 </ul>
-  <strong>注:</strong>ユーザーがオンライン ライセンスで割り当ておよび有効SharePoint場合、ユーザーはオンライン ライセンスにOneDrive for BusinessストレージOffice 365。 ファイル共有はチャネルで引き続き機能しますが、ユーザーはチャット内のファイルを共有OneDrive for Business共有Office 365。 TeamsオンプレミスでのSharePointサポートされていません。  <br>
-  <strong>注:</strong>理想的な状態は、すべてのユーザーが自分のメールボックスをユーザーにExchange Online。 オンプレミスに存在するメールボックスを持つユーザーは、自分の ID を Azure サーバー経由で Office 365 ディレクトリに同期AD Connect。 これらのユーザー Exchange、ユーザーのメールボックスがオンプレミスの場合、ユーザーはコネクタを追加または構成できません。  
+  <strong>注:</strong> ユーザーが SharePoint Online ライセンスで割り当ておよび有効になっていない場合、OneDrive for Business ストレージは 365 Officeされません。 ファイル共有はチャネルで引き続き機能しますが、ユーザーは 365 で OneDrive for Business ストレージを使用せずにチャットでファイルをOfficeできます。 Teams は SharePoint オンプレミスをサポートしない。  <br>
+  <strong>注:</strong> 理想的な状態は、すべてのユーザーが自分のメールボックスを Exchange Online にホームに設定する場合です。 オンプレミスに存在するメールボックスを持つユーザーは、Azure Office Connect を介して id を Office 365 ディレクトリAD必要があります。 これらの Exchange ハイブリッド顧客の場合、ユーザーのメールボックスがオンプレミスの場合、ユーザーはコネクタを追加または構成できません。  
   Microsoft Teams Windows と Mac デスクトップ クライアントのインストーラーは、<a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> からダウンロードできます。  </td>
 </tr>
 
@@ -960,10 +1015,10 @@ Project for Office 365、Outlook for Windows、Outlook for iOS、Android、OneDr
 <ul>
 <li>  Apple App Store や Google Play からの iOS および Android 用の Outlook のダウンロード。  </li>
 <li>  アカウントの構成、および Exchange Online メールボックスへのアクセス。  </li>
-<li>  モバイルOutlookセキュリティ保護 (詳細については、「Outlook <a href="/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">iOS</a>および Android のセキュリティ保護Exchange Onlineを参照してください)。  </li>
+<li>  Outlook モバイルのセキュリティ保護 (詳細 <a href="/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">については、「Exchange Online</a> での Outlook for iOS と Android のセキュリティ保護」を参照してください)。  </li>
 </ul></td>
 <td><ul>
-<li>  Azure ADでOffice 365。  </li>
+<li>  Azure AD 365 でOffice ID。  </li>
 <li>  Exchange Online が構成され、ライセンスが割り当てられている。  </li>
 </ul></td>
 </tr>
@@ -974,7 +1029,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS、Android、OneDr
 <li>  Power BI ライセンスの割り当て。  </li>
 <li>  Power BI Desktop アプリの展開。  </li>
 </ul></td>
-<td>オンライン クライアント ソフトウェア (Power BI Desktop) は、「システム要件」および「システム要件」で定義されている最小レベルMicrosoft 365<a href="https://go.microsoft.com/fwlink/?LinkID=723597">必要Office。</a></td>
+<td>Power BI Desktop などのオンライン クライアント ソフトウェアは <a href="https://go.microsoft.com/fwlink/?LinkID=723597">、Microsoft 365</a>および Microsoft 365 のシステム要件で定義されている最小レベルOffice。</td>
 </tr>
 <tr class="even">
 <td><strong>Project Online</strong></td>
@@ -985,10 +1040,10 @@ Project for Office 365、Outlook for Windows、Outlook for iOS、Android、OneDr
 <li>  エンタープライズ リソース共有元 (ERP) のセットアップ。  </li>
 <li>  最初のプロジェクトの作成。  </li>
 </ul></td>
-<td>オンライン クライアント ソフトウェア (Project for Office 365) は、「システム要件」および「システム要件」で定義されている最小レベルMicrosoft 365<a href="https://go.microsoft.com/fwlink/?LinkID=723597">必要Office。</a></td>
+<td>Project for Office 365 のようなオンライン クライアント ソフトウェアは <a href="https://go.microsoft.com/fwlink/?LinkID=723597">、Microsoft 365</a>および Microsoft 365 のシステム要件で定義されている最小レベルOffice。</td>
 </tr>
 <tr class="odd">
-<td><strong>Project Online Professionalとプレミアム</strong></td>
+<td><strong>Project Online Professional and Premium</strong></td>
 <td>  次のリモート ガイダンスを提供します。
 <ul>
 <li>  展開の問題への対応。  </li>
@@ -998,7 +1053,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS、Android、OneDr
 <li>  Office 365 展開ツールで使用するための configuration.xml ファイルの作成サポートを含む、Project Online デスクトップ クライアント用の 1 つのオンサイト配布サーバーのセットアップ。  </li>
 <li>  Project Online デスクトップ クライアントの Project Online Professional または Project Online Premium への接続。  </li>
 </ul></td>
-<td>オンライン クライアント ソフトウェア (Project for Office 365) は、「システム要件」および「システム要件」で定義されている最小レベルMicrosoft 365<a href="https://go.microsoft.com/fwlink/?LinkID=723597">必要Office。</a></td>
+<td>Project for Office 365 のようなオンライン クライアント ソフトウェアは <a href="https://go.microsoft.com/fwlink/?LinkID=723597">、Microsoft 365</a>および Microsoft 365 のシステム要件で定義されている最小レベルOffice。</td>
 </tr>
 <tr class="even">
 <td><strong>Sharepoint Online と OneDrive for Business</strong></td>
@@ -1014,35 +1069,35 @@ Project for Office 365、Outlook for Windows、Outlook for iOS、Android、OneDr
 <li>  ハイブリッド検索、ハイブリッド サイト、ハイブリッド分類、コンテンツ タイプ、ハイブリッド セルフサービス サイト作成 (SharePoint Server 2013 のみ)、拡張アプリ起動ツール、ハイブリッド OneDrive for Business、エクストラネット サイトなどの SharePoint ハイブリッド機能の構成。  </li>
 <li>  移行方法。  </li>
 </ul>
-追加のガイダンスは、OneDrive for Businessバージョンに応じてSharePoint提供されます。
+SharePoint のバージョンに応じて、OneDrive for Business に関する追加のガイダンスが提供されます。次のようにします。
 <ul>
 <li>  統合オプションを特定し、オンプレミスとオンラインのネットワーク インフラストラクチャと帯域幅を確認します。  </li>
-<li>  オンライン 2013 SP1 のSharePoint (該当する場合) のインストール、同期と ID の要件の計画と実装、および同期クライアントOneDrive for Business識別します。  </li>
+<li>  SharePoint Online 2013 SP1 のインストール (該当する場合)、同期要件と ID 要件の計画と実装、OneDrive for Business 同期クライアントの識別。  </li>
 <li>  すべてのユーザー (または段階的なロールアウト) に対する 1 つのロールアウトの計画と実装。  </li>
-<li>  ライセンスの割り当て、個人用サイトと個人用ドキュメント ライブラリの Office 365 へのリダイレクト (SharePoint Online 2013 に適用)、OneDrive へのアクセスを制御する対象ユーザーを設定します (SharePoint Online 2013 に適用)。  </li>
-<li>既知のフォルダーを別のフォルダーにリダイレクトOneDrive。</li>
-<li>  クライアント同期OneDrive for Business展開します。  </li>
+<li>  ライセンスの割り当て、個人用サイトと個人用ドキュメント ライブラリのリダイレクトを Office 365 (SharePoint Online 2013 に適用) し、OneDrive へのアクセスを制御する対象ユーザーを設定します (SharePoint Online 2013 に適用)。  </li>
+<li>既知のフォルダーを OneDrive にリダイレクトまたは移動する。</li>
+<li>  OneDrive for Business クライアント同期の展開。  </li>
 </ul>
   <strong>データ移行</strong>  <br>
-FastTrack 特典を使用してデータを移行する方法については、「Office 365」<a href="/fasttrack/data-migration">を参照してください</a>。
+FastTrack 特典を使用してデータを 365 に移行する方法については、「Office移行」 <a href="/fasttrack/data-migration">を参照してください</a>。
 </ul></td>
-<td><br><strong>ハイブリッドSharePoint:</strong>  
+<td><br><strong>SharePoint ハイブリッドの場合:</strong>  
 <ul>
-<li>  SharePointハイブリッド構成には、ハイブリッド検索、サイト、分類、コンテンツ タイプ、OneDrive for Business、拡張アプリ 起動ツール、エクストラネット サイト、およびセルフ サービス サイトの作成を構成し、オンプレミスから単一のターゲット SharePoint Online 環境に接続します。  </li>
+<li>  SharePoint ハイブリッド構成には、ハイブリッド検索、サイト、分類、コンテンツ タイプ、OneDrive for Business、拡張アプリ 起動ツール、エクストラネット サイト、およびオンプレミスから単一のターゲット SharePoint Online 環境に接続されたセルフサービス サイト作成の構成が含まれます。  </li>
 </ul>
-  <strong>注:</strong>セルフサービス サイトの作成は、2013 年に実行されているオンプレミス サーバー SharePointではありません。  
+  <strong>注:</strong> セルフサービス サイトの作成は、SharePoint 2013 を実行しているオンプレミス サーバーでは有効ではありません。  
 <ul>
-<li>  ハイブリッドSharePoint有効にするには、2013、2016、または 2019 のいずれかのオンプレミス SharePoint サーバー環境が必要です。  </li>
+<li>  SharePoint ハイブリッドを有効にするには、2013、2016、または 2019 のいずれかのオンプレミスの SharePoint Server 環境が必要です。  </li>
 </ul>
-  <strong>注:</strong>サーバーがスコープ内SharePointにSharePointオンプレミスの環境のアップグレード。 サポートについては <a href="https://go.microsoft.com/fwlink/?linkid=2080150">、Microsoft パートナーにお</a> 問い合わせください。 詳細については、「ハイブリッド機能の<a href="https://go.microsoft.com/fwlink/?linkid=853548">最小公開更新レベルSharePoint参照してください</a><em>。</em>  <br>
-  <strong>注:</strong>複数地域機能の詳細については、「OneDrive および SharePoint の複数地域<a href="https://go.microsoft.com/fwlink/?linkid=831056">機能」を参照</a><em>Office 365。</em>  </td>
+  <strong>注:</strong> オンプレミスの SharePoint 環境から SharePoint Server へのアップグレードはスコープ内ではありません。 サポートについては <a href="https://go.microsoft.com/fwlink/?linkid=2080150">、Microsoft パートナーにお</a> 問い合わせください。 詳細については <a href="https://go.microsoft.com/fwlink/?linkid=853548">、「SharePoint ハイブリッド機能の最小パブリック更新レベル」を参照してください</a><em>。</em>  <br>
+  <strong>注:</strong> 複数地域機能の詳細については、「OneDrive の複数地域機能」および <a href="https://go.microsoft.com/fwlink/?linkid=831056">「SharePoint Online in oneDrive」および「SharePoint Online in Office 365」を参照してください</a><em>。</em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
 <td>
-このサービスを有効にするためのリモート ガイダンスをYammer Enterpriseします。  
+エンタープライズ サービスを有効にするためのリモート ガイダンスYammer提供します。  
 </td>
-<td>オンライン クライアント ソフトウェアは、[システム要件] および [システム要件] で定義されている最小レベル<a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365必要Office。</a></td>
+<td>オンライン クライアント ソフトウェアは <a href="https://go.microsoft.com/fwlink/?LinkID=723597">、Microsoft 365</a>および Microsoft 365 のシステム要件で定義されている最小レベルOffice。</td>
 </tr>
 </tbody>
 </table>
@@ -1059,8 +1114,8 @@ FastTrack 特典を使用してデータを移行する方法については、�
 </thead>
 <tbody>
 <tr class="even">
-<td><strong>Azure Active Directory (Azure AD) と Azure AD プレミアム</strong></td>
-<td>  詳細については、「セキュリティとコンプライアンス<strong>Azure Active Directory (Azure AD)</strong>と Azure AD プレミアム」<a href="/fasttrack/products-and-capabilities#security-and-compliance">を参照してください</a>。</td>
+<td><strong>Azure Active Directory (Azure AD) と Azure AD Premium</strong></td>
+<td>  詳細については <strong> 、「Azure Active Directory (Azure AD)</strong> と Azure AD Premium in Security and <a href="/fasttrack/products-and-capabilities#security-and-compliance">Compliance」を参照してください</a>。</td>
 <td></td>
 </tr>
 <tr class="odd">#セキュリティとコンプライアンス
@@ -1072,7 +1127,7 @@ FastTrack 特典を使用してデータを移行する方法については、�
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  詳細については、「セキュリティとコンプライアンス<a href="/fasttrack/products-and-capabilities#security-and-compliance">Microsoft Intune」を参照してください</a>。 <strong></strong>
+<td>  詳細については <strong> 、「Microsoft Intune in Security</strong> and <a href="/fasttrack/products-and-capabilities#security-and-compliance">Compliance」を参照してください</a>。
   </td>
 <td>  
   
@@ -1094,20 +1149,20 @@ FastTrack 特典を使用してデータを移行する方法については、�
 <tbody>
 <tr class="odd">
 <td><strong>Windows 10</strong></td>
-<td>  7 から 7 へのアップグレードWindows、ProfessionalからWindows 8.1 ProfessionalへのWindows 10 Enterprise。  
+<td>  Windows 10 Enterprise への Windows 7 Professionalおよび Windows 8.1 Professional へのアップグレードに関するガイダンスを提供します。  
   次のリモート ガイダンスを提供します。
 <ul>
-<li>  ユーザーの意図Windows 10理解します。  </li>
-<li>  ソース環境と要件を評価します (Microsoft Endpoint Configuration Manager展開をサポートするために必要なレベルWindows 10してください)。  </li>
-<li>  アプリケーションまたはWindows 10 EnterpriseをMicrosoft 365 AppsしてMicrosoft Endpoint Configuration Manager展開Microsoft 365。  </li>
-<li>  アプリを評価するためのオプションWindows 10します。  </li>
+<li>  Windows 10 の意図を理解する。  </li>
+<li>  ソース環境と要件を評価します (Windows 10 の展開をサポートするために、Microsoft Endpoint Configuration Manager が必要なレベルにアップグレードしていることを確認してください)。  </li>
+<li>  Microsoft Endpoint Configuration Manager または Microsoft 365 を使用した Windows 10 Enterprise および Microsoft 365 アプリの展開。  </li>
+<li>  Windows 10 アプリを評価するためのオプションをお勧めします。  </li>
 <li>  デスクトップ分析の使用と、デスクトップ分析の展開計画の作成によるガイダンスを有効にする。  </li>
-<li>  Microsoft 365 Apps構成マネージャーの Office 365 準備ダッシュボードを活用するか、Office 用のスタンドアロンの準備 Toolkit と、Microsoft 365 Apps の展開を支援することで、互換性評価をMicrosoft 365 Apps。  </li>
+<li>  構成マネージャーの Office 365 準備ダッシュボードを活用するか、Office 用のスタンドアロンの準備 Toolkit と Microsoft 365 Apps の展開を支援することで、Microsoft 365 Apps の互換性評価を行います。  </li>
 <li>  展開を成功するために、ソース環境を最小要件まで引き上げするために必要な処理に関する修復チェックリストを作成します。  </li>
-<li>  既存のデバイスが必要なデバイス ハードウェア要件を満Windows 10 Enterpriseアップグレード ガイダンスを提供します。  </li>
+<li>  必要なデバイス ハードウェア要件を満たす場合に、既存のデバイスのアップグレード ガイダンスを Windows 10 Enterprise に提供します。  </li>
 <li>  既存の展開モーションをサポートするためのアップグレード ガイダンスを提供します。 FastTrack では、Windows 10 へのインプレース アップグレードのガイダンスをお勧めし、提供しています。 また、Windows のクリーン画像インストールと Windows Autopilot の展開シナリオでも使用できます。  </li>
-<li>  Configuration Manager Microsoft 365 Apps展開の一部として構成マネージャーを使用Windows 10展開します。   </li>
-<li>  組織が既存の Configuration Manager 環境またはサーバーを使用Windows 10 EnterpriseおよびMicrosoft 365 Appsを最新の情報にMicrosoft 365。  </li>
+<li>  Windows 10 展開の一部として Configuration Manager を使用して Microsoft 365 アプリを展開する。   </li>
+<li>  既存の Configuration Manager 環境または Microsoft 365 を使用して、組織が Windows 10 Enterprise および Microsoft 365 Apps を最新の情報に更新するためのガイダンスを提供します。  </li>
 </ul>
   
 <strong>以下はスコープ外です </strong>  
@@ -1124,14 +1179,14 @@ FastTrack 特典を使用してデータを移行する方法については、�
 これらのサービス <a href="https://go.microsoft.com/fwlink/?linkid=2080150">のサポートについては、Microsoft パートナー</a> にお問い合わせください。  </td>
 <td>  PC のアップグレードの場合には、次の要件を満たす必要があります。
 <ul>
-<li>  ソース OS: Windows 7 Enterprise、Professional、Windows 8.1 Enterprise、Professional。  </li>
+<li>  ソース OS: Windows 7 Enterpriseまたはプロフェッショナル、Windows 8.1 Enterprise または Professional。  </li>
 <li>  デバイス: デスクトップ、ノートブック、またはタブレットのフォーム ファクター。  </li>
 <li>  ターゲット OS: ウィンドウ 10 Enterprise。  </li>
 </ul>
 インフラストラクチャのアップグレードの場合には、次の要件を満たす必要があります。
 <ul>
 <li>  Microsoft Endpoint Configuration Manager。  </li>
-<li>  Configuration Manager のバージョンは、ターゲット バージョンでサポートWindows 10必要があります。 詳細については、「<a href="/sccm/core/plan-design/configs/support-for-windows-10">Configuration Manager での Windows 10 のサポート</a>」で Configuration Manager のサポート テーブルを参照してください。  </li>
+<li>  Configuration Manager のバージョンは、Windows 10 ターゲット バージョンでサポートされている必要があります。 詳細については、「<a href="/sccm/core/plan-design/configs/support-for-windows-10">Configuration Manager での Windows 10 のサポート</a>」で Configuration Manager のサポート テーブルを参照してください。  </li>
 </ul>
 
 <tr class="odd">
@@ -1155,55 +1210,60 @@ FastTrack 特典を使用してデータを移行する方法については、�
 <tbody>
 <tr class="odd">
 <td><strong>Windows Virtual Desktop</strong></td>
-<td><p>仮想デスクトップ (デスクトップおよびアプリの仮想化サービス) Windowsオンボーディングの展開ガイダンスを提供します。 Windows仮想デスクトップは、Windows 10セッション エクスペリエンスを活用し、Microsoft 365 AppsとEnterpriseの統合されたセキュリティと管理をMicrosoft 365。</p>
+<td><p>Windows Virtual Desktop (デスクトップおよびアプリ仮想化サービス) へのオンボーディングに関する展開ガイダンスを提供します。 Windows Virtual Desktop は、Windows 10 マルチセッション エクスペリエンスを利用し、Microsoft 365 のセキュリティと管理が統合された Microsoft 365 Apps for Enterprise 向けに最適化されています。</p>
 <p>次のリモート ガイダンスを提供します。</p>
 <ul>
-<li>複数セッションWindows仮想デスクトップ環境Windows 10 Enterprise展開し、Microsoft 365 AppsをEnterprise使用します。
+<li>以下を使用して Windows 10 Enterprise マルチセッションと Microsoft 365 Apps for Enterprise を展開します。
 <ul>
 <li>Azure Marketplace イメージ。</li>
 <li>共有イメージ。</li>
-<li>Office展開Toolkit (ODT)。</li>
+<li>Office展開Toolkit (ODT)</li>
 </ul></li>
-<li>FSLogix の構成:
+<li>ネイティブ Windows 仮想デスクトップでの MICROSOFT 365 Apps for FSLogix の構成。 FSLogix の場合:
 <ul>
-<li>プロファイル コンテナーを使用した FSLogix エージェントの展開。</li>
-<li>FSLogix エージェントをコンテナーでOfficeします。</li>
-<li>コンテンツの除外を使用して FSLogix フォルダーを構成する。</li>
+<li>エージェントの展開。</li>
+<li>プロファイルコンテナーとカスタム コンテナー Office構成します。</li>
+<li>Microsoft 365 Apps のコンテンツ除外とフォルダー リダイレクトの構成。</li>
 </ul></li>
-<li>展開Microsoft Edge。</li>
-<li>展開Microsoft Teams。</li>
-<li>仮想デスクトップ クライアントWindows接続します。</li>
+<li>Microsoft Edge の展開。</li>
+<li>最適化を使用した Microsoft Teams の展開。</li>
 </ul>
 
 <strong>以下はスコープ外です</strong>
 <ul>
-<li>Project仮想デスクトップ展開のWindows管理。</li>
+<li>お客様の Windows Virtual Desktop インフラストラクチャ展開のプロジェクト管理。</li>
 <li>サード パーティ製アプリの仮想化と展開。</li>
-<li>カスタム イメージ。</li>
+<li>Windows Virtual Desktop 用のカスタム イメージの作成。</li>
 <li>VMware と Citrix が関係する移行とシナリオ。</li>
 <li>Linux のシナリオ。</li>
 <li>ユーザー プロファイルの変換または移行。</li>
+<li>Windows 仮想デスクトップ用の Microsoft Endpoint Configuration Manager および Microsoft Endpoint Manager 構成 (パッチ適用と管理を含む)。 </li>
+<li>Microsoft 365 Defender with Windows 10 multi-session.</li>
 </ul>
 これらのサービス <a href="https://go.microsoft.com/fwlink/?linkid=2080150">のサポートについては、Microsoft パートナー</a> にお問い合わせください。</td>
 <td>次の情報が既に必要です。
 <ul>
-<li><a href="/azure/virtual-desktop/overview#requirements">Windows仮想デスクトップ のライセンス要件</a>。</li>
+<li><a href="/azure/virtual-desktop/overview#requirements">Windows Virtual Desktop のライセンス要件</a>。</li>
+<li> <a href="/azure/virtual-desktop/overview">Windows Virtual Deskstop をサポートするために必要なインフラストラクチャ</a>。 </li>
+<ul>
+<li><a href="/azure/virtual-desktop/store-fslogix-profile"> Windows Virtual Deskstop の FSLogix プロファイル コンテナーの記憶域</a>。 </li>
+</ul>
 <li>Azure ネットワーク:
 <ul>
 <li>仮想ネットワーク (VNET) の作成とサブネット化。</li>
 <li>ファイアウォールとネットワーク セキュリティ グループ。</li>
 <li>VPN と ExpressRoute。</li>
 <li>オンプレミスから Azure へのルーティング。</li>
-<li>仮想デスクトップへの接続を許可するWindowsルール。
+<li>Windows 仮想デスクトップへの接続を許可するファイアウォール ルール。
 </ul>
-詳細については、「サポートされる <a href="//azure/virtual-desktop/overview#supported-remote-desktop-clients">リモート デスクトップ クライアント」を参照してください</a>。
+詳細については、「サポートされる <a href="/azure/virtual-desktop/overview#supported-remote-desktop-clients">リモート デスクトップ クライアント」を参照してください</a>。
 </ul>
 <ul><li>Azure AD一般的なセットアップ:
 <ul>
 <li>ID 戦略 <i>(次の 3 つのオプションの 1 つのみを使用できます)。</i>
 <ul>
-<li>Azure の Active Directory AD Connectを使用します。</li>
-<li>Azure を使用した Active Directory AD Connect VPN または ExpressRoute を使用してオンプレミスで実行できます。</li>
+<li>Azure を使用した Active Directory AD Azure で接続します。</li>
+<li>Azure を使用した Active Directory AD VPN または ExpressRoute を使用してオンプレミスに接続します。</li>
 <li>Active Directory ドメイン サービス (DS AD)。</li>
 </ul></li>
 </ul></li>
@@ -1226,12 +1286,12 @@ FastTrack 特典を使用してデータを移行する方法については、�
 <tbody>
 <tr class="even">
 <td><strong>App Assure</strong></td>
-<td>  App Assure は、アプリの互換性と互換性に関する問題Windows 10解決Microsoft 365 Appsサービスです。 App Assure サービスを要求すると、有効なアプリの問題に対して、対象となるサブスクリプションを使用して追加費用を支払う必要はありません。 また、仮想 Windowsデスクトップと Microsoft Edge を展開する際に互換性の問題に直面しているお客様にもガイダンスを提供し、互換性の問題を解決するためにあらゆる合理的な努力を行います。 Microsoft では、次の Microsoft 製品に展開されているアプリの修復支援を提供しています。
+<td>  App Assure は、Windows 10 と Microsoft 365 Apps アプリの互換性に関する問題に対処するために設計されたサービスです。 App Assure サービスを要求すると、有効なアプリの問題に対して、対象となるサブスクリプションを使用して追加費用を支払う必要はありません。 また、Windows Virtual Desktop と Microsoft Edge を展開する際に互換性の問題に直面しているお客様に対してガイダンスを提供し、互換性の問題を解決するためにあらゆる妥当な努力をします。 Microsoft では、次の Microsoft 製品に展開されているアプリの修復支援を提供しています。
 <ul>
-<li>  <strong>Windows 10</strong> (ARM64 デバイスを含む)</li>
+<li>  <strong>Windows 10 </strong> (ARM64 デバイスを含む)</li>
 <li> <strong>Microsoft 365 Apps</strong>  </li>
-<li>  <strong>Microsoft Edge -</strong>展開のガイダンスについては、「<a href="/DeployEdge/microsoft-edge-channels">チャネルの概要」をMicrosoft Edgeしてください</a>。  </li>
-<li>  <strong>Windows仮想デスクトップ</strong> -詳細については、「仮想デスクトップとは<a href="/azure/virtual-desktop/overview">Windows」</a>および「Windows 10 Enterprise <a href="/azure/virtual-desktop/windows-10-multisession-faq">FAQ」を参照してください</a>。  </li>
+<li>  <strong>Microsoft Edge -</strong> 展開のガイダンスについては <a href="/DeployEdge/microsoft-edge-channels">、「Microsoft Edge チャネルの概要」を参照してください</a>。  </li>
+<li>  <strong>Windows 仮想デスクトップ</strong> - 詳細については <a href="/azure/virtual-desktop/overview">、「Windows Virtual Desktop とは」</a> および <a href="/azure/virtual-desktop/windows-10-multisession-faq">「Windows 10 Enterprise マルチセッション FAQ」を参照してください</a>。  </li>
 </ul>
 
 <strong>以下はスコープ外です </strong>  
@@ -1252,26 +1312,26 @@ FastTrack 特典を使用してデータを移行する方法については、�
   これらのサービス <a href="https://go.microsoft.com/fwlink/?linkid=2080150">のサポートについては、Microsoft パートナー</a> にお問い合わせください。  </td>
 
 </td>
-<td><strong>Windows 10とMicrosoft 365 Apps</strong>
+<td><strong>Windows 10 および Microsoft 365 アプリ</strong>
 <ul>
 <li>  
   Windows 7、Windows 8.1、Office 2010、Office 2013 で動作するアプリは、Windows 10 および Microsoft 365 アプリでも動作します。  
   </li>
 </ul>
-<strong>Windows 10のARM</strong>
+<strong>Windows 10 on ARM</strong>
 <ul>
 <li>  
-Windows 7、Office 2010 以降のバージョンで動作したアプリは、ARM64 デバイスの Windows 10 および Microsoft 365 Appsでも動作します。 
+Windows 7、Office 2010 以降のバージョンで動作したアプリは、ARM64 デバイスの Windows 10 および Microsoft 365 Apps でも動作します。 
   </li>
 </ul>
   <strong>注:</strong> 
 <ul>
-<li> x64 (64 ビット) エミュレーションは、インサイダー プログラムに参加しているお客様<a href="https://insider.windows.com/">Windowsプレビューで使用できます</a>。  </li>
+<li> x64 (64 ビット) エミュレーションは、Windows Insider Program に参加しているお客様に <a href="https://insider.windows.com/">プレビューで使用できます</a>。  </li>
 <li>  
- Windows 10 バージョン 2004 以降Windows Insider 以外のお客様の場合、ARM64 Photoshop は OpenCL および OpenGL 互換パックを使用して<a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">サポートされます</a>。 
+ Windows 10 バージョン 2004 以降の Windows Insider 以外のお客様の場合、ARM64 Photoshop は OpenCL および OpenGL 互換パックを使用 <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">してサポートされています</a>。 
   </li>
 <li>  
-  Insider Program Windowsのお客様は、追加のアプリで使用するために、Insider バージョンの OpenCL および OpenGL 互換パックをダウンロードできます。    
+  Windows Insider Program のお客様は、追加のアプリで使用するために、Insider バージョンの OpenCL および OpenGL 互換パックをダウンロードできます。    
   </li>
 </ul>
 <strong>Microsoft Edge</strong>
@@ -1280,22 +1340,22 @@ Windows 7、Office 2010 以降のバージョンで動作したアプリは、AR
   Web アプリまたはサイトが Internet Explorer 11、サポートされているバージョンの Google Chrome、または任意のバージョンの Microsoft Edge で動作する場合は、Microsoft Edge でも動作します。  
   </li>
 <li>  
-  Web は常に進化していますので、サイトの互換性に影響を与える既知の変更の公開リストを確認<a href="/microsoft-edge/web-platform/site-impacting-changes">Microsoft Edge。</a>  
+  Web は常に進化していますので、Microsoft Edge の既知のサイト互換性に影響を与える変更の公開リストを <a href="/microsoft-edge/web-platform/site-impacting-changes">必ず確認してください</a>。  
   </li>
 </ul>
-  <strong>Windows仮想デスクトップ</strong>  
+  <strong>Windows 仮想デスクトップ </strong>  
 <ul>
 <li>  
   Windows Server リモート デスクトップ セッション ホスト (RDSH) で実行される仮想アプリは、Windows Virtual Desktop の一部として Windows 10 Enterprise マルチセッションでも実行されます。  
   </li>
 <li>  
-  Windows 7 または Windows 10 仮想デスクトップ インフラストラクチャ (VDI) 環境で実行されているアプリは、Windows 7 Enterprise および Windows 10 Enterprise で Windows 仮想デスクトップの一部として実行されます。  
+  Windows 7 または Windows 10 仮想デスクトップ インフラストラクチャ (VDI) 環境で実行されているアプリは、Windows 仮想デスクトップの一部として Windows 7 Enterprise および Windows 10 Enterprise でも実行されます。  
   </li>
 <li>  
   Windows 7 または Windows 10 クライアント デバイスで実行されているアプリは、Windows Virtual Desktop の一部として Windows 7 Enterprise および Windows 10 Enterprise でも実行されます。  
   </li>
 </ul>
-  <strong>注:</strong> Windows 10 Enterpriseの互換性の除外と制限は次のとおりです。
+  <strong>注:</strong> Windows 10 Enterprise のマルチセッション互換性の除外と制限は次のとおりです。
 <ul>
 <li>  
   ハードウェアのリダイレクトの制限。  
@@ -1318,7 +1378,7 @@ Windows 7、Office 2010 以降のバージョンで動作したアプリは、AR
 <thead>
 <tr class="header">
 <th><strong>サービス</strong></th>
-<th><strong>FastTrack ガイダンスの詳細</strong></th>
+<th><strong>FastTrackガイダンスの詳細</strong></th>
 <th><strong>ソース環境の期待</strong></th>
 </tr>
 </thead>
@@ -1329,8 +1389,8 @@ Windows 7、Office 2010 以降のバージョンで動作したアプリは、AR
 リモート展開と導入に関するガイダンスと互換性に関するサポートは、次の場合に提供されます。 <ul> <li>(Microsoft Edge Intune Windows 10) Microsoft エンドポイント マネージャーにMicrosoft Endpoint Configuration Manager展開します。  </li>
 <li>  構成Microsoft Edge (グループ ポリシーまたは Intune アプリ構成とアプリ ポリシーを使用)。  </li>
 <li>  このモードで使用する必要がある可能性があるサイトの一覧Internet Explorerします。  </li>
-<li>  既存のInternet Explorerリストを使用してEnterpriseモードを有効にします。 (詳細については、「Engaging <a href="/fasttrack/process-and-expectations#engaging-fasttrack">FastTrack」を参照してください</a>。 また、Internet Explorer または Google Chrome で動作する Web アプリまたはサイトを使用し、互換性の問題が発生した場合は、追加費用を必要としない問題を解決するためのガイダンスを提供します。 App Assure の互換性サポートを要求するには <a href="https://fasttrack.microsoft.com/portal#/signin">、FastTrack</a> ポータルにサインインしてエンゲージメントを開始します。  </li>
-<li> Microsoft Search ブックマークのエッジ導入と構成ガイダンスの計画ガイダンス。</li>
+<li>  既存のInternet Explorerリストを使用してEnterpriseモードを有効にします。 (詳細については、「Engaging FastTrack」<a href="/fasttrack/process-and-expectations#engaging-fasttrack">を参照してください</a>。 また、Internet Explorer または Google Chrome で動作する Web アプリまたはサイトを使用し、互換性の問題が発生した場合は、追加費用を必要としない問題を解決するためのガイダンスを提供します。 App Assure の互換性のサポートを要求するには、FastTrack<a href="https://fasttrack.microsoft.com/portal#/signin">ポータル</a>にサインインしてエンゲージメントを開始します。  </li>
+<li> ブックマークのエッジ導入と構成のガイダンスを計画Microsoft Searchします。</li>
 </ul>
 
 <strong>以下はスコープ外です </strong>  

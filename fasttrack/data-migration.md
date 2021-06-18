@@ -3,19 +3,19 @@ title: データ移行
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack は、ソース環境のメールとファイル データを Office 365 (Exchange Online、SharePoint Online、および OneDrive for Business) に移行するのに役立ちます。 提供するサポートの種類は、Office 365 ライセンスの数によって異なります。
-ms.openlocfilehash: 4fc2f5c1bf74de40109e7022ba7c333065f74d24
-ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
+ms.openlocfilehash: 7b9e48d802e0c33f72165f77b23680915c9c61eb
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626674"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994938"
 ---
 # <a name="data-migration"></a>データ移行
 
@@ -160,7 +160,7 @@ FastTrack を使用してメールを Exchange Online に移行することを�
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>移行に関する FastTrack Exchange Online責任
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>FastTrack移行のExchange Online責任
 
 FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
 
@@ -363,7 +363,7 @@ FastTrack を使用してファイルを SharePoint Online に移行すること
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>FastTrack のオンライン移行SharePoint責任
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>FastTrack移行のSharePoint責任
 
 FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください
 
@@ -555,7 +555,7 @@ FastTrack を使用してファイルを OneDrive for Business に移行する�
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>FastTrack の移行に対するOneDrive for Business責任
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>FastTrack移行に関するOneDrive for Business責任
 
 FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
 
@@ -569,7 +569,7 @@ FastTrack スペシャリストは、移行プロジェクト中に標準的な�
 
 ## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>グループとMicrosoft TeamsグループMicrosoft 365移行
 
-FastTrack を使用してファイルを Microsoft Teams グループMicrosoft 365移行する場合は、移行ガイダンスとデータ移行サービスを提供します。 移行を計画し、ソース環境と Teams グループと Microsoft 365 グループを構成し、データ移行サービスを活用してファイルを移行するのに役立つガイダンスを提供します。 移行イベントを作成してスケジュールします。 お客様のスケジュールに従って移行イベントを開始し、その進捗状況を監視し、状態レポートを提供します。 移行イベントが完了すると、ソース環境の適切にスケジュールされた適格なソースからのファイルが Teams および Microsoft 365 グループに移行されたと予想できます。 Teamsおよび Microsoft 365グループは、これらの移行先の種類にデータを移行する前に、お客様が事前に準備する必要があります。 TeamsグループMicrosoft 365グループは、ファイルの保存先の場所に対するアクセス許可に影響します。 TeamsグループMicrosoft 365グループは、コラボレーションを可能にするために構築されています。 このTeamsまたはMicrosoft 365グループは、それらの宛先に移行するときに、それらのファイルにアクセスできるユーザーを決定します。 FastTrack は、移行中にエンド ユーザーまたはグループをTeamsグループMicrosoft 365アクセス許可に追加しない。
+ファイルを FastTrackグループMicrosoft Teamsおよび Microsoft 365に移行する場合は、移行ガイダンスとデータ移行サービスを提供します。 移行を計画し、ソース環境と Teams グループと Microsoft 365 グループを構成し、データ移行サービスを活用してファイルを移行するのに役立つガイダンスを提供します。 移行イベントを作成してスケジュールします。 お客様のスケジュールに従って移行イベントを開始し、その進捗状況を監視し、状態レポートを提供します。 移行イベントが完了すると、ソース環境の適切にスケジュールされた適格なソースからのファイルが Teams および Microsoft 365 グループに移行されたと予想できます。 Teamsおよび Microsoft 365グループは、これらの移行先の種類にデータを移行する前に、お客様が事前に準備する必要があります。 TeamsグループMicrosoft 365グループは、ファイルの保存先の場所に対するアクセス許可に影響します。 TeamsグループMicrosoft 365グループは、コラボレーションを可能にするために構築されています。 このTeamsまたはMicrosoft 365グループは、それらの宛先に移行するときに、それらのファイルにアクセスできるユーザーを決定します。 FastTrack、移行中にエンド ユーザーまたはグループを任意のチャネルTeamsグループMicrosoft 365追加しない。
 
 ### <a name="considerations"></a>考慮事項
 
@@ -756,7 +756,7 @@ FastTrack を使用してファイルを Microsoft Teams グループMicrosoft 3
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>FastTrack のグループの移行Microsoft TeamsおよびMicrosoft 365の責任
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>FastTrackグループの移行Microsoft TeamsおよびMicrosoft 365の責任
 
 FastTrack スペシャリストは、移行プロジェクト中に標準的な活動を行います。 詳細については、「[プロセスと期待](process-and-expectations.md)」のデータ移行責任に関する情報を参照してください。
 
@@ -768,4 +768,4 @@ FastTrack スペシャリストは、移行プロジェクト中に標準的な�
 - 移行イベントMicrosoft Teams対象Microsoft 365、すべてのチャネルとグループをプロビジョニングします。
 
 > [!NOTE]
->FastTrack は、チャネルまたはグループのMicrosoft Teams準備Microsoft 365行わない。 FastTrack は、エンド ユーザーまたはグループをチャネルまたはグループMicrosoft Teams追加Microsoft 365行わない。 これらの移行先にデータを移行する前に、エンド ユーザーまたはグループをすべての Microsoft Teams チャネルと Microsoft 365 グループに追加して、それらのエンド ユーザーが新しく移行されたドキュメントにアクセスできる必要があります。
+>FastTrackは、チャネルまたはグループMicrosoft TeamsプロビジョニングMicrosoft 365行わない。 FastTrackチャネルまたはグループにエンド ユーザーまたはグループMicrosoft Teams追加Microsoft 365します。 これらの移行先にデータを移行する前に、エンド ユーザーまたはグループをすべての Microsoft Teams チャネルと Microsoft 365 グループに追加して、それらのエンド ユーザーが新しく移行されたドキュメントにアクセスできる必要があります。
