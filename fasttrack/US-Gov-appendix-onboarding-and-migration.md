@@ -1,5 +1,5 @@
 ---
-title: 米国政府機関向けオンボーディングOffice移行フェーズ
+title: 米国政府機関向けオンボーディングOffice 365移行フェーズ
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
@@ -9,21 +9,21 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: Office 365 米国Office 365 オンボーディングには、開始、評価、修復、および有効化の 4 つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
-ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+description: Office 365のオンボーディングOffice 365、開始、評価、修復、および有効化の 4 つの主要なフェーズがあります。 次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
+ms.openlocfilehash: 99bc16e1939bbc13a06aa7a93cd735918c652865
+ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994962"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255530"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>米国政府機関向けオンボーディングOffice移行フェーズ
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>米国政府機関向けオンボーディングOffice 365移行フェーズ
 
 Office 365 オンボーディングには、開始、評価、修復、有効化の 4 つの主なフェーズがあります。次の図に示されているように、これらのフェーズの後にオプションでデータ移行フェーズを続けることもできます。
   
 ![オンボーディング特典のフェーズ](media/O365-Onboarding-Phases.png)
   
-各フェーズの詳細なタスクについては [、「FastTrack Responsibilities for Office 365](US-Gov-appendix-fasttrack-responsibilities.md) US Government」および「your responsibilities for Office [365 US Government」](US-Gov-appendix-your-responsibilities.md)を参照してください。
+各フェーズの詳細なタスクについては[、「FastTrack Responsibilities for us Government」](US-Gov-appendix-fasttrack-responsibilities.md)および「米国政府機関Office 365責任」を参照Office 365[参照してください](US-Gov-appendix-your-responsibilities.md)。
   
 ## <a name="initiate-phase"></a>開始フェーズ
 
@@ -92,7 +92,7 @@ FastTrack のスペシャリストはお客様と作業し、ソース環境と�
   
 ## <a name="exchange-online"></a>Exchange Online
 
-Exchange Online の場合、組織がメールをすぐに使用できるようにするプロセスを案内します。正確な手順は、お客様のソース環境とメールの移行プランによって異なりますが、次の作業のガイダンス提供が含まれます。
+このExchange Online、組織が電子メールを使用する準備を整えるプロセスをリモートでガイドします。 正確な手順は、お客様のソース環境とメールの移行プランによって異なりますが、次の作業のガイダンス提供が含まれます。
   
 - Office 365 で検証される、メールが有効なすべてのドメインの Exchange Online Protection (EOP) 機能の設定。   
     > [!NOTE]
@@ -109,7 +109,7 @@ Exchange Online の場合、組織がメールをすぐに使用できるよう�
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>Sharepoint Online と OneDrive for Business
 
-SharePoint Online と OneDrive for Business では、次の作業のガイダンスを提供します。 
+オンラインSharePointおよびOneDrive for Business、以下のリモート ガイダンスを提供します。 
 - DNS の設定。   
 - ファイアウォール ポートの構成。   
 - ユーザーとライセンスのプロビジョニング。   
@@ -127,13 +127,13 @@ OneDrive for Business の場合は、現在 SharePoint を使っているかど�
   
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
-Skype for Business Online では、次の作業のガイダンスを提供します。 
+オンラインSkype for Business、次のリモート ガイダンスを提供します。 
 - ファイアウォール ポートの構成。    
 - DNS の設定。    
 - ルーム システム デバイスのアカウントの作成。    
 - サポートされる Skype for Business Online クライアントの展開。   
 - オンプレミスの Lync 2010、Lync 2013、または Skype for Business 2015 サーバー環境と Skype for Business Online テナントの間で分割ドメイン サーバー構成を確立する (該当する場合)。
-- 通話プラン、Skype 会議ブロードキャスト、電話システムと通話プランを有効にする (利用可能な市場では、GCC High プランまたは DoD プランでは利用できません)。 
+- 通話プラン、会議Skype、電話システム通話プランを有効にする (利用可能な市場では、GCC高プランまたは DoD プランでは使用できません)。 
     
 ![有効化フェーズ中の Lync オンボーディング ステップ_1](media/O365-Onboarding-Enable-Lync.png)
   
@@ -142,20 +142,48 @@ Skype for Business Online では、次の作業のガイダンスを提供しま
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> GCC High プランまたは DoD プランでは、次の機能は使用できません。
+> FastTrack は、各環境の機能の可用性に基づいてスコープを支援します。 各環境で現在利用可能な機能の一覧については、「機能の可用性」 <a href="/office365/servicedescriptions/teams-service-description#feature-availability">を参照してください</a>。
 
-Microsoft Teams では、次の作業のガイダンスを提供します。 
-- 最小要件の確認。   
+このMicrosoft Teams、以下のリモート ガイダンスを提供します。 
+- Exchange Online、SharePoint Online、Office 365 グループ、Azure Active Directory (Azure AD) の最小要件を確認Teams。
 - ファイアウォール ポートの構成。   
 - DNS の設定。  
 - Microsoft Teams が Office 365 テナントで有効であることの確認。    
 - ユーザーのライセンスの有効化と無効化。
+- ネットワーク評価のTeams:
+    - ポートとエンドポイントの確認。
+    - 接続品質の確認。
+    - 帯域幅の推定値。
+    - アプリ ポリシー Teams構成する (Teams Web アプリ、Teamsデスクトップ アプリ、iOS Teams Android アプリの場合)。
+ 
+<br> 該当する場合は、以下のガイダンスを提供します。 </br>
+- Microsoft Teamsルーム デバイス:
+    - <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams デバイス カタログ</a>に一覧表示されている、サポート対象のテレフォニー デバイスと会議室デバイスに必要なオンライン アカウントの作成。
+    - 認定デバイスのサービス側構成をリモートMicrosoft Teams ミーティングします。
+- 電話会議を有効にする:
+    - 会議ブリッジの既定の設定のための組織のセットアップ。
+    - ライセンスを持つユーザーへの会議ブリッジの割り当て。
+- 電話システム:
+    - Cloud Voice の既定の設定のための組織のセットアップ。
+    - 通話プランのガイダンス (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">利用可能な市場</a>):  
+        - ライセンスを持つユーザーへの番号の割り当て。
+        - ユーザー インターフェイス (UI) を通じた 999 件までの電話番号の移植ガイダンス。
+        - 999 件を超える電話番号の移植サービス リクエスト (SR) サポート。
+        - 直接ルーティングのガイダンス:
+            - パートナーホスト型シナリオのダイレクト ルーティング設計、または最大 10 サイトの顧客展開シナリオに関する組織のセットアップ ガイダンス。
+            - セッション ボーダー コントローラー (SBC) の構成レビュー。
+            - ダイヤル プランの構成に関するリモート アシスタンス。
+            - 音声ルートの構成。
+            - メディア バイパスとローカル メディアの最適化。
+- Teams ライブ イベントの有効化。
+- 組織のセットアップと Microsoft Stream への統合。
+- 移行をSkype for BusinessするTeamsガイダンス。 
     
 ![FastTrack Microsoft Teams の図 (有効化フェーズ)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-Power BI では、次の作業のガイダンスを提供します。  
+このPower BI、以下のリモート ガイダンスを提供します。  
 - Power BI ライセンスの割り当て。    
 - Power BI Desktop アプリの展開。   
 ## <a name="project-online"></a>Project Online
@@ -170,20 +198,20 @@ Project Online では、次の作業のガイダンスを提供します。
   
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
-Yammer では、Yammer Enterprise サービスを有効にするためのガイダンスを提供します。
+このYammer、サービスを有効にするためのリモート ガイダンスをYammer Enterpriseします。
 
 > [!NOTE]
-> Yammer Enterprise は Office 365 US Government のコンポーネントではないが、GCC の Office 365 のライセンスを持つ各ユーザーのスタンドアロン オファーとして無料で取得できます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer GCC High プランまたは DoD プランでは使用できません。 
+> Yammer Enterpriseは Office 365 米国政府機関のコンポーネントではないが、GCC で Office 365 ライセンスを受け取った各ユーザーのスタンドアロン オファーとして無料でGCC。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer高プランまたは DoD プランではGCC使用できません。 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 アプリ
 
-Microsoft 365 アプリに関しては、次に示すガイダンスを提供します。 
+このMicrosoft 365 Apps、以下のリモート ガイダンスを提供します。 
 - 展開の問題への対応。    
 - [Microsoft 365 管理センター](https://go.microsoft.com/fwlink/?linkid=2032704)と Windows PowerShell を使用したエンドユーザー ライセンスの割り当て。    
 - クイック実行を使用した Office 365 ポータルからの Microsoft 365 アプリのインストール。    
 - iOS または Android デバイスへの Office モバイル アプリ (Outlook Mobile、Word Mobile、Excel Mobile、PowerPoint Mobile など) のインストール。   
 - Office 365 展開ツールを使用した更新設定の構成。    
-- microsoft 365 Apps 用の単一のオンサイト配布サーバーをセットアップします。configuration.xml ファイルの作成に関するサポートを含め、Office 365 展開ツールで使用できます。    
+- Microsoft 365 Apps 展開ツールで使用する configuration.xml ファイルの作成の支援を含む、Office 365 用の単一のオンサイト配布サーバーをセットアップします。    
 - Microsoft Endpoint Configuration Manager パッケージの作成サポートを含む、Microsoft Endpoint Configuration Manager を使用した展開。
     
 ![Office ProPlus オンボーディング ステップ](media/o365-onboarding-enable-m365-apps-2.png)
